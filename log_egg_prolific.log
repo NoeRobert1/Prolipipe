@@ -9,3 +9,59 @@ mv: ‘prolific/toy_example/genomes/St_thermophilus_CBC-S77_S/St_thermophilus_CB
 mv: cannot move ‘prolific/toy_example/genomes/St_thermophilus_CBC-S77_S/’ to a subdirectory of itself, ‘prolific/toy_example/genomes/St_thermophilus_CBC-S77_S/St_thermophilus_CBC-S77_S’
 mkdir: cannot create directory ‘/scratch/norobert/eggnog’: File exists
 mkdir: cannot create directory ‘/scratch/norobert/eggnog/Lco_lactis_1064-C11_S’: File exists
+[1;32mFunctional annotation of hits...[0m
+0 1.9073486328125e-06 0.00 q/s (% mem usage: 3.00, % mem avail: 96.95)
+[1;34mTime to load the DB into memory: 181.10030245780945[0m
+500 183.64437651634216 2.72 q/s (% mem usage: 69.30, % mem avail: 30.66)
+1000 185.81058549880981 5.38 q/s (% mem usage: 69.30, % mem avail: 30.65)
+1500 187.9884114265442 7.98 q/s (% mem usage: 69.30, % mem avail: 30.65)
+2000 190.3648521900177 10.51 q/s (% mem usage: 69.30, % mem avail: 30.66)
+2191 194.88708806037903 11.24 q/s (% mem usage: 69.10, % mem avail: 30.86)
+#  emapper-2.1.9-06ed47f
+# emapper.py  -i prolific/toy_example/genomes/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.fasta -o Lco_lactis_1064-C11_S --cpu 40 --itype genome --data_dir /db/eggnog/5.0.2/ --output_dir /scratch/norobert/eggnog/Lco_lactis_1064-C11_S/ --dbmem --genepred prodigal --override
+[1;33m  /local/miniconda3/envs/eggnog-mapper-2.1.9/bin/prodigal -i /scratch/norobert/prolific_project/prolific/toy_example/genomes/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.fasta -p single -o /scratch/norobert/prolific_project/emappertmp_prod_7akcmm2s/output.gff -f gff -a /scratch/norobert/prolific_project/emappertmp_prod_7akcmm2s/output.faa -d /scratch/norobert/prolific_project/emappertmp_prod_7akcmm2s/output.fna -s /scratch/norobert/prolific_project/emappertmp_prod_7akcmm2s/output.orfs[0m
+[1;33m  /local/miniconda3/envs/eggnog-mapper-2.1.9/bin/diamond blastp -d /db/eggnog/5.0.2/eggnog_proteins.dmnd -q /scratch/norobert/prolific_project/emappertmp_prod_7akcmm2s/output.faa --threads 40 -o /scratch/norobert/eggnog/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.emapper.hits --tmpdir /scratch/norobert/prolific_project/emappertmp_dmdn_16kbnzzd --sensitive --iterate -e 0.001 --top 3  --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovhsp scovhsp[0m
+Loading source DB...
+[31mWarning: this can take a few minutes and load up to 45GB to RAM. Using --dbmem is recommended to annotate a large number of sequences.[0m
+[32mDone[0m
+[1;33mResult files:[0m
+   /scratch/norobert/eggnog/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.emapper.genepred.fasta
+   /scratch/norobert/eggnog/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.emapper.genepred.gff
+   /scratch/norobert/eggnog/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.emapper.hits
+   /scratch/norobert/eggnog/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.emapper.seed_orthologs
+   /scratch/norobert/eggnog/Lco_lactis_1064-C11_S/Lco_lactis_1064-C11_S.emapper.annotations
+
+================================================================================
+CITATION:
+If you use this software, please cite:
+
+[1] eggNOG-mapper v2: functional annotation, orthology assignments, and domain 
+      prediction at the metagenomic scale. Carlos P. Cantalapiedra, 
+      Ana Hernandez-Plaza, Ivica Letunic, Peer Bork, Jaime Huerta-Cepas. 2021.
+      Molecular Biology and Evolution, msab293, https://doi.org/10.1093/molbev/msab293
+
+[2] eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated
+      orthology resource based on 5090 organisms and 2502 viruses. Jaime
+      Huerta-Cepas, Damian Szklarczyk, Davide Heller, Ana Hernandez-Plaza,
+      Sofia K Forslund, Helen Cook, Daniel R Mende, Ivica Letunic, Thomas
+      Rattei, Lars J Jensen, Christian von Mering and Peer Bork. Nucleic Acids
+      Research, Volume 47, Issue D1, 8 January 2019, Pages D309-D314,
+      https://doi.org/10.1093/nar/gky1085 
+
+[3] Sensitive protein alignments at tree-of-life scale using DIAMOND.
+       Buchfink B, Reuter K, Drost HG. 2021.
+       Nature Methods 18, 366–368 (2021). https://doi.org/10.1038/s41592-021-01101-x
+
+[4] Prodigal: prokaryotic gene recognition and translation initiation site identification.
+       Hyatt et al. 2010. BMC Bioinformatics 11, 119. https://doi.org/10.1186/1471-2105-11-119.
+
+e.g. Functional annotation was performed using eggNOG-mapper (version emapper-2.1.9-c48f1ee) [1]
+ based on eggNOG orthology data [2]. Sequence searches were performed using [3]. Gene prediction was performed using [4].
+
+================================================================================
+
+Total hits processed: 2191
+Total time: 808 secs
+FINISHED
+Impossible to access/create output directory/file
+mkdir: cannot create directory ‘/scratch/norobert/eggnog/B_breve_689b_C’: File exists
