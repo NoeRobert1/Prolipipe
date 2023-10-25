@@ -1,0 +1,3975 @@
+locus_tag	ftype	gene	EC_number	product
+KFKCNJGC_00001	CDS	dnaA	Chromosomal replication initiator protein DnaA
+KFKCNJGC_00001	gene	dnaA
+KFKCNJGC_00002	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+KFKCNJGC_00002	gene	dnaN
+KFKCNJGC_00003	CDS	recF	DNA replication and repair protein RecF
+KFKCNJGC_00003	gene	recF
+KFKCNJGC_00004	CDS	hypothetical protein
+KFKCNJGC_00004	gene
+KFKCNJGC_00005	CDS	gyrB_1	5.99.1.3	DNA gyrase subunit B
+KFKCNJGC_00005	gene	gyrB_1
+KFKCNJGC_00006	CDS	gyrA_1	5.99.1.3	DNA gyrase subunit A
+KFKCNJGC_00006	gene	gyrA_1
+KFKCNJGC_00007	CDS	hypothetical protein
+KFKCNJGC_00007	gene
+KFKCNJGC_00008	CDS	lacR_1	HTH-type transcriptional regulator LacR
+KFKCNJGC_00008	gene	lacR_1
+KFKCNJGC_00009	CDS	lacS_1	Lactose permease
+KFKCNJGC_00009	gene	lacS_1
+KFKCNJGC_00010	CDS	lacZ_1	3.2.1.23	Beta-galactosidase
+KFKCNJGC_00010	gene	lacZ_1
+KFKCNJGC_00011	CDS	hypothetical protein
+KFKCNJGC_00011	gene
+KFKCNJGC_00012	CDS	hypothetical protein
+KFKCNJGC_00012	gene
+KFKCNJGC_00013	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+KFKCNJGC_00013	gene	gdh
+KFKCNJGC_00014	CDS	hypothetical protein
+KFKCNJGC_00014	gene
+KFKCNJGC_00015	tRNA	tRNA-Ala(tgc)
+KFKCNJGC_00015	gene
+KFKCNJGC_00016	tRNA	tRNA-Ile(gat)
+KFKCNJGC_00016	gene
+KFKCNJGC_00017	CDS	hypothetical protein
+KFKCNJGC_00017	gene
+KFKCNJGC_00018	CDS	hypothetical protein
+KFKCNJGC_00018	gene
+KFKCNJGC_00019	CDS	hypothetical protein
+KFKCNJGC_00019	gene
+KFKCNJGC_00020	CDS	dps	1.16.-.-	DNA protection during starvation protein
+KFKCNJGC_00020	gene	dps
+KFKCNJGC_00021	CDS	corC_1	Magnesium and cobalt efflux protein CorC
+KFKCNJGC_00021	gene	corC_1
+KFKCNJGC_00022	CDS	hypothetical protein
+KFKCNJGC_00022	gene
+KFKCNJGC_00023	CDS	mtcA2	4.2.1.1	Carbonic anhydrase 2
+KFKCNJGC_00023	gene	mtcA2
+KFKCNJGC_00024	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+KFKCNJGC_00024	gene	ahpC
+KFKCNJGC_00025	CDS	trxB_1	1.8.1.9	Thioredoxin reductase
+KFKCNJGC_00025	gene	trxB_1
+KFKCNJGC_00026	CDS	hypothetical protein
+KFKCNJGC_00026	gene
+KFKCNJGC_00027	CDS	hypothetical protein
+KFKCNJGC_00027	gene
+KFKCNJGC_00028	CDS	hypothetical protein
+KFKCNJGC_00028	gene
+KFKCNJGC_00029	CDS	hypothetical protein
+KFKCNJGC_00029	gene
+KFKCNJGC_00030	CDS	wbnH	2.4.1.306	O-antigen biosynthesis glycosyltransferase WbnH
+KFKCNJGC_00030	gene	wbnH
+KFKCNJGC_00031	CDS	hypothetical protein
+KFKCNJGC_00031	gene
+KFKCNJGC_00032	CDS	hypothetical protein
+KFKCNJGC_00032	gene
+KFKCNJGC_00033	CDS	hypothetical protein
+KFKCNJGC_00033	gene
+KFKCNJGC_00034	CDS	hypothetical protein
+KFKCNJGC_00034	gene
+KFKCNJGC_00035	CDS	cph2	Phytochrome-like protein cph2
+KFKCNJGC_00035	gene	cph2
+KFKCNJGC_00036	CDS	hypothetical protein
+KFKCNJGC_00036	gene
+KFKCNJGC_00037	CDS	ppc	4.1.1.31	Phosphoenolpyruvate carboxylase
+KFKCNJGC_00037	gene	ppc
+KFKCNJGC_00038	CDS	yjjP	Inner membrane protein YjjP
+KFKCNJGC_00038	gene	yjjP
+KFKCNJGC_00039	CDS	opuE	Osmoregulated proline transporter OpuE
+KFKCNJGC_00039	gene	opuE
+KFKCNJGC_00040	CDS	hypothetical protein
+KFKCNJGC_00040	gene
+KFKCNJGC_00041	CDS	nfdA	3.5.1.91	N-substituted formamide deformylase
+KFKCNJGC_00041	gene	nfdA
+KFKCNJGC_00042	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+KFKCNJGC_00042	gene	trpS2
+KFKCNJGC_00043	CDS	hypothetical protein
+KFKCNJGC_00043	gene
+KFKCNJGC_00044	CDS	evgA	DNA-binding transcriptional activator EvgA
+KFKCNJGC_00044	gene	evgA
+KFKCNJGC_00045	CDS	hypothetical protein
+KFKCNJGC_00045	gene
+KFKCNJGC_00046	CDS	hypothetical protein
+KFKCNJGC_00046	gene
+KFKCNJGC_00047	CDS	hypothetical protein
+KFKCNJGC_00047	gene
+KFKCNJGC_00048	CDS	malP_1	2.4.1.1	Maltodextrin phosphorylase
+KFKCNJGC_00048	gene	malP_1
+KFKCNJGC_00049	CDS	hypothetical protein
+KFKCNJGC_00049	gene
+KFKCNJGC_00050	CDS	aarA	3.4.21.105	Rhomboid protease AarA
+KFKCNJGC_00050	gene	aarA
+KFKCNJGC_00051	CDS	crgA	Cell division protein CrgA
+KFKCNJGC_00051	gene	crgA
+KFKCNJGC_00052	CDS	hypothetical protein
+KFKCNJGC_00052	gene
+KFKCNJGC_00053	CDS	hypothetical protein
+KFKCNJGC_00053	gene
+KFKCNJGC_00054	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+KFKCNJGC_00054	gene	trpG
+KFKCNJGC_00055	CDS	pknB	2.7.11.1	Serine/threonine-protein kinase PknB
+KFKCNJGC_00055	gene	pknB
+KFKCNJGC_00056	CDS	pknA	2.7.11.1	Serine/threonine-protein kinase PknA
+KFKCNJGC_00056	gene	pknA
+KFKCNJGC_00057	CDS	pbpA	Penicillin-binding protein A
+KFKCNJGC_00057	gene	pbpA
+KFKCNJGC_00058	CDS	rodA	putative FtsW-like protein
+KFKCNJGC_00058	gene	rodA
+KFKCNJGC_00059	CDS	pstP	3.1.3.16	PP2C-family Ser/Thr phosphatase
+KFKCNJGC_00059	gene	pstP
+KFKCNJGC_00060	CDS	fhaB	FHA domain-containing protein FhaB
+KFKCNJGC_00060	gene	fhaB
+KFKCNJGC_00061	CDS	garA_1	Glycogen accumulation regulator GarA
+KFKCNJGC_00061	gene	garA_1
+KFKCNJGC_00062	CDS	dap4	3.4.14.5	Dipeptidyl aminopeptidase 4
+KFKCNJGC_00062	gene	dap4
+KFKCNJGC_00063	CDS	pldB	3.1.1.5	Lysophospholipase L2
+KFKCNJGC_00063	gene	pldB
+KFKCNJGC_00064	CDS	putative Hsp20 family chaperone
+KFKCNJGC_00064	gene
+KFKCNJGC_00065	CDS	hypothetical protein
+KFKCNJGC_00065	gene
+KFKCNJGC_00066	CDS	yddG	Aromatic amino acid exporter YddG
+KFKCNJGC_00066	gene	yddG
+KFKCNJGC_00067	CDS	hypothetical protein
+KFKCNJGC_00067	gene
+KFKCNJGC_00068	CDS	hypothetical protein
+KFKCNJGC_00068	gene
+KFKCNJGC_00069	CDS	lysX	Lysylphosphatidylglycerol biosynthesis bifunctional protein LysX
+KFKCNJGC_00069	gene	lysX
+KFKCNJGC_00070	CDS	msrAB	Peptide methionine sulfoxide reductase MsrA/MsrB
+KFKCNJGC_00070	gene	msrAB
+KFKCNJGC_00071	CDS	hypothetical protein
+KFKCNJGC_00071	gene
+KFKCNJGC_00072	CDS	fic_1	2.7.7.-	Adenosine monophosphate-protein transferase SoFic
+KFKCNJGC_00072	gene	fic_1
+KFKCNJGC_00073	CDS	tagF	2.7.8.12	Teichoic acid poly(glycerol phosphate) polymerase
+KFKCNJGC_00073	gene	tagF
+KFKCNJGC_00074	CDS	radD	3.6.4.12	Putative DNA repair helicase RadD
+KFKCNJGC_00074	gene	radD
+KFKCNJGC_00075	CDS	mutT2	3.6.1.55	Putative 8-oxo-dGTP diphosphatase 2
+KFKCNJGC_00075	gene	mutT2
+KFKCNJGC_00076	CDS	hypothetical protein
+KFKCNJGC_00076	gene
+KFKCNJGC_00077	CDS	hypothetical protein
+KFKCNJGC_00077	gene
+KFKCNJGC_00078	tRNA	tRNA-Leu(cag)
+KFKCNJGC_00078	gene
+KFKCNJGC_00079	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+KFKCNJGC_00079	gene	tgt
+KFKCNJGC_00080	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+KFKCNJGC_00080	gene	degP
+KFKCNJGC_00081	CDS	ctpV	3.6.3.54	putative copper-exporting P-type ATPase V
+KFKCNJGC_00081	gene	ctpV
+KFKCNJGC_00082	CDS	fprA	1.18.1.2	NADPH-ferredoxin reductase FprA
+KFKCNJGC_00082	gene	fprA
+KFKCNJGC_00083	CDS	htpX	3.4.24.-	Protease HtpX 
+KFKCNJGC_00083	gene	htpX
+KFKCNJGC_00084	tRNA	tRNA-Gly(ccc)
+KFKCNJGC_00084	gene
+KFKCNJGC_00085	CDS	yicL	putative inner membrane transporter YicL
+KFKCNJGC_00085	gene	yicL
+KFKCNJGC_00086	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+KFKCNJGC_00086	gene	fba
+KFKCNJGC_00087	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+KFKCNJGC_00087	gene	purA
+KFKCNJGC_00088	CDS	clcA_1	H(+)/Cl(-) exchange transporter ClcA
+KFKCNJGC_00088	gene	clcA_1
+KFKCNJGC_00089	CDS	crcB_1	Putative fluoride ion transporter CrcB
+KFKCNJGC_00089	gene	crcB_1
+KFKCNJGC_00090	CDS	crcB_2	Putative fluoride ion transporter CrcB
+KFKCNJGC_00090	gene	crcB_2
+KFKCNJGC_00091	CDS	degA_1	HTH-type transcriptional regulator DegA
+KFKCNJGC_00091	gene	degA_1
+KFKCNJGC_00092	CDS	hypothetical protein
+KFKCNJGC_00092	gene
+KFKCNJGC_00093	CDS	2.4.1.329	Sucrose 6(F)-phosphate phosphorylase
+KFKCNJGC_00093	gene
+KFKCNJGC_00094	CDS	hypothetical protein
+KFKCNJGC_00094	gene
+KFKCNJGC_00095	CDS	degA_2	HTH-type transcriptional regulator DegA
+KFKCNJGC_00095	gene	degA_2
+KFKCNJGC_00096	CDS	yhjE_1	Inner membrane metabolite transport protein YhjE
+KFKCNJGC_00096	gene	yhjE_1
+KFKCNJGC_00097	CDS	ilvC_1	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+KFKCNJGC_00097	gene	ilvC_1
+KFKCNJGC_00098	CDS	ilvC_2	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+KFKCNJGC_00098	gene	ilvC_2
+KFKCNJGC_00099	CDS	hypothetical protein
+KFKCNJGC_00099	gene
+KFKCNJGC_00100	CDS	hypothetical protein
+KFKCNJGC_00100	gene
+KFKCNJGC_00101	CDS	malL_1	3.2.1.10	Oligo-1,6-glucosidase
+KFKCNJGC_00101	gene	malL_1
+KFKCNJGC_00102	CDS	purR_1	HTH-type transcriptional repressor PurR
+KFKCNJGC_00102	gene	purR_1
+KFKCNJGC_00103	CDS	hypothetical protein
+KFKCNJGC_00103	gene
+KFKCNJGC_00104	CDS	hypothetical protein
+KFKCNJGC_00104	gene
+KFKCNJGC_00105	CDS	hypothetical protein
+KFKCNJGC_00105	gene
+KFKCNJGC_00106	CDS	malQ_1	2.4.1.25	4-alpha-glucanotransferase
+KFKCNJGC_00106	gene	malQ_1
+KFKCNJGC_00107	CDS	treS	3.2.1.1	Trehalose synthase/amylase TreS
+KFKCNJGC_00107	gene	treS
+KFKCNJGC_00108	CDS	malX	Maltose/maltodextrin-binding protein
+KFKCNJGC_00108	gene	malX
+KFKCNJGC_00109	CDS	malF	Maltose transport system permease protein MalF
+KFKCNJGC_00109	gene	malF
+KFKCNJGC_00110	CDS	ycjP	Inner membrane ABC transporter permease protein YcjP
+KFKCNJGC_00110	gene	ycjP
+KFKCNJGC_00111	CDS	hypothetical protein
+KFKCNJGC_00111	gene
+KFKCNJGC_00112	CDS	ccpA_1	Catabolite control protein A
+KFKCNJGC_00112	gene	ccpA_1
+KFKCNJGC_00113	CDS	amyX	3.2.1.41	Pullulanase
+KFKCNJGC_00113	gene	amyX
+KFKCNJGC_00114	CDS	dnaK	Chaperone protein DnaK
+KFKCNJGC_00114	gene	dnaK
+KFKCNJGC_00115	CDS	grpE	Protein GrpE
+KFKCNJGC_00115	gene	grpE
+KFKCNJGC_00116	CDS	cbpA	Curved DNA-binding protein
+KFKCNJGC_00116	gene	cbpA
+KFKCNJGC_00117	CDS	hspR	Putative heat shock protein HspR
+KFKCNJGC_00117	gene	hspR
+KFKCNJGC_00118	CDS	hypothetical protein
+KFKCNJGC_00118	gene
+KFKCNJGC_00119	CDS	hypothetical protein
+KFKCNJGC_00119	gene
+KFKCNJGC_00120	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KFKCNJGC_00120	gene	fabG
+KFKCNJGC_00121	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+KFKCNJGC_00121	gene
+KFKCNJGC_00122	CDS	putative membrane protein
+KFKCNJGC_00122	gene
+KFKCNJGC_00123	CDS	Iron-sulfur cluster carrier protein
+KFKCNJGC_00123	gene
+KFKCNJGC_00124	CDS	Putative conjugal transfer protein
+KFKCNJGC_00124	gene
+KFKCNJGC_00125	CDS	hypothetical protein
+KFKCNJGC_00125	gene
+KFKCNJGC_00126	CDS	hypothetical protein
+KFKCNJGC_00126	gene
+KFKCNJGC_00127	CDS	hypothetical protein
+KFKCNJGC_00127	gene
+KFKCNJGC_00128	CDS	hypothetical protein
+KFKCNJGC_00128	gene
+KFKCNJGC_00129	CDS	hypothetical protein
+KFKCNJGC_00129	gene
+KFKCNJGC_00130	CDS	dagK_1	2.7.1.107	Diacylglycerol kinase
+KFKCNJGC_00130	gene	dagK_1
+KFKCNJGC_00131	CDS	ethR	HTH-type transcriptional regulator EthR
+KFKCNJGC_00131	gene	ethR
+KFKCNJGC_00132	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit gamma/tau
+KFKCNJGC_00132	gene	dnaX_1
+KFKCNJGC_00133	CDS	recR	Recombination protein RecR
+KFKCNJGC_00133	gene	recR
+KFKCNJGC_00134	CDS	hypothetical protein
+KFKCNJGC_00134	gene
+KFKCNJGC_00135	CDS	hypothetical protein
+KFKCNJGC_00135	gene
+KFKCNJGC_00136	CDS	hypothetical protein
+KFKCNJGC_00136	gene
+KFKCNJGC_00137	CDS	ask	2.7.2.4	Aspartokinase
+KFKCNJGC_00137	gene	ask
+KFKCNJGC_00138	CDS	lysC	2.7.2.4	Aspartokinase
+KFKCNJGC_00138	gene	lysC
+KFKCNJGC_00139	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+KFKCNJGC_00139	gene	asd
+KFKCNJGC_00140	CDS	hypothetical protein
+KFKCNJGC_00140	gene
+KFKCNJGC_00141	CDS	hypothetical protein
+KFKCNJGC_00141	gene
+KFKCNJGC_00142	CDS	nagK	2.7.1.59	N-acetyl-D-glucosamine kinase
+KFKCNJGC_00142	gene	nagK
+KFKCNJGC_00143	CDS	nanE	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+KFKCNJGC_00143	gene	nanE
+KFKCNJGC_00144	CDS	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+KFKCNJGC_00144	gene
+KFKCNJGC_00145	CDS	gsiB	Glutathione-binding protein GsiB
+KFKCNJGC_00145	gene	gsiB
+KFKCNJGC_00146	CDS	gsiC_1	Glutathione transport system permease protein GsiC
+KFKCNJGC_00146	gene	gsiC_1
+KFKCNJGC_00147	CDS	oppD_1	Oligopeptide transport ATP-binding protein OppD
+KFKCNJGC_00147	gene	oppD_1
+KFKCNJGC_00148	CDS	oppF_1	Oligopeptide transport ATP-binding protein OppF
+KFKCNJGC_00148	gene	oppF_1
+KFKCNJGC_00149	CDS	yagE_1	4.1.2.-	putative 2-keto-3-deoxy-galactonate aldolase YagE
+KFKCNJGC_00149	gene	yagE_1
+KFKCNJGC_00150	CDS	nagB_1	3.5.99.6	Glucosamine-6-phosphate deaminase
+KFKCNJGC_00150	gene	nagB_1
+KFKCNJGC_00151	CDS	hypothetical protein
+KFKCNJGC_00151	gene
+KFKCNJGC_00152	CDS	nanA	3.2.1.18	Sialidase A
+KFKCNJGC_00152	gene	nanA
+KFKCNJGC_00153	CDS	hypothetical protein
+KFKCNJGC_00153	gene
+KFKCNJGC_00154	CDS	lutR	HTH-type transcriptional regulator LutR
+KFKCNJGC_00154	gene	lutR
+KFKCNJGC_00155	CDS	hypothetical protein
+KFKCNJGC_00155	gene
+KFKCNJGC_00156	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+KFKCNJGC_00156	gene	leuA
+KFKCNJGC_00157	CDS	ponA1	Penicillin-binding protein 1A
+KFKCNJGC_00157	gene	ponA1
+KFKCNJGC_00158	CDS	hypothetical protein
+KFKCNJGC_00158	gene
+KFKCNJGC_00159	CDS	topA	5.99.1.2	DNA topoisomerase 1
+KFKCNJGC_00159	gene	topA
+KFKCNJGC_00160	CDS	tmk	2.7.4.9	Thymidylate kinase
+KFKCNJGC_00160	gene	tmk
+KFKCNJGC_00161	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit gamma/tau
+KFKCNJGC_00161	gene	dnaX_2
+KFKCNJGC_00162	CDS	purR_2	HTH-type transcriptional repressor PurR
+KFKCNJGC_00162	gene	purR_2
+KFKCNJGC_00163	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+KFKCNJGC_00163	gene	ptsH
+KFKCNJGC_00164	CDS	hypothetical protein
+KFKCNJGC_00164	gene
+KFKCNJGC_00165	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+KFKCNJGC_00165	gene	ptsI
+KFKCNJGC_00166	CDS	hypothetical protein
+KFKCNJGC_00166	gene
+KFKCNJGC_00167	CDS	hypothetical protein
+KFKCNJGC_00167	gene
+KFKCNJGC_00168	CDS	hypothetical protein
+KFKCNJGC_00168	gene
+KFKCNJGC_00169	CDS	pepD_1	3.4.-.-	Dipeptidase
+KFKCNJGC_00169	gene	pepD_1
+KFKCNJGC_00170	CDS	fhs	6.3.4.3	Formate--tetrahydrofolate ligase
+KFKCNJGC_00170	gene	fhs
+KFKCNJGC_00171	CDS	hypothetical protein
+KFKCNJGC_00171	gene
+KFKCNJGC_00172	CDS	hypothetical protein
+KFKCNJGC_00172	gene
+KFKCNJGC_00173	CDS	hypothetical protein
+KFKCNJGC_00173	gene
+KFKCNJGC_00174	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KFKCNJGC_00174	gene	gpmA_1
+KFKCNJGC_00175	CDS	hypothetical protein
+KFKCNJGC_00175	gene
+KFKCNJGC_00176	CDS	pgl_1	3.1.1.31	6-phosphogluconolactonase
+KFKCNJGC_00176	gene	pgl_1
+KFKCNJGC_00177	CDS	yhaI	Inner membrane protein YhaI
+KFKCNJGC_00177	gene	yhaI
+KFKCNJGC_00178	CDS	hypothetical protein
+KFKCNJGC_00178	gene
+KFKCNJGC_00179	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+KFKCNJGC_00179	gene	gltX
+KFKCNJGC_00180	tRNA	tRNA-Glu(ctc)
+KFKCNJGC_00180	gene
+KFKCNJGC_00181	tRNA	tRNA-Gln(ctg)
+KFKCNJGC_00181	gene
+KFKCNJGC_00182	CDS	hypothetical protein
+KFKCNJGC_00182	gene
+KFKCNJGC_00183	CDS	hypothetical protein
+KFKCNJGC_00183	gene
+KFKCNJGC_00184	CDS	yybR	putative HTH-type transcriptional regulator YybR
+KFKCNJGC_00184	gene	yybR
+KFKCNJGC_00185	CDS	hypothetical protein
+KFKCNJGC_00185	gene
+KFKCNJGC_00186	CDS	hypothetical protein
+KFKCNJGC_00186	gene
+KFKCNJGC_00187	CDS	hypothetical protein
+KFKCNJGC_00187	gene
+KFKCNJGC_00188	CDS	qacA	Antiseptic resistance protein
+KFKCNJGC_00188	gene	qacA
+KFKCNJGC_00189	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+KFKCNJGC_00189	gene	fabD
+KFKCNJGC_00190	CDS	ppsA	2.3.1.41	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsA
+KFKCNJGC_00190	gene	ppsA
+KFKCNJGC_00191	CDS	hypothetical protein
+KFKCNJGC_00191	gene
+KFKCNJGC_00192	CDS	npt	2.7.8.7	4'-phosphopantetheinyl transferase Npt
+KFKCNJGC_00192	gene	npt
+KFKCNJGC_00193	CDS	hypothetical protein
+KFKCNJGC_00193	gene
+KFKCNJGC_00194	CDS	hypothetical protein
+KFKCNJGC_00194	gene
+KFKCNJGC_00195	CDS	hypothetical protein
+KFKCNJGC_00195	gene
+KFKCNJGC_00196	CDS	hypothetical protein
+KFKCNJGC_00196	gene
+KFKCNJGC_00197	CDS	Insertion element IS6110 uncharacterized 12.0 kDa protein
+KFKCNJGC_00197	gene
+KFKCNJGC_00198	CDS	hypothetical protein
+KFKCNJGC_00198	gene
+KFKCNJGC_00199	CDS	hypothetical protein
+KFKCNJGC_00199	gene
+KFKCNJGC_00200	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+KFKCNJGC_00200	gene	hhaIM
+KFKCNJGC_00201	CDS	hypothetical protein
+KFKCNJGC_00201	gene
+KFKCNJGC_00202	CDS	hypothetical protein
+KFKCNJGC_00202	gene
+KFKCNJGC_00203	CDS	hypothetical protein
+KFKCNJGC_00203	gene
+KFKCNJGC_00204	CDS	Putative prophage phiRv2 integrase
+KFKCNJGC_00204	gene
+KFKCNJGC_00205	tRNA	tRNA-Ser(gga)
+KFKCNJGC_00205	gene
+KFKCNJGC_00206	CDS	efeU	Ferrous iron permease EfeU
+KFKCNJGC_00206	gene	efeU
+KFKCNJGC_00207	CDS	tpd	34 kDa membrane antigen
+KFKCNJGC_00207	gene	tpd
+KFKCNJGC_00208	CDS	hypothetical protein
+KFKCNJGC_00208	gene
+KFKCNJGC_00209	CDS	ytrF_1	ABC transporter permease YtrF
+KFKCNJGC_00209	gene	ytrF_1
+KFKCNJGC_00210	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+KFKCNJGC_00210	gene	macB_1
+KFKCNJGC_00211	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+KFKCNJGC_00211	gene	yknY_1
+KFKCNJGC_00212	CDS	hypothetical protein
+KFKCNJGC_00212	gene
+KFKCNJGC_00213	CDS	bm3R1	HTH-type transcriptional repressor Bm3R1
+KFKCNJGC_00213	gene	bm3R1
+KFKCNJGC_00214	CDS	smc_1	Chromosome partition protein Smc
+KFKCNJGC_00214	gene	smc_1
+KFKCNJGC_00215	CDS	smc_2	Chromosome partition protein Smc
+KFKCNJGC_00215	gene	smc_2
+KFKCNJGC_00216	CDS	hypothetical protein
+KFKCNJGC_00216	gene
+KFKCNJGC_00217	CDS	gndA_1	1.1.1.44	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+KFKCNJGC_00217	gene	gndA_1
+KFKCNJGC_00218	CDS	pgl_2	3.1.1.31	6-phosphogluconolactonase
+KFKCNJGC_00218	gene	pgl_2
+KFKCNJGC_00219	CDS	hypothetical protein
+KFKCNJGC_00219	gene
+KFKCNJGC_00220	CDS	zwf2	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase 2
+KFKCNJGC_00220	gene	zwf2
+KFKCNJGC_00221	CDS	hypothetical protein
+KFKCNJGC_00221	gene
+KFKCNJGC_00222	tRNA	tRNA-Lys(ttt)
+KFKCNJGC_00222	gene
+KFKCNJGC_00223	CDS	pepD_2	3.4.-.-	Dipeptidase
+KFKCNJGC_00223	gene	pepD_2
+KFKCNJGC_00224	CDS	epsH_1	2.4.-.-	Putative glycosyltransferase EpsH
+KFKCNJGC_00224	gene	epsH_1
+KFKCNJGC_00225	CDS	betI	HTH-type transcriptional regulator BetI
+KFKCNJGC_00225	gene	betI
+KFKCNJGC_00226	CDS	ftsY	Signal recognition particle receptor FtsY
+KFKCNJGC_00226	gene	ftsY
+KFKCNJGC_00227	CDS	amt	Ammonia channel
+KFKCNJGC_00227	gene	amt
+KFKCNJGC_00228	CDS	glnB	Nitrogen regulatory protein P-II
+KFKCNJGC_00228	gene	glnB
+KFKCNJGC_00229	CDS	glnD	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+KFKCNJGC_00229	gene	glnD
+KFKCNJGC_00230	CDS	dinF	DNA damage-inducible protein F
+KFKCNJGC_00230	gene	dinF
+KFKCNJGC_00231	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+KFKCNJGC_00231	gene	dnaB
+KFKCNJGC_00232	CDS	murD_1	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+KFKCNJGC_00232	gene	murD_1
+KFKCNJGC_00233	CDS	cobQ	Cobyric acid synthase
+KFKCNJGC_00233	gene	cobQ
+KFKCNJGC_00234	CDS	hypothetical protein
+KFKCNJGC_00234	gene
+KFKCNJGC_00235	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+KFKCNJGC_00235	gene	ubiB
+KFKCNJGC_00236	CDS	hypBA1	3.2.1.185	Non-reducing end beta-L-arabinofuranosidase
+KFKCNJGC_00236	gene	hypBA1
+KFKCNJGC_00237	CDS	hypothetical protein
+KFKCNJGC_00237	gene
+KFKCNJGC_00238	CDS	prs_1	2.7.6.1	Ribose-phosphate pyrophosphokinase
+KFKCNJGC_00238	gene	prs_1
+KFKCNJGC_00239	CDS	rpsF	30S ribosomal protein S6
+KFKCNJGC_00239	gene	rpsF
+KFKCNJGC_00240	CDS	ssb2	Single-stranded DNA-binding protein 2
+KFKCNJGC_00240	gene	ssb2
+KFKCNJGC_00241	CDS	rpsR1	30S ribosomal protein S18 1
+KFKCNJGC_00241	gene	rpsR1
+KFKCNJGC_00242	CDS	rplI	50S ribosomal protein L9
+KFKCNJGC_00242	gene	rplI
+KFKCNJGC_00243	tRNA	tRNA-Lys(ctt)
+KFKCNJGC_00243	gene
+KFKCNJGC_00244	CDS	hypothetical protein
+KFKCNJGC_00244	gene
+KFKCNJGC_00245	CDS	hypothetical protein
+KFKCNJGC_00245	gene
+KFKCNJGC_00246	CDS	hypothetical protein
+KFKCNJGC_00246	gene
+KFKCNJGC_00247	CDS	cysA_1	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+KFKCNJGC_00247	gene	cysA_1
+KFKCNJGC_00248	CDS	narL	putative transcriptional regulatory protein NarL
+KFKCNJGC_00248	gene	narL
+KFKCNJGC_00249	CDS	hypothetical protein
+KFKCNJGC_00249	gene
+KFKCNJGC_00250	CDS	hypothetical protein
+KFKCNJGC_00250	gene
+KFKCNJGC_00251	CDS	rfnT	Riboflavin transporter RfnT
+KFKCNJGC_00251	gene	rfnT
+KFKCNJGC_00252	CDS	hypothetical protein
+KFKCNJGC_00252	gene
+KFKCNJGC_00253	CDS	hypothetical protein
+KFKCNJGC_00253	gene
+KFKCNJGC_00254	CDS	hypothetical protein
+KFKCNJGC_00254	gene
+KFKCNJGC_00255	CDS	gla	Glycerol facilitator-aquaporin gla
+KFKCNJGC_00255	gene	gla
+KFKCNJGC_00256	CDS	copA	3.6.3.54	Copper-exporting P-type ATPase A
+KFKCNJGC_00256	gene	copA
+KFKCNJGC_00257	CDS	ricR	Copper-sensing transcriptional repressor RicR
+KFKCNJGC_00257	gene	ricR
+KFKCNJGC_00258	CDS	smc_3	Chromosome partition protein Smc
+KFKCNJGC_00258	gene	smc_3
+KFKCNJGC_00259	CDS	hypothetical protein
+KFKCNJGC_00259	gene
+KFKCNJGC_00260	CDS	trmL_1	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+KFKCNJGC_00260	gene	trmL_1
+KFKCNJGC_00261	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+KFKCNJGC_00261	gene	yxlF_1
+KFKCNJGC_00262	CDS	hypothetical protein
+KFKCNJGC_00262	gene
+KFKCNJGC_00263	CDS	hypothetical protein
+KFKCNJGC_00263	gene
+KFKCNJGC_00264	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+KFKCNJGC_00264	gene	gatC
+KFKCNJGC_00265	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+KFKCNJGC_00265	gene	gatA
+KFKCNJGC_00266	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+KFKCNJGC_00266	gene	gatB
+KFKCNJGC_00267	CDS	speG	2.3.1.57	Spermidine N(1)-acetyltransferase
+KFKCNJGC_00267	gene	speG
+KFKCNJGC_00268	CDS	hypothetical protein
+KFKCNJGC_00268	gene
+KFKCNJGC_00269	CDS	hypothetical protein
+KFKCNJGC_00269	gene
+KFKCNJGC_00270	CDS	rho	3.6.4.-	Transcription termination factor Rho
+KFKCNJGC_00270	gene	rho
+KFKCNJGC_00271	CDS	hypothetical protein
+KFKCNJGC_00271	gene
+KFKCNJGC_00272	CDS	hypothetical protein
+KFKCNJGC_00272	gene
+KFKCNJGC_00273	CDS	hypothetical protein
+KFKCNJGC_00273	gene
+KFKCNJGC_00274	CDS	soxS_1	Regulatory protein SoxS
+KFKCNJGC_00274	gene	soxS_1
+KFKCNJGC_00275	CDS	araN_1	putative arabinose-binding protein
+KFKCNJGC_00275	gene	araN_1
+KFKCNJGC_00276	CDS	lacF_1	Lactose transport system permease protein LacF
+KFKCNJGC_00276	gene	lacF_1
+KFKCNJGC_00277	CDS	araQ_1	L-arabinose transport system permease protein AraQ
+KFKCNJGC_00277	gene	araQ_1
+KFKCNJGC_00278	CDS	hypothetical protein
+KFKCNJGC_00278	gene
+KFKCNJGC_00279	CDS	hypothetical protein
+KFKCNJGC_00279	gene
+KFKCNJGC_00280	CDS	hypothetical protein
+KFKCNJGC_00280	gene
+KFKCNJGC_00281	CDS	valS	6.1.1.9	Valine--tRNA ligase
+KFKCNJGC_00281	gene	valS
+KFKCNJGC_00282	CDS	appA	Oligopeptide-binding protein AppA
+KFKCNJGC_00282	gene	appA
+KFKCNJGC_00283	CDS	nth	4.2.99.18	Endonuclease III
+KFKCNJGC_00283	gene	nth
+KFKCNJGC_00284	CDS	srrA	Transcriptional regulatory protein SrrA
+KFKCNJGC_00284	gene	srrA
+KFKCNJGC_00285	CDS	hypothetical protein
+KFKCNJGC_00285	gene
+KFKCNJGC_00286	CDS	mntP	putative manganese efflux pump MntP
+KFKCNJGC_00286	gene	mntP
+KFKCNJGC_00287	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+KFKCNJGC_00287	gene	ppa
+KFKCNJGC_00288	CDS	glgE1	2.4.99.16	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 1
+KFKCNJGC_00288	gene	glgE1
+KFKCNJGC_00289	CDS	hypothetical protein
+KFKCNJGC_00289	gene
+KFKCNJGC_00290	CDS	xerH	Tyrosine recombinase XerH
+KFKCNJGC_00290	gene	xerH
+KFKCNJGC_00291	CDS	hypothetical protein
+KFKCNJGC_00291	gene
+KFKCNJGC_00292	CDS	hypothetical protein
+KFKCNJGC_00292	gene
+KFKCNJGC_00293	CDS	hypothetical protein
+KFKCNJGC_00293	gene
+KFKCNJGC_00294	CDS	hypothetical protein
+KFKCNJGC_00294	gene
+KFKCNJGC_00295	CDS	cwhA	3.5.1.28	N-acetylmuramoyl-L-alanine amidase A
+KFKCNJGC_00295	gene	cwhA
+KFKCNJGC_00296	CDS	hypothetical protein
+KFKCNJGC_00296	gene
+KFKCNJGC_00297	CDS	hypothetical protein
+KFKCNJGC_00297	gene
+KFKCNJGC_00298	CDS	hypothetical protein
+KFKCNJGC_00298	gene
+KFKCNJGC_00299	CDS	hypothetical protein
+KFKCNJGC_00299	gene
+KFKCNJGC_00300	CDS	hypothetical protein
+KFKCNJGC_00300	gene
+KFKCNJGC_00301	CDS	hypothetical protein
+KFKCNJGC_00301	gene
+KFKCNJGC_00302	CDS	hypothetical protein
+KFKCNJGC_00302	gene
+KFKCNJGC_00303	CDS	hypothetical protein
+KFKCNJGC_00303	gene
+KFKCNJGC_00304	CDS	hypothetical protein
+KFKCNJGC_00304	gene
+KFKCNJGC_00305	CDS	hypothetical protein
+KFKCNJGC_00305	gene
+KFKCNJGC_00306	CDS	hypothetical protein
+KFKCNJGC_00306	gene
+KFKCNJGC_00307	CDS	hypothetical protein
+KFKCNJGC_00307	gene
+KFKCNJGC_00308	CDS	hypothetical protein
+KFKCNJGC_00308	gene
+KFKCNJGC_00309	CDS	hypothetical protein
+KFKCNJGC_00309	gene
+KFKCNJGC_00310	CDS	hypothetical protein
+KFKCNJGC_00310	gene
+KFKCNJGC_00311	CDS	hypothetical protein
+KFKCNJGC_00311	gene
+KFKCNJGC_00312	CDS	hypothetical protein
+KFKCNJGC_00312	gene
+KFKCNJGC_00313	CDS	hypothetical protein
+KFKCNJGC_00313	gene
+KFKCNJGC_00314	CDS	hypothetical protein
+KFKCNJGC_00314	gene
+KFKCNJGC_00315	CDS	hypothetical protein
+KFKCNJGC_00315	gene
+KFKCNJGC_00316	CDS	hypothetical protein
+KFKCNJGC_00316	gene
+KFKCNJGC_00317	CDS	hypothetical protein
+KFKCNJGC_00317	gene
+KFKCNJGC_00318	tRNA	tRNA-Met(cat)
+KFKCNJGC_00318	gene
+KFKCNJGC_00319	CDS	metA	2.3.1.46	Homoserine O-succinyltransferase
+KFKCNJGC_00319	gene	metA
+KFKCNJGC_00320	CDS	atpB	ATP synthase subunit a
+KFKCNJGC_00320	gene	atpB
+KFKCNJGC_00321	CDS	atpE	ATP synthase subunit c
+KFKCNJGC_00321	gene	atpE
+KFKCNJGC_00322	CDS	atpF	ATP synthase subunit b
+KFKCNJGC_00322	gene	atpF
+KFKCNJGC_00323	CDS	atpFH	ATP synthase subunit b-delta
+KFKCNJGC_00323	gene	atpFH
+KFKCNJGC_00324	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+KFKCNJGC_00324	gene	atpA
+KFKCNJGC_00325	CDS	atpG	ATP synthase gamma chain
+KFKCNJGC_00325	gene	atpG
+KFKCNJGC_00326	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+KFKCNJGC_00326	gene	atpD
+KFKCNJGC_00327	CDS	atpC	ATP synthase epsilon chain
+KFKCNJGC_00327	gene	atpC
+KFKCNJGC_00328	CDS	nucS	3.1.-.-	Endonuclease NucS
+KFKCNJGC_00328	gene	nucS
+KFKCNJGC_00329	CDS	fbp	5.2.1.8	FK506-binding protein
+KFKCNJGC_00329	gene	fbp
+KFKCNJGC_00330	CDS	hypothetical protein
+KFKCNJGC_00330	gene
+KFKCNJGC_00331	CDS	hypothetical protein
+KFKCNJGC_00331	gene
+KFKCNJGC_00332	CDS	hypothetical protein
+KFKCNJGC_00332	gene
+KFKCNJGC_00333	CDS	3.6.1.25	Inorganic triphosphatase
+KFKCNJGC_00333	gene
+KFKCNJGC_00334	tRNA	tRNA-Arg(ccg)
+KFKCNJGC_00334	gene
+KFKCNJGC_00335	CDS	hypothetical protein
+KFKCNJGC_00335	gene
+KFKCNJGC_00336	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+KFKCNJGC_00336	gene	yabJ
+KFKCNJGC_00337	CDS	hypothetical protein
+KFKCNJGC_00337	gene
+KFKCNJGC_00338	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+KFKCNJGC_00338	gene	gpsA
+KFKCNJGC_00339	CDS	ddlA	6.3.2.4	D-alanine--D-alanine ligase A
+KFKCNJGC_00339	gene	ddlA
+KFKCNJGC_00340	CDS	hypothetical protein
+KFKCNJGC_00340	gene
+KFKCNJGC_00341	CDS	hypothetical protein
+KFKCNJGC_00341	gene
+KFKCNJGC_00342	CDS	metP	Methionine import system permease protein MetP
+KFKCNJGC_00342	gene	metP
+KFKCNJGC_00343	CDS	cysA_2	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+KFKCNJGC_00343	gene	cysA_2
+KFKCNJGC_00344	CDS	hypothetical protein
+KFKCNJGC_00344	gene
+KFKCNJGC_00345	CDS	ykuT	putative MscS family protein YkuT
+KFKCNJGC_00345	gene	ykuT
+KFKCNJGC_00346	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+KFKCNJGC_00346	gene	aspA
+KFKCNJGC_00347	CDS	hypothetical protein
+KFKCNJGC_00347	gene
+KFKCNJGC_00348	CDS	hypothetical protein
+KFKCNJGC_00348	gene
+KFKCNJGC_00349	CDS	chuR_1	1.1.99.-	Anaerobic sulfatase-maturating enzyme
+KFKCNJGC_00349	gene	chuR_1
+KFKCNJGC_00350	CDS	ccpA_2	Catabolite control protein A
+KFKCNJGC_00350	gene	ccpA_2
+KFKCNJGC_00351	CDS	betC_1	3.1.6.6	Choline-sulfatase
+KFKCNJGC_00351	gene	betC_1
+KFKCNJGC_00352	CDS	lacE_1	Lactose-binding protein
+KFKCNJGC_00352	gene	lacE_1
+KFKCNJGC_00353	CDS	lacF_2	Lactose transport system permease protein LacF
+KFKCNJGC_00353	gene	lacF_2
+KFKCNJGC_00354	CDS	araQ_2	L-arabinose transport system permease protein AraQ
+KFKCNJGC_00354	gene	araQ_2
+KFKCNJGC_00355	CDS	hypothetical protein
+KFKCNJGC_00355	gene
+KFKCNJGC_00356	CDS	hypothetical protein
+KFKCNJGC_00356	gene
+KFKCNJGC_00357	CDS	hypothetical protein
+KFKCNJGC_00357	gene
+KFKCNJGC_00358	CDS	hypothetical protein
+KFKCNJGC_00358	gene
+KFKCNJGC_00359	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+KFKCNJGC_00359	gene	ogt
+KFKCNJGC_00360	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+KFKCNJGC_00360	gene	acpS
+KFKCNJGC_00361	CDS	ams	2.4.1.4	Amylosucrase
+KFKCNJGC_00361	gene	ams
+KFKCNJGC_00362	CDS	hypothetical protein
+KFKCNJGC_00362	gene
+KFKCNJGC_00363	tRNA	tRNA-Gly(tcc)
+KFKCNJGC_00363	gene
+KFKCNJGC_00364	CDS	hypothetical protein
+KFKCNJGC_00364	gene
+KFKCNJGC_00365	CDS	hypothetical protein
+KFKCNJGC_00365	gene
+KFKCNJGC_00366	CDS	hypothetical protein
+KFKCNJGC_00366	gene
+KFKCNJGC_00367	CDS	hypothetical protein
+KFKCNJGC_00367	gene
+KFKCNJGC_00368	CDS	hypothetical protein
+KFKCNJGC_00368	gene
+KFKCNJGC_00369	CDS	hypothetical protein
+KFKCNJGC_00369	gene
+KFKCNJGC_00370	CDS	rpsO	30S ribosomal protein S15
+KFKCNJGC_00370	gene	rpsO
+KFKCNJGC_00371	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+KFKCNJGC_00371	gene	pnp
+KFKCNJGC_00372	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_00372	gene
+KFKCNJGC_00373	CDS	hypothetical protein
+KFKCNJGC_00373	gene
+KFKCNJGC_00374	CDS	hypothetical protein
+KFKCNJGC_00374	gene
+KFKCNJGC_00375	CDS	hypothetical protein
+KFKCNJGC_00375	gene
+KFKCNJGC_00376	CDS	hypothetical protein
+KFKCNJGC_00376	gene
+KFKCNJGC_00377	CDS	hypothetical protein
+KFKCNJGC_00377	gene
+KFKCNJGC_00378	CDS	hypothetical protein
+KFKCNJGC_00378	gene
+KFKCNJGC_00379	CDS	hypothetical protein
+KFKCNJGC_00379	gene
+KFKCNJGC_00380	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+KFKCNJGC_00380	gene
+KFKCNJGC_00381	CDS	rihA_1	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+KFKCNJGC_00381	gene	rihA_1
+KFKCNJGC_00382	CDS	rimM	Ribosome maturation factor RimM
+KFKCNJGC_00382	gene	rimM
+KFKCNJGC_00383	CDS	hypothetical protein
+KFKCNJGC_00383	gene
+KFKCNJGC_00384	CDS	rpsP	30S ribosomal protein S16
+KFKCNJGC_00384	gene	rpsP
+KFKCNJGC_00385	CDS	hypothetical protein
+KFKCNJGC_00385	gene
+KFKCNJGC_00386	CDS	ffh	Signal recognition particle protein
+KFKCNJGC_00386	gene	ffh
+KFKCNJGC_00387	CDS	hypothetical protein
+KFKCNJGC_00387	gene
+KFKCNJGC_00388	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+KFKCNJGC_00388	gene	cysS
+KFKCNJGC_00389	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+KFKCNJGC_00389	gene	guaA_1
+KFKCNJGC_00390	CDS	ettA_1	Energy-dependent translational throttle protein EttA
+KFKCNJGC_00390	gene	ettA_1
+KFKCNJGC_00391	CDS	fitB	3.1.-.-	Toxin FitB
+KFKCNJGC_00391	gene	fitB
+KFKCNJGC_00392	CDS	hypothetical protein
+KFKCNJGC_00392	gene
+KFKCNJGC_00393	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+KFKCNJGC_00393	gene	ilvH
+KFKCNJGC_00394	CDS	ilvB1	2.2.1.6	Acetolactate synthase large subunit IlvB1
+KFKCNJGC_00394	gene	ilvB1
+KFKCNJGC_00395	CDS	rnc	3.1.26.3	Ribonuclease 3
+KFKCNJGC_00395	gene	rnc
+KFKCNJGC_00396	CDS	rpmF	50S ribosomal protein L32
+KFKCNJGC_00396	gene	rpmF
+KFKCNJGC_00397	CDS	hypothetical protein
+KFKCNJGC_00397	gene
+KFKCNJGC_00398	CDS	hypothetical protein
+KFKCNJGC_00398	gene
+KFKCNJGC_00399	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+KFKCNJGC_00399	gene	coaD
+KFKCNJGC_00400	CDS	hypothetical protein
+KFKCNJGC_00400	gene
+KFKCNJGC_00401	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+KFKCNJGC_00401	gene	gpr
+KFKCNJGC_00402	CDS	putative HTH-type transcriptional regulator
+KFKCNJGC_00402	gene
+KFKCNJGC_00403	CDS	hypothetical protein
+KFKCNJGC_00403	gene
+KFKCNJGC_00404	CDS	pncB1	6.3.4.21	Nicotinate phosphoribosyltransferase pncB1
+KFKCNJGC_00404	gene	pncB1
+KFKCNJGC_00405	CDS	rph	2.7.7.56	Ribonuclease PH
+KFKCNJGC_00405	gene	rph
+KFKCNJGC_00406	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+KFKCNJGC_00406	gene
+KFKCNJGC_00407	CDS	hypothetical protein
+KFKCNJGC_00407	gene
+KFKCNJGC_00408	tRNA	tRNA-Leu(tag)
+KFKCNJGC_00408	gene
+KFKCNJGC_00409	tRNA	tRNA-Thr(cgt)
+KFKCNJGC_00409	gene
+KFKCNJGC_00410	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+KFKCNJGC_00410	gene	pgi
+KFKCNJGC_00411	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+KFKCNJGC_00411	gene	cmpD
+KFKCNJGC_00412	CDS	ssuC	Putative aliphatic sulfonates transport permease protein SsuC
+KFKCNJGC_00412	gene	ssuC
+KFKCNJGC_00413	CDS	hypothetical protein
+KFKCNJGC_00413	gene
+KFKCNJGC_00414	CDS	rplS	50S ribosomal protein L19
+KFKCNJGC_00414	gene	rplS
+KFKCNJGC_00415	CDS	lepB	3.4.21.89	Signal peptidase I
+KFKCNJGC_00415	gene	lepB
+KFKCNJGC_00416	CDS	rnhB	3.1.26.4	Ribonuclease HII
+KFKCNJGC_00416	gene	rnhB
+KFKCNJGC_00417	CDS	lacI	Lactose operon repressor
+KFKCNJGC_00417	gene	lacI
+KFKCNJGC_00418	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KFKCNJGC_00418	gene
+KFKCNJGC_00419	CDS	araE_1	Arabinose-proton symporter
+KFKCNJGC_00419	gene	araE_1
+KFKCNJGC_00420	CDS	araE_2	Arabinose-proton symporter
+KFKCNJGC_00420	gene	araE_2
+KFKCNJGC_00421	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_00421	gene
+KFKCNJGC_00422	CDS	hypothetical protein
+KFKCNJGC_00422	gene
+KFKCNJGC_00423	CDS	araN_2	putative arabinose-binding protein
+KFKCNJGC_00423	gene	araN_2
+KFKCNJGC_00424	CDS	lacF_3	Lactose transport system permease protein LacF
+KFKCNJGC_00424	gene	lacF_3
+KFKCNJGC_00425	CDS	araQ_3	L-arabinose transport system permease protein AraQ
+KFKCNJGC_00425	gene	araQ_3
+KFKCNJGC_00426	CDS	bgaB	3.2.1.23	Beta-galactosidase BgaB
+KFKCNJGC_00426	gene	bgaB
+KFKCNJGC_00427	CDS	cytR_1	HTH-type transcriptional repressor CytR
+KFKCNJGC_00427	gene	cytR_1
+KFKCNJGC_00428	CDS	ganB	3.2.1.89	Arabinogalactan endo-beta-1,4-galactanase
+KFKCNJGC_00428	gene	ganB
+KFKCNJGC_00429	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+KFKCNJGC_00429	gene
+KFKCNJGC_00430	CDS	hypothetical protein
+KFKCNJGC_00430	gene
+KFKCNJGC_00431	CDS	mntH	Divalent metal cation transporter MntH
+KFKCNJGC_00431	gene	mntH
+KFKCNJGC_00432	CDS	emrB	Multidrug export protein EmrB
+KFKCNJGC_00432	gene	emrB
+KFKCNJGC_00433	CDS	hypothetical protein
+KFKCNJGC_00433	gene
+KFKCNJGC_00434	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+KFKCNJGC_00434	gene	epsL
+KFKCNJGC_00435	CDS	etp	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase Etp
+KFKCNJGC_00435	gene	etp
+KFKCNJGC_00436	CDS	epsF	2.4.-.-	Putative glycosyltransferase EpsF
+KFKCNJGC_00436	gene	epsF
+KFKCNJGC_00437	CDS	cotSA	2.4.-.-	Spore coat protein SA
+KFKCNJGC_00437	gene	cotSA
+KFKCNJGC_00438	CDS	hypothetical protein
+KFKCNJGC_00438	gene
+KFKCNJGC_00439	CDS	epsH_2	2.4.-.-	Putative glycosyltransferase EpsH
+KFKCNJGC_00439	gene	epsH_2
+KFKCNJGC_00440	CDS	lacA_1	2.3.1.18	Galactoside O-acetyltransferase
+KFKCNJGC_00440	gene	lacA_1
+KFKCNJGC_00441	CDS	hypothetical protein
+KFKCNJGC_00441	gene
+KFKCNJGC_00442	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+KFKCNJGC_00442	gene	epsJ_1
+KFKCNJGC_00443	CDS	hypothetical protein
+KFKCNJGC_00443	gene
+KFKCNJGC_00444	CDS	hypothetical protein
+KFKCNJGC_00444	gene
+KFKCNJGC_00445	CDS	hypothetical protein
+KFKCNJGC_00445	gene
+KFKCNJGC_00446	CDS	Insertion sequence IS5376 putative ATP-binding protein
+KFKCNJGC_00446	gene
+KFKCNJGC_00447	CDS	hypothetical protein
+KFKCNJGC_00447	gene
+KFKCNJGC_00448	CDS	Insertion sequence IS5376 putative ATP-binding protein
+KFKCNJGC_00448	gene
+KFKCNJGC_00449	CDS	hypothetical protein
+KFKCNJGC_00449	gene
+KFKCNJGC_00450	CDS	hypothetical protein
+KFKCNJGC_00450	gene
+KFKCNJGC_00451	CDS	hypothetical protein
+KFKCNJGC_00451	gene
+KFKCNJGC_00452	CDS	hypothetical protein
+KFKCNJGC_00452	gene
+KFKCNJGC_00453	CDS	hypothetical protein
+KFKCNJGC_00453	gene
+KFKCNJGC_00454	CDS	hypothetical protein
+KFKCNJGC_00454	gene
+KFKCNJGC_00455	CDS	hypothetical protein
+KFKCNJGC_00455	gene
+KFKCNJGC_00456	CDS	hypothetical protein
+KFKCNJGC_00456	gene
+KFKCNJGC_00457	CDS	hypothetical protein
+KFKCNJGC_00457	gene
+KFKCNJGC_00458	CDS	hypothetical protein
+KFKCNJGC_00458	gene
+KFKCNJGC_00459	CDS	hypothetical protein
+KFKCNJGC_00459	gene
+KFKCNJGC_00460	CDS	hypothetical protein
+KFKCNJGC_00460	gene
+KFKCNJGC_00461	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+KFKCNJGC_00461	gene	ywqD
+KFKCNJGC_00462	CDS	hypothetical protein
+KFKCNJGC_00462	gene
+KFKCNJGC_00463	CDS	hypothetical protein
+KFKCNJGC_00463	gene
+KFKCNJGC_00464	CDS	trxC	Putative thioredoxin 2
+KFKCNJGC_00464	gene	trxC
+KFKCNJGC_00465	CDS	hypothetical protein
+KFKCNJGC_00465	gene
+KFKCNJGC_00466	CDS	carC	3.7.1.13	2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoic acid hydrolase
+KFKCNJGC_00466	gene	carC
+KFKCNJGC_00467	CDS	nudC	3.6.1.22	NADH pyrophosphatase
+KFKCNJGC_00467	gene	nudC
+KFKCNJGC_00468	CDS	gcvH	Glycine cleavage system H protein
+KFKCNJGC_00468	gene	gcvH
+KFKCNJGC_00469	CDS	hypothetical protein
+KFKCNJGC_00469	gene
+KFKCNJGC_00470	CDS	dapb1	3.4.14.-	Dipeptidyl aminopeptidase BI
+KFKCNJGC_00470	gene	dapb1
+KFKCNJGC_00471	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+KFKCNJGC_00471	gene	leuB
+KFKCNJGC_00472	CDS	lipM	2.3.1.181	Octanoyltransferase LipM
+KFKCNJGC_00472	gene	lipM
+KFKCNJGC_00473	CDS	glxR	CRP-like cAMP-activated global transcriptional regulator
+KFKCNJGC_00473	gene	glxR
+KFKCNJGC_00474	CDS	pbpG	Penicillin-binding protein 2D
+KFKCNJGC_00474	gene	pbpG
+KFKCNJGC_00475	CDS	namA	1.6.99.1	NADPH dehydrogenase
+KFKCNJGC_00475	gene	namA
+KFKCNJGC_00476	CDS	pyrD_1	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+KFKCNJGC_00476	gene	pyrD_1
+KFKCNJGC_00477	CDS	lacR_2	Lactose phosphotransferase system repressor
+KFKCNJGC_00477	gene	lacR_2
+KFKCNJGC_00478	CDS	galT_1	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+KFKCNJGC_00478	gene	galT_1
+KFKCNJGC_00479	CDS	galK	2.7.1.6	Galactokinase
+KFKCNJGC_00479	gene	galK
+KFKCNJGC_00480	CDS	hypothetical protein
+KFKCNJGC_00480	gene
+KFKCNJGC_00481	CDS	hypothetical protein
+KFKCNJGC_00481	gene
+KFKCNJGC_00482	CDS	trmL_2	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+KFKCNJGC_00482	gene	trmL_2
+KFKCNJGC_00483	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+KFKCNJGC_00483	gene	mutY
+KFKCNJGC_00484	CDS	hypothetical protein
+KFKCNJGC_00484	gene
+KFKCNJGC_00485	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+KFKCNJGC_00485	gene	rpoB
+KFKCNJGC_00486	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+KFKCNJGC_00486	gene	rpoC
+KFKCNJGC_00487	CDS	hypothetical protein
+KFKCNJGC_00487	gene
+KFKCNJGC_00488	CDS	hypothetical protein
+KFKCNJGC_00488	gene
+KFKCNJGC_00489	CDS	hypothetical protein
+KFKCNJGC_00489	gene
+KFKCNJGC_00490	CDS	pknK	2.7.11.1	Serine/threonine-protein kinase PknK
+KFKCNJGC_00490	gene	pknK
+KFKCNJGC_00491	CDS	hypothetical protein
+KFKCNJGC_00491	gene
+KFKCNJGC_00492	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+KFKCNJGC_00492	gene	pcrA
+KFKCNJGC_00493	CDS	hypothetical protein
+KFKCNJGC_00493	gene
+KFKCNJGC_00494	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+KFKCNJGC_00494	gene	dapB
+KFKCNJGC_00495	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+KFKCNJGC_00495	gene	dapA
+KFKCNJGC_00496	CDS	rnj	3.1.-.-	Ribonuclease J
+KFKCNJGC_00496	gene	rnj
+KFKCNJGC_00497	CDS	pepN	3.4.11.2	Aminopeptidase N
+KFKCNJGC_00497	gene	pepN
+KFKCNJGC_00498	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+KFKCNJGC_00498	gene	glmM
+KFKCNJGC_00499	CDS	def_1	3.5.1.88	Peptide deformylase
+KFKCNJGC_00499	gene	def_1
+KFKCNJGC_00500	CDS	hypothetical protein
+KFKCNJGC_00500	gene
+KFKCNJGC_00501	CDS	prfB	Peptide chain release factor 2
+KFKCNJGC_00501	gene	prfB
+KFKCNJGC_00502	CDS	ftsE	Cell division ATP-binding protein FtsE
+KFKCNJGC_00502	gene	ftsE
+KFKCNJGC_00503	CDS	ftsX	Cell division protein FtsX
+KFKCNJGC_00503	gene	ftsX
+KFKCNJGC_00504	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+KFKCNJGC_00504	gene
+KFKCNJGC_00505	CDS	smpB	SsrA-binding protein
+KFKCNJGC_00505	gene	smpB
+KFKCNJGC_00506	CDS	glnH_1	Glutamine-binding periplasmic protein
+KFKCNJGC_00506	gene	glnH_1
+KFKCNJGC_00507	CDS	glnH_2	Glutamine-binding periplasmic protein
+KFKCNJGC_00507	gene	glnH_2
+KFKCNJGC_00508	CDS	yecS	L-cystine transport system permease protein YecS
+KFKCNJGC_00508	gene	yecS
+KFKCNJGC_00509	CDS	glnQ_1	Glutamine transport ATP-binding protein GlnQ
+KFKCNJGC_00509	gene	glnQ_1
+KFKCNJGC_00510	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+KFKCNJGC_00510	gene	glmS
+KFKCNJGC_00511	CDS	rluA	5.4.99.28	Ribosomal large subunit pseudouridine synthase A
+KFKCNJGC_00511	gene	rluA
+KFKCNJGC_00512	CDS	purR_3	HTH-type transcriptional repressor PurR
+KFKCNJGC_00512	gene	purR_3
+KFKCNJGC_00513	CDS	lacF_4	Lactose transport system permease protein LacF
+KFKCNJGC_00513	gene	lacF_4
+KFKCNJGC_00514	CDS	araQ_4	L-arabinose transport system permease protein AraQ
+KFKCNJGC_00514	gene	araQ_4
+KFKCNJGC_00515	CDS	beta-galIII	3.2.1.23	Beta-galactosidase III
+KFKCNJGC_00515	gene	beta-galIII
+KFKCNJGC_00516	CDS	lacE_2	Lactose-binding protein
+KFKCNJGC_00516	gene	lacE_2
+KFKCNJGC_00517	CDS	lacE_3	Lactose-binding protein
+KFKCNJGC_00517	gene	lacE_3
+KFKCNJGC_00518	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+KFKCNJGC_00518	gene	coaX
+KFKCNJGC_00519	CDS	ddpA	putative D,D-dipeptide-binding periplasmic protein DdpA
+KFKCNJGC_00519	gene	ddpA
+KFKCNJGC_00520	CDS	dppB_1	Dipeptide transport system permease protein DppB
+KFKCNJGC_00520	gene	dppB_1
+KFKCNJGC_00521	CDS	gsiD	Glutathione transport system permease protein GsiD
+KFKCNJGC_00521	gene	gsiD
+KFKCNJGC_00522	CDS	oppF_2	Oligopeptide transport ATP-binding protein OppF
+KFKCNJGC_00522	gene	oppF_2
+KFKCNJGC_00523	CDS	oppF_3	Oligopeptide transport ATP-binding protein OppF
+KFKCNJGC_00523	gene	oppF_3
+KFKCNJGC_00524	CDS	cbs	4.2.1.22	Putative cystathionine beta-synthase
+KFKCNJGC_00524	gene	cbs
+KFKCNJGC_00525	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+KFKCNJGC_00525	gene	metB
+KFKCNJGC_00526	CDS	recQ	3.6.4.12	ATP-dependent DNA helicase RecQ
+KFKCNJGC_00526	gene	recQ
+KFKCNJGC_00527	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+KFKCNJGC_00527	gene	luxS
+KFKCNJGC_00528	CDS	hypothetical protein
+KFKCNJGC_00528	gene
+KFKCNJGC_00529	CDS	degA_3	HTH-type transcriptional regulator DegA
+KFKCNJGC_00529	gene	degA_3
+KFKCNJGC_00530	CDS	hypothetical protein
+KFKCNJGC_00530	gene
+KFKCNJGC_00531	CDS	hypothetical protein
+KFKCNJGC_00531	gene
+KFKCNJGC_00532	CDS	hypothetical protein
+KFKCNJGC_00532	gene
+KFKCNJGC_00533	CDS	yesO	Putative ABC transporter substrate-binding protein YesO
+KFKCNJGC_00533	gene	yesO
+KFKCNJGC_00534	CDS	lacF_5	Lactose transport system permease protein LacF
+KFKCNJGC_00534	gene	lacF_5
+KFKCNJGC_00535	CDS	araQ_5	L-arabinose transport system permease protein AraQ
+KFKCNJGC_00535	gene	araQ_5
+KFKCNJGC_00536	CDS	hypothetical protein
+KFKCNJGC_00536	gene
+KFKCNJGC_00537	CDS	hypothetical protein
+KFKCNJGC_00537	gene
+KFKCNJGC_00538	CDS	yjmB_1	putative symporter YjmB
+KFKCNJGC_00538	gene	yjmB_1
+KFKCNJGC_00539	CDS	gndA_2	1.1.1.44	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+KFKCNJGC_00539	gene	gndA_2
+KFKCNJGC_00540	CDS	2.7.1.12	Gluconokinase
+KFKCNJGC_00540	gene
+KFKCNJGC_00541	CDS	rspA	4.2.1.-	D-galactonate dehydratase family member RspA
+KFKCNJGC_00541	gene	rspA
+KFKCNJGC_00542	CDS	por	1.1.1.-	Polyol:NADP oxidoreductase
+KFKCNJGC_00542	gene	por
+KFKCNJGC_00543	CDS	uxaC	5.3.1.12	Uronate isomerase
+KFKCNJGC_00543	gene	uxaC
+KFKCNJGC_00544	CDS	hypothetical protein
+KFKCNJGC_00544	gene
+KFKCNJGC_00545	CDS	cytR_2	HTH-type transcriptional repressor CytR
+KFKCNJGC_00545	gene	cytR_2
+KFKCNJGC_00546	CDS	cytR_3	HTH-type transcriptional repressor CytR
+KFKCNJGC_00546	gene	cytR_3
+KFKCNJGC_00547	CDS	yhdG_1	putative amino acid permease YhdG
+KFKCNJGC_00547	gene	yhdG_1
+KFKCNJGC_00548	CDS	alr	5.1.1.1	Alanine racemase
+KFKCNJGC_00548	gene	alr
+KFKCNJGC_00549	CDS	dgt	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+KFKCNJGC_00549	gene	dgt
+KFKCNJGC_00550	CDS	dnaG	2.7.7.-	DNA primase
+KFKCNJGC_00550	gene	dnaG
+KFKCNJGC_00551	CDS	hypothetical protein
+KFKCNJGC_00551	gene
+KFKCNJGC_00552	CDS	hypothetical protein
+KFKCNJGC_00552	gene
+KFKCNJGC_00553	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+KFKCNJGC_00553	gene	pdxS
+KFKCNJGC_00554	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+KFKCNJGC_00554	gene	pdxT
+KFKCNJGC_00555	CDS	lysN	2.6.1.39	2-aminoadipate transaminase
+KFKCNJGC_00555	gene	lysN
+KFKCNJGC_00556	CDS	ybiR	Inner membrane protein YbiR
+KFKCNJGC_00556	gene	ybiR
+KFKCNJGC_00557	CDS	hypothetical protein
+KFKCNJGC_00557	gene
+KFKCNJGC_00558	CDS	hypothetical protein
+KFKCNJGC_00558	gene
+KFKCNJGC_00559	CDS	murR	HTH-type transcriptional regulator MurR
+KFKCNJGC_00559	gene	murR
+KFKCNJGC_00560	tRNA	tRNA-Arg(tct)
+KFKCNJGC_00560	gene
+KFKCNJGC_00561	CDS	hypothetical protein
+KFKCNJGC_00561	gene
+KFKCNJGC_00562	CDS	lacE_4	Lactose-binding protein
+KFKCNJGC_00562	gene	lacE_4
+KFKCNJGC_00563	CDS	cytR_4	HTH-type transcriptional repressor CytR
+KFKCNJGC_00563	gene	cytR_4
+KFKCNJGC_00564	CDS	malL_2	3.2.1.10	Oligo-1,6-glucosidase
+KFKCNJGC_00564	gene	malL_2
+KFKCNJGC_00565	CDS	hypothetical protein
+KFKCNJGC_00565	gene
+KFKCNJGC_00566	CDS	oppA_1	Oligopeptide-binding protein OppA
+KFKCNJGC_00566	gene	oppA_1
+KFKCNJGC_00567	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+KFKCNJGC_00567	gene	msrA
+KFKCNJGC_00568	CDS	ytrE	ABC transporter ATP-binding protein YtrE
+KFKCNJGC_00568	gene	ytrE
+KFKCNJGC_00569	CDS	hypothetical protein
+KFKCNJGC_00569	gene
+KFKCNJGC_00570	CDS	ytrF_2	ABC transporter permease YtrF
+KFKCNJGC_00570	gene	ytrF_2
+KFKCNJGC_00571	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+KFKCNJGC_00571	gene	dxs
+KFKCNJGC_00572	CDS	ccrA2	1.3.1.86	Crotonyl-CoA reductase
+KFKCNJGC_00572	gene	ccrA2
+KFKCNJGC_00573	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+KFKCNJGC_00573	gene	purE
+KFKCNJGC_00574	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+KFKCNJGC_00574	gene	purK
+KFKCNJGC_00575	CDS	zur	Zinc uptake regulation protein
+KFKCNJGC_00575	gene	zur
+KFKCNJGC_00576	CDS	hypothetical protein
+KFKCNJGC_00576	gene
+KFKCNJGC_00577	CDS	hypothetical protein
+KFKCNJGC_00577	gene
+KFKCNJGC_00578	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_00578	gene
+KFKCNJGC_00579	CDS	hypothetical protein
+KFKCNJGC_00579	gene
+KFKCNJGC_00580	CDS	hypothetical protein
+KFKCNJGC_00580	gene
+KFKCNJGC_00581	CDS	hypothetical protein
+KFKCNJGC_00581	gene
+KFKCNJGC_00582	CDS	Putative two-component membrane permease complex subunit SMU_747c
+KFKCNJGC_00582	gene
+KFKCNJGC_00583	CDS	rpmE2	50S ribosomal protein L31 type B
+KFKCNJGC_00583	gene	rpmE2
+KFKCNJGC_00584	CDS	znuA	High-affinity zinc uptake system binding-protein ZnuA
+KFKCNJGC_00584	gene	znuA
+KFKCNJGC_00585	CDS	hypothetical protein
+KFKCNJGC_00585	gene
+KFKCNJGC_00586	CDS	alkH	1.2.1.3	Aldehyde dehydrogenase
+KFKCNJGC_00586	gene	alkH
+KFKCNJGC_00587	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+KFKCNJGC_00587	gene	purD
+KFKCNJGC_00588	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+KFKCNJGC_00588	gene	purM
+KFKCNJGC_00589	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+KFKCNJGC_00589	gene	purF
+KFKCNJGC_00590	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+KFKCNJGC_00590	gene	dinB_1
+KFKCNJGC_00591	CDS	hypothetical protein
+KFKCNJGC_00591	gene
+KFKCNJGC_00592	CDS	hypothetical protein
+KFKCNJGC_00592	gene
+KFKCNJGC_00593	CDS	hypothetical protein
+KFKCNJGC_00593	gene
+KFKCNJGC_00594	CDS	hypothetical protein
+KFKCNJGC_00594	gene
+KFKCNJGC_00595	CDS	hypothetical protein
+KFKCNJGC_00595	gene
+KFKCNJGC_00596	CDS	hypothetical protein
+KFKCNJGC_00596	gene
+KFKCNJGC_00597	CDS	hypothetical protein
+KFKCNJGC_00597	gene
+KFKCNJGC_00598	CDS	hypothetical protein
+KFKCNJGC_00598	gene
+KFKCNJGC_00599	CDS	hypothetical protein
+KFKCNJGC_00599	gene
+KFKCNJGC_00600	CDS	hypothetical protein
+KFKCNJGC_00600	gene
+KFKCNJGC_00601	CDS	nlhH_1	3.1.1.1	Carboxylesterase NlhH
+KFKCNJGC_00601	gene	nlhH_1
+KFKCNJGC_00602	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase
+KFKCNJGC_00602	gene	purL
+KFKCNJGC_00603	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+KFKCNJGC_00603	gene	purC
+KFKCNJGC_00604	CDS	purT	2.1.2.-	Formate-dependent phosphoribosylglycinamide formyltransferase
+KFKCNJGC_00604	gene	purT
+KFKCNJGC_00605	CDS	dapL_1	2.6.1.83	LL-diaminopimelate aminotransferase
+KFKCNJGC_00605	gene	dapL_1
+KFKCNJGC_00606	CDS	2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+KFKCNJGC_00606	gene
+KFKCNJGC_00607	CDS	ltaE	4.1.2.48	Low specificity L-threonine aldolase
+KFKCNJGC_00607	gene	ltaE
+KFKCNJGC_00608	tRNA	tRNA-His(gtg)
+KFKCNJGC_00608	gene
+KFKCNJGC_00609	CDS	panS	Pantothenate precursors transporter PanS
+KFKCNJGC_00609	gene	panS
+KFKCNJGC_00610	CDS	rpsL	30S ribosomal protein S12
+KFKCNJGC_00610	gene	rpsL
+KFKCNJGC_00611	CDS	rpsG	30S ribosomal protein S7
+KFKCNJGC_00611	gene	rpsG
+KFKCNJGC_00612	CDS	fusA_1	Elongation factor G
+KFKCNJGC_00612	gene	fusA_1
+KFKCNJGC_00613	CDS	tuf	Elongation factor Tu
+KFKCNJGC_00613	gene	tuf
+KFKCNJGC_00614	CDS	hypothetical protein
+KFKCNJGC_00614	gene
+KFKCNJGC_00615	CDS	cysL	HTH-type transcriptional regulator CysL
+KFKCNJGC_00615	gene	cysL
+KFKCNJGC_00616	CDS	Insertion sequence IS5376 putative ATP-binding protein
+KFKCNJGC_00616	gene
+KFKCNJGC_00617	CDS	hypothetical protein
+KFKCNJGC_00617	gene
+KFKCNJGC_00618	CDS	hypothetical protein
+KFKCNJGC_00618	gene
+KFKCNJGC_00619	CDS	hypothetical protein
+KFKCNJGC_00619	gene
+KFKCNJGC_00620	CDS	hypothetical protein
+KFKCNJGC_00620	gene
+KFKCNJGC_00621	CDS	crcB_3	Putative fluoride ion transporter CrcB
+KFKCNJGC_00621	gene	crcB_3
+KFKCNJGC_00622	CDS	crcB_4	Putative fluoride ion transporter CrcB
+KFKCNJGC_00622	gene	crcB_4
+KFKCNJGC_00623	CDS	adhR	HTH-type transcriptional regulator AdhR
+KFKCNJGC_00623	gene	adhR
+KFKCNJGC_00624	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+KFKCNJGC_00624	gene	adh
+KFKCNJGC_00625	CDS	hypothetical protein
+KFKCNJGC_00625	gene
+KFKCNJGC_00626	CDS	hypothetical protein
+KFKCNJGC_00626	gene
+KFKCNJGC_00627	CDS	hypothetical protein
+KFKCNJGC_00627	gene
+KFKCNJGC_00628	CDS	ugpB	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+KFKCNJGC_00628	gene	ugpB
+KFKCNJGC_00629	CDS	lacG	Lactose transport system permease protein LacG
+KFKCNJGC_00629	gene	lacG
+KFKCNJGC_00630	CDS	ugpA_1	sn-glycerol-3-phosphate transport system permease protein UgpA
+KFKCNJGC_00630	gene	ugpA_1
+KFKCNJGC_00631	CDS	hypothetical protein
+KFKCNJGC_00631	gene
+KFKCNJGC_00632	CDS	ascG	HTH-type transcriptional regulator AscG
+KFKCNJGC_00632	gene	ascG
+KFKCNJGC_00633	CDS	tfdR	HTH-type transcriptional regulator TdfR
+KFKCNJGC_00633	gene	tfdR
+KFKCNJGC_00634	CDS	gltC	HTH-type transcriptional regulator GltC
+KFKCNJGC_00634	gene	gltC
+KFKCNJGC_00635	CDS	uvrA_1	UvrABC system protein A
+KFKCNJGC_00635	gene	uvrA_1
+KFKCNJGC_00636	CDS	mepA	Multidrug export protein MepA
+KFKCNJGC_00636	gene	mepA
+KFKCNJGC_00637	CDS	pdg	Ultraviolet N-glycosylase/AP lyase
+KFKCNJGC_00637	gene	pdg
+KFKCNJGC_00638	CDS	hypothetical protein
+KFKCNJGC_00638	gene
+KFKCNJGC_00639	CDS	lacA_2	2.3.1.18	Galactoside O-acetyltransferase
+KFKCNJGC_00639	gene	lacA_2
+KFKCNJGC_00640	CDS	lacA_3	2.3.1.18	Galactoside O-acetyltransferase
+KFKCNJGC_00640	gene	lacA_3
+KFKCNJGC_00641	CDS	hypothetical protein
+KFKCNJGC_00641	gene
+KFKCNJGC_00642	CDS	hypothetical protein
+KFKCNJGC_00642	gene
+KFKCNJGC_00643	CDS	hypothetical protein
+KFKCNJGC_00643	gene
+KFKCNJGC_00644	CDS	bcsA	2.4.1.12	Cellulose synthase catalytic subunit [UDP-forming]
+KFKCNJGC_00644	gene	bcsA
+KFKCNJGC_00645	CDS	chiA	putative bifunctional chitinase/lysozyme
+KFKCNJGC_00645	gene	chiA
+KFKCNJGC_00646	CDS	gmr	3.1.4.52	Cyclic di-GMP phosphodiesterase Gmr
+KFKCNJGC_00646	gene	gmr
+KFKCNJGC_00647	CDS	fetB	putative iron export permease protein FetB
+KFKCNJGC_00647	gene	fetB
+KFKCNJGC_00648	CDS	fetA	3.6.3.-	putative iron export ATP-binding protein FetA
+KFKCNJGC_00648	gene	fetA
+KFKCNJGC_00649	CDS	efp	Elongation factor P
+KFKCNJGC_00649	gene	efp
+KFKCNJGC_00650	CDS	nusB	N utilization substance protein B 
+KFKCNJGC_00650	gene	nusB
+KFKCNJGC_00651	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+KFKCNJGC_00651	gene	carA
+KFKCNJGC_00652	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+KFKCNJGC_00652	gene	carB
+KFKCNJGC_00653	CDS	pyrF_1	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+KFKCNJGC_00653	gene	pyrF_1
+KFKCNJGC_00654	CDS	gmk	2.7.4.8	Guanylate kinase
+KFKCNJGC_00654	gene	gmk
+KFKCNJGC_00655	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+KFKCNJGC_00655	gene	polC
+KFKCNJGC_00656	CDS	hypothetical protein
+KFKCNJGC_00656	gene
+KFKCNJGC_00657	CDS	fusA_2	Elongation factor G
+KFKCNJGC_00657	gene	fusA_2
+KFKCNJGC_00658	CDS	hypothetical protein
+KFKCNJGC_00658	gene
+KFKCNJGC_00659	CDS	metC	4.4.1.8	Cystathionine beta-lyase
+KFKCNJGC_00659	gene	metC
+KFKCNJGC_00660	CDS	1.-.-.-	Putative glutaredoxin.1
+KFKCNJGC_00660	gene
+KFKCNJGC_00661	CDS	mdeA	4.4.1.11	L-methionine gamma-lyase
+KFKCNJGC_00661	gene	mdeA
+KFKCNJGC_00662	CDS	hypothetical protein
+KFKCNJGC_00662	gene
+KFKCNJGC_00663	CDS	hypothetical protein
+KFKCNJGC_00663	gene
+KFKCNJGC_00664	CDS	hypothetical protein
+KFKCNJGC_00664	gene
+KFKCNJGC_00665	CDS	yrpC	5.1.1.3	Glutamate racemase 2
+KFKCNJGC_00665	gene	yrpC
+KFKCNJGC_00666	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+KFKCNJGC_00666	gene	dapF
+KFKCNJGC_00667	CDS	hypothetical protein
+KFKCNJGC_00667	gene
+KFKCNJGC_00668	CDS	yciV	3.1.13.-	5'-3' exoribonuclease
+KFKCNJGC_00668	gene	yciV
+KFKCNJGC_00669	CDS	hypothetical protein
+KFKCNJGC_00669	gene
+KFKCNJGC_00670	CDS	hypothetical protein
+KFKCNJGC_00670	gene
+KFKCNJGC_00671	CDS	uvrD2	3.6.4.12	ATP-dependent DNA helicase UvrD2
+KFKCNJGC_00671	gene	uvrD2
+KFKCNJGC_00672	CDS	hypothetical protein
+KFKCNJGC_00672	gene
+KFKCNJGC_00673	CDS	lon1	3.4.21.53	Lon protease 1
+KFKCNJGC_00673	gene	lon1
+KFKCNJGC_00674	CDS	hypothetical protein
+KFKCNJGC_00674	gene
+KFKCNJGC_00675	tRNA	tRNA-Val(tac)
+KFKCNJGC_00675	gene
+KFKCNJGC_00676	CDS	hypothetical protein
+KFKCNJGC_00676	gene
+KFKCNJGC_00677	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+KFKCNJGC_00677	gene	dxr
+KFKCNJGC_00678	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+KFKCNJGC_00678	gene	ispG
+KFKCNJGC_00679	CDS	hypothetical protein
+KFKCNJGC_00679	gene
+KFKCNJGC_00680	CDS	recO	DNA repair protein RecO
+KFKCNJGC_00680	gene	recO
+KFKCNJGC_00681	CDS	uppS	2.5.1.86	Decaprenyl diphosphate synthase
+KFKCNJGC_00681	gene	uppS
+KFKCNJGC_00682	CDS	ribX	Riboflavin transport system permease protein RibX
+KFKCNJGC_00682	gene	ribX
+KFKCNJGC_00683	CDS	thiY	Formylaminopyrimidine-binding protein
+KFKCNJGC_00683	gene	thiY
+KFKCNJGC_00684	CDS	alaA_1	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+KFKCNJGC_00684	gene	alaA_1
+KFKCNJGC_00685	CDS	ecfA3	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA3
+KFKCNJGC_00685	gene	ecfA3
+KFKCNJGC_00686	CDS	hypothetical protein
+KFKCNJGC_00686	gene
+KFKCNJGC_00687	CDS	hypothetical protein
+KFKCNJGC_00687	gene
+KFKCNJGC_00688	CDS	hypothetical protein
+KFKCNJGC_00688	gene
+KFKCNJGC_00689	CDS	ligA	6.5.1.2	DNA ligase A
+KFKCNJGC_00689	gene	ligA
+KFKCNJGC_00690	CDS	mrp	Iron-sulfur cluster carrier protein
+KFKCNJGC_00690	gene	mrp
+KFKCNJGC_00691	CDS	glnA1	6.3.1.2	Glutamine synthetase 1
+KFKCNJGC_00691	gene	glnA1
+KFKCNJGC_00692	CDS	hypothetical protein
+KFKCNJGC_00692	gene
+KFKCNJGC_00693	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+KFKCNJGC_00693	gene	pdhD
+KFKCNJGC_00694	CDS	hypothetical protein
+KFKCNJGC_00694	gene
+KFKCNJGC_00695	CDS	dapE_1	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+KFKCNJGC_00695	gene	dapE_1
+KFKCNJGC_00696	CDS	ykoE_1	Putative HMP/thiamine permease protein YkoE
+KFKCNJGC_00696	gene	ykoE_1
+KFKCNJGC_00697	CDS	ykoD_1	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+KFKCNJGC_00697	gene	ykoD_1
+KFKCNJGC_00698	CDS	ykoC	Putative HMP/thiamine permease protein YkoC
+KFKCNJGC_00698	gene	ykoC
+KFKCNJGC_00699	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+KFKCNJGC_00699	gene
+KFKCNJGC_00700	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+KFKCNJGC_00700	gene	pheS
+KFKCNJGC_00701	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+KFKCNJGC_00701	gene	pheT
+KFKCNJGC_00702	CDS	hypothetical protein
+KFKCNJGC_00702	gene
+KFKCNJGC_00703	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+KFKCNJGC_00703	gene	argC
+KFKCNJGC_00704	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ
+KFKCNJGC_00704	gene	argJ
+KFKCNJGC_00705	CDS	argB	2.7.2.8	Acetylglutamate kinase
+KFKCNJGC_00705	gene	argB
+KFKCNJGC_00706	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+KFKCNJGC_00706	gene	argD
+KFKCNJGC_00707	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+KFKCNJGC_00707	gene	argF
+KFKCNJGC_00708	CDS	argR	Arginine repressor
+KFKCNJGC_00708	gene	argR
+KFKCNJGC_00709	CDS	argG	6.3.4.5	Argininosuccinate synthase
+KFKCNJGC_00709	gene	argG
+KFKCNJGC_00710	CDS	hypothetical protein
+KFKCNJGC_00710	gene
+KFKCNJGC_00711	CDS	hypothetical protein
+KFKCNJGC_00711	gene
+KFKCNJGC_00712	CDS	Insertion sequence IS5376 putative ATP-binding protein
+KFKCNJGC_00712	gene
+KFKCNJGC_00713	CDS	hypothetical protein
+KFKCNJGC_00713	gene
+KFKCNJGC_00714	CDS	yoeB	3.1.-.-	Toxin YoeB
+KFKCNJGC_00714	gene	yoeB
+KFKCNJGC_00715	CDS	hypothetical protein
+KFKCNJGC_00715	gene
+KFKCNJGC_00716	CDS	argH	4.3.2.1	Argininosuccinate lyase
+KFKCNJGC_00716	gene	argH
+KFKCNJGC_00717	CDS	hypothetical protein
+KFKCNJGC_00717	gene
+KFKCNJGC_00718	CDS	thiG	2.8.1.10	Thiazole synthase
+KFKCNJGC_00718	gene	thiG
+KFKCNJGC_00719	CDS	moeZ	putative adenylyltransferase/sulfurtransferase MoeZ
+KFKCNJGC_00719	gene	moeZ
+KFKCNJGC_00720	CDS	pspE	2.8.1.1	Thiosulfate sulfurtransferase PspE
+KFKCNJGC_00720	gene	pspE
+KFKCNJGC_00721	CDS	hypothetical protein
+KFKCNJGC_00721	gene
+KFKCNJGC_00722	CDS	hypothetical protein
+KFKCNJGC_00722	gene
+KFKCNJGC_00723	CDS	hypothetical protein
+KFKCNJGC_00723	gene
+KFKCNJGC_00724	CDS	tyrS1	6.1.1.1	Tyrosine--tRNA ligase 1
+KFKCNJGC_00724	gene	tyrS1
+KFKCNJGC_00725	CDS	hypothetical protein
+KFKCNJGC_00725	gene
+KFKCNJGC_00726	CDS	3.1.3.21	D,L-glycerol 3-phosphate phosphatase
+KFKCNJGC_00726	gene
+KFKCNJGC_00727	CDS	hypothetical protein
+KFKCNJGC_00727	gene
+KFKCNJGC_00728	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+KFKCNJGC_00728	gene	tlyA
+KFKCNJGC_00729	CDS	hypothetical protein
+KFKCNJGC_00729	gene
+KFKCNJGC_00730	CDS	ktrA	Ktr system potassium uptake protein A
+KFKCNJGC_00730	gene	ktrA
+KFKCNJGC_00731	CDS	hypothetical protein
+KFKCNJGC_00731	gene
+KFKCNJGC_00732	CDS	ppnK	2.7.1.23	NAD kinase
+KFKCNJGC_00732	gene	ppnK
+KFKCNJGC_00733	CDS	recN	DNA repair protein RecN
+KFKCNJGC_00733	gene	recN
+KFKCNJGC_00734	CDS	yqaB	3.1.3.-	Fructose-1-phosphate phosphatase YqaB
+KFKCNJGC_00734	gene	yqaB
+KFKCNJGC_00735	CDS	hypothetical protein
+KFKCNJGC_00735	gene
+KFKCNJGC_00736	CDS	hypothetical protein
+KFKCNJGC_00736	gene
+KFKCNJGC_00737	CDS	ytrA	HTH-type transcriptional repressor YtrA
+KFKCNJGC_00737	gene	ytrA
+KFKCNJGC_00738	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KFKCNJGC_00738	gene	drrA_1
+KFKCNJGC_00739	CDS	hypothetical protein
+KFKCNJGC_00739	gene
+KFKCNJGC_00740	CDS	hypothetical protein
+KFKCNJGC_00740	gene
+KFKCNJGC_00741	CDS	hypothetical protein
+KFKCNJGC_00741	gene
+KFKCNJGC_00742	CDS	thrC	4.2.3.1	Threonine synthase
+KFKCNJGC_00742	gene	thrC
+KFKCNJGC_00743	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+KFKCNJGC_00743	gene	proA
+KFKCNJGC_00744	CDS	hypothetical protein
+KFKCNJGC_00744	gene
+KFKCNJGC_00745	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+KFKCNJGC_00745	gene	nadD
+KFKCNJGC_00746	CDS	nagZ	3.2.1.52	Beta-hexosaminidase
+KFKCNJGC_00746	gene	nagZ
+KFKCNJGC_00747	CDS	hypothetical protein
+KFKCNJGC_00747	gene
+KFKCNJGC_00748	CDS	ywnH	2.3.1.183	Putative phosphinothricin acetyltransferase YwnH
+KFKCNJGC_00748	gene	ywnH
+KFKCNJGC_00749	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+KFKCNJGC_00749	gene	pth
+KFKCNJGC_00750	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+KFKCNJGC_00750	gene	mfd
+KFKCNJGC_00751	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+KFKCNJGC_00751	gene
+KFKCNJGC_00752	CDS	eno	4.2.1.11	Enolase
+KFKCNJGC_00752	gene	eno
+KFKCNJGC_00753	CDS	ftsL	Cell division protein FtsL
+KFKCNJGC_00753	gene	ftsL
+KFKCNJGC_00754	CDS	hypothetical protein
+KFKCNJGC_00754	gene
+KFKCNJGC_00755	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+KFKCNJGC_00755	gene	gppA
+KFKCNJGC_00756	tRNA	tRNA-Leu(taa)
+KFKCNJGC_00756	gene
+KFKCNJGC_00757	CDS	hypothetical protein
+KFKCNJGC_00757	gene
+KFKCNJGC_00758	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+KFKCNJGC_00758	gene	sdaA
+KFKCNJGC_00759	CDS	fkbP	5.2.1.8	FK506-binding protein
+KFKCNJGC_00759	gene	fkbP
+KFKCNJGC_00760	CDS	greA	Transcription elongation factor GreA
+KFKCNJGC_00760	gene	greA
+KFKCNJGC_00761	CDS	hypothetical protein
+KFKCNJGC_00761	gene
+KFKCNJGC_00762	CDS	pdtaS	2.7.13.3	putative sensor histidine kinase pdtaS
+KFKCNJGC_00762	gene	pdtaS
+KFKCNJGC_00763	CDS	whiB1	Transcriptional regulator WhiB1
+KFKCNJGC_00763	gene	whiB1
+KFKCNJGC_00764	CDS	essC	ESAT-6 secretion machinery protein EssC
+KFKCNJGC_00764	gene	essC
+KFKCNJGC_00765	CDS	lytR_1	Transcriptional regulator LytR
+KFKCNJGC_00765	gene	lytR_1
+KFKCNJGC_00766	CDS	whiB2	Transcriptional regulator WhiB2
+KFKCNJGC_00766	gene	whiB2
+KFKCNJGC_00767	CDS	hypothetical protein
+KFKCNJGC_00767	gene
+KFKCNJGC_00768	CDS	hypothetical protein
+KFKCNJGC_00768	gene
+KFKCNJGC_00769	CDS	hypothetical protein
+KFKCNJGC_00769	gene
+KFKCNJGC_00770	CDS	hypothetical protein
+KFKCNJGC_00770	gene
+KFKCNJGC_00771	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+KFKCNJGC_00771	gene	pyrE_1
+KFKCNJGC_00772	CDS	baeS	2.7.13.3	Signal transduction histidine-protein kinase BaeS
+KFKCNJGC_00772	gene	baeS
+KFKCNJGC_00773	CDS	phoP	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+KFKCNJGC_00773	gene	phoP
+KFKCNJGC_00774	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+KFKCNJGC_00774	gene	glgB
+KFKCNJGC_00775	CDS	carD	RNA polymerase-binding transcription factor CarD
+KFKCNJGC_00775	gene	carD
+KFKCNJGC_00776	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+KFKCNJGC_00776	gene	ispF
+KFKCNJGC_00777	CDS	znuB	High-affinity zinc uptake system membrane protein ZnuB
+KFKCNJGC_00777	gene	znuB
+KFKCNJGC_00778	CDS	cysA_3	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+KFKCNJGC_00778	gene	cysA_3
+KFKCNJGC_00779	CDS	psaA	Manganese ABC transporter substrate-binding lipoprotein
+KFKCNJGC_00779	gene	psaA
+KFKCNJGC_00780	CDS	folD	Bifunctional protein FolD protein
+KFKCNJGC_00780	gene	folD
+KFKCNJGC_00781	CDS	rpsA	30S ribosomal protein S1
+KFKCNJGC_00781	gene	rpsA
+KFKCNJGC_00782	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+KFKCNJGC_00782	gene	coaE
+KFKCNJGC_00783	CDS	uvrB	UvrABC system protein B
+KFKCNJGC_00783	gene	uvrB
+KFKCNJGC_00784	CDS	putative membrane protein
+KFKCNJGC_00784	gene
+KFKCNJGC_00785	CDS	pyk	2.7.1.40	Pyruvate kinase
+KFKCNJGC_00785	gene	pyk
+KFKCNJGC_00786	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+KFKCNJGC_00786	gene	nudF
+KFKCNJGC_00787	tRNA	tRNA-Leu(caa)
+KFKCNJGC_00787	gene
+KFKCNJGC_00788	CDS	pdtaR	putative transcriptional regulatory protein pdtaR
+KFKCNJGC_00788	gene	pdtaR
+KFKCNJGC_00789	CDS	polA	2.7.7.7	DNA polymerase I
+KFKCNJGC_00789	gene	polA
+KFKCNJGC_00790	CDS	GTP cyclohydrolase 1 type 2 
+KFKCNJGC_00790	gene
+KFKCNJGC_00791	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+KFKCNJGC_00791	gene	act
+KFKCNJGC_00792	CDS	glgX_1	3.2.1.-	Glycogen operon protein GlgX 
+KFKCNJGC_00792	gene	glgX_1
+KFKCNJGC_00793	CDS	hypothetical protein
+KFKCNJGC_00793	gene
+KFKCNJGC_00794	CDS	hypothetical protein
+KFKCNJGC_00794	gene
+KFKCNJGC_00795	CDS	hypothetical protein
+KFKCNJGC_00795	gene
+KFKCNJGC_00796	CDS	hypothetical protein
+KFKCNJGC_00796	gene
+KFKCNJGC_00797	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+KFKCNJGC_00797	gene	tag
+KFKCNJGC_00798	tRNA	tRNA-Pro(tgg)
+KFKCNJGC_00798	gene
+KFKCNJGC_00799	CDS	hypothetical protein
+KFKCNJGC_00799	gene
+KFKCNJGC_00800	CDS	hypothetical protein
+KFKCNJGC_00800	gene
+KFKCNJGC_00801	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+KFKCNJGC_00801	gene	aroA
+KFKCNJGC_00802	CDS	ackA	2.7.2.1	Acetate kinase
+KFKCNJGC_00802	gene	ackA
+KFKCNJGC_00803	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+KFKCNJGC_00803	gene	pta
+KFKCNJGC_00804	tRNA	tRNA-Gln(ttg)
+KFKCNJGC_00804	gene
+KFKCNJGC_00805	CDS	prs_2	2.7.6.1	Ribose-phosphate pyrophosphokinase
+KFKCNJGC_00805	gene	prs_2
+KFKCNJGC_00806	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+KFKCNJGC_00806	gene	oatA
+KFKCNJGC_00807	CDS	hypothetical protein
+KFKCNJGC_00807	gene
+KFKCNJGC_00808	CDS	hypothetical protein
+KFKCNJGC_00808	gene
+KFKCNJGC_00809	CDS	hypothetical protein
+KFKCNJGC_00809	gene
+KFKCNJGC_00810	CDS	hypothetical protein
+KFKCNJGC_00810	gene
+KFKCNJGC_00811	CDS	hypothetical protein
+KFKCNJGC_00811	gene
+KFKCNJGC_00812	CDS	hypothetical protein
+KFKCNJGC_00812	gene
+KFKCNJGC_00813	CDS	hypothetical protein
+KFKCNJGC_00813	gene
+KFKCNJGC_00814	CDS	Insertion sequence IS5376 putative ATP-binding protein
+KFKCNJGC_00814	gene
+KFKCNJGC_00815	CDS	hypothetical protein
+KFKCNJGC_00815	gene
+KFKCNJGC_00816	CDS	hypothetical protein
+KFKCNJGC_00816	gene
+KFKCNJGC_00817	CDS	hypothetical protein
+KFKCNJGC_00817	gene
+KFKCNJGC_00818	CDS	hypothetical protein
+KFKCNJGC_00818	gene
+KFKCNJGC_00819	CDS	hypothetical protein
+KFKCNJGC_00819	gene
+KFKCNJGC_00820	CDS	pezA	Antitoxin PezA
+KFKCNJGC_00820	gene	pezA
+KFKCNJGC_00821	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+KFKCNJGC_00821	gene	guaA_2
+KFKCNJGC_00822	CDS	xfp	4.1.2.22	Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase
+KFKCNJGC_00822	gene	xfp
+KFKCNJGC_00823	CDS	glmU	Bifunctional protein GlmU
+KFKCNJGC_00823	gene	glmU
+KFKCNJGC_00824	CDS	rsfS	Ribosomal silencing factor RsfS
+KFKCNJGC_00824	gene	rsfS
+KFKCNJGC_00825	CDS	gpgP_1	3.1.3.85	Glucosyl-3-phosphoglycerate phosphatase
+KFKCNJGC_00825	gene	gpgP_1
+KFKCNJGC_00826	tRNA	tRNA-Ala(ggc)
+KFKCNJGC_00826	gene
+KFKCNJGC_00827	tRNA	tRNA-Ala(ggc)
+KFKCNJGC_00827	gene
+KFKCNJGC_00828	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+KFKCNJGC_00828	gene
+KFKCNJGC_00829	CDS	metQ	D-methionine-binding lipoprotein MetQ
+KFKCNJGC_00829	gene	metQ
+KFKCNJGC_00830	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+KFKCNJGC_00830	gene	metN2
+KFKCNJGC_00831	CDS	metI	D-methionine transport system permease protein MetI
+KFKCNJGC_00831	gene	metI
+KFKCNJGC_00832	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+KFKCNJGC_00832	gene	yxeP
+KFKCNJGC_00833	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+KFKCNJGC_00833	gene	nadE
+KFKCNJGC_00834	CDS	hypothetical protein
+KFKCNJGC_00834	gene
+KFKCNJGC_00835	CDS	pflB	2.3.1.54	Formate acetyltransferase 1
+KFKCNJGC_00835	gene	pflB
+KFKCNJGC_00836	CDS	pflA	1.97.1.4	Pyruvate formate-lyase 1-activating enzyme
+KFKCNJGC_00836	gene	pflA
+KFKCNJGC_00837	CDS	hypothetical protein
+KFKCNJGC_00837	gene
+KFKCNJGC_00838	CDS	rnd	3.1.13.5	Ribonuclease D
+KFKCNJGC_00838	gene	rnd
+KFKCNJGC_00839	CDS	tig	5.2.1.8	Trigger factor
+KFKCNJGC_00839	gene	tig
+KFKCNJGC_00840	CDS	clcA_2	H(+)/Cl(-) exchange transporter ClcA
+KFKCNJGC_00840	gene	clcA_2
+KFKCNJGC_00841	CDS	hypothetical protein
+KFKCNJGC_00841	gene
+KFKCNJGC_00842	CDS	clpP1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 1
+KFKCNJGC_00842	gene	clpP1
+KFKCNJGC_00843	CDS	clpP2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 2
+KFKCNJGC_00843	gene	clpP2
+KFKCNJGC_00844	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+KFKCNJGC_00844	gene	clpX
+KFKCNJGC_00845	tRNA	tRNA-Arg(acg)
+KFKCNJGC_00845	gene
+KFKCNJGC_00846	tRNA	tRNA-Arg(acg)
+KFKCNJGC_00846	gene
+KFKCNJGC_00847	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+KFKCNJGC_00847	gene	patB
+KFKCNJGC_00848	CDS	nhaA	Na(+)/H(+) antiporter NhaA
+KFKCNJGC_00848	gene	nhaA
+KFKCNJGC_00849	CDS	fas6	3.2.2.-	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+KFKCNJGC_00849	gene	fas6
+KFKCNJGC_00850	CDS	2.1.1.-	Putative O-methyltransferase/MSMEI_4947
+KFKCNJGC_00850	gene
+KFKCNJGC_00851	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+KFKCNJGC_00851	gene	frdB
+KFKCNJGC_00852	CDS	sdhA	1.3.5.1	Succinate dehydrogenase flavoprotein subunit
+KFKCNJGC_00852	gene	sdhA
+KFKCNJGC_00853	CDS	dprA	DNA processing protein DprA
+KFKCNJGC_00853	gene	dprA
+KFKCNJGC_00854	CDS	comM	Competence protein ComM
+KFKCNJGC_00854	gene	comM
+KFKCNJGC_00855	CDS	hypothetical protein
+KFKCNJGC_00855	gene
+KFKCNJGC_00856	CDS	hypothetical protein
+KFKCNJGC_00856	gene
+KFKCNJGC_00857	CDS	pdxK	2.7.1.35	Pyridoxine/pyridoxal/pyridoxamine kinase
+KFKCNJGC_00857	gene	pdxK
+KFKCNJGC_00858	CDS	mgl	4.4.1.11	L-methionine gamma-lyase
+KFKCNJGC_00858	gene	mgl
+KFKCNJGC_00859	CDS	bceA_1	Bacitracin export ATP-binding protein BceA
+KFKCNJGC_00859	gene	bceA_1
+KFKCNJGC_00860	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+KFKCNJGC_00860	gene	macB_2
+KFKCNJGC_00861	CDS	degU_1	Transcriptional regulatory protein DegU
+KFKCNJGC_00861	gene	degU_1
+KFKCNJGC_00862	CDS	degS_1	2.7.13.3	Signal transduction histidine-protein kinase/phosphatase DegS
+KFKCNJGC_00862	gene	degS_1
+KFKCNJGC_00863	CDS	pip	3.4.11.5	Proline iminopeptidase
+KFKCNJGC_00863	gene	pip
+KFKCNJGC_00864	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+KFKCNJGC_00864	gene	proC
+KFKCNJGC_00865	CDS	glnH_3	ABC transporter glutamine-binding protein GlnH
+KFKCNJGC_00865	gene	glnH_3
+KFKCNJGC_00866	CDS	glnQ_2	Glutamine transport ATP-binding protein GlnQ
+KFKCNJGC_00866	gene	glnQ_2
+KFKCNJGC_00867	CDS	glnP_1	putative glutamine ABC transporter permease protein GlnP
+KFKCNJGC_00867	gene	glnP_1
+KFKCNJGC_00868	CDS	glnP_2	putative glutamine ABC transporter permease protein GlnP
+KFKCNJGC_00868	gene	glnP_2
+KFKCNJGC_00869	CDS	ychF	Ribosome-binding ATPase YchF
+KFKCNJGC_00869	gene	ychF
+KFKCNJGC_00870	CDS	yccF	Inner membrane protein YccF
+KFKCNJGC_00870	gene	yccF
+KFKCNJGC_00871	CDS	hypothetical protein
+KFKCNJGC_00871	gene
+KFKCNJGC_00872	CDS	ribZ_1	Riboflavin transporter RibZ
+KFKCNJGC_00872	gene	ribZ_1
+KFKCNJGC_00873	CDS	hypothetical protein
+KFKCNJGC_00873	gene
+KFKCNJGC_00874	CDS	malP_2	2.4.1.1	Maltodextrin phosphorylase
+KFKCNJGC_00874	gene	malP_2
+KFKCNJGC_00875	CDS	nagA_1	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+KFKCNJGC_00875	gene	nagA_1
+KFKCNJGC_00876	CDS	nagB_2	3.5.99.6	Glucosamine-6-phosphate deaminase
+KFKCNJGC_00876	gene	nagB_2
+KFKCNJGC_00877	CDS	glkA_1	2.7.1.2	Glucokinase
+KFKCNJGC_00877	gene	glkA_1
+KFKCNJGC_00878	CDS	nagC_1	N-acetylglucosamine repressor
+KFKCNJGC_00878	gene	nagC_1
+KFKCNJGC_00879	CDS	yeaD_1	5.1.3.15	Putative glucose-6-phosphate 1-epimerase
+KFKCNJGC_00879	gene	yeaD_1
+KFKCNJGC_00880	CDS	xylE_1	D-xylose-proton symporter
+KFKCNJGC_00880	gene	xylE_1
+KFKCNJGC_00881	CDS	betC_2	3.1.6.6	Choline-sulfatase
+KFKCNJGC_00881	gene	betC_2
+KFKCNJGC_00882	CDS	chuR_2	1.1.99.-	Anaerobic sulfatase-maturating enzyme
+KFKCNJGC_00882	gene	chuR_2
+KFKCNJGC_00883	CDS	hypothetical protein
+KFKCNJGC_00883	gene
+KFKCNJGC_00884	CDS	hypothetical protein
+KFKCNJGC_00884	gene
+KFKCNJGC_00885	CDS	hypothetical protein
+KFKCNJGC_00885	gene
+KFKCNJGC_00886	CDS	hypothetical protein
+KFKCNJGC_00886	gene
+KFKCNJGC_00887	CDS	hypothetical protein
+KFKCNJGC_00887	gene
+KFKCNJGC_00888	CDS	hypothetical protein
+KFKCNJGC_00888	gene
+KFKCNJGC_00889	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KFKCNJGC_00889	gene	gpmA_2
+KFKCNJGC_00890	CDS	rutG	Putative pyrimidine permease RutG
+KFKCNJGC_00890	gene	rutG
+KFKCNJGC_00891	CDS	rhlE	3.6.4.13	ATP-dependent RNA helicase RhlE
+KFKCNJGC_00891	gene	rhlE
+KFKCNJGC_00892	CDS	3.2.1.54	Cyclomaltodextrinase
+KFKCNJGC_00892	gene
+KFKCNJGC_00893	CDS	pitA	Low-affinity inorganic phosphate transporter 1
+KFKCNJGC_00893	gene	pitA
+KFKCNJGC_00894	CDS	hypothetical protein
+KFKCNJGC_00894	gene
+KFKCNJGC_00895	CDS	degU_2	Transcriptional regulatory protein DegU
+KFKCNJGC_00895	gene	degU_2
+KFKCNJGC_00896	CDS	hypothetical protein
+KFKCNJGC_00896	gene
+KFKCNJGC_00897	CDS	pacL_1	3.6.3.8	Calcium-transporting ATPase
+KFKCNJGC_00897	gene	pacL_1
+KFKCNJGC_00898	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KFKCNJGC_00898	gene	drrA_2
+KFKCNJGC_00899	CDS	hypothetical protein
+KFKCNJGC_00899	gene
+KFKCNJGC_00900	CDS	hypothetical protein
+KFKCNJGC_00900	gene
+KFKCNJGC_00901	CDS	hypothetical protein
+KFKCNJGC_00901	gene
+KFKCNJGC_00902	CDS	hypothetical protein
+KFKCNJGC_00902	gene
+KFKCNJGC_00903	CDS	hypothetical protein
+KFKCNJGC_00903	gene
+KFKCNJGC_00904	CDS	3.4.21.-	putative peptidase
+KFKCNJGC_00904	gene
+KFKCNJGC_00905	CDS	pncA	3.5.1.19	Nicotinamidase/pyrazinamidase
+KFKCNJGC_00905	gene	pncA
+KFKCNJGC_00906	CDS	hypothetical protein
+KFKCNJGC_00906	gene
+KFKCNJGC_00907	CDS	acoC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of acetoin cleaving system
+KFKCNJGC_00907	gene	acoC
+KFKCNJGC_00908	CDS	hypothetical protein
+KFKCNJGC_00908	gene
+KFKCNJGC_00909	CDS	hypothetical protein
+KFKCNJGC_00909	gene
+KFKCNJGC_00910	CDS	xanQ	Xanthine permease XanQ
+KFKCNJGC_00910	gene	xanQ
+KFKCNJGC_00911	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+KFKCNJGC_00911	gene	xpt
+KFKCNJGC_00912	CDS	uvrD1	3.6.4.12	ATP-dependent DNA helicase UvrD1
+KFKCNJGC_00912	gene	uvrD1
+KFKCNJGC_00913	CDS	hypothetical protein
+KFKCNJGC_00913	gene
+KFKCNJGC_00914	CDS	hypothetical protein
+KFKCNJGC_00914	gene
+KFKCNJGC_00915	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+KFKCNJGC_00915	gene	yknY_2
+KFKCNJGC_00916	CDS	rpsD	30S ribosomal protein S4
+KFKCNJGC_00916	gene	rpsD
+KFKCNJGC_00917	CDS	2.4.2.-	Putative glutamine amidotransferase
+KFKCNJGC_00917	gene
+KFKCNJGC_00918	CDS	hypothetical protein
+KFKCNJGC_00918	gene
+KFKCNJGC_00919	CDS	hypothetical protein
+KFKCNJGC_00919	gene
+KFKCNJGC_00920	CDS	hypothetical protein
+KFKCNJGC_00920	gene
+KFKCNJGC_00921	CDS	hypothetical protein
+KFKCNJGC_00921	gene
+KFKCNJGC_00922	CDS	hypothetical protein
+KFKCNJGC_00922	gene
+KFKCNJGC_00923	CDS	gpmA_3	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KFKCNJGC_00923	gene	gpmA_3
+KFKCNJGC_00924	CDS	hypothetical protein
+KFKCNJGC_00924	gene
+KFKCNJGC_00925	CDS	hypothetical protein
+KFKCNJGC_00925	gene
+KFKCNJGC_00926	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+KFKCNJGC_00926	gene	alaS
+KFKCNJGC_00927	CDS	3.1.-.-	Putative pre-16S rRNA nuclease
+KFKCNJGC_00927	gene
+KFKCNJGC_00928	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+KFKCNJGC_00928	gene	mltG
+KFKCNJGC_00929	CDS	hypothetical protein
+KFKCNJGC_00929	gene
+KFKCNJGC_00930	CDS	aroC	4.2.3.5	Chorismate synthase
+KFKCNJGC_00930	gene	aroC
+KFKCNJGC_00931	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+KFKCNJGC_00931	gene	aroB
+KFKCNJGC_00932	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+KFKCNJGC_00932	gene	aroQ
+KFKCNJGC_00933	CDS	pyrG	6.3.4.2	CTP synthase
+KFKCNJGC_00933	gene	pyrG
+KFKCNJGC_00934	CDS	hypothetical protein
+KFKCNJGC_00934	gene
+KFKCNJGC_00935	CDS	sufB	FeS cluster assembly protein SufB
+KFKCNJGC_00935	gene	sufB
+KFKCNJGC_00936	CDS	sufD	FeS cluster assembly protein SufD
+KFKCNJGC_00936	gene	sufD
+KFKCNJGC_00937	CDS	sufC	Vegetative protein 296
+KFKCNJGC_00937	gene	sufC
+KFKCNJGC_00938	CDS	csd	2.8.1.7	putative cysteine desulfurase
+KFKCNJGC_00938	gene	csd
+KFKCNJGC_00939	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+KFKCNJGC_00939	gene	sufU
+KFKCNJGC_00940	CDS	hypothetical protein
+KFKCNJGC_00940	gene
+KFKCNJGC_00941	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+KFKCNJGC_00941	gene	glgC
+KFKCNJGC_00942	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+KFKCNJGC_00942	gene
+KFKCNJGC_00943	tRNA	tRNA-Leu(gag)
+KFKCNJGC_00943	gene
+KFKCNJGC_00944	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+KFKCNJGC_00944	gene	rsmE
+KFKCNJGC_00945	CDS	3.9.1.-	Purine nucleoside phosphoramidase
+KFKCNJGC_00945	gene
+KFKCNJGC_00946	CDS	PhoH-like protein
+KFKCNJGC_00946	gene
+KFKCNJGC_00947	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+KFKCNJGC_00947	gene	ybeY
+KFKCNJGC_00948	CDS	corC_2	Magnesium and cobalt efflux protein CorC
+KFKCNJGC_00948	gene	corC_2
+KFKCNJGC_00949	CDS	era	GTPase Era
+KFKCNJGC_00949	gene	era
+KFKCNJGC_00950	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KFKCNJGC_00950	gene
+KFKCNJGC_00951	CDS	pntAA	1.6.1.2	NAD(P) transhydrogenase subunit alpha part 1
+KFKCNJGC_00951	gene	pntAA
+KFKCNJGC_00952	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+KFKCNJGC_00952	gene	pntA
+KFKCNJGC_00953	CDS	pntB	1.6.1.2	NAD(P) transhydrogenase subunit beta
+KFKCNJGC_00953	gene	pntB
+KFKCNJGC_00954	CDS	yhjX	putative MFS-type transporter YhjX
+KFKCNJGC_00954	gene	yhjX
+KFKCNJGC_00955	CDS	rplY	50S ribosomal protein L25
+KFKCNJGC_00955	gene	rplY
+KFKCNJGC_00956	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+KFKCNJGC_00956	gene	ilvE
+KFKCNJGC_00957	CDS	mazG	3.6.1.8	Nucleoside triphosphate pyrophosphohydrolase
+KFKCNJGC_00957	gene	mazG
+KFKCNJGC_00958	CDS	hypothetical protein
+KFKCNJGC_00958	gene
+KFKCNJGC_00959	CDS	rpsT	30S ribosomal protein S20
+KFKCNJGC_00959	gene	rpsT
+KFKCNJGC_00960	CDS	lepA	3.6.5.-	Elongation factor 4
+KFKCNJGC_00960	gene	lepA
+KFKCNJGC_00961	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+KFKCNJGC_00961	gene	hemN
+KFKCNJGC_00962	CDS	hypothetical protein
+KFKCNJGC_00962	gene
+KFKCNJGC_00963	CDS	purR_4	HTH-type transcriptional repressor PurR
+KFKCNJGC_00963	gene	purR_4
+KFKCNJGC_00964	CDS	cytR_5	HTH-type transcriptional repressor CytR
+KFKCNJGC_00964	gene	cytR_5
+KFKCNJGC_00965	CDS	gltB	1.4.1.13	Glutamate synthase [NADPH] large chain
+KFKCNJGC_00965	gene	gltB
+KFKCNJGC_00966	CDS	gltD	1.4.1.13	Glutamate synthase [NADPH] small chain
+KFKCNJGC_00966	gene	gltD
+KFKCNJGC_00967	CDS	oppA_2	Oligopeptide-binding protein OppA
+KFKCNJGC_00967	gene	oppA_2
+KFKCNJGC_00968	CDS	hypothetical protein
+KFKCNJGC_00968	gene
+KFKCNJGC_00969	CDS	hypothetical protein
+KFKCNJGC_00969	gene
+KFKCNJGC_00970	CDS	glgM	2.4.1.-	Alpha-maltose-1-phosphate synthase
+KFKCNJGC_00970	gene	glgM
+KFKCNJGC_00971	CDS	ylmA	3.6.3.-	putative ABC transporter ATP-binding protein YlmA
+KFKCNJGC_00971	gene	ylmA
+KFKCNJGC_00972	CDS	ywpJ_1	3.1.3.-	Phosphatase YwpJ
+KFKCNJGC_00972	gene	ywpJ_1
+KFKCNJGC_00973	CDS	hypothetical protein
+KFKCNJGC_00973	gene
+KFKCNJGC_00974	CDS	hypothetical protein
+KFKCNJGC_00974	gene
+KFKCNJGC_00975	CDS	hypothetical protein
+KFKCNJGC_00975	gene
+KFKCNJGC_00976	CDS	hypothetical protein
+KFKCNJGC_00976	gene
+KFKCNJGC_00977	CDS	hypothetical protein
+KFKCNJGC_00977	gene
+KFKCNJGC_00978	CDS	hypothetical protein
+KFKCNJGC_00978	gene
+KFKCNJGC_00979	CDS	bcp	1.11.1.15	Putative peroxiredoxin
+KFKCNJGC_00979	gene	bcp
+KFKCNJGC_00980	CDS	hypothetical protein
+KFKCNJGC_00980	gene
+KFKCNJGC_00981	CDS	hypothetical protein
+KFKCNJGC_00981	gene
+KFKCNJGC_00982	CDS	hypothetical protein
+KFKCNJGC_00982	gene
+KFKCNJGC_00983	CDS	hypothetical protein
+KFKCNJGC_00983	gene
+KFKCNJGC_00984	CDS	hypothetical protein
+KFKCNJGC_00984	gene
+KFKCNJGC_00985	CDS	hypothetical protein
+KFKCNJGC_00985	gene
+KFKCNJGC_00986	CDS	hypothetical protein
+KFKCNJGC_00986	gene
+KFKCNJGC_00987	CDS	hypothetical protein
+KFKCNJGC_00987	gene
+KFKCNJGC_00988	CDS	hypothetical protein
+KFKCNJGC_00988	gene
+KFKCNJGC_00989	CDS	hypothetical protein
+KFKCNJGC_00989	gene
+KFKCNJGC_00990	CDS	nlhH_2	3.1.1.1	Carboxylesterase NlhH
+KFKCNJGC_00990	gene	nlhH_2
+KFKCNJGC_00991	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+KFKCNJGC_00991	gene	ymdB
+KFKCNJGC_00992	CDS	hypothetical protein
+KFKCNJGC_00992	gene
+KFKCNJGC_00993	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+KFKCNJGC_00993	gene	tenA
+KFKCNJGC_00994	CDS	hypothetical protein
+KFKCNJGC_00994	gene
+KFKCNJGC_00995	CDS	hypothetical protein
+KFKCNJGC_00995	gene
+KFKCNJGC_00996	CDS	trmI	2.1.1.220	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+KFKCNJGC_00996	gene	trmI
+KFKCNJGC_00997	CDS	hypothetical protein
+KFKCNJGC_00997	gene
+KFKCNJGC_00998	CDS	hypothetical protein
+KFKCNJGC_00998	gene
+KFKCNJGC_00999	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+KFKCNJGC_00999	gene	metE
+KFKCNJGC_01000	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+KFKCNJGC_01000	gene	metF
+KFKCNJGC_01001	CDS	cbh	3.5.1.24	Choloylglycine hydrolase
+KFKCNJGC_01001	gene	cbh
+KFKCNJGC_01002	CDS	glnE	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+KFKCNJGC_01002	gene	glnE
+KFKCNJGC_01003	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+KFKCNJGC_01003	gene	pyrB
+KFKCNJGC_01004	CDS	pyrI	Aspartate carbamoyltransferase regulatory chain
+KFKCNJGC_01004	gene	pyrI
+KFKCNJGC_01005	CDS	pyrC	3.5.2.3	Dihydroorotase
+KFKCNJGC_01005	gene	pyrC
+KFKCNJGC_01006	CDS	pyrF_2	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+KFKCNJGC_01006	gene	pyrF_2
+KFKCNJGC_01007	CDS	pyrK	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+KFKCNJGC_01007	gene	pyrK
+KFKCNJGC_01008	CDS	pyrD_2	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+KFKCNJGC_01008	gene	pyrD_2
+KFKCNJGC_01009	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+KFKCNJGC_01009	gene	pyrE_2
+KFKCNJGC_01010	CDS	hypothetical protein
+KFKCNJGC_01010	gene
+KFKCNJGC_01011	CDS	hypothetical protein
+KFKCNJGC_01011	gene
+KFKCNJGC_01012	CDS	hcaR	Hca operon transcriptional activator HcaR
+KFKCNJGC_01012	gene	hcaR
+KFKCNJGC_01013	CDS	yihX_1	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+KFKCNJGC_01013	gene	yihX_1
+KFKCNJGC_01014	CDS	nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+KFKCNJGC_01014	gene	nnr
+KFKCNJGC_01015	CDS	ybiT_1	putative ABC transporter ATP-binding protein YbiT
+KFKCNJGC_01015	gene	ybiT_1
+KFKCNJGC_01016	CDS	lvr_1	1.1.1.-	Levodione reductase
+KFKCNJGC_01016	gene	lvr_1
+KFKCNJGC_01017	CDS	ykoD_2	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+KFKCNJGC_01017	gene	ykoD_2
+KFKCNJGC_01018	CDS	ecfT_1	Energy-coupling factor transporter transmembrane protein EcfT
+KFKCNJGC_01018	gene	ecfT_1
+KFKCNJGC_01019	CDS	patA	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+KFKCNJGC_01019	gene	patA
+KFKCNJGC_01020	CDS	uvrA_2	UvrABC system protein A
+KFKCNJGC_01020	gene	uvrA_2
+KFKCNJGC_01021	CDS	uvrC	UvrABC system protein C
+KFKCNJGC_01021	gene	uvrC
+KFKCNJGC_01022	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+KFKCNJGC_01022	gene	aroE
+KFKCNJGC_01023	CDS	Nucleotide-binding protein
+KFKCNJGC_01023	gene
+KFKCNJGC_01024	CDS	hypothetical protein
+KFKCNJGC_01024	gene
+KFKCNJGC_01025	CDS	whiA	Sporulation transcription regulator WhiA
+KFKCNJGC_01025	gene	whiA
+KFKCNJGC_01026	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+KFKCNJGC_01026	gene	pgk
+KFKCNJGC_01027	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+KFKCNJGC_01027	gene	tpiA
+KFKCNJGC_01028	CDS	secG	putative protein-export membrane protein SecG
+KFKCNJGC_01028	gene	secG
+KFKCNJGC_01029	CDS	ldhB	1.1.1.27	L-lactate dehydrogenase 2
+KFKCNJGC_01029	gene	ldhB
+KFKCNJGC_01030	CDS	ywpJ_2	3.1.3.-	Phosphatase YwpJ
+KFKCNJGC_01030	gene	ywpJ_2
+KFKCNJGC_01031	CDS	alaA_2	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+KFKCNJGC_01031	gene	alaA_2
+KFKCNJGC_01032	CDS	hypothetical protein
+KFKCNJGC_01032	gene
+KFKCNJGC_01033	CDS	brnQ	Branched-chain amino acid transport system 2 carrier protein
+KFKCNJGC_01033	gene	brnQ
+KFKCNJGC_01034	CDS	tal	2.2.1.2	Transaldolase
+KFKCNJGC_01034	gene	tal
+KFKCNJGC_01035	CDS	tkt	2.2.1.1	Transketolase
+KFKCNJGC_01035	gene	tkt
+KFKCNJGC_01036	CDS	hrcA	Heat-inducible transcription repressor HrcA
+KFKCNJGC_01036	gene	hrcA
+KFKCNJGC_01037	CDS	dnaJ2	Chaperone protein DnaJ 2
+KFKCNJGC_01037	gene	dnaJ2
+KFKCNJGC_01038	CDS	hypothetical protein
+KFKCNJGC_01038	gene
+KFKCNJGC_01039	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+KFKCNJGC_01039	gene	uppP
+KFKCNJGC_01040	CDS	hypothetical protein
+KFKCNJGC_01040	gene
+KFKCNJGC_01041	tRNA	tRNA-Gly(gcc)
+KFKCNJGC_01041	gene
+KFKCNJGC_01042	tRNA	tRNA-Cys(gca)
+KFKCNJGC_01042	gene
+KFKCNJGC_01043	tRNA	tRNA-Val(gac)
+KFKCNJGC_01043	gene
+KFKCNJGC_01044	tRNA	tRNA-Val(cac)
+KFKCNJGC_01044	gene
+KFKCNJGC_01045	tRNA	tRNA-Gly(gcc)
+KFKCNJGC_01045	gene
+KFKCNJGC_01046	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+KFKCNJGC_01046	gene	thrS
+KFKCNJGC_01047	CDS	2.7.7.53	AP-4-A phosphorylase
+KFKCNJGC_01047	gene
+KFKCNJGC_01048	CDS	putative transcriptional regulatory protein/MSMEI_2866
+KFKCNJGC_01048	gene
+KFKCNJGC_01049	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+KFKCNJGC_01049	gene	ruvC
+KFKCNJGC_01050	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+KFKCNJGC_01050	gene	ruvA
+KFKCNJGC_01051	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+KFKCNJGC_01051	gene	ruvB
+KFKCNJGC_01052	CDS	hypothetical protein
+KFKCNJGC_01052	gene
+KFKCNJGC_01053	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+KFKCNJGC_01053	gene	apt
+KFKCNJGC_01054	CDS	sucC	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+KFKCNJGC_01054	gene	sucC
+KFKCNJGC_01055	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+KFKCNJGC_01055	gene	sucD
+KFKCNJGC_01056	CDS	hypothetical protein
+KFKCNJGC_01056	gene
+KFKCNJGC_01057	CDS	purH	Bifunctional purine biosynthesis protein PurH
+KFKCNJGC_01057	gene	purH
+KFKCNJGC_01058	CDS	hypothetical protein
+KFKCNJGC_01058	gene
+KFKCNJGC_01059	CDS	aqpZ	Aquaporin Z
+KFKCNJGC_01059	gene	aqpZ
+KFKCNJGC_01060	CDS	5.4.99.-	putative RNA pseudouridine synthase
+KFKCNJGC_01060	gene
+KFKCNJGC_01061	CDS	der	GTPase Der
+KFKCNJGC_01061	gene	der
+KFKCNJGC_01062	tRNA	tRNA-Pro(ggg)
+KFKCNJGC_01062	gene
+KFKCNJGC_01063	CDS	ybjI	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+KFKCNJGC_01063	gene	ybjI
+KFKCNJGC_01064	CDS	hypothetical protein
+KFKCNJGC_01064	gene
+KFKCNJGC_01065	CDS	hypothetical protein
+KFKCNJGC_01065	gene
+KFKCNJGC_01066	CDS	hypothetical protein
+KFKCNJGC_01066	gene
+KFKCNJGC_01067	CDS	helY_1	3.6.4.-	putative helicase HelY
+KFKCNJGC_01067	gene	helY_1
+KFKCNJGC_01068	CDS	rbpA	RNA polymerase-binding protein RbpA
+KFKCNJGC_01068	gene	rbpA
+KFKCNJGC_01069	CDS	3.1.3.5	5'-nucleotidase
+KFKCNJGC_01069	gene
+KFKCNJGC_01070	CDS	hypothetical protein
+KFKCNJGC_01070	gene
+KFKCNJGC_01071	CDS	hypothetical protein
+KFKCNJGC_01071	gene
+KFKCNJGC_01072	CDS	putative HTH-type transcriptional regulator
+KFKCNJGC_01072	gene
+KFKCNJGC_01073	CDS	garA_2	Glycogen accumulation regulator GarA
+KFKCNJGC_01073	gene	garA_2
+KFKCNJGC_01074	CDS	hypothetical protein
+KFKCNJGC_01074	gene
+KFKCNJGC_01075	CDS	hypothetical protein
+KFKCNJGC_01075	gene
+KFKCNJGC_01076	CDS	hypothetical protein
+KFKCNJGC_01076	gene
+KFKCNJGC_01077	CDS	pgsA1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+KFKCNJGC_01077	gene	pgsA1
+KFKCNJGC_01078	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+KFKCNJGC_01078	gene	hisG
+KFKCNJGC_01079	CDS	hisE	3.6.1.31	Phosphoribosyl-ATP pyrophosphatase
+KFKCNJGC_01079	gene	hisE
+KFKCNJGC_01080	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+KFKCNJGC_01080	gene	rpe
+KFKCNJGC_01081	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+KFKCNJGC_01081	gene	lgt
+KFKCNJGC_01082	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+KFKCNJGC_01082	gene	trpA
+KFKCNJGC_01083	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+KFKCNJGC_01083	gene	trpB
+KFKCNJGC_01084	CDS	yedK	3.4.-.-	Putative SOS response-associated peptidase YedK
+KFKCNJGC_01084	gene	yedK
+KFKCNJGC_01085	CDS	nfo	3.1.21.2	putative endonuclease 4
+KFKCNJGC_01085	gene	nfo
+KFKCNJGC_01086	CDS	rocE_1	Amino-acid permease RocE
+KFKCNJGC_01086	gene	rocE_1
+KFKCNJGC_01087	CDS	hypothetical protein
+KFKCNJGC_01087	gene
+KFKCNJGC_01088	CDS	hypothetical protein
+KFKCNJGC_01088	gene
+KFKCNJGC_01089	CDS	cefD	5.1.1.17	Isopenicillin N epimerase
+KFKCNJGC_01089	gene	cefD
+KFKCNJGC_01090	CDS	hypothetical protein
+KFKCNJGC_01090	gene
+KFKCNJGC_01091	CDS	hypothetical protein
+KFKCNJGC_01091	gene
+KFKCNJGC_01092	CDS	hypothetical protein
+KFKCNJGC_01092	gene
+KFKCNJGC_01093	CDS	hypothetical protein
+KFKCNJGC_01093	gene
+KFKCNJGC_01094	CDS	hypothetical protein
+KFKCNJGC_01094	gene
+KFKCNJGC_01095	CDS	hypothetical protein
+KFKCNJGC_01095	gene
+KFKCNJGC_01096	CDS	hypothetical protein
+KFKCNJGC_01096	gene
+KFKCNJGC_01097	CDS	hypothetical protein
+KFKCNJGC_01097	gene
+KFKCNJGC_01098	CDS	vraR_1	Response regulator protein VraR
+KFKCNJGC_01098	gene	vraR_1
+KFKCNJGC_01099	CDS	hypothetical protein
+KFKCNJGC_01099	gene
+KFKCNJGC_01100	CDS	hypothetical protein
+KFKCNJGC_01100	gene
+KFKCNJGC_01101	CDS	yknY_3	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+KFKCNJGC_01101	gene	yknY_3
+KFKCNJGC_01102	CDS	macB_3	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+KFKCNJGC_01102	gene	macB_3
+KFKCNJGC_01103	CDS	hypothetical protein
+KFKCNJGC_01103	gene
+KFKCNJGC_01104	CDS	yafQ	3.1.-.-	mRNA interferase YafQ
+KFKCNJGC_01104	gene	yafQ
+KFKCNJGC_01105	CDS	hypothetical protein
+KFKCNJGC_01105	gene
+KFKCNJGC_01106	CDS	rpoE	ECF RNA polymerase sigma-E factor
+KFKCNJGC_01106	gene	rpoE
+KFKCNJGC_01107	CDS	hypothetical protein
+KFKCNJGC_01107	gene
+KFKCNJGC_01108	CDS	hypothetical protein
+KFKCNJGC_01108	gene
+KFKCNJGC_01109	CDS	hypothetical protein
+KFKCNJGC_01109	gene
+KFKCNJGC_01110	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+KFKCNJGC_01110	gene	yxlF_2
+KFKCNJGC_01111	CDS	hypothetical protein
+KFKCNJGC_01111	gene
+KFKCNJGC_01112	CDS	hypothetical protein
+KFKCNJGC_01112	gene
+KFKCNJGC_01113	CDS	rhtA	Threonine/homoserine exporter RhtA
+KFKCNJGC_01113	gene	rhtA
+KFKCNJGC_01114	CDS	hypothetical protein
+KFKCNJGC_01114	gene
+KFKCNJGC_01115	CDS	hypothetical protein
+KFKCNJGC_01115	gene
+KFKCNJGC_01116	CDS	yxlF_3	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+KFKCNJGC_01116	gene	yxlF_3
+KFKCNJGC_01117	CDS	hypothetical protein
+KFKCNJGC_01117	gene
+KFKCNJGC_01118	CDS	hypothetical protein
+KFKCNJGC_01118	gene
+KFKCNJGC_01119	CDS	hypothetical protein
+KFKCNJGC_01119	gene
+KFKCNJGC_01120	CDS	hypothetical protein
+KFKCNJGC_01120	gene
+KFKCNJGC_01121	CDS	hypothetical protein
+KFKCNJGC_01121	gene
+KFKCNJGC_01122	CDS	hypothetical protein
+KFKCNJGC_01122	gene
+KFKCNJGC_01123	CDS	hypothetical protein
+KFKCNJGC_01123	gene
+KFKCNJGC_01124	CDS	rocE_2	Amino-acid permease RocE
+KFKCNJGC_01124	gene	rocE_2
+KFKCNJGC_01125	CDS	hypothetical protein
+KFKCNJGC_01125	gene
+KFKCNJGC_01126	CDS	hypothetical protein
+KFKCNJGC_01126	gene
+KFKCNJGC_01127	CDS	hypothetical protein
+KFKCNJGC_01127	gene
+KFKCNJGC_01128	CDS	hypothetical protein
+KFKCNJGC_01128	gene
+KFKCNJGC_01129	CDS	hypothetical protein
+KFKCNJGC_01129	gene
+KFKCNJGC_01130	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+KFKCNJGC_01130	gene	trpE
+KFKCNJGC_01131	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+KFKCNJGC_01131	gene	hisI
+KFKCNJGC_01132	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+KFKCNJGC_01132	gene	hisF
+KFKCNJGC_01133	CDS	yraA	3.2.-.-	Putative cysteine protease YraA
+KFKCNJGC_01133	gene	yraA
+KFKCNJGC_01134	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+KFKCNJGC_01134	gene	rlmN
+KFKCNJGC_01135	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+KFKCNJGC_01135	gene	cdsA
+KFKCNJGC_01136	CDS	frr	Ribosome-recycling factor
+KFKCNJGC_01136	gene	frr
+KFKCNJGC_01137	CDS	pyrH	2.7.4.22	Uridylate kinase
+KFKCNJGC_01137	gene	pyrH
+KFKCNJGC_01138	CDS	tsf	Elongation factor Ts
+KFKCNJGC_01138	gene	tsf
+KFKCNJGC_01139	CDS	rpsB	30S ribosomal protein S2
+KFKCNJGC_01139	gene	rpsB
+KFKCNJGC_01140	CDS	def_2	3.5.1.88	Peptide deformylase
+KFKCNJGC_01140	gene	def_2
+KFKCNJGC_01141	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KFKCNJGC_01141	gene
+KFKCNJGC_01142	CDS	hypothetical protein
+KFKCNJGC_01142	gene
+KFKCNJGC_01143	CDS	1.-.-.-	putative oxidoreductase/MSMEI_1564
+KFKCNJGC_01143	gene
+KFKCNJGC_01144	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+KFKCNJGC_01144	gene	icd
+KFKCNJGC_01145	CDS	hypothetical protein
+KFKCNJGC_01145	gene
+KFKCNJGC_01146	CDS	hypothetical protein
+KFKCNJGC_01146	gene
+KFKCNJGC_01147	tRNA	tRNA-Asn(gtt)
+KFKCNJGC_01147	gene
+KFKCNJGC_01148	CDS	hypothetical protein
+KFKCNJGC_01148	gene
+KFKCNJGC_01149	CDS	hypothetical protein
+KFKCNJGC_01149	gene
+KFKCNJGC_01150	CDS	hypothetical protein
+KFKCNJGC_01150	gene
+KFKCNJGC_01151	CDS	hypothetical protein
+KFKCNJGC_01151	gene
+KFKCNJGC_01152	CDS	rbbA	Ribosome-associated ATPase
+KFKCNJGC_01152	gene	rbbA
+KFKCNJGC_01153	CDS	hypothetical protein
+KFKCNJGC_01153	gene
+KFKCNJGC_01154	CDS	hypothetical protein
+KFKCNJGC_01154	gene
+KFKCNJGC_01155	CDS	hypothetical protein
+KFKCNJGC_01155	gene
+KFKCNJGC_01156	CDS	hypothetical protein
+KFKCNJGC_01156	gene
+KFKCNJGC_01157	CDS	desK	2.7.13.3	Sensor histidine kinase DesK
+KFKCNJGC_01157	gene	desK
+KFKCNJGC_01158	CDS	degU_3	Transcriptional regulatory protein DegU
+KFKCNJGC_01158	gene	degU_3
+KFKCNJGC_01159	tRNA	tRNA-Asn(gtt)
+KFKCNJGC_01159	gene
+KFKCNJGC_01160	CDS	tsaD_1	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+KFKCNJGC_01160	gene	tsaD_1
+KFKCNJGC_01161	CDS	rimI_1	2.3.1.255	N-alpha-acetyltransferase RimI
+KFKCNJGC_01161	gene	rimI_1
+KFKCNJGC_01162	CDS	tsaD_2	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+KFKCNJGC_01162	gene	tsaD_2
+KFKCNJGC_01163	CDS	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+KFKCNJGC_01163	gene	tsaE
+KFKCNJGC_01164	CDS	hypothetical protein
+KFKCNJGC_01164	gene
+KFKCNJGC_01165	CDS	comEC	ComE operon protein 3
+KFKCNJGC_01165	gene	comEC
+KFKCNJGC_01166	CDS	comEA	ComE operon protein 1
+KFKCNJGC_01166	gene	comEA
+KFKCNJGC_01167	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+KFKCNJGC_01167	gene	leuS
+KFKCNJGC_01168	CDS	glnH_4	ABC transporter glutamine-binding protein GlnH
+KFKCNJGC_01168	gene	glnH_4
+KFKCNJGC_01169	CDS	corA	Cobalt/magnesium transport protein CorA
+KFKCNJGC_01169	gene	corA
+KFKCNJGC_01170	CDS	gpgP_2	3.1.3.85	Glucosyl-3-phosphoglycerate phosphatase
+KFKCNJGC_01170	gene	gpgP_2
+KFKCNJGC_01171	CDS	hypothetical protein
+KFKCNJGC_01171	gene
+KFKCNJGC_01172	CDS	hypothetical protein
+KFKCNJGC_01172	gene
+KFKCNJGC_01173	CDS	hypothetical protein
+KFKCNJGC_01173	gene
+KFKCNJGC_01174	CDS	hypothetical protein
+KFKCNJGC_01174	gene
+KFKCNJGC_01175	CDS	hypothetical protein
+KFKCNJGC_01175	gene
+KFKCNJGC_01176	CDS	hypothetical protein
+KFKCNJGC_01176	gene
+KFKCNJGC_01177	CDS	yihS	5.3.1.31	Sulfoquinovose isomerase
+KFKCNJGC_01177	gene	yihS
+KFKCNJGC_01178	CDS	cytR_6	HTH-type transcriptional repressor CytR
+KFKCNJGC_01178	gene	cytR_6
+KFKCNJGC_01179	CDS	Int-Tn_1	Transposase from transposon Tn916
+KFKCNJGC_01179	gene	Int-Tn_1
+KFKCNJGC_01180	CDS	hypothetical protein
+KFKCNJGC_01180	gene
+KFKCNJGC_01181	CDS	hypothetical protein
+KFKCNJGC_01181	gene
+KFKCNJGC_01182	CDS	hypothetical protein
+KFKCNJGC_01182	gene
+KFKCNJGC_01183	CDS	luxO	Luminescence regulatory protein LuxO
+KFKCNJGC_01183	gene	luxO
+KFKCNJGC_01184	CDS	hypothetical protein
+KFKCNJGC_01184	gene
+KFKCNJGC_01185	CDS	Invasin
+KFKCNJGC_01185	gene
+KFKCNJGC_01186	CDS	hypothetical protein
+KFKCNJGC_01186	gene
+KFKCNJGC_01187	CDS	hypothetical protein
+KFKCNJGC_01187	gene
+KFKCNJGC_01188	CDS	hypothetical protein
+KFKCNJGC_01188	gene
+KFKCNJGC_01189	CDS	3.2.1.96	Endo-beta-N-acetylglucosaminidase
+KFKCNJGC_01189	gene
+KFKCNJGC_01190	CDS	3.2.1.21	Beta-glucosidase BoGH3B
+KFKCNJGC_01190	gene
+KFKCNJGC_01191	CDS	hypothetical protein
+KFKCNJGC_01191	gene
+KFKCNJGC_01192	CDS	araQ_6	L-arabinose transport system permease protein AraQ
+KFKCNJGC_01192	gene	araQ_6
+KFKCNJGC_01193	CDS	lacF_6	Lactose transport system permease protein LacF
+KFKCNJGC_01193	gene	lacF_6
+KFKCNJGC_01194	CDS	araN_3	putative arabinose-binding protein
+KFKCNJGC_01194	gene	araN_3
+KFKCNJGC_01195	CDS	mngB_1	3.2.1.170	Mannosylglycerate hydrolase
+KFKCNJGC_01195	gene	mngB_1
+KFKCNJGC_01196	CDS	mngB_2	3.2.1.170	Mannosylglycerate hydrolase
+KFKCNJGC_01196	gene	mngB_2
+KFKCNJGC_01197	CDS	hypothetical protein
+KFKCNJGC_01197	gene
+KFKCNJGC_01198	CDS	hypothetical protein
+KFKCNJGC_01198	gene
+KFKCNJGC_01199	CDS	fic_2	2.7.7.-	Adenosine monophosphate-protein transferase SoFic
+KFKCNJGC_01199	gene	fic_2
+KFKCNJGC_01200	CDS	hypothetical protein
+KFKCNJGC_01200	gene
+KFKCNJGC_01201	CDS	hypothetical protein
+KFKCNJGC_01201	gene
+KFKCNJGC_01202	CDS	hypothetical protein
+KFKCNJGC_01202	gene
+KFKCNJGC_01203	CDS	cypB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+KFKCNJGC_01203	gene	cypB
+KFKCNJGC_01204	CDS	relA	Bifunctional (p)ppGpp synthase/hydrolase RelA
+KFKCNJGC_01204	gene	relA
+KFKCNJGC_01205	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+KFKCNJGC_01205	gene	dut
+KFKCNJGC_01206	CDS	hypothetical protein
+KFKCNJGC_01206	gene
+KFKCNJGC_01207	CDS	hypothetical protein
+KFKCNJGC_01207	gene
+KFKCNJGC_01208	CDS	hypothetical protein
+KFKCNJGC_01208	gene
+KFKCNJGC_01209	CDS	gyrA_2	5.99.1.3	DNA gyrase subunit A
+KFKCNJGC_01209	gene	gyrA_2
+KFKCNJGC_01210	CDS	hypothetical protein
+KFKCNJGC_01210	gene
+KFKCNJGC_01211	CDS	araN_4	putative arabinose-binding protein
+KFKCNJGC_01211	gene	araN_4
+KFKCNJGC_01212	CDS	soxS_2	Regulatory protein SoxS
+KFKCNJGC_01212	gene	soxS_2
+KFKCNJGC_01213	CDS	hypothetical protein
+KFKCNJGC_01213	gene
+KFKCNJGC_01214	CDS	hypothetical protein
+KFKCNJGC_01214	gene
+KFKCNJGC_01215	CDS	srmB	3.6.4.13	ATP-dependent RNA helicase SrmB
+KFKCNJGC_01215	gene	srmB
+KFKCNJGC_01216	CDS	rbsK_1	2.7.1.15	Ribokinase
+KFKCNJGC_01216	gene	rbsK_1
+KFKCNJGC_01217	CDS	hypothetical protein
+KFKCNJGC_01217	gene
+KFKCNJGC_01218	CDS	gyrB_2	5.99.1.3	DNA gyrase subunit B
+KFKCNJGC_01218	gene	gyrB_2
+KFKCNJGC_01219	CDS	hrdB	RNA polymerase principal sigma factor HrdB
+KFKCNJGC_01219	gene	hrdB
+KFKCNJGC_01220	CDS	hypothetical protein
+KFKCNJGC_01220	gene
+KFKCNJGC_01221	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+KFKCNJGC_01221	gene	ispB
+KFKCNJGC_01222	CDS	spk1	2.7.11.1	Serine/threonine-protein kinase PK-1
+KFKCNJGC_01222	gene	spk1
+KFKCNJGC_01223	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KFKCNJGC_01223	gene	plsC
+KFKCNJGC_01224	CDS	hypothetical protein
+KFKCNJGC_01224	gene
+KFKCNJGC_01225	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+KFKCNJGC_01225	gene	trpD
+KFKCNJGC_01226	CDS	secA	Protein translocase subunit SecA
+KFKCNJGC_01226	gene	secA
+KFKCNJGC_01227	CDS	hpf	Ribosome hibernation promotion factor
+KFKCNJGC_01227	gene	hpf
+KFKCNJGC_01228	CDS	recX	Regulatory protein RecX
+KFKCNJGC_01228	gene	recX
+KFKCNJGC_01229	CDS	recA	Protein RecA
+KFKCNJGC_01229	gene	recA
+KFKCNJGC_01230	CDS	hypothetical protein
+KFKCNJGC_01230	gene
+KFKCNJGC_01231	CDS	clgR	Transcriptional regulator ClgR
+KFKCNJGC_01231	gene	clgR
+KFKCNJGC_01232	CDS	cinA	CinA-like protein
+KFKCNJGC_01232	gene	cinA
+KFKCNJGC_01233	CDS	pgsA2	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+KFKCNJGC_01233	gene	pgsA2
+KFKCNJGC_01234	CDS	ftsK	DNA translocase FtsK
+KFKCNJGC_01234	gene	ftsK
+KFKCNJGC_01235	CDS	fic_3	2.7.7.-	putative adenosine monophosphate-protein transferase fic
+KFKCNJGC_01235	gene	fic_3
+KFKCNJGC_01236	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+KFKCNJGC_01236	gene	miaA
+KFKCNJGC_01237	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+KFKCNJGC_01237	gene	miaB
+KFKCNJGC_01238	CDS	ywaC	2.7.6.5	GTP pyrophosphokinase YwaC
+KFKCNJGC_01238	gene	ywaC
+KFKCNJGC_01239	CDS	hypothetical protein
+KFKCNJGC_01239	gene
+KFKCNJGC_01240	CDS	ybhL	Inner membrane protein YbhL
+KFKCNJGC_01240	gene	ybhL
+KFKCNJGC_01241	CDS	vraR_2	Response regulator protein VraR
+KFKCNJGC_01241	gene	vraR_2
+KFKCNJGC_01242	CDS	hypothetical protein
+KFKCNJGC_01242	gene
+KFKCNJGC_01243	CDS	acn	4.2.1.3	Aconitate hydratase A
+KFKCNJGC_01243	gene	acn
+KFKCNJGC_01244	CDS	ctpE	3.6.3.-	putative cation-transporting ATPase E
+KFKCNJGC_01244	gene	ctpE
+KFKCNJGC_01245	CDS	hypothetical protein
+KFKCNJGC_01245	gene
+KFKCNJGC_01246	CDS	rlmD	2.1.1.190	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+KFKCNJGC_01246	gene	rlmD
+KFKCNJGC_01247	CDS	hypothetical protein
+KFKCNJGC_01247	gene
+KFKCNJGC_01248	CDS	hypothetical protein
+KFKCNJGC_01248	gene
+KFKCNJGC_01249	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+KFKCNJGC_01249	gene	exoA
+KFKCNJGC_01250	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+KFKCNJGC_01250	gene	gsiA
+KFKCNJGC_01251	CDS	oppC	Oligopeptide transport system permease protein OppC
+KFKCNJGC_01251	gene	oppC
+KFKCNJGC_01252	CDS	gsiC_2	Glutathione transport system permease protein GsiC
+KFKCNJGC_01252	gene	gsiC_2
+KFKCNJGC_01253	CDS	dppE	Dipeptide-binding protein DppE
+KFKCNJGC_01253	gene	dppE
+KFKCNJGC_01254	CDS	xerC	Tyrosine recombinase XerC
+KFKCNJGC_01254	gene	xerC
+KFKCNJGC_01255	CDS	bceA_2	Bacitracin export ATP-binding protein BceA
+KFKCNJGC_01255	gene	bceA_2
+KFKCNJGC_01256	CDS	ytrF_3	ABC transporter permease YtrF
+KFKCNJGC_01256	gene	ytrF_3
+KFKCNJGC_01257	CDS	hypothetical protein
+KFKCNJGC_01257	gene
+KFKCNJGC_01258	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+KFKCNJGC_01258	gene	tyrA
+KFKCNJGC_01259	CDS	pheA	4.2.1.51	Prephenate dehydratase
+KFKCNJGC_01259	gene	pheA
+KFKCNJGC_01260	CDS	hypothetical protein
+KFKCNJGC_01260	gene
+KFKCNJGC_01261	CDS	typA	GTP-binding protein TypA/BipA
+KFKCNJGC_01261	gene	typA
+KFKCNJGC_01262	CDS	hypothetical protein
+KFKCNJGC_01262	gene
+KFKCNJGC_01263	CDS	yknY_4	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+KFKCNJGC_01263	gene	yknY_4
+KFKCNJGC_01264	CDS	hypothetical protein
+KFKCNJGC_01264	gene
+KFKCNJGC_01265	CDS	hypothetical protein
+KFKCNJGC_01265	gene
+KFKCNJGC_01266	CDS	iscS	2.8.1.7	IscS-like cysteine desulfurase
+KFKCNJGC_01266	gene	iscS
+KFKCNJGC_01267	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+KFKCNJGC_01267	gene	nadC
+KFKCNJGC_01268	CDS	nadB	1.4.3.16	L-aspartate oxidase
+KFKCNJGC_01268	gene	nadB
+KFKCNJGC_01269	CDS	nadA	2.5.1.72	Quinolinate synthase A
+KFKCNJGC_01269	gene	nadA
+KFKCNJGC_01270	CDS	hypothetical protein
+KFKCNJGC_01270	gene
+KFKCNJGC_01271	CDS	scpB	Segregation and condensation protein B
+KFKCNJGC_01271	gene	scpB
+KFKCNJGC_01272	CDS	scpA	Segregation and condensation protein A
+KFKCNJGC_01272	gene	scpA
+KFKCNJGC_01273	CDS	soj_1	3.6.-.-	Sporulation initiation inhibitor protein Soj
+KFKCNJGC_01273	gene	soj_1
+KFKCNJGC_01274	CDS	xerD	Tyrosine recombinase XerD
+KFKCNJGC_01274	gene	xerD
+KFKCNJGC_01275	CDS	glxK	2.7.1.31	Glycerate 3-kinase
+KFKCNJGC_01275	gene	glxK
+KFKCNJGC_01276	CDS	gntP	High-affinity gluconate transporter
+KFKCNJGC_01276	gene	gntP
+KFKCNJGC_01277	CDS	cdaR	Carbohydrate diacid regulator
+KFKCNJGC_01277	gene	cdaR
+KFKCNJGC_01278	CDS	rplT	50S ribosomal protein L20
+KFKCNJGC_01278	gene	rplT
+KFKCNJGC_01279	CDS	rpmI	50S ribosomal protein L35
+KFKCNJGC_01279	gene	rpmI
+KFKCNJGC_01280	CDS	infC	Translation initiation factor IF-3
+KFKCNJGC_01280	gene	infC
+KFKCNJGC_01281	CDS	hypothetical protein
+KFKCNJGC_01281	gene
+KFKCNJGC_01282	CDS	hypothetical protein
+KFKCNJGC_01282	gene
+KFKCNJGC_01283	CDS	hypothetical protein
+KFKCNJGC_01283	gene
+KFKCNJGC_01284	CDS	gap	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+KFKCNJGC_01284	gene	gap
+KFKCNJGC_01285	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+KFKCNJGC_01285	gene	ybaK
+KFKCNJGC_01286	CDS	ispH1	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase 1
+KFKCNJGC_01286	gene	ispH1
+KFKCNJGC_01287	CDS	galM_1	5.1.3.3	Aldose 1-epimerase
+KFKCNJGC_01287	gene	galM_1
+KFKCNJGC_01288	CDS	galM_2	5.1.3.3	Aldose 1-epimerase
+KFKCNJGC_01288	gene	galM_2
+KFKCNJGC_01289	CDS	hypothetical protein
+KFKCNJGC_01289	gene
+KFKCNJGC_01290	CDS	sigH	ECF RNA polymerase sigma factor SigH
+KFKCNJGC_01290	gene	sigH
+KFKCNJGC_01291	CDS	murE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+KFKCNJGC_01291	gene	murE
+KFKCNJGC_01292	CDS	hypothetical protein
+KFKCNJGC_01292	gene
+KFKCNJGC_01293	CDS	hypothetical protein
+KFKCNJGC_01293	gene
+KFKCNJGC_01294	CDS	smc_4	Chromosome partition protein Smc
+KFKCNJGC_01294	gene	smc_4
+KFKCNJGC_01295	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+KFKCNJGC_01295	gene	folC
+KFKCNJGC_01296	CDS	pepPI	3.4.11.9	Xaa-Pro aminopeptidase 1
+KFKCNJGC_01296	gene	pepPI
+KFKCNJGC_01297	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+KFKCNJGC_01297	gene	rppH
+KFKCNJGC_01298	CDS	nagA_2	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+KFKCNJGC_01298	gene	nagA_2
+KFKCNJGC_01299	CDS	nagB_3	3.5.99.6	Glucosamine-6-phosphate deaminase
+KFKCNJGC_01299	gene	nagB_3
+KFKCNJGC_01300	CDS	nagC_2	N-acetylglucosamine repressor
+KFKCNJGC_01300	gene	nagC_2
+KFKCNJGC_01301	CDS	glcK	2.7.1.2	Glucokinase
+KFKCNJGC_01301	gene	glcK
+KFKCNJGC_01302	CDS	nagC_3	N-acetylglucosamine repressor
+KFKCNJGC_01302	gene	nagC_3
+KFKCNJGC_01303	CDS	hldE	2.7.7.70	Bifunctional protein HldE
+KFKCNJGC_01303	gene	hldE
+KFKCNJGC_01304	CDS	hypothetical protein
+KFKCNJGC_01304	gene
+KFKCNJGC_01305	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+KFKCNJGC_01305	gene	dtd
+KFKCNJGC_01306	tmRNA	ssrA	transfer-messenger RNA, SsrA
+KFKCNJGC_01306	gene	ssrA
+KFKCNJGC_01307	CDS	ftsQ	Cell division protein FtsQ
+KFKCNJGC_01307	gene	ftsQ
+KFKCNJGC_01308	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+KFKCNJGC_01308	gene	murC
+KFKCNJGC_01309	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+KFKCNJGC_01309	gene	murG
+KFKCNJGC_01310	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+KFKCNJGC_01310	gene	ftsW
+KFKCNJGC_01311	CDS	murD_2	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+KFKCNJGC_01311	gene	murD_2
+KFKCNJGC_01312	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+KFKCNJGC_01312	gene	mraY
+KFKCNJGC_01313	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KFKCNJGC_01313	gene	murF
+KFKCNJGC_01314	CDS	hypothetical protein
+KFKCNJGC_01314	gene
+KFKCNJGC_01315	CDS	pbpB	Penicillin-binding protein PbpB
+KFKCNJGC_01315	gene	pbpB
+KFKCNJGC_01316	CDS	hypothetical protein
+KFKCNJGC_01316	gene
+KFKCNJGC_01317	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+KFKCNJGC_01317	gene	rsmH
+KFKCNJGC_01318	CDS	mraZ	Transcriptional regulator MraZ
+KFKCNJGC_01318	gene	mraZ
+KFKCNJGC_01319	CDS	helD	3.6.4.12	DNA helicase IV
+KFKCNJGC_01319	gene	helD
+KFKCNJGC_01320	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+KFKCNJGC_01320	gene	serA
+KFKCNJGC_01321	CDS	nrdR	Transcriptional repressor NrdR
+KFKCNJGC_01321	gene	nrdR
+KFKCNJGC_01322	CDS	hypothetical protein
+KFKCNJGC_01322	gene
+KFKCNJGC_01323	CDS	lexA	3.4.21.88	LexA repressor
+KFKCNJGC_01323	gene	lexA
+KFKCNJGC_01324	CDS	czcD	Metal cation efflux system protein CzcD
+KFKCNJGC_01324	gene	czcD
+KFKCNJGC_01325	CDS	ldh2	1.1.1.27	L-lactate dehydrogenase 2
+KFKCNJGC_01325	gene	ldh2
+KFKCNJGC_01326	CDS	hflX	GTPase HflX
+KFKCNJGC_01326	gene	hflX
+KFKCNJGC_01327	CDS	rlmG	2.1.1.174	Ribosomal RNA large subunit methyltransferase G
+KFKCNJGC_01327	gene	rlmG
+KFKCNJGC_01328	CDS	hypothetical protein
+KFKCNJGC_01328	gene
+KFKCNJGC_01329	CDS	pbuE	Purine efflux pump PbuE
+KFKCNJGC_01329	gene	pbuE
+KFKCNJGC_01330	CDS	glnA2	6.3.1.2	Glutamine synthetase 2
+KFKCNJGC_01330	gene	glnA2
+KFKCNJGC_01331	CDS	hypothetical protein
+KFKCNJGC_01331	gene
+KFKCNJGC_01332	CDS	priA_1	5.3.1.16	Phosphoribosyl isomerase A
+KFKCNJGC_01332	gene	priA_1
+KFKCNJGC_01333	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+KFKCNJGC_01333	gene	hisH
+KFKCNJGC_01334	CDS	hypothetical protein
+KFKCNJGC_01334	gene
+KFKCNJGC_01335	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+KFKCNJGC_01335	gene	hisB
+KFKCNJGC_01336	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+KFKCNJGC_01336	gene	hisC
+KFKCNJGC_01337	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+KFKCNJGC_01337	gene	hisD
+KFKCNJGC_01338	CDS	acyP	3.6.1.7	Acylphosphatase
+KFKCNJGC_01338	gene	acyP
+KFKCNJGC_01339	CDS	ytbE	1.-.-.-	putative oxidoreductase YtbE
+KFKCNJGC_01339	gene	ytbE
+KFKCNJGC_01340	CDS	hypothetical protein
+KFKCNJGC_01340	gene
+KFKCNJGC_01341	CDS	yagE_2	4.1.2.-	putative 2-keto-3-deoxy-galactonate aldolase YagE
+KFKCNJGC_01341	gene	yagE_2
+KFKCNJGC_01342	CDS	hypothetical protein
+KFKCNJGC_01342	gene
+KFKCNJGC_01343	CDS	1.1.1.53	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+KFKCNJGC_01343	gene
+KFKCNJGC_01344	CDS	4.2.1.68	L-fuconate dehydratase
+KFKCNJGC_01344	gene
+KFKCNJGC_01345	rRNA	23S ribosomal RNA
+KFKCNJGC_01345	gene
+KFKCNJGC_01346	rRNA	16S ribosomal RNA
+KFKCNJGC_01346	gene
+KFKCNJGC_01347	CDS	4.2.1.53	Oleate hydratase
+KFKCNJGC_01347	gene
+KFKCNJGC_01348	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+KFKCNJGC_01348	gene
+KFKCNJGC_01349	CDS	hypothetical protein
+KFKCNJGC_01349	gene
+KFKCNJGC_01350	CDS	dnaE1	2.7.7.7	DNA polymerase III subunit alpha
+KFKCNJGC_01350	gene	dnaE1
+KFKCNJGC_01351	CDS	hypothetical protein
+KFKCNJGC_01351	gene
+KFKCNJGC_01352	CDS	5.4.99.-	putative RNA pseudouridine synthase
+KFKCNJGC_01352	gene
+KFKCNJGC_01353	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+KFKCNJGC_01353	gene	lspA
+KFKCNJGC_01354	CDS	smc_5	Chromosome partition protein Smc
+KFKCNJGC_01354	gene	smc_5
+KFKCNJGC_01355	CDS	hypothetical protein
+KFKCNJGC_01355	gene
+KFKCNJGC_01356	CDS	sepF	Cell division protein SepF
+KFKCNJGC_01356	gene	sepF
+KFKCNJGC_01357	CDS	ftsZ	Cell division protein FtsZ
+KFKCNJGC_01357	gene	ftsZ
+KFKCNJGC_01358	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+KFKCNJGC_01358	gene	dus
+KFKCNJGC_01359	CDS	glyQS	6.1.1.14	Glycine--tRNA ligase
+KFKCNJGC_01359	gene	glyQS
+KFKCNJGC_01360	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+KFKCNJGC_01360	gene	thiM
+KFKCNJGC_01361	CDS	thiC	4.1.99.17	Phosphomethylpyrimidine synthase
+KFKCNJGC_01361	gene	thiC
+KFKCNJGC_01362	CDS	ftsH4	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 4
+KFKCNJGC_01362	gene	ftsH4
+KFKCNJGC_01363	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+KFKCNJGC_01363	gene	thiD
+KFKCNJGC_01364	CDS	hypothetical protein
+KFKCNJGC_01364	gene
+KFKCNJGC_01365	CDS	ydjE	Inner membrane metabolite transport protein YdjE
+KFKCNJGC_01365	gene	ydjE
+KFKCNJGC_01366	CDS	hypothetical protein
+KFKCNJGC_01366	gene
+KFKCNJGC_01367	CDS	devR	Transcriptional regulatory protein DevR (DosR)
+KFKCNJGC_01367	gene	devR
+KFKCNJGC_01368	CDS	hypothetical protein
+KFKCNJGC_01368	gene
+KFKCNJGC_01369	CDS	hypothetical protein
+KFKCNJGC_01369	gene
+KFKCNJGC_01370	CDS	degA_4	HTH-type transcriptional regulator DegA
+KFKCNJGC_01370	gene	degA_4
+KFKCNJGC_01371	CDS	lacY	Lactose permease
+KFKCNJGC_01371	gene	lacY
+KFKCNJGC_01372	CDS	sacA	3.2.1.26	Sucrose-6-phosphate hydrolase
+KFKCNJGC_01372	gene	sacA
+KFKCNJGC_01373	CDS	ppgK	2.7.1.63	Polyphosphate glucokinase
+KFKCNJGC_01373	gene	ppgK
+KFKCNJGC_01374	CDS	hypothetical protein
+KFKCNJGC_01374	gene
+KFKCNJGC_01375	CDS	hypothetical protein
+KFKCNJGC_01375	gene
+KFKCNJGC_01376	CDS	ribU	Riboflavin transporter RibU
+KFKCNJGC_01376	gene	ribU
+KFKCNJGC_01377	CDS	ykoD_3	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+KFKCNJGC_01377	gene	ykoD_3
+KFKCNJGC_01378	CDS	yhbY	RNA-binding protein YhbY
+KFKCNJGC_01378	gene	yhbY
+KFKCNJGC_01379	CDS	hypothetical protein
+KFKCNJGC_01379	gene
+KFKCNJGC_01380	CDS	hypothetical protein
+KFKCNJGC_01380	gene
+KFKCNJGC_01381	CDS	hprA_1	1.1.1.29	Glycerate dehydrogenase
+KFKCNJGC_01381	gene	hprA_1
+KFKCNJGC_01382	CDS	hsrA	putative transport protein HsrA
+KFKCNJGC_01382	gene	hsrA
+KFKCNJGC_01383	CDS	afsQ1	Transcriptional regulatory protein AfsQ1
+KFKCNJGC_01383	gene	afsQ1
+KFKCNJGC_01384	CDS	hypothetical protein
+KFKCNJGC_01384	gene
+KFKCNJGC_01385	CDS	putative AAA domain-containing protein
+KFKCNJGC_01385	gene
+KFKCNJGC_01386	CDS	helY_2	3.6.4.-	putative helicase HelY
+KFKCNJGC_01386	gene	helY_2
+KFKCNJGC_01387	CDS	hypothetical protein
+KFKCNJGC_01387	gene
+KFKCNJGC_01388	CDS	hypothetical protein
+KFKCNJGC_01388	gene
+KFKCNJGC_01389	CDS	norG	HTH-type transcriptional regulator NorG
+KFKCNJGC_01389	gene	norG
+KFKCNJGC_01390	CDS	argO	Arginine exporter protein ArgO
+KFKCNJGC_01390	gene	argO
+KFKCNJGC_01391	CDS	hypothetical protein
+KFKCNJGC_01391	gene
+KFKCNJGC_01392	CDS	glnP_3	putative glutamine ABC transporter permease protein GlnP
+KFKCNJGC_01392	gene	glnP_3
+KFKCNJGC_01393	CDS	glnM	putative glutamine ABC transporter permease protein GlnM
+KFKCNJGC_01393	gene	glnM
+KFKCNJGC_01394	CDS	glnH_5	ABC transporter glutamine-binding protein GlnH
+KFKCNJGC_01394	gene	glnH_5
+KFKCNJGC_01395	CDS	glnQ_3	Glutamine transport ATP-binding protein GlnQ
+KFKCNJGC_01395	gene	glnQ_3
+KFKCNJGC_01396	CDS	hypothetical protein
+KFKCNJGC_01396	gene
+KFKCNJGC_01397	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+KFKCNJGC_01397	gene	aspS
+KFKCNJGC_01398	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+KFKCNJGC_01398	gene	hisS
+KFKCNJGC_01399	CDS	hypothetical protein
+KFKCNJGC_01399	gene
+KFKCNJGC_01400	CDS	yhcR	3.1.31.-	Endonuclease YhcR
+KFKCNJGC_01400	gene	yhcR
+KFKCNJGC_01401	CDS	aes_1	3.1.1.-	Acetyl esterase
+KFKCNJGC_01401	gene	aes_1
+KFKCNJGC_01402	CDS	xylE_2	D-xylose-proton symporter
+KFKCNJGC_01402	gene	xylE_2
+KFKCNJGC_01403	CDS	tetD	Transposon Tn10 TetD protein
+KFKCNJGC_01403	gene	tetD
+KFKCNJGC_01404	CDS	clpC1	ATP-dependent Clp protease ATP-binding subunit ClpC1
+KFKCNJGC_01404	gene	clpC1
+KFKCNJGC_01405	CDS	Universal stress protein
+KFKCNJGC_01405	gene
+KFKCNJGC_01406	CDS	hypothetical protein
+KFKCNJGC_01406	gene
+KFKCNJGC_01407	CDS	csp	Cold shock-like protein
+KFKCNJGC_01407	gene	csp
+KFKCNJGC_01408	CDS	tcrY	2.7.13.3	putative sensor histidine kinase TcrY
+KFKCNJGC_01408	gene	tcrY
+KFKCNJGC_01409	CDS	tcrX	putative transcriptional regulatory protein TcrX
+KFKCNJGC_01409	gene	tcrX
+KFKCNJGC_01410	CDS	hypothetical protein
+KFKCNJGC_01410	gene
+KFKCNJGC_01411	CDS	hypothetical protein
+KFKCNJGC_01411	gene
+KFKCNJGC_01412	CDS	groL1	60 kDa chaperonin 1
+KFKCNJGC_01412	gene	groL1
+KFKCNJGC_01413	CDS	hypothetical protein
+KFKCNJGC_01413	gene
+KFKCNJGC_01414	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+KFKCNJGC_01414	gene	ung
+KFKCNJGC_01415	CDS	hypothetical protein
+KFKCNJGC_01415	gene
+KFKCNJGC_01416	CDS	hypothetical protein
+KFKCNJGC_01416	gene
+KFKCNJGC_01417	CDS	hypothetical protein
+KFKCNJGC_01417	gene
+KFKCNJGC_01418	CDS	hypothetical protein
+KFKCNJGC_01418	gene
+KFKCNJGC_01419	CDS	hypothetical protein
+KFKCNJGC_01419	gene
+KFKCNJGC_01420	CDS	hypothetical protein
+KFKCNJGC_01420	gene
+KFKCNJGC_01421	CDS	hypothetical protein
+KFKCNJGC_01421	gene
+KFKCNJGC_01422	CDS	ykoE_2	Putative HMP/thiamine permease protein YkoE
+KFKCNJGC_01422	gene	ykoE_2
+KFKCNJGC_01423	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+KFKCNJGC_01423	gene	purB
+KFKCNJGC_01424	CDS	hypothetical protein
+KFKCNJGC_01424	gene
+KFKCNJGC_01425	CDS	hup	DNA-binding protein HB1
+KFKCNJGC_01425	gene	hup
+KFKCNJGC_01426	CDS	pafA	6.3.1.19	Pup--protein ligase
+KFKCNJGC_01426	gene	pafA
+KFKCNJGC_01427	CDS	pup	Prokaryotic ubiquitin-like protein Pup
+KFKCNJGC_01427	gene	pup
+KFKCNJGC_01428	CDS	hisN	3.1.3.15	Histidinol-phosphatase
+KFKCNJGC_01428	gene	hisN
+KFKCNJGC_01429	CDS	dop	3.4.-.-	Pup deamidase/depupylase
+KFKCNJGC_01429	gene	dop
+KFKCNJGC_01430	CDS	alsE	5.1.3.-	D-allulose-6-phosphate 3-epimerase
+KFKCNJGC_01430	gene	alsE
+KFKCNJGC_01431	CDS	fruA	PTS system fructose-specific EIIB'BC component
+KFKCNJGC_01431	gene	fruA
+KFKCNJGC_01432	CDS	fryB	2.7.1.202	PTS system fructose-like EIIB component 1
+KFKCNJGC_01432	gene	fryB
+KFKCNJGC_01433	CDS	manP	PTS system mannose-specific EIIBCA component
+KFKCNJGC_01433	gene	manP
+KFKCNJGC_01434	CDS	hypothetical protein
+KFKCNJGC_01434	gene
+KFKCNJGC_01435	CDS	licR	putative licABCH operon regulator
+KFKCNJGC_01435	gene	licR
+KFKCNJGC_01436	CDS	yihX_2	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+KFKCNJGC_01436	gene	yihX_2
+KFKCNJGC_01437	CDS	arc	Proteasome-associated ATPase
+KFKCNJGC_01437	gene	arc
+KFKCNJGC_01438	CDS	putative membrane protein
+KFKCNJGC_01438	gene
+KFKCNJGC_01439	CDS	serB_1	3.1.3.3	Phosphoserine phosphatase
+KFKCNJGC_01439	gene	serB_1
+KFKCNJGC_01440	CDS	priA_2	3.6.4.-	putative primosomal protein N'
+KFKCNJGC_01440	gene	priA_2
+KFKCNJGC_01441	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+KFKCNJGC_01441	gene	ppaX
+KFKCNJGC_01442	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+KFKCNJGC_01442	gene	fmt
+KFKCNJGC_01443	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+KFKCNJGC_01443	gene	ilvD
+KFKCNJGC_01444	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+KFKCNJGC_01444	gene	rpoZ
+KFKCNJGC_01445	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+KFKCNJGC_01445	gene	metK
+KFKCNJGC_01446	CDS	hypothetical protein
+KFKCNJGC_01446	gene
+KFKCNJGC_01447	CDS	hsdR	3.1.21.3	Type-1 restriction enzyme R protein
+KFKCNJGC_01447	gene	hsdR
+KFKCNJGC_01448	CDS	hypothetical protein
+KFKCNJGC_01448	gene
+KFKCNJGC_01449	CDS	hypothetical protein
+KFKCNJGC_01449	gene
+KFKCNJGC_01450	CDS	hypothetical protein
+KFKCNJGC_01450	gene
+KFKCNJGC_01451	CDS	hypothetical protein
+KFKCNJGC_01451	gene
+KFKCNJGC_01452	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+KFKCNJGC_01452	gene	ileS
+KFKCNJGC_01453	CDS	rbsK_2	2.7.1.15	Ribokinase
+KFKCNJGC_01453	gene	rbsK_2
+KFKCNJGC_01454	CDS	rbsD	5.4.99.62	D-ribose pyranase
+KFKCNJGC_01454	gene	rbsD
+KFKCNJGC_01455	CDS	rbsB	Ribose import binding protein RbsB
+KFKCNJGC_01455	gene	rbsB
+KFKCNJGC_01456	CDS	rbsC_1	Ribose import permease protein RbsC
+KFKCNJGC_01456	gene	rbsC_1
+KFKCNJGC_01457	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+KFKCNJGC_01457	gene	mglA
+KFKCNJGC_01458	CDS	cytR_7	HTH-type transcriptional repressor CytR
+KFKCNJGC_01458	gene	cytR_7
+KFKCNJGC_01459	CDS	hypothetical protein
+KFKCNJGC_01459	gene
+KFKCNJGC_01460	CDS	norB	Quinolone resistance protein NorB
+KFKCNJGC_01460	gene	norB
+KFKCNJGC_01461	CDS	rbsK_3	2.7.1.15	Ribokinase
+KFKCNJGC_01461	gene	rbsK_3
+KFKCNJGC_01462	CDS	adh2	1.1.1.192	Long-chain-alcohol dehydrogenase 2
+KFKCNJGC_01462	gene	adh2
+KFKCNJGC_01463	CDS	3.1.3.5	5'-nucleotidase
+KFKCNJGC_01463	gene
+KFKCNJGC_01464	CDS	rihA_2	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+KFKCNJGC_01464	gene	rihA_2
+KFKCNJGC_01465	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+KFKCNJGC_01465	gene	kdgK
+KFKCNJGC_01466	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+KFKCNJGC_01466	gene	trpF
+KFKCNJGC_01467	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+KFKCNJGC_01467	gene	ecfA2
+KFKCNJGC_01468	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+KFKCNJGC_01468	gene	ecfA1
+KFKCNJGC_01469	CDS	ecfT_2	Energy-coupling factor transporter transmembrane protein EcfT
+KFKCNJGC_01469	gene	ecfT_2
+KFKCNJGC_01470	CDS	hypothetical protein
+KFKCNJGC_01470	gene
+KFKCNJGC_01471	CDS	rbsK_4	2.7.1.15	Ribokinase
+KFKCNJGC_01471	gene	rbsK_4
+KFKCNJGC_01472	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_01472	gene
+KFKCNJGC_01473	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_01473	gene
+KFKCNJGC_01474	CDS	slyA_1	Transcriptional regulator SlyA
+KFKCNJGC_01474	gene	slyA_1
+KFKCNJGC_01475	CDS	apy	3.2.1.-	Exo-alpha-(1->6)-L-arabinopyranosidase
+KFKCNJGC_01475	gene	apy
+KFKCNJGC_01476	CDS	rutR	HTH-type transcriptional regulator RutR
+KFKCNJGC_01476	gene	rutR
+KFKCNJGC_01477	CDS	aes_2	3.1.1.-	Acetyl esterase
+KFKCNJGC_01477	gene	aes_2
+KFKCNJGC_01478	CDS	cocE	3.1.1.84	Cocaine esterase
+KFKCNJGC_01478	gene	cocE
+KFKCNJGC_01479	CDS	hypothetical protein
+KFKCNJGC_01479	gene
+KFKCNJGC_01480	CDS	hypothetical protein
+KFKCNJGC_01480	gene
+KFKCNJGC_01481	CDS	hypothetical protein
+KFKCNJGC_01481	gene
+KFKCNJGC_01482	CDS	celC	3.2.1.4	Endoglucanase C
+KFKCNJGC_01482	gene	celC
+KFKCNJGC_01483	CDS	hypothetical protein
+KFKCNJGC_01483	gene
+KFKCNJGC_01484	CDS	hypothetical protein
+KFKCNJGC_01484	gene
+KFKCNJGC_01485	CDS	hypothetical protein
+KFKCNJGC_01485	gene
+KFKCNJGC_01486	CDS	3.2.1.21	Beta-glucosidase BoGH3B
+KFKCNJGC_01486	gene
+KFKCNJGC_01487	CDS	Putative peptide transport permease protein
+KFKCNJGC_01487	gene
+KFKCNJGC_01488	CDS	dppB_2	Dipeptide transport system permease protein DppB
+KFKCNJGC_01488	gene	dppB_2
+KFKCNJGC_01489	CDS	oppF_4	Oligopeptide transport ATP-binding protein OppF
+KFKCNJGC_01489	gene	oppF_4
+KFKCNJGC_01490	CDS	oppD_2	Oligopeptide transport ATP-binding protein OppD
+KFKCNJGC_01490	gene	oppD_2
+KFKCNJGC_01491	CDS	oppA_3	Oligopeptide-binding protein OppA
+KFKCNJGC_01491	gene	oppA_3
+KFKCNJGC_01492	CDS	ttgR	HTH-type transcriptional regulator TtgR
+KFKCNJGC_01492	gene	ttgR
+KFKCNJGC_01493	CDS	btr	HTH-type transcriptional activator Btr
+KFKCNJGC_01493	gene	btr
+KFKCNJGC_01494	CDS	uidA	3.2.1.31	Beta-glucuronidase
+KFKCNJGC_01494	gene	uidA
+KFKCNJGC_01495	CDS	nikA	Nickel-binding periplasmic protein
+KFKCNJGC_01495	gene	nikA
+KFKCNJGC_01496	CDS	3.2.1.55	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+KFKCNJGC_01496	gene
+KFKCNJGC_01497	CDS	egtA	6.3.2.2	Glutamate--cysteine ligase EgtA
+KFKCNJGC_01497	gene	egtA
+KFKCNJGC_01498	CDS	fldI	3.6.1.-	(R)-phenyllactate dehydratase activator
+KFKCNJGC_01498	gene	fldI
+KFKCNJGC_01499	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+KFKCNJGC_01499	gene	nrdG
+KFKCNJGC_01500	CDS	nrdD	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+KFKCNJGC_01500	gene	nrdD
+KFKCNJGC_01501	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+KFKCNJGC_01501	gene	xseA
+KFKCNJGC_01502	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+KFKCNJGC_01502	gene	xseB
+KFKCNJGC_01503	CDS	ywrO	1.6.99.-	General stress protein 14
+KFKCNJGC_01503	gene	ywrO
+KFKCNJGC_01504	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KFKCNJGC_01504	gene
+KFKCNJGC_01505	CDS	mscL	Large-conductance mechanosensitive channel
+KFKCNJGC_01505	gene	mscL
+KFKCNJGC_01506	CDS	hypothetical protein
+KFKCNJGC_01506	gene
+KFKCNJGC_01507	tRNA	tRNA-Arg(cct)
+KFKCNJGC_01507	gene
+KFKCNJGC_01508	CDS	hypothetical protein
+KFKCNJGC_01508	gene
+KFKCNJGC_01509	CDS	ppx	3.6.1.11	Exopolyphosphatase
+KFKCNJGC_01509	gene	ppx
+KFKCNJGC_01510	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+KFKCNJGC_01510	gene	aspC
+KFKCNJGC_01511	CDS	afr	1.1.1.292	1,5-anhydro-D-fructose reductase
+KFKCNJGC_01511	gene	afr
+KFKCNJGC_01512	CDS	vsr	3.1.-.-	Very short patch repair protein
+KFKCNJGC_01512	gene	vsr
+KFKCNJGC_01513	CDS	hypothetical protein
+KFKCNJGC_01513	gene
+KFKCNJGC_01514	CDS	hypothetical protein
+KFKCNJGC_01514	gene
+KFKCNJGC_01515	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+KFKCNJGC_01515	gene	dapD
+KFKCNJGC_01516	CDS	gltA2	2.3.3.16	Citrate synthase 1
+KFKCNJGC_01516	gene	gltA2
+KFKCNJGC_01517	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+KFKCNJGC_01517	gene	map
+KFKCNJGC_01518	CDS	hypothetical protein
+KFKCNJGC_01518	gene
+KFKCNJGC_01519	CDS	pepO	3.4.24.-	Neutral endopeptidase
+KFKCNJGC_01519	gene	pepO
+KFKCNJGC_01520	CDS	ssb	Single-stranded DNA-binding protein
+KFKCNJGC_01520	gene	ssb
+KFKCNJGC_01521	CDS	proS	6.1.1.15	Proline--tRNA ligase
+KFKCNJGC_01521	gene	proS
+KFKCNJGC_01522	CDS	hypothetical protein
+KFKCNJGC_01522	gene
+KFKCNJGC_01523	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+KFKCNJGC_01523	gene	recD2
+KFKCNJGC_01524	CDS	orn	3.1.-.-	Oligoribonuclease
+KFKCNJGC_01524	gene	orn
+KFKCNJGC_01525	CDS	ccpA_3	Catabolite control protein A
+KFKCNJGC_01525	gene	ccpA_3
+KFKCNJGC_01526	CDS	malL_3	3.2.1.10	Oligo-1,6-glucosidase
+KFKCNJGC_01526	gene	malL_3
+KFKCNJGC_01527	CDS	hypothetical protein
+KFKCNJGC_01527	gene
+KFKCNJGC_01528	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+KFKCNJGC_01528	gene	paeR7IM
+KFKCNJGC_01529	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+KFKCNJGC_01529	gene	rapA
+KFKCNJGC_01530	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+KFKCNJGC_01530	gene	guaB
+KFKCNJGC_01531	CDS	wecA	2.7.8.35	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+KFKCNJGC_01531	gene	wecA
+KFKCNJGC_01532	CDS	2.7.7.87	Putative threonylcarbamoyl-AMP synthase
+KFKCNJGC_01532	gene
+KFKCNJGC_01533	CDS	livF	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+KFKCNJGC_01533	gene	livF
+KFKCNJGC_01534	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+KFKCNJGC_01534	gene	lptB
+KFKCNJGC_01535	CDS	livH_1	High-affinity branched-chain amino acid transport system permease protein LivH
+KFKCNJGC_01535	gene	livH_1
+KFKCNJGC_01536	CDS	livH_2	High-affinity branched-chain amino acid transport system permease protein LivH
+KFKCNJGC_01536	gene	livH_2
+KFKCNJGC_01537	CDS	braC	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+KFKCNJGC_01537	gene	braC
+KFKCNJGC_01538	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+KFKCNJGC_01538	gene	prmC
+KFKCNJGC_01539	CDS	prfA	Peptide chain release factor 1
+KFKCNJGC_01539	gene	prfA
+KFKCNJGC_01540	CDS	rpmE	50S ribosomal protein L31
+KFKCNJGC_01540	gene	rpmE
+KFKCNJGC_01541	tRNA	tRNA-Met(cat)
+KFKCNJGC_01541	gene
+KFKCNJGC_01542	CDS	mdtD	Putative multidrug resistance protein MdtD
+KFKCNJGC_01542	gene	mdtD
+KFKCNJGC_01543	CDS	hypothetical protein
+KFKCNJGC_01543	gene
+KFKCNJGC_01544	CDS	def_3	3.5.1.88	Peptide deformylase
+KFKCNJGC_01544	gene	def_3
+KFKCNJGC_01545	CDS	dkgB	1.1.1.274	2,5-diketo-D-gluconic acid reductase B
+KFKCNJGC_01545	gene	dkgB
+KFKCNJGC_01546	CDS	hypothetical protein
+KFKCNJGC_01546	gene
+KFKCNJGC_01547	CDS	hypothetical protein
+KFKCNJGC_01547	gene
+KFKCNJGC_01548	CDS	glkA_2	2.7.1.2	Glucokinase
+KFKCNJGC_01548	gene	glkA_2
+KFKCNJGC_01549	tRNA	tRNA-Asp(gtc)
+KFKCNJGC_01549	gene
+KFKCNJGC_01550	CDS	ribZ_2	Riboflavin transporter RibZ
+KFKCNJGC_01550	gene	ribZ_2
+KFKCNJGC_01551	CDS	ettA_2	Energy-dependent translational throttle protein EttA
+KFKCNJGC_01551	gene	ettA_2
+KFKCNJGC_01552	CDS	tesB	3.1.2.-	Acyl-CoA thioesterase 2
+KFKCNJGC_01552	gene	tesB
+KFKCNJGC_01553	CDS	hypothetical protein
+KFKCNJGC_01553	gene
+KFKCNJGC_01554	CDS	sulD	Bifunctional folate synthesis protein
+KFKCNJGC_01554	gene	sulD
+KFKCNJGC_01555	CDS	folP1	2.5.1.15	Dihydropteroate synthase
+KFKCNJGC_01555	gene	folP1
+KFKCNJGC_01556	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+KFKCNJGC_01556	gene	folE
+KFKCNJGC_01557	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+KFKCNJGC_01557	gene	ftsH
+KFKCNJGC_01558	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+KFKCNJGC_01558	gene	hpt
+KFKCNJGC_01559	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+KFKCNJGC_01559	gene	tilS
+KFKCNJGC_01560	CDS	dac	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+KFKCNJGC_01560	gene	dac
+KFKCNJGC_01561	CDS	hypothetical protein
+KFKCNJGC_01561	gene
+KFKCNJGC_01562	CDS	drrA_3	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KFKCNJGC_01562	gene	drrA_3
+KFKCNJGC_01563	CDS	2.4.1.336	Beta-monoglucosyldiacylglycerol synthase
+KFKCNJGC_01563	gene
+KFKCNJGC_01564	CDS	hypothetical protein
+KFKCNJGC_01564	gene
+KFKCNJGC_01565	CDS	kfoC_1	Chondroitin synthase
+KFKCNJGC_01565	gene	kfoC_1
+KFKCNJGC_01566	CDS	fucO	1.1.1.77	Lactaldehyde reductase
+KFKCNJGC_01566	gene	fucO
+KFKCNJGC_01567	CDS	2.1.1.-	putative fatty acid methyltransferase
+KFKCNJGC_01567	gene
+KFKCNJGC_01568	tRNA	tRNA-Phe(gaa)
+KFKCNJGC_01568	gene
+KFKCNJGC_01569	tRNA	tRNA-Asp(gtc)
+KFKCNJGC_01569	gene
+KFKCNJGC_01570	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+KFKCNJGC_01570	gene	trmB
+KFKCNJGC_01571	tRNA	tRNA-Glu(ttc)
+KFKCNJGC_01571	gene
+KFKCNJGC_01572	CDS	hypothetical protein
+KFKCNJGC_01572	gene
+KFKCNJGC_01573	CDS	hypothetical protein
+KFKCNJGC_01573	gene
+KFKCNJGC_01574	CDS	hypothetical protein
+KFKCNJGC_01574	gene
+KFKCNJGC_01575	CDS	whiB	Transcriptional regulator WhiB
+KFKCNJGC_01575	gene	whiB
+KFKCNJGC_01576	CDS	soj_2	3.6.-.-	Chromosome-partitioning ATPase Soj
+KFKCNJGC_01576	gene	soj_2
+KFKCNJGC_01577	CDS	hypothetical protein
+KFKCNJGC_01577	gene
+KFKCNJGC_01578	CDS	ybiT_2	putative ABC transporter ATP-binding protein YbiT
+KFKCNJGC_01578	gene	ybiT_2
+KFKCNJGC_01579	CDS	rimI_2	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+KFKCNJGC_01579	gene	rimI_2
+KFKCNJGC_01580	CDS	serB_2	3.1.3.3	Phosphoserine phosphatase
+KFKCNJGC_01580	gene	serB_2
+KFKCNJGC_01581	CDS	asa1	Aggregation substance
+KFKCNJGC_01581	gene	asa1
+KFKCNJGC_01582	CDS	hypothetical protein
+KFKCNJGC_01582	gene
+KFKCNJGC_01583	CDS	hypothetical protein
+KFKCNJGC_01583	gene
+KFKCNJGC_01584	CDS	hypothetical protein
+KFKCNJGC_01584	gene
+KFKCNJGC_01585	CDS	hypothetical protein
+KFKCNJGC_01585	gene
+KFKCNJGC_01586	CDS	hypothetical protein
+KFKCNJGC_01586	gene
+KFKCNJGC_01587	CDS	hypothetical protein
+KFKCNJGC_01587	gene
+KFKCNJGC_01588	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+KFKCNJGC_01588	gene
+KFKCNJGC_01589	CDS	hypothetical protein
+KFKCNJGC_01589	gene
+KFKCNJGC_01590	CDS	hypothetical protein
+KFKCNJGC_01590	gene
+KFKCNJGC_01591	CDS	hypothetical protein
+KFKCNJGC_01591	gene
+KFKCNJGC_01592	CDS	traG	Conjugal transfer protein TraG
+KFKCNJGC_01592	gene	traG
+KFKCNJGC_01593	CDS	hypothetical protein
+KFKCNJGC_01593	gene
+KFKCNJGC_01594	CDS	hypothetical protein
+KFKCNJGC_01594	gene
+KFKCNJGC_01595	CDS	hypothetical protein
+KFKCNJGC_01595	gene
+KFKCNJGC_01596	CDS	hypothetical protein
+KFKCNJGC_01596	gene
+KFKCNJGC_01597	CDS	hypothetical protein
+KFKCNJGC_01597	gene
+KFKCNJGC_01598	CDS	hypothetical protein
+KFKCNJGC_01598	gene
+KFKCNJGC_01599	CDS	hypothetical protein
+KFKCNJGC_01599	gene
+KFKCNJGC_01600	CDS	hypothetical protein
+KFKCNJGC_01600	gene
+KFKCNJGC_01601	CDS	hypothetical protein
+KFKCNJGC_01601	gene
+KFKCNJGC_01602	CDS	spo0C	Chromosome-partitioning protein Spo0J
+KFKCNJGC_01602	gene	spo0C
+KFKCNJGC_01603	CDS	hypothetical protein
+KFKCNJGC_01603	gene
+KFKCNJGC_01604	CDS	hypothetical protein
+KFKCNJGC_01604	gene
+KFKCNJGC_01605	CDS	Putative prophage phiRv2 integrase
+KFKCNJGC_01605	gene
+KFKCNJGC_01606	CDS	Int-Tn_2	Transposase from transposon Tn916
+KFKCNJGC_01606	gene	Int-Tn_2
+KFKCNJGC_01607	CDS	lacS_2	Lactose permease
+KFKCNJGC_01607	gene	lacS_2
+KFKCNJGC_01608	CDS	lacZ_2	3.2.1.23	Beta-galactosidase
+KFKCNJGC_01608	gene	lacZ_2
+KFKCNJGC_01609	CDS	lacR_3	HTH-type transcriptional regulator LacR
+KFKCNJGC_01609	gene	lacR_3
+KFKCNJGC_01610	CDS	hypothetical protein
+KFKCNJGC_01610	gene
+KFKCNJGC_01611	CDS	lacE_5	Lactose-binding protein
+KFKCNJGC_01611	gene	lacE_5
+KFKCNJGC_01612	CDS	nagC_4	N-acetylglucosamine repressor
+KFKCNJGC_01612	gene	nagC_4
+KFKCNJGC_01613	CDS	hypothetical protein
+KFKCNJGC_01613	gene
+KFKCNJGC_01614	CDS	chb	3.2.1.52	N,N'-diacetylchitobiase
+KFKCNJGC_01614	gene	chb
+KFKCNJGC_01615	CDS	hypothetical protein
+KFKCNJGC_01615	gene
+KFKCNJGC_01616	CDS	hypothetical protein
+KFKCNJGC_01616	gene
+KFKCNJGC_01617	CDS	hypothetical protein
+KFKCNJGC_01617	gene
+KFKCNJGC_01618	CDS	macB_4	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+KFKCNJGC_01618	gene	macB_4
+KFKCNJGC_01619	CDS	ptpA	3.1.3.48	putative low molecular weight protein-tyrosine-phosphatase
+KFKCNJGC_01619	gene	ptpA
+KFKCNJGC_01620	CDS	folA	1.5.1.3	Dihydrofolate reductase
+KFKCNJGC_01620	gene	folA
+KFKCNJGC_01621	CDS	thyA	2.1.1.45	Thymidylate synthase ThyA
+KFKCNJGC_01621	gene	thyA
+KFKCNJGC_01622	CDS	hypothetical protein
+KFKCNJGC_01622	gene
+KFKCNJGC_01623	CDS	Universal stress protein/MSMEI_3859
+KFKCNJGC_01623	gene
+KFKCNJGC_01624	CDS	iap	3.4.-.-	putative endopeptidase p60
+KFKCNJGC_01624	gene	iap
+KFKCNJGC_01625	CDS	hypothetical protein
+KFKCNJGC_01625	gene
+KFKCNJGC_01626	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+KFKCNJGC_01626	gene
+KFKCNJGC_01627	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+KFKCNJGC_01627	gene	serC
+KFKCNJGC_01628	CDS	hypothetical protein
+KFKCNJGC_01628	gene
+KFKCNJGC_01629	CDS	senX3_1	2.7.13.3	Signal-transduction histidine kinase senX3
+KFKCNJGC_01629	gene	senX3_1
+KFKCNJGC_01630	CDS	phoU1	Phosphate-specific transport system accessory protein PhoU 
+KFKCNJGC_01630	gene	phoU1
+KFKCNJGC_01631	CDS	gpmA_4	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KFKCNJGC_01631	gene	gpmA_4
+KFKCNJGC_01632	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+KFKCNJGC_01632	gene	menA
+KFKCNJGC_01633	CDS	lysS1	6.1.1.6	Lysine--tRNA ligase 1
+KFKCNJGC_01633	gene	lysS1
+KFKCNJGC_01634	tRNA	tRNA-Pro(cgg)
+KFKCNJGC_01634	gene
+KFKCNJGC_01635	CDS	ydhP	Inner membrane transport protein YdhP
+KFKCNJGC_01635	gene	ydhP
+KFKCNJGC_01636	CDS	hypothetical protein
+KFKCNJGC_01636	gene
+KFKCNJGC_01637	CDS	hypothetical protein
+KFKCNJGC_01637	gene
+KFKCNJGC_01638	CDS	hypothetical protein
+KFKCNJGC_01638	gene
+KFKCNJGC_01639	CDS	hypothetical protein
+KFKCNJGC_01639	gene
+KFKCNJGC_01640	CDS	hypothetical protein
+KFKCNJGC_01640	gene
+KFKCNJGC_01641	CDS	degS_2	2.7.13.3	Signal transduction histidine-protein kinase/phosphatase DegS
+KFKCNJGC_01641	gene	degS_2
+KFKCNJGC_01642	CDS	nreC	Oxygen regulatory protein NreC
+KFKCNJGC_01642	gene	nreC
+KFKCNJGC_01643	CDS	lnpD	5.1.3.2	UDP-glucose 4-epimerase
+KFKCNJGC_01643	gene	lnpD
+KFKCNJGC_01644	CDS	nahK	2.7.1.162	N-acetylhexosamine 1-kinase
+KFKCNJGC_01644	gene	nahK
+KFKCNJGC_01645	CDS	lnpA	2.4.1.211	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+KFKCNJGC_01645	gene	lnpA
+KFKCNJGC_01646	CDS	araQ_7	L-arabinose transport system permease protein AraQ
+KFKCNJGC_01646	gene	araQ_7
+KFKCNJGC_01647	CDS	lacF_7	Lactose transport system permease protein LacF
+KFKCNJGC_01647	gene	lacF_7
+KFKCNJGC_01648	CDS	araN_5	putative arabinose-binding protein
+KFKCNJGC_01648	gene	araN_5
+KFKCNJGC_01649	tRNA	tRNA-Ser(tga)
+KFKCNJGC_01649	gene
+KFKCNJGC_01650	CDS	serS	6.1.1.11	Serine--tRNA ligase
+KFKCNJGC_01650	gene	serS
+KFKCNJGC_01651	CDS	dagK_2	2.7.1.107	Diacylglycerol kinase
+KFKCNJGC_01651	gene	dagK_2
+KFKCNJGC_01652	CDS	licT	Transcription antiterminator LicT
+KFKCNJGC_01652	gene	licT
+KFKCNJGC_01653	CDS	bglF	PTS system beta-glucoside-specific EIIBCA component
+KFKCNJGC_01653	gene	bglF
+KFKCNJGC_01654	CDS	pgm	5.4.2.2	Phosphoglucomutase
+KFKCNJGC_01654	gene	pgm
+KFKCNJGC_01655	CDS	hypothetical protein
+KFKCNJGC_01655	gene
+KFKCNJGC_01656	CDS	ywnA	Putative HTH-type transcriptional regulator YwnA
+KFKCNJGC_01656	gene	ywnA
+KFKCNJGC_01657	CDS	rclA	putative pyridine nucleotide-disulfide oxidoreductase RclA
+KFKCNJGC_01657	gene	rclA
+KFKCNJGC_01658	CDS	rnhA	3.1.26.4	Ribonuclease HI
+KFKCNJGC_01658	gene	rnhA
+KFKCNJGC_01659	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+KFKCNJGC_01659	gene	rpiA
+KFKCNJGC_01660	CDS	hypothetical protein
+KFKCNJGC_01660	gene
+KFKCNJGC_01661	CDS	hypothetical protein
+KFKCNJGC_01661	gene
+KFKCNJGC_01662	CDS	radA	3.6.4.-	DNA repair protein RadA
+KFKCNJGC_01662	gene	radA
+KFKCNJGC_01663	CDS	ribF	Riboflavin biosynthesis protein RibF
+KFKCNJGC_01663	gene	ribF
+KFKCNJGC_01664	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+KFKCNJGC_01664	gene	truB
+KFKCNJGC_01665	CDS	rbfA	Ribosome-binding factor A
+KFKCNJGC_01665	gene	rbfA
+KFKCNJGC_01666	CDS	infB	Translation initiation factor IF-2
+KFKCNJGC_01666	gene	infB
+KFKCNJGC_01667	CDS	nusA	Transcription termination/antitermination protein NusA
+KFKCNJGC_01667	gene	nusA
+KFKCNJGC_01668	CDS	hypothetical protein
+KFKCNJGC_01668	gene
+KFKCNJGC_01669	CDS	cytR_8	HTH-type transcriptional repressor CytR
+KFKCNJGC_01669	gene	cytR_8
+KFKCNJGC_01670	tRNA	tRNA-Ser(cga)
+KFKCNJGC_01670	gene
+KFKCNJGC_01671	CDS	hypothetical protein
+KFKCNJGC_01671	gene
+KFKCNJGC_01672	CDS	hypothetical protein
+KFKCNJGC_01672	gene
+KFKCNJGC_01673	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+KFKCNJGC_01673	gene	truA
+KFKCNJGC_01674	CDS	rplQ	50S ribosomal protein L17
+KFKCNJGC_01674	gene	rplQ
+KFKCNJGC_01675	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+KFKCNJGC_01675	gene	rpoA
+KFKCNJGC_01676	CDS	rpsK	30S ribosomal protein S11
+KFKCNJGC_01676	gene	rpsK
+KFKCNJGC_01677	CDS	rpsM	30S ribosomal protein S13
+KFKCNJGC_01677	gene	rpsM
+KFKCNJGC_01678	CDS	rpmJ	50S ribosomal protein L36
+KFKCNJGC_01678	gene	rpmJ
+KFKCNJGC_01679	CDS	infA	Translation initiation factor IF-1
+KFKCNJGC_01679	gene	infA
+KFKCNJGC_01680	CDS	adk	2.7.4.3	Adenylate kinase
+KFKCNJGC_01680	gene	adk
+KFKCNJGC_01681	CDS	secY	Protein translocase subunit SecY
+KFKCNJGC_01681	gene	secY
+KFKCNJGC_01682	CDS	rplO	50S ribosomal protein L15
+KFKCNJGC_01682	gene	rplO
+KFKCNJGC_01683	CDS	rpmD	50S ribosomal protein L30
+KFKCNJGC_01683	gene	rpmD
+KFKCNJGC_01684	CDS	rpsE	30S ribosomal protein S5
+KFKCNJGC_01684	gene	rpsE
+KFKCNJGC_01685	CDS	rplR	50S ribosomal protein L18
+KFKCNJGC_01685	gene	rplR
+KFKCNJGC_01686	CDS	rplF	50S ribosomal protein L6
+KFKCNJGC_01686	gene	rplF
+KFKCNJGC_01687	CDS	rpsH	30S ribosomal protein S8
+KFKCNJGC_01687	gene	rpsH
+KFKCNJGC_01688	CDS	rpsZ	30S ribosomal protein S14 type Z
+KFKCNJGC_01688	gene	rpsZ
+KFKCNJGC_01689	CDS	rplE	50S ribosomal protein L5
+KFKCNJGC_01689	gene	rplE
+KFKCNJGC_01690	CDS	rplX	50S ribosomal protein L24
+KFKCNJGC_01690	gene	rplX
+KFKCNJGC_01691	CDS	rplN	50S ribosomal protein L14
+KFKCNJGC_01691	gene	rplN
+KFKCNJGC_01692	CDS	rpsQ	30S ribosomal protein S17
+KFKCNJGC_01692	gene	rpsQ
+KFKCNJGC_01693	CDS	rpmC	50S ribosomal protein L29
+KFKCNJGC_01693	gene	rpmC
+KFKCNJGC_01694	CDS	rplP	50S ribosomal protein L16
+KFKCNJGC_01694	gene	rplP
+KFKCNJGC_01695	CDS	rpsC	30S ribosomal protein S3
+KFKCNJGC_01695	gene	rpsC
+KFKCNJGC_01696	CDS	rplV	50S ribosomal protein L22
+KFKCNJGC_01696	gene	rplV
+KFKCNJGC_01697	CDS	rpsS	30S ribosomal protein S19
+KFKCNJGC_01697	gene	rpsS
+KFKCNJGC_01698	CDS	rplB	50S ribosomal protein L2
+KFKCNJGC_01698	gene	rplB
+KFKCNJGC_01699	CDS	rplW	50S ribosomal protein L23
+KFKCNJGC_01699	gene	rplW
+KFKCNJGC_01700	CDS	rplD	50S ribosomal protein L4
+KFKCNJGC_01700	gene	rplD
+KFKCNJGC_01701	CDS	rplC	50S ribosomal protein L3
+KFKCNJGC_01701	gene	rplC
+KFKCNJGC_01702	CDS	rpsJ	30S ribosomal protein S10
+KFKCNJGC_01702	gene	rpsJ
+KFKCNJGC_01703	CDS	aldC	4.1.1.5	Alpha-acetolactate decarboxylase
+KFKCNJGC_01703	gene	aldC
+KFKCNJGC_01704	CDS	hypothetical protein
+KFKCNJGC_01704	gene
+KFKCNJGC_01705	CDS	adhE	Aldehyde-alcohol dehydrogenase
+KFKCNJGC_01705	gene	adhE
+KFKCNJGC_01706	CDS	yesS	HTH-type transcriptional regulator YesS
+KFKCNJGC_01706	gene	yesS
+KFKCNJGC_01707	CDS	1.1.1.9	D-xylulose reductase
+KFKCNJGC_01707	gene
+KFKCNJGC_01708	CDS	csbX_1	Alpha-ketoglutarate permease
+KFKCNJGC_01708	gene	csbX_1
+KFKCNJGC_01709	CDS	nagC_5	N-acetylglucosamine repressor
+KFKCNJGC_01709	gene	nagC_5
+KFKCNJGC_01710	CDS	hypothetical protein
+KFKCNJGC_01710	gene
+KFKCNJGC_01711	CDS	csbX_2	Alpha-ketoglutarate permease
+KFKCNJGC_01711	gene	csbX_2
+KFKCNJGC_01712	CDS	gutB	1.1.1.14	Sorbitol dehydrogenase
+KFKCNJGC_01712	gene	gutB
+KFKCNJGC_01713	CDS	glgX_2	3.2.1.-	Glycogen operon protein GlgX 
+KFKCNJGC_01713	gene	glgX_2
+KFKCNJGC_01714	CDS	rpsI	30S ribosomal protein S9
+KFKCNJGC_01714	gene	rpsI
+KFKCNJGC_01715	CDS	rplM	50S ribosomal protein L13
+KFKCNJGC_01715	gene	rplM
+KFKCNJGC_01716	CDS	malQ_2	2.4.1.25	4-alpha-glucanotransferase
+KFKCNJGC_01716	gene	malQ_2
+KFKCNJGC_01717	CDS	hypothetical protein
+KFKCNJGC_01717	gene
+KFKCNJGC_01718	CDS	yigZ	IMPACT family member YigZ
+KFKCNJGC_01718	gene	yigZ
+KFKCNJGC_01719	CDS	hprA_2	1.1.1.29	Glycerate dehydrogenase
+KFKCNJGC_01719	gene	hprA_2
+KFKCNJGC_01720	CDS	hypothetical protein
+KFKCNJGC_01720	gene
+KFKCNJGC_01721	CDS	bglA	3.2.1.21	Beta-glucosidase
+KFKCNJGC_01721	gene	bglA
+KFKCNJGC_01722	CDS	araQ_8	L-arabinose transport system permease protein AraQ
+KFKCNJGC_01722	gene	araQ_8
+KFKCNJGC_01723	CDS	lacF_8	Lactose transport system permease protein LacF
+KFKCNJGC_01723	gene	lacF_8
+KFKCNJGC_01724	CDS	cycB	Cyclodextrin-binding protein
+KFKCNJGC_01724	gene	cycB
+KFKCNJGC_01725	CDS	rbsR	Ribose operon repressor
+KFKCNJGC_01725	gene	rbsR
+KFKCNJGC_01726	CDS	hypothetical protein
+KFKCNJGC_01726	gene
+KFKCNJGC_01727	tRNA	tRNA-Ser(gct)
+KFKCNJGC_01727	gene
+KFKCNJGC_01728	CDS	hypothetical protein
+KFKCNJGC_01728	gene
+KFKCNJGC_01729	CDS	hypothetical protein
+KFKCNJGC_01729	gene
+KFKCNJGC_01730	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+KFKCNJGC_01730	gene	dinB_2
+KFKCNJGC_01731	CDS	dapL_2	2.6.1.83	LL-diaminopimelate aminotransferase
+KFKCNJGC_01731	gene	dapL_2
+KFKCNJGC_01732	CDS	fdxA	Ferredoxin
+KFKCNJGC_01732	gene	fdxA
+KFKCNJGC_01733	CDS	yhdG_2	putative amino acid permease YhdG
+KFKCNJGC_01733	gene	yhdG_2
+KFKCNJGC_01734	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+KFKCNJGC_01734	gene	murB
+KFKCNJGC_01735	CDS	rpmG2	50S ribosomal protein L33 2
+KFKCNJGC_01735	gene	rpmG2
+KFKCNJGC_01736	tRNA	tRNA-Met(cat)
+KFKCNJGC_01736	gene
+KFKCNJGC_01737	tRNA	tRNA-Thr(ggt)
+KFKCNJGC_01737	gene
+KFKCNJGC_01738	tRNA	tRNA-Tyr(gta)
+KFKCNJGC_01738	gene
+KFKCNJGC_01739	CDS	groS	10 kDa chaperonin
+KFKCNJGC_01739	gene	groS
+KFKCNJGC_01740	CDS	hypothetical protein
+KFKCNJGC_01740	gene
+KFKCNJGC_01741	CDS	hypothetical protein
+KFKCNJGC_01741	gene
+KFKCNJGC_01742	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+KFKCNJGC_01742	gene
+KFKCNJGC_01743	CDS	hypothetical protein
+KFKCNJGC_01743	gene
+KFKCNJGC_01744	CDS	hypothetical protein
+KFKCNJGC_01744	gene
+KFKCNJGC_01745	CDS	hypothetical protein
+KFKCNJGC_01745	gene
+KFKCNJGC_01746	CDS	hypothetical protein
+KFKCNJGC_01746	gene
+KFKCNJGC_01747	CDS	hypothetical protein
+KFKCNJGC_01747	gene
+KFKCNJGC_01748	CDS	rplL	50S ribosomal protein L7/L12
+KFKCNJGC_01748	gene	rplL
+KFKCNJGC_01749	CDS	rplJ	50S ribosomal protein L10
+KFKCNJGC_01749	gene	rplJ
+KFKCNJGC_01750	CDS	hypothetical protein
+KFKCNJGC_01750	gene
+KFKCNJGC_01751	CDS	pbuO	Guanine/hypoxanthine permease PbuO
+KFKCNJGC_01751	gene	pbuO
+KFKCNJGC_01752	CDS	pstB1	3.6.3.27	Phosphate import ATP-binding protein PstB 1
+KFKCNJGC_01752	gene	pstB1
+KFKCNJGC_01753	CDS	pstA1	Phosphate transport system permease protein PstA 1
+KFKCNJGC_01753	gene	pstA1
+KFKCNJGC_01754	CDS	pstC2	Phosphate transport system permease protein PstC 2
+KFKCNJGC_01754	gene	pstC2
+KFKCNJGC_01755	CDS	pstS3	Phosphate-binding protein PstS3
+KFKCNJGC_01755	gene	pstS3
+KFKCNJGC_01756	CDS	regX3	Sensory transduction protein regX3
+KFKCNJGC_01756	gene	regX3
+KFKCNJGC_01757	CDS	senX3_2	2.7.13.3	Signal-transduction histidine kinase senX3
+KFKCNJGC_01757	gene	senX3_2
+KFKCNJGC_01758	CDS	yhjE_2	Inner membrane metabolite transport protein YhjE
+KFKCNJGC_01758	gene	yhjE_2
+KFKCNJGC_01759	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+KFKCNJGC_01759	gene	mtnN
+KFKCNJGC_01760	CDS	aroG_1	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+KFKCNJGC_01760	gene	aroG_1
+KFKCNJGC_01761	CDS	aroG_2	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+KFKCNJGC_01761	gene	aroG_2
+KFKCNJGC_01762	CDS	pepE	3.4.22.-	Aminopeptidase E
+KFKCNJGC_01762	gene	pepE
+KFKCNJGC_01763	CDS	hypothetical protein
+KFKCNJGC_01763	gene
+KFKCNJGC_01764	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+KFKCNJGC_01764	gene	pcp
+KFKCNJGC_01765	CDS	bcs1	Bifunctional ribulose 5-phosphate reductase/CDP-ribitol pyrophosphorylase Bcs1
+KFKCNJGC_01765	gene	bcs1
+KFKCNJGC_01766	CDS	yfiH	Laccase domain protein YfiH
+KFKCNJGC_01766	gene	yfiH
+KFKCNJGC_01767	CDS	ydcP	3.4.-.-	putative protease YdcP
+KFKCNJGC_01767	gene	ydcP
+KFKCNJGC_01768	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+KFKCNJGC_01768	gene	trmD
+KFKCNJGC_01769	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+KFKCNJGC_01769	gene	rsmD
+KFKCNJGC_01770	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+KFKCNJGC_01770	gene	recG
+KFKCNJGC_01771	CDS	rpmB	50S ribosomal protein L28
+KFKCNJGC_01771	gene	rpmB
+KFKCNJGC_01772	CDS	2.7.1.184	Sulfofructose kinase
+KFKCNJGC_01772	gene
+KFKCNJGC_01773	CDS	hypothetical protein
+KFKCNJGC_01773	gene
+KFKCNJGC_01774	CDS	mta	HTH-type transcriptional activator mta
+KFKCNJGC_01774	gene	mta
+KFKCNJGC_01775	CDS	hypothetical protein
+KFKCNJGC_01775	gene
+KFKCNJGC_01776	CDS	hypothetical protein
+KFKCNJGC_01776	gene
+KFKCNJGC_01777	CDS	hypothetical protein
+KFKCNJGC_01777	gene
+KFKCNJGC_01778	CDS	hypothetical protein
+KFKCNJGC_01778	gene
+KFKCNJGC_01779	CDS	rutD	3.5.1.-	Putative aminoacrylate hydrolase RutD
+KFKCNJGC_01779	gene	rutD
+KFKCNJGC_01780	tRNA	tRNA-Val(cac)
+KFKCNJGC_01780	gene
+KFKCNJGC_01781	tRNA	tRNA-Val(gac)
+KFKCNJGC_01781	gene
+KFKCNJGC_01782	tRNA	tRNA-Gly(gcc)
+KFKCNJGC_01782	gene
+KFKCNJGC_01783	CDS	hypothetical protein
+KFKCNJGC_01783	gene
+KFKCNJGC_01784	CDS	chrR	1.6.5.2	Chromate reductase
+KFKCNJGC_01784	gene	chrR
+KFKCNJGC_01785	CDS	fabY	2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase FabY
+KFKCNJGC_01785	gene	fabY
+KFKCNJGC_01786	CDS	accD5	6.4.1.3	putative propionyl-CoA carboxylase beta chain 5
+KFKCNJGC_01786	gene	accD5
+KFKCNJGC_01787	CDS	cfiB	6.4.1.7	2-oxoglutarate carboxylase small subunit
+KFKCNJGC_01787	gene	cfiB
+KFKCNJGC_01788	CDS	bioY	Biotin transporter BioY
+KFKCNJGC_01788	gene	bioY
+KFKCNJGC_01789	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+KFKCNJGC_01789	gene	birA
+KFKCNJGC_01790	CDS	hypothetical protein
+KFKCNJGC_01790	gene
+KFKCNJGC_01791	CDS	hypothetical protein
+KFKCNJGC_01791	gene
+KFKCNJGC_01792	CDS	rplA	50S ribosomal protein L1
+KFKCNJGC_01792	gene	rplA
+KFKCNJGC_01793	CDS	rplK	50S ribosomal protein L11
+KFKCNJGC_01793	gene	rplK
+KFKCNJGC_01794	CDS	hypothetical protein
+KFKCNJGC_01794	gene
+KFKCNJGC_01795	CDS	nusG	Transcription termination/antitermination protein NusG
+KFKCNJGC_01795	gene	nusG
+KFKCNJGC_01796	CDS	secE	Protein translocase subunit SecE
+KFKCNJGC_01796	gene	secE
+KFKCNJGC_01797	tRNA	tRNA-Trp(cca)
+KFKCNJGC_01797	gene
+KFKCNJGC_01798	CDS	2.6.1.1	Aspartate aminotransferase
+KFKCNJGC_01798	gene
+KFKCNJGC_01799	CDS	icaB	3.5.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+KFKCNJGC_01799	gene	icaB
+KFKCNJGC_01800	CDS	proB	2.7.2.11	Glutamate 5-kinase
+KFKCNJGC_01800	gene	proB
+KFKCNJGC_01801	CDS	obg	3.6.5.-	GTPase Obg
+KFKCNJGC_01801	gene	obg
+KFKCNJGC_01802	CDS	rpmA	50S ribosomal protein L27
+KFKCNJGC_01802	gene	rpmA
+KFKCNJGC_01803	CDS	rplU	50S ribosomal protein L21
+KFKCNJGC_01803	gene	rplU
+KFKCNJGC_01804	CDS	rng	3.1.26.-	Ribonuclease G
+KFKCNJGC_01804	gene	rng
+KFKCNJGC_01805	CDS	dapE_2	3.5.1.18	Putative succinyl-diaminopimelate desuccinylase DapE
+KFKCNJGC_01805	gene	dapE_2
+KFKCNJGC_01806	CDS	hypothetical protein
+KFKCNJGC_01806	gene
+KFKCNJGC_01807	CDS	yagE_3	4.1.2.-	putative 2-keto-3-deoxy-galactonate aldolase YagE
+KFKCNJGC_01807	gene	yagE_3
+KFKCNJGC_01808	CDS	hypothetical protein
+KFKCNJGC_01808	gene
+KFKCNJGC_01809	CDS	fucP	L-fucose-proton symporter
+KFKCNJGC_01809	gene	fucP
+KFKCNJGC_01810	CDS	lvr_2	1.1.1.-	Levodione reductase
+KFKCNJGC_01810	gene	lvr_2
+KFKCNJGC_01811	CDS	4.2.1.68	L-fuconate dehydratase
+KFKCNJGC_01811	gene
+KFKCNJGC_01812	CDS	degA_5	HTH-type transcriptional regulator DegA
+KFKCNJGC_01812	gene	degA_5
+KFKCNJGC_01813	CDS	hypothetical protein
+KFKCNJGC_01813	gene
+KFKCNJGC_01814	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+KFKCNJGC_01814	gene	lolD
+KFKCNJGC_01815	CDS	hypothetical protein
+KFKCNJGC_01815	gene
+KFKCNJGC_01816	CDS	hypothetical protein
+KFKCNJGC_01816	gene
+KFKCNJGC_01817	CDS	Maf-like protein
+KFKCNJGC_01817	gene
+KFKCNJGC_01818	CDS	thrB	2.7.1.39	Homoserine kinase
+KFKCNJGC_01818	gene	thrB
+KFKCNJGC_01819	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+KFKCNJGC_01819	gene	hom
+KFKCNJGC_01820	CDS	nagE_1	PTS system N-acetylglucosamine-specific EIICBA component
+KFKCNJGC_01820	gene	nagE_1
+KFKCNJGC_01821	CDS	crr_1	2.7.1.199	PTS system glucose-specific EIIA component
+KFKCNJGC_01821	gene	crr_1
+KFKCNJGC_01822	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+KFKCNJGC_01822	gene	lysA
+KFKCNJGC_01823	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+KFKCNJGC_01823	gene	argS
+KFKCNJGC_01824	CDS	kstR2	HTH-type transcriptional repressor KstR2
+KFKCNJGC_01824	gene	kstR2
+KFKCNJGC_01825	CDS	hypothetical protein
+KFKCNJGC_01825	gene
+KFKCNJGC_01826	CDS	murAA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+KFKCNJGC_01826	gene	murAA
+KFKCNJGC_01827	CDS	nox	1.6.99.3	NADH oxidase
+KFKCNJGC_01827	gene	nox
+KFKCNJGC_01828	CDS	tcyK	L-cystine-binding protein TcyK
+KFKCNJGC_01828	gene	tcyK
+KFKCNJGC_01829	CDS	tcyL	L-cystine transport system permease protein TcyL
+KFKCNJGC_01829	gene	tcyL
+KFKCNJGC_01830	CDS	tcyM	L-cystine transport system permease protein TcyM
+KFKCNJGC_01830	gene	tcyM
+KFKCNJGC_01831	CDS	hypothetical protein
+KFKCNJGC_01831	gene
+KFKCNJGC_01832	CDS	tcyC	3.6.3.-	L-cystine import ATP-binding protein TcyC
+KFKCNJGC_01832	gene	tcyC
+KFKCNJGC_01833	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+KFKCNJGC_01833	gene	pyrDB
+KFKCNJGC_01834	CDS	hypothetical protein
+KFKCNJGC_01834	gene
+KFKCNJGC_01835	CDS	hypothetical protein
+KFKCNJGC_01835	gene
+KFKCNJGC_01836	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+KFKCNJGC_01836	gene	leuD
+KFKCNJGC_01837	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+KFKCNJGC_01837	gene	leuC
+KFKCNJGC_01838	CDS	kipR	HTH-type transcriptional regulator KipR
+KFKCNJGC_01838	gene	kipR
+KFKCNJGC_01839	CDS	hypothetical protein
+KFKCNJGC_01839	gene
+KFKCNJGC_01840	CDS	ppk	2.7.4.1	Polyphosphate kinase
+KFKCNJGC_01840	gene	ppk
+KFKCNJGC_01841	CDS	mutT1	3.6.1.55	putative 8-oxo-dGTP diphosphatase 1
+KFKCNJGC_01841	gene	mutT1
+KFKCNJGC_01842	CDS	hypothetical protein
+KFKCNJGC_01842	gene
+KFKCNJGC_01843	CDS	hypothetical protein
+KFKCNJGC_01843	gene
+KFKCNJGC_01844	CDS	araQ_9	L-arabinose transport system permease protein AraQ
+KFKCNJGC_01844	gene	araQ_9
+KFKCNJGC_01845	CDS	lacF_9	Lactose transport system permease protein LacF
+KFKCNJGC_01845	gene	lacF_9
+KFKCNJGC_01846	CDS	malE	Maltose-binding periplasmic protein
+KFKCNJGC_01846	gene	malE
+KFKCNJGC_01847	CDS	galS	HTH-type transcriptional regulator GalS
+KFKCNJGC_01847	gene	galS
+KFKCNJGC_01848	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+KFKCNJGC_01848	gene	upp
+KFKCNJGC_01849	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+KFKCNJGC_01849	gene	rlmH
+KFKCNJGC_01850	CDS	hypothetical protein
+KFKCNJGC_01850	gene
+KFKCNJGC_01851	CDS	gluQ	6.1.1.-	Glutamyl-Q tRNA(Asp) synthetase
+KFKCNJGC_01851	gene	gluQ
+KFKCNJGC_01852	CDS	hypothetical protein
+KFKCNJGC_01852	gene
+KFKCNJGC_01853	CDS	clpB	Chaperone protein ClpB
+KFKCNJGC_01853	gene	clpB
+KFKCNJGC_01854	CDS	hypothetical protein
+KFKCNJGC_01854	gene
+KFKCNJGC_01855	CDS	4.3.2.3	Ureidoglycolate lyase
+KFKCNJGC_01855	gene
+KFKCNJGC_01856	CDS	hypothetical protein
+KFKCNJGC_01856	gene
+KFKCNJGC_01857	CDS	hypothetical protein
+KFKCNJGC_01857	gene
+KFKCNJGC_01858	CDS	glf	5.4.99.9	UDP-galactopyranose mutase
+KFKCNJGC_01858	gene	glf
+KFKCNJGC_01859	CDS	hxlB	5.3.1.27	3-hexulose-6-phosphate isomerase
+KFKCNJGC_01859	gene	hxlB
+KFKCNJGC_01860	CDS	lsrD	Autoinducer 2 import system permease protein LsrD
+KFKCNJGC_01860	gene	lsrD
+KFKCNJGC_01861	CDS	rbsC_2	Ribose import permease protein RbsC
+KFKCNJGC_01861	gene	rbsC_2
+KFKCNJGC_01862	CDS	rbsA	3.6.3.17	Ribose import ATP-binding protein RbsA
+KFKCNJGC_01862	gene	rbsA
+KFKCNJGC_01863	CDS	lsrB	Autoinducer 2-binding protein LsrB
+KFKCNJGC_01863	gene	lsrB
+KFKCNJGC_01864	CDS	xylB	2.7.1.17	Xylulose kinase
+KFKCNJGC_01864	gene	xylB
+KFKCNJGC_01865	CDS	nagC_6	N-acetylglucosamine repressor
+KFKCNJGC_01865	gene	nagC_6
+KFKCNJGC_01866	CDS	hypothetical protein
+KFKCNJGC_01866	gene
+KFKCNJGC_01867	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+KFKCNJGC_01867	gene	epsJ_2
+KFKCNJGC_01868	CDS	hypothetical protein
+KFKCNJGC_01868	gene
+KFKCNJGC_01869	CDS	hypothetical protein
+KFKCNJGC_01869	gene
+KFKCNJGC_01870	CDS	kfoC_2	Chondroitin synthase
+KFKCNJGC_01870	gene	kfoC_2
+KFKCNJGC_01871	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+KFKCNJGC_01871	gene	tagH
+KFKCNJGC_01872	CDS	tagG	Teichoic acid translocation permease protein TagG
+KFKCNJGC_01872	gene	tagG
+KFKCNJGC_01873	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+KFKCNJGC_01873	gene	rfbA
+KFKCNJGC_01874	CDS	rfbC	5.1.3.13	putative dTDP-4-dehydrorhamnose 3,5-epimerase
+KFKCNJGC_01874	gene	rfbC
+KFKCNJGC_01875	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+KFKCNJGC_01875	gene	rmlB
+KFKCNJGC_01876	CDS	hypothetical protein
+KFKCNJGC_01876	gene
+KFKCNJGC_01877	CDS	2.4.-.-	putative glycosyltransferase
+KFKCNJGC_01877	gene
+KFKCNJGC_01878	CDS	hypothetical protein
+KFKCNJGC_01878	gene
+KFKCNJGC_01879	CDS	yciB	2.-.-.-	Putative L,D-transpeptidase YciB
+KFKCNJGC_01879	gene	yciB
+KFKCNJGC_01880	CDS	hypothetical protein
+KFKCNJGC_01880	gene
+KFKCNJGC_01881	CDS	hypothetical protein
+KFKCNJGC_01881	gene
+KFKCNJGC_01882	CDS	yvhJ	Putative transcriptional regulator YvhJ
+KFKCNJGC_01882	gene	yvhJ
+KFKCNJGC_01883	CDS	hypothetical protein
+KFKCNJGC_01883	gene
+KFKCNJGC_01884	CDS	lsrA	3.6.3.-	Autoinducer 2 import ATP-binding protein LsrA
+KFKCNJGC_01884	gene	lsrA
+KFKCNJGC_01885	CDS	hypothetical protein
+KFKCNJGC_01885	gene
+KFKCNJGC_01886	CDS	egtC	3.5.1.118	Gamma-glutamyl-hercynylcysteine sulfoxide hydrolase
+KFKCNJGC_01886	gene	egtC
+KFKCNJGC_01887	CDS	kup	Low affinity potassium transport system protein kup
+KFKCNJGC_01887	gene	kup
+KFKCNJGC_01888	CDS	tatD	3.1.-.-	putative metal-dependent hydrolase TatD
+KFKCNJGC_01888	gene	tatD
+KFKCNJGC_01889	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_01889	gene
+KFKCNJGC_01890	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_01890	gene
+KFKCNJGC_01891	CDS	hypothetical protein
+KFKCNJGC_01891	gene
+KFKCNJGC_01892	CDS	hypothetical protein
+KFKCNJGC_01892	gene
+KFKCNJGC_01893	CDS	hypothetical protein
+KFKCNJGC_01893	gene
+KFKCNJGC_01894	CDS	putative monoacyl phosphatidylinositol tetramannoside-binding protein LpqW
+KFKCNJGC_01894	gene
+KFKCNJGC_01895	CDS	oppF_5	Oligopeptide transport ATP-binding protein OppF
+KFKCNJGC_01895	gene	oppF_5
+KFKCNJGC_01896	CDS	Putative peptide transport permease protein
+KFKCNJGC_01896	gene
+KFKCNJGC_01897	CDS	Putative peptide transport permease protein
+KFKCNJGC_01897	gene
+KFKCNJGC_01898	CDS	pepC	3.4.22.40	Aminopeptidase C
+KFKCNJGC_01898	gene	pepC
+KFKCNJGC_01899	CDS	hypothetical protein
+KFKCNJGC_01899	gene
+KFKCNJGC_01900	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+KFKCNJGC_01900	gene	metG
+KFKCNJGC_01901	CDS	hypothetical protein
+KFKCNJGC_01901	gene
+KFKCNJGC_01902	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+KFKCNJGC_01902	gene	rsmI
+KFKCNJGC_01903	tRNA	tRNA-Ala(cgc)
+KFKCNJGC_01903	gene
+KFKCNJGC_01904	CDS	yjmB_2	putative symporter YjmB
+KFKCNJGC_01904	gene	yjmB_2
+KFKCNJGC_01905	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+KFKCNJGC_01905	gene	apbE
+KFKCNJGC_01906	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_01906	gene
+KFKCNJGC_01907	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_01907	gene
+KFKCNJGC_01908	CDS	slyA_2	Transcriptional regulator SlyA
+KFKCNJGC_01908	gene	slyA_2
+KFKCNJGC_01909	CDS	cycA	D-serine/D-alanine/glycine transporter
+KFKCNJGC_01909	gene	cycA
+KFKCNJGC_01910	CDS	smc_6	Chromosome partition protein Smc
+KFKCNJGC_01910	gene	smc_6
+KFKCNJGC_01911	CDS	putative ABC transporter ATP-binding protein
+KFKCNJGC_01911	gene
+KFKCNJGC_01912	CDS	aroP	Aromatic amino acid transport protein AroP
+KFKCNJGC_01912	gene	aroP
+KFKCNJGC_01913	CDS	hypothetical protein
+KFKCNJGC_01913	gene
+KFKCNJGC_01914	CDS	araQ_10	L-arabinose transport system permease protein AraQ
+KFKCNJGC_01914	gene	araQ_10
+KFKCNJGC_01915	CDS	araP	L-arabinose transport system permease protein AraP
+KFKCNJGC_01915	gene	araP
+KFKCNJGC_01916	CDS	cytR_9	HTH-type transcriptional repressor CytR
+KFKCNJGC_01916	gene	cytR_9
+KFKCNJGC_01917	CDS	hypothetical protein
+KFKCNJGC_01917	gene
+KFKCNJGC_01918	CDS	gpm2	3.1.3.2	Acid phosphatase
+KFKCNJGC_01918	gene	gpm2
+KFKCNJGC_01919	CDS	hypothetical protein
+KFKCNJGC_01919	gene
+KFKCNJGC_01920	CDS	nfrA1	1.5.1.38	FMN reductase (NADPH)
+KFKCNJGC_01920	gene	nfrA1
+KFKCNJGC_01921	CDS	smc_7	Chromosome partition protein Smc
+KFKCNJGC_01921	gene	smc_7
+KFKCNJGC_01922	CDS	smc_8	Chromosome partition protein Smc
+KFKCNJGC_01922	gene	smc_8
+KFKCNJGC_01923	CDS	hypothetical protein
+KFKCNJGC_01923	gene
+KFKCNJGC_01924	rRNA	23S ribosomal RNA
+KFKCNJGC_01924	gene
+KFKCNJGC_01925	rRNA	16S ribosomal RNA
+KFKCNJGC_01925	gene
+KFKCNJGC_01926	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+KFKCNJGC_01926	gene	cobB
+KFKCNJGC_01927	CDS	tdcB	4.3.1.19	L-threonine ammonia-lyase
+KFKCNJGC_01927	gene	tdcB
+KFKCNJGC_01928	CDS	malL_4	3.2.1.10	Oligo-1,6-glucosidase
+KFKCNJGC_01928	gene	malL_4
+KFKCNJGC_01929	CDS	araQ_11	L-arabinose transport system permease protein AraQ
+KFKCNJGC_01929	gene	araQ_11
+KFKCNJGC_01930	CDS	ugpA_2	sn-glycerol-3-phosphate transport system permease protein UgpA
+KFKCNJGC_01930	gene	ugpA_2
+KFKCNJGC_01931	CDS	msmE	Multiple sugar-binding protein
+KFKCNJGC_01931	gene	msmE
+KFKCNJGC_01932	CDS	nagC_7	N-acetylglucosamine repressor
+KFKCNJGC_01932	gene	nagC_7
+KFKCNJGC_01933	CDS	rafA	3.2.1.22	Alpha-galactosidase
+KFKCNJGC_01933	gene	rafA
+KFKCNJGC_01934	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+KFKCNJGC_01934	gene	tadA
+KFKCNJGC_01935	CDS	nhaK	Sodium, potassium, lithium and rubidium/H(+) antiporter
+KFKCNJGC_01935	gene	nhaK
+KFKCNJGC_01936	CDS	hypothetical protein
+KFKCNJGC_01936	gene
+KFKCNJGC_01937	CDS	hypothetical protein
+KFKCNJGC_01937	gene
+KFKCNJGC_01938	CDS	hypothetical protein
+KFKCNJGC_01938	gene
+KFKCNJGC_01939	CDS	dcd	3.5.4.13	dCTP deaminase
+KFKCNJGC_01939	gene	dcd
+KFKCNJGC_01940	CDS	hypothetical protein
+KFKCNJGC_01940	gene
+KFKCNJGC_01941	CDS	pacL_2	3.6.3.8	Calcium-transporting ATPase
+KFKCNJGC_01941	gene	pacL_2
+KFKCNJGC_01942	CDS	hypothetical protein
+KFKCNJGC_01942	gene
+KFKCNJGC_01943	CDS	crr_2	2.7.1.199	PTS system glucose-specific EIIA component
+KFKCNJGC_01943	gene	crr_2
+KFKCNJGC_01944	CDS	nagE_2	PTS system N-acetylglucosamine-specific EIICBA component
+KFKCNJGC_01944	gene	nagE_2
+KFKCNJGC_01945	CDS	mdtH	Multidrug resistance protein MdtH
+KFKCNJGC_01945	gene	mdtH
+KFKCNJGC_01946	CDS	2.1.1.-	putative tRNA/rRNA methyltransferase
+KFKCNJGC_01946	gene
+KFKCNJGC_01947	CDS	yeaD_2	5.1.3.15	Putative glucose-6-phosphate 1-epimerase
+KFKCNJGC_01947	gene	yeaD_2
+KFKCNJGC_01948	CDS	galT_2	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+KFKCNJGC_01948	gene	galT_2
+KFKCNJGC_01949	CDS	hypothetical protein
+KFKCNJGC_01949	gene
+KFKCNJGC_01950	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+KFKCNJGC_01950	gene	sugC
+KFKCNJGC_01951	CDS	yurK	putative HTH-type transcriptional regulator YurK
+KFKCNJGC_01951	gene	yurK
+KFKCNJGC_01952	CDS	ulaA	Ascorbate-specific PTS system EIIC component
+KFKCNJGC_01952	gene	ulaA
+KFKCNJGC_01953	CDS	mtlA	PTS system mannitol-specific EIICB component
+KFKCNJGC_01953	gene	mtlA
+KFKCNJGC_01954	CDS	cmtB	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+KFKCNJGC_01954	gene	cmtB
+KFKCNJGC_01955	CDS	epsJ_3	2.4.-.-	putative glycosyltransferase EpsJ
+KFKCNJGC_01955	gene	epsJ_3
+KFKCNJGC_01956	CDS	lytR_2	Sensory transduction protein LytR
+KFKCNJGC_01956	gene	lytR_2
+KFKCNJGC_01957	CDS	hypothetical protein
+KFKCNJGC_01957	gene
+KFKCNJGC_01958	CDS	nrdF2	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+KFKCNJGC_01958	gene	nrdF2
+KFKCNJGC_01959	CDS	hypothetical protein
+KFKCNJGC_01959	gene
+KFKCNJGC_01960	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+KFKCNJGC_01960	gene	nrdE1
+KFKCNJGC_01961	CDS	Putative NrdI-like protein
+KFKCNJGC_01961	gene
+KFKCNJGC_01962	CDS	nrdH	Glutaredoxin-like protein NrdH
+KFKCNJGC_01962	gene	nrdH
+KFKCNJGC_01963	CDS	hypothetical protein
+KFKCNJGC_01963	gene
+KFKCNJGC_01964	CDS	bglB_1	3.2.1.21	Thermostable beta-glucosidase B
+KFKCNJGC_01964	gene	bglB_1
+KFKCNJGC_01965	CDS	hypothetical protein
+KFKCNJGC_01965	gene
+KFKCNJGC_01966	CDS	hypothetical protein
+KFKCNJGC_01966	gene
+KFKCNJGC_01967	CDS	kcsA	pH-gated potassium channel KcsA
+KFKCNJGC_01967	gene	kcsA
+KFKCNJGC_01968	CDS	bglB_2	3.2.1.21	Thermostable beta-glucosidase B
+KFKCNJGC_01968	gene	bglB_2
+KFKCNJGC_01969	CDS	afsK	2.7.11.1	Serine/threonine-protein kinase AfsK
+KFKCNJGC_01969	gene	afsK
+KFKCNJGC_01970	CDS	pknE	2.7.11.1	Serine/threonine-protein kinase PknE
+KFKCNJGC_01970	gene	pknE
+KFKCNJGC_01971	tRNA	tRNA-Thr(tgt)
+KFKCNJGC_01971	gene
+KFKCNJGC_01972	CDS	rpf2	3.-.-.-	Resuscitation-promoting factor Rpf2
+KFKCNJGC_01972	gene	rpf2
+KFKCNJGC_01973	CDS	ksgA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+KFKCNJGC_01973	gene	ksgA
+KFKCNJGC_01974	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+KFKCNJGC_01974	gene	ispE
+KFKCNJGC_01975	CDS	hypothetical protein
+KFKCNJGC_01975	gene
+KFKCNJGC_01976	CDS	cca	2.7.7.72	CCA-adding enzyme
+KFKCNJGC_01976	gene	cca
+KFKCNJGC_01977	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+KFKCNJGC_01977	gene	mutT4
+KFKCNJGC_01978	CDS	hypothetical protein
+KFKCNJGC_01978	gene
+KFKCNJGC_01979	CDS	mviN	putative peptidoglycan biosynthesis protein MviN
+KFKCNJGC_01979	gene	mviN
+KFKCNJGC_01980	CDS	trxB_2	1.8.1.9	Thioredoxin reductase
+KFKCNJGC_01980	gene	trxB_2
+KFKCNJGC_01981	CDS	parB	putative chromosome-partitioning protein ParB
+KFKCNJGC_01981	gene	parB
+KFKCNJGC_01982	CDS	soj_3	3.6.-.-	Sporulation initiation inhibitor protein Soj
+KFKCNJGC_01982	gene	soj_3
+KFKCNJGC_01983	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+KFKCNJGC_01983	gene	rsmG
+KFKCNJGC_01984	CDS	hypothetical protein
+KFKCNJGC_01984	gene
+KFKCNJGC_01985	CDS	yidC	Membrane protein insertase YidC
+KFKCNJGC_01985	gene	yidC
+KFKCNJGC_01986	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+KFKCNJGC_01986	gene	rnpA
+KFKCNJGC_01987	CDS	rpmH	50S ribosomal protein L34
+KFKCNJGC_01987	gene	rpmH

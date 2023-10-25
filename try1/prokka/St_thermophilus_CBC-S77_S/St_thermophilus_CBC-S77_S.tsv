@@ -1,0 +1,3537 @@
+locus_tag	ftype	gene	EC_number	product
+NDNNOAAD_00001	CDS	hypothetical protein
+NDNNOAAD_00001	gene
+NDNNOAAD_00002	CDS	hypothetical protein
+NDNNOAAD_00002	gene
+NDNNOAAD_00003	CDS	hypothetical protein
+NDNNOAAD_00003	gene
+NDNNOAAD_00004	CDS	skfB	1.21.98.-	Sporulation killing factor maturation protein SkfB
+NDNNOAAD_00004	gene	skfB
+NDNNOAAD_00005	CDS	hypothetical protein
+NDNNOAAD_00005	gene
+NDNNOAAD_00006	CDS	phnT	Putative 2-aminoethylphosphonate import ATP-binding protein PhnT
+NDNNOAAD_00006	gene	phnT
+NDNNOAAD_00007	CDS	repE	Replication initiation protein
+NDNNOAAD_00007	gene	repE
+NDNNOAAD_00008	CDS	hypothetical protein
+NDNNOAAD_00008	gene
+NDNNOAAD_00009	CDS	hypothetical protein
+NDNNOAAD_00009	gene
+NDNNOAAD_00010	CDS	hypothetical protein
+NDNNOAAD_00010	gene
+NDNNOAAD_00011	CDS	hypothetical protein
+NDNNOAAD_00011	gene
+NDNNOAAD_00012	CDS	hypothetical protein
+NDNNOAAD_00012	gene
+NDNNOAAD_00013	CDS	hypothetical protein
+NDNNOAAD_00013	gene
+NDNNOAAD_00014	CDS	thrB	2.7.1.39	Homoserine kinase
+NDNNOAAD_00014	gene	thrB
+NDNNOAAD_00015	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+NDNNOAAD_00015	gene	hom
+NDNNOAAD_00016	CDS	icaB	3.5.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+NDNNOAAD_00016	gene	icaB
+NDNNOAAD_00017	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+NDNNOAAD_00017	gene	argD
+NDNNOAAD_00018	CDS	argB	2.7.2.8	Acetylglutamate kinase
+NDNNOAAD_00018	gene	argB
+NDNNOAAD_00019	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ
+NDNNOAAD_00019	gene	argJ
+NDNNOAAD_00020	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+NDNNOAAD_00020	gene	argC
+NDNNOAAD_00021	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+NDNNOAAD_00021	gene	dapL
+NDNNOAAD_00022	CDS	3.5.1.111	2-oxoglutaramate amidase
+NDNNOAAD_00022	gene
+NDNNOAAD_00023	CDS	hypothetical protein
+NDNNOAAD_00023	gene
+NDNNOAAD_00024	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+NDNNOAAD_00024	gene	tsaD
+NDNNOAAD_00025	CDS	rimI	2.3.1.255	N-alpha-acetyltransferase RimI
+NDNNOAAD_00025	gene	rimI
+NDNNOAAD_00026	CDS	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NDNNOAAD_00026	gene	tsaB
+NDNNOAAD_00027	CDS	hypothetical protein
+NDNNOAAD_00027	gene
+NDNNOAAD_00028	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+NDNNOAAD_00028	gene	rnj1
+NDNNOAAD_00029	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+NDNNOAAD_00029	gene	pabB
+NDNNOAAD_00030	CDS	yoaB	3.6.3.8	Calcium-transporting ATPase 1
+NDNNOAAD_00030	gene	yoaB
+NDNNOAAD_00031	CDS	yclQ	putative ABC transporter solute-binding protein YclQ
+NDNNOAAD_00031	gene	yclQ
+NDNNOAAD_00032	CDS	fecE	Fe(3+) dicitrate transport ATP-binding protein FecE
+NDNNOAAD_00032	gene	fecE
+NDNNOAAD_00033	CDS	feuC	Iron-uptake system permease protein FeuC
+NDNNOAAD_00033	gene	feuC
+NDNNOAAD_00034	CDS	feuB	Iron-uptake system permease protein FeuB
+NDNNOAAD_00034	gene	feuB
+NDNNOAAD_00035	CDS	hypothetical protein
+NDNNOAAD_00035	gene
+NDNNOAAD_00036	CDS	hypothetical protein
+NDNNOAAD_00036	gene
+NDNNOAAD_00037	CDS	epsL_1	2.-.-.-	putative sugar transferase EpsL
+NDNNOAAD_00037	gene	epsL_1
+NDNNOAAD_00038	CDS	cpsD_1	2.7.10.2	Tyrosine-protein kinase CpsD
+NDNNOAAD_00038	gene	cpsD_1
+NDNNOAAD_00039	CDS	hypothetical protein
+NDNNOAAD_00039	gene
+NDNNOAAD_00040	CDS	hypothetical protein
+NDNNOAAD_00040	gene
+NDNNOAAD_00041	CDS	hypothetical protein
+NDNNOAAD_00041	gene
+NDNNOAAD_00042	CDS	epsL_2	2.-.-.-	putative sugar transferase EpsL
+NDNNOAAD_00042	gene	epsL_2
+NDNNOAAD_00043	CDS	cpsD_2	2.7.10.2	Tyrosine-protein kinase CpsD
+NDNNOAAD_00043	gene	cpsD_2
+NDNNOAAD_00044	CDS	cap8A_1	Capsular polysaccharide type 8 biosynthesis protein cap8A
+NDNNOAAD_00044	gene	cap8A_1
+NDNNOAAD_00045	CDS	cpsB_1	3.1.3.48	Tyrosine-protein phosphatase CpsB
+NDNNOAAD_00045	gene	cpsB_1
+NDNNOAAD_00046	CDS	vioD	4.2.1.145	Capreomycidine synthase
+NDNNOAAD_00046	gene	vioD
+NDNNOAAD_00047	CDS	artP_1	Arginine-binding extracellular protein ArtP
+NDNNOAAD_00047	gene	artP_1
+NDNNOAAD_00048	CDS	artP_2	Arginine-binding extracellular protein ArtP
+NDNNOAAD_00048	gene	artP_2
+NDNNOAAD_00049	CDS	nudJ	3.6.1.-	Phosphatase NudJ
+NDNNOAAD_00049	gene	nudJ
+NDNNOAAD_00050	CDS	uvrB_1	UvrABC system protein B
+NDNNOAAD_00050	gene	uvrB_1
+NDNNOAAD_00051	CDS	hypothetical protein
+NDNNOAAD_00051	gene
+NDNNOAAD_00052	CDS	hypothetical protein
+NDNNOAAD_00052	gene
+NDNNOAAD_00053	CDS	hypothetical protein
+NDNNOAAD_00053	gene
+NDNNOAAD_00054	CDS	glnP_1	Glutamine transport system permease protein GlnP
+NDNNOAAD_00054	gene	glnP_1
+NDNNOAAD_00055	CDS	artM	Arginine transport ATP-binding protein ArtM
+NDNNOAAD_00055	gene	artM
+NDNNOAAD_00056	CDS	hypothetical protein
+NDNNOAAD_00056	gene
+NDNNOAAD_00057	CDS	obg	3.6.5.-	GTPase Obg
+NDNNOAAD_00057	gene	obg
+NDNNOAAD_00058	CDS	hypothetical protein
+NDNNOAAD_00058	gene
+NDNNOAAD_00059	CDS	rluB_1	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+NDNNOAAD_00059	gene	rluB_1
+NDNNOAAD_00060	CDS	hypothetical protein
+NDNNOAAD_00060	gene
+NDNNOAAD_00061	CDS	hypothetical protein
+NDNNOAAD_00061	gene
+NDNNOAAD_00062	CDS	paaI	3.1.2.-	Acyl-coenzyme A thioesterase PaaI
+NDNNOAAD_00062	gene	paaI
+NDNNOAAD_00063	CDS	hypothetical protein
+NDNNOAAD_00063	gene
+NDNNOAAD_00064	CDS	hypothetical protein
+NDNNOAAD_00064	gene
+NDNNOAAD_00065	CDS	hypothetical protein
+NDNNOAAD_00065	gene
+NDNNOAAD_00066	CDS	hypothetical protein
+NDNNOAAD_00066	gene
+NDNNOAAD_00067	CDS	pulA_1	3.2.1.41	Pullulanase
+NDNNOAAD_00067	gene	pulA_1
+NDNNOAAD_00068	CDS	amyX_1	3.2.1.41	Pullulanase
+NDNNOAAD_00068	gene	amyX_1
+NDNNOAAD_00069	CDS	pulA_2	3.2.1.41	Pullulanase
+NDNNOAAD_00069	gene	pulA_2
+NDNNOAAD_00070	CDS	pulA_3	3.2.1.41	Pullulanase
+NDNNOAAD_00070	gene	pulA_3
+NDNNOAAD_00071	CDS	hypothetical protein
+NDNNOAAD_00071	gene
+NDNNOAAD_00072	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+NDNNOAAD_00072	gene	pdhC
+NDNNOAAD_00073	CDS	1.8.1.4	Dihydrolipoyl dehydrogenase
+NDNNOAAD_00073	gene
+NDNNOAAD_00074	CDS	hypothetical protein
+NDNNOAAD_00074	gene
+NDNNOAAD_00075	CDS	hypothetical protein
+NDNNOAAD_00075	gene
+NDNNOAAD_00076	CDS	hypothetical protein
+NDNNOAAD_00076	gene
+NDNNOAAD_00077	CDS	hypothetical protein
+NDNNOAAD_00077	gene
+NDNNOAAD_00078	CDS	pulA_4	3.2.1.41	Pullulanase
+NDNNOAAD_00078	gene	pulA_4
+NDNNOAAD_00079	CDS	glcU	putative glucose uptake protein GlcU
+NDNNOAAD_00079	gene	glcU
+NDNNOAAD_00080	CDS	sph	4.2.1.53	Oleate hydratase
+NDNNOAAD_00080	gene	sph
+NDNNOAAD_00081	CDS	hypothetical protein
+NDNNOAAD_00081	gene
+NDNNOAAD_00082	CDS	hypothetical protein
+NDNNOAAD_00082	gene
+NDNNOAAD_00083	CDS	znuA	High-affinity zinc uptake system binding-protein ZnuA
+NDNNOAAD_00083	gene	znuA
+NDNNOAAD_00084	CDS	hypothetical protein
+NDNNOAAD_00084	gene
+NDNNOAAD_00085	CDS	hypothetical protein
+NDNNOAAD_00085	gene
+NDNNOAAD_00086	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+NDNNOAAD_00086	gene	dus
+NDNNOAAD_00087	CDS	hslO	33 kDa chaperonin
+NDNNOAAD_00087	gene	hslO
+NDNNOAAD_00088	CDS	hypothetical protein
+NDNNOAAD_00088	gene
+NDNNOAAD_00089	CDS	hypothetical protein
+NDNNOAAD_00089	gene
+NDNNOAAD_00090	CDS	oppF_1	Oligopeptide transport ATP-binding protein OppF
+NDNNOAAD_00090	gene	oppF_1
+NDNNOAAD_00091	CDS	oppF_2	Oligopeptide transport ATP-binding protein OppF
+NDNNOAAD_00091	gene	oppF_2
+NDNNOAAD_00092	CDS	oppD_1	Oligopeptide transport ATP-binding protein OppD
+NDNNOAAD_00092	gene	oppD_1
+NDNNOAAD_00093	CDS	oppD_2	Oligopeptide transport ATP-binding protein OppD
+NDNNOAAD_00093	gene	oppD_2
+NDNNOAAD_00094	CDS	oppD_3	Oligopeptide transport ATP-binding protein OppD
+NDNNOAAD_00094	gene	oppD_3
+NDNNOAAD_00095	CDS	oppD_4	Oligopeptide transport ATP-binding protein OppD
+NDNNOAAD_00095	gene	oppD_4
+NDNNOAAD_00096	CDS	oppC	Oligopeptide transport system permease protein OppC
+NDNNOAAD_00096	gene	oppC
+NDNNOAAD_00097	CDS	hypothetical protein
+NDNNOAAD_00097	gene
+NDNNOAAD_00098	CDS	dppB	Dipeptide transport system permease protein DppB
+NDNNOAAD_00098	gene	dppB
+NDNNOAAD_00099	CDS	hypothetical protein
+NDNNOAAD_00099	gene
+NDNNOAAD_00100	CDS	oppA	Periplasmic oligopeptide-binding protein
+NDNNOAAD_00100	gene	oppA
+NDNNOAAD_00101	CDS	hypothetical protein
+NDNNOAAD_00101	gene
+NDNNOAAD_00102	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+NDNNOAAD_00102	gene	metE
+NDNNOAAD_00103	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+NDNNOAAD_00103	gene	metF
+NDNNOAAD_00104	CDS	pgcA	5.4.2.2	Phosphoglucomutase
+NDNNOAAD_00104	gene	pgcA
+NDNNOAAD_00105	CDS	panT	Pantothenic acid transporter PanT
+NDNNOAAD_00105	gene	panT
+NDNNOAAD_00106	CDS	coaBC_1	Coenzyme A biosynthesis bifunctional protein CoaBC
+NDNNOAAD_00106	gene	coaBC_1
+NDNNOAAD_00107	CDS	coaBC_2	Coenzyme A biosynthesis bifunctional protein CoaBC
+NDNNOAAD_00107	gene	coaBC_2
+NDNNOAAD_00108	CDS	fhs1	6.3.4.3	Formate--tetrahydrofolate ligase 1
+NDNNOAAD_00108	gene	fhs1
+NDNNOAAD_00109	CDS	copR	Transcriptional activator protein CopR
+NDNNOAAD_00109	gene	copR
+NDNNOAAD_00110	CDS	hypothetical protein
+NDNNOAAD_00110	gene
+NDNNOAAD_00111	CDS	hypothetical protein
+NDNNOAAD_00111	gene
+NDNNOAAD_00112	CDS	arlS_1	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+NDNNOAAD_00112	gene	arlS_1
+NDNNOAAD_00113	CDS	hypothetical protein
+NDNNOAAD_00113	gene
+NDNNOAAD_00114	CDS	hypothetical protein
+NDNNOAAD_00114	gene
+NDNNOAAD_00115	CDS	hypothetical protein
+NDNNOAAD_00115	gene
+NDNNOAAD_00116	CDS	hypothetical protein
+NDNNOAAD_00116	gene
+NDNNOAAD_00117	CDS	hypothetical protein
+NDNNOAAD_00117	gene
+NDNNOAAD_00118	CDS	cysE_1	2.3.1.30	Serine acetyltransferase
+NDNNOAAD_00118	gene	cysE_1
+NDNNOAAD_00119	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+NDNNOAAD_00119	gene	metB
+NDNNOAAD_00120	CDS	cysM	2.5.1.47	Cysteine synthase
+NDNNOAAD_00120	gene	cysM
+NDNNOAAD_00121	CDS	hsdR	3.1.21.3	Type-1 restriction enzyme R protein
+NDNNOAAD_00121	gene	hsdR
+NDNNOAAD_00122	CDS	hypothetical protein
+NDNNOAAD_00122	gene
+NDNNOAAD_00123	CDS	ylmA	3.6.3.-	putative ABC transporter ATP-binding protein YlmA
+NDNNOAAD_00123	gene	ylmA
+NDNNOAAD_00124	CDS	corC	Magnesium and cobalt efflux protein CorC
+NDNNOAAD_00124	gene	corC
+NDNNOAAD_00125	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+NDNNOAAD_00125	gene	asnS
+NDNNOAAD_00126	CDS	2.6.1.1	Aspartate aminotransferase
+NDNNOAAD_00126	gene
+NDNNOAAD_00127	CDS	hypothetical protein
+NDNNOAAD_00127	gene
+NDNNOAAD_00128	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+NDNNOAAD_00128	gene	dinG
+NDNNOAAD_00129	CDS	3.-.-.-	putative metallo-hydrolase
+NDNNOAAD_00129	gene
+NDNNOAAD_00130	CDS	hypothetical protein
+NDNNOAAD_00130	gene
+NDNNOAAD_00131	CDS	mglC	Galactoside transport system permease protein MglC
+NDNNOAAD_00131	gene	mglC
+NDNNOAAD_00132	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+NDNNOAAD_00132	gene	mglA
+NDNNOAAD_00133	CDS	tmpC	Membrane lipoprotein TmpC
+NDNNOAAD_00133	gene	tmpC
+NDNNOAAD_00134	CDS	hypothetical protein
+NDNNOAAD_00134	gene
+NDNNOAAD_00135	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+NDNNOAAD_00135	gene	neuA
+NDNNOAAD_00136	CDS	ubiB_1	2.7.-.-	putative protein kinase UbiB
+NDNNOAAD_00136	gene	ubiB_1
+NDNNOAAD_00137	CDS	ubiB_2	2.7.-.-	putative protein kinase UbiB
+NDNNOAAD_00137	gene	ubiB_2
+NDNNOAAD_00138	CDS	hypothetical protein
+NDNNOAAD_00138	gene
+NDNNOAAD_00139	CDS	bglH_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+NDNNOAAD_00139	gene	bglH_1
+NDNNOAAD_00140	CDS	bglH_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+NDNNOAAD_00140	gene	bglH_2
+NDNNOAAD_00141	CDS	bglH_3	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+NDNNOAAD_00141	gene	bglH_3
+NDNNOAAD_00142	CDS	hypothetical protein
+NDNNOAAD_00142	gene
+NDNNOAAD_00143	CDS	dgs	2.4.1.208	Processive diacylglycerol alpha-glucosyltransferase
+NDNNOAAD_00143	gene	dgs
+NDNNOAAD_00144	CDS	2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+NDNNOAAD_00144	gene
+NDNNOAAD_00145	CDS	hypothetical protein
+NDNNOAAD_00145	gene
+NDNNOAAD_00146	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+NDNNOAAD_00146	gene	thrS
+NDNNOAAD_00147	CDS	hypothetical protein
+NDNNOAAD_00147	gene
+NDNNOAAD_00148	CDS	hypothetical protein
+NDNNOAAD_00148	gene
+NDNNOAAD_00149	CDS	hypothetical protein
+NDNNOAAD_00149	gene
+NDNNOAAD_00150	CDS	hypothetical protein
+NDNNOAAD_00150	gene
+NDNNOAAD_00151	CDS	hypothetical protein
+NDNNOAAD_00151	gene
+NDNNOAAD_00152	CDS	hypothetical protein
+NDNNOAAD_00152	gene
+NDNNOAAD_00153	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+NDNNOAAD_00153	gene	mvaA
+NDNNOAAD_00154	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+NDNNOAAD_00154	gene	mvaS
+NDNNOAAD_00155	CDS	thyA	2.1.1.45	Thymidylate synthase
+NDNNOAAD_00155	gene	thyA
+NDNNOAAD_00156	CDS	dhfR	1.5.1.3	Dihydrofolate reductase
+NDNNOAAD_00156	gene	dhfR
+NDNNOAAD_00157	CDS	hypothetical protein
+NDNNOAAD_00157	gene
+NDNNOAAD_00158	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+NDNNOAAD_00158	gene	clpX
+NDNNOAAD_00159	CDS	lnpD	5.1.3.2	UDP-glucose 4-epimerase
+NDNNOAAD_00159	gene	lnpD
+NDNNOAAD_00160	CDS	hypothetical protein
+NDNNOAAD_00160	gene
+NDNNOAAD_00161	CDS	murAA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+NDNNOAAD_00161	gene	murAA
+NDNNOAAD_00162	CDS	hypothetical protein
+NDNNOAAD_00162	gene
+NDNNOAAD_00163	CDS	endA	3.1.30.-	DNA-entry nuclease
+NDNNOAAD_00163	gene	endA
+NDNNOAAD_00164	CDS	glnP_2	putative glutamine ABC transporter permease protein GlnP
+NDNNOAAD_00164	gene	glnP_2
+NDNNOAAD_00165	CDS	glnM	putative glutamine ABC transporter permease protein GlnM
+NDNNOAAD_00165	gene	glnM
+NDNNOAAD_00166	CDS	peb1A	Major cell-binding factor
+NDNNOAAD_00166	gene	peb1A
+NDNNOAAD_00167	CDS	glnQ_1	3.6.3.-	Glutamine transport ATP-binding protein GlnQ
+NDNNOAAD_00167	gene	glnQ_1
+NDNNOAAD_00168	CDS	walR	Transcriptional regulatory protein WalR
+NDNNOAAD_00168	gene	walR
+NDNNOAAD_00169	CDS	walK	2.7.13.3	Sensor histidine kinase WalK
+NDNNOAAD_00169	gene	walK
+NDNNOAAD_00170	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+NDNNOAAD_00170	gene	yycJ
+NDNNOAAD_00171	CDS	femX	2.3.2.16	Lipid II:glycine glycyltransferase
+NDNNOAAD_00171	gene	femX
+NDNNOAAD_00172	CDS	3.1.3.-	Putative phosphatase
+NDNNOAAD_00172	gene
+NDNNOAAD_00173	CDS	hypothetical protein
+NDNNOAAD_00173	gene
+NDNNOAAD_00174	CDS	yjjG	3.1.3.5	Pyrimidine 5'-nucleotidase YjjG
+NDNNOAAD_00174	gene	yjjG
+NDNNOAAD_00175	CDS	pspB	3.1.3.3	Putative phosphoserine phosphatase 2
+NDNNOAAD_00175	gene	pspB
+NDNNOAAD_00176	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+NDNNOAAD_00176	gene	ybaK
+NDNNOAAD_00177	CDS	hypothetical protein
+NDNNOAAD_00177	gene
+NDNNOAAD_00178	CDS	hypothetical protein
+NDNNOAAD_00178	gene
+NDNNOAAD_00179	CDS	hypothetical protein
+NDNNOAAD_00179	gene
+NDNNOAAD_00180	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+NDNNOAAD_00180	gene	truA
+NDNNOAAD_00181	CDS	dnaJ	Chaperone protein DnaJ
+NDNNOAAD_00181	gene	dnaJ
+NDNNOAAD_00182	CDS	dnaK	Chaperone protein DnaK
+NDNNOAAD_00182	gene	dnaK
+NDNNOAAD_00183	CDS	grpE	Protein GrpE
+NDNNOAAD_00183	gene	grpE
+NDNNOAAD_00184	CDS	hrcA	Heat-inducible transcription repressor HrcA
+NDNNOAAD_00184	gene	hrcA
+NDNNOAAD_00185	CDS	lytG	3.2.1.-	Exo-glucosaminidase LytG
+NDNNOAAD_00185	gene	lytG
+NDNNOAAD_00186	CDS	vanYB	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+NDNNOAAD_00186	gene	vanYB
+NDNNOAAD_00187	CDS	arlS_2	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+NDNNOAAD_00187	gene	arlS_2
+NDNNOAAD_00188	CDS	arlR_1	Response regulator ArlR
+NDNNOAAD_00188	gene	arlR_1
+NDNNOAAD_00189	CDS	hypothetical protein
+NDNNOAAD_00189	gene
+NDNNOAAD_00190	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+NDNNOAAD_00190	gene	rsmG
+NDNNOAAD_00191	CDS	ktrB	Ktr system potassium uptake protein B
+NDNNOAAD_00191	gene	ktrB
+NDNNOAAD_00192	CDS	ktrA	Ktr system potassium uptake protein A
+NDNNOAAD_00192	gene	ktrA
+NDNNOAAD_00193	CDS	ulaG	3.1.1.-	putative L-ascorbate-6-phosphate lactonase UlaG
+NDNNOAAD_00193	gene	ulaG
+NDNNOAAD_00194	CDS	tkt	2.2.1.1	Transketolase
+NDNNOAAD_00194	gene	tkt
+NDNNOAAD_00195	CDS	ecfT_1	Energy-coupling factor transporter transmembrane protein EcfT
+NDNNOAAD_00195	gene	ecfT_1
+NDNNOAAD_00196	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+NDNNOAAD_00196	gene	ykoD
+NDNNOAAD_00197	CDS	hypothetical protein
+NDNNOAAD_00197	gene
+NDNNOAAD_00198	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+NDNNOAAD_00198	gene	salL
+NDNNOAAD_00199	CDS	hypothetical protein
+NDNNOAAD_00199	gene
+NDNNOAAD_00200	CDS	sstT	Serine/threonine transporter SstT
+NDNNOAAD_00200	gene	sstT
+NDNNOAAD_00201	CDS	metP	Methionine import system permease protein MetP
+NDNNOAAD_00201	gene	metP
+NDNNOAAD_00202	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+NDNNOAAD_00202	gene	metN
+NDNNOAAD_00203	CDS	hypothetical protein
+NDNNOAAD_00203	gene
+NDNNOAAD_00204	CDS	hypothetical protein
+NDNNOAAD_00204	gene
+NDNNOAAD_00205	CDS	hypothetical protein
+NDNNOAAD_00205	gene
+NDNNOAAD_00206	CDS	argE	3.5.1.16	Acetylornithine deacetylase
+NDNNOAAD_00206	gene	argE
+NDNNOAAD_00207	CDS	metQ	putative D-methionine-binding lipoprotein MetQ
+NDNNOAAD_00207	gene	metQ
+NDNNOAAD_00208	CDS	hypothetical protein
+NDNNOAAD_00208	gene
+NDNNOAAD_00209	CDS	hypothetical protein
+NDNNOAAD_00209	gene
+NDNNOAAD_00210	CDS	tcyB	L-cystine transport system permease protein TcyB
+NDNNOAAD_00210	gene	tcyB
+NDNNOAAD_00211	CDS	hypothetical protein
+NDNNOAAD_00211	gene
+NDNNOAAD_00212	CDS	yckB	putative ABC transporter extracellular-binding protein YckB
+NDNNOAAD_00212	gene	yckB
+NDNNOAAD_00213	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+NDNNOAAD_00213	gene	nylA
+NDNNOAAD_00214	CDS	dtpT	Di-/tripeptide transporter
+NDNNOAAD_00214	gene	dtpT
+NDNNOAAD_00215	CDS	hypothetical protein
+NDNNOAAD_00215	gene
+NDNNOAAD_00216	CDS	hypothetical protein
+NDNNOAAD_00216	gene
+NDNNOAAD_00217	CDS	3.9.1.-	Purine nucleoside phosphoramidase
+NDNNOAAD_00217	gene
+NDNNOAAD_00218	CDS	ecsA_1	ABC-type transporter ATP-binding protein EcsA
+NDNNOAAD_00218	gene	ecsA_1
+NDNNOAAD_00219	CDS	hypothetical protein
+NDNNOAAD_00219	gene
+NDNNOAAD_00220	CDS	hypothetical protein
+NDNNOAAD_00220	gene
+NDNNOAAD_00221	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+NDNNOAAD_00221	gene	trmB
+NDNNOAAD_00222	tRNA	tRNA-Ser(gga)
+NDNNOAAD_00222	gene
+NDNNOAAD_00223	CDS	1.18.1.2	Ferredoxin--NADP reductase
+NDNNOAAD_00223	gene
+NDNNOAAD_00224	CDS	ilvD_1	4.2.1.9	Dihydroxy-acid dehydratase
+NDNNOAAD_00224	gene	ilvD_1
+NDNNOAAD_00225	CDS	hypothetical protein
+NDNNOAAD_00225	gene
+NDNNOAAD_00226	CDS	lagD_1	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+NDNNOAAD_00226	gene	lagD_1
+NDNNOAAD_00227	CDS	lcnD_1	Lactococcin A secretion protein LcnD
+NDNNOAAD_00227	gene	lcnD_1
+NDNNOAAD_00228	CDS	hypothetical protein
+NDNNOAAD_00228	gene
+NDNNOAAD_00229	CDS	citS	2.7.13.3	Sensor protein CitS
+NDNNOAAD_00229	gene	citS
+NDNNOAAD_00230	CDS	agrA_1	Accessory gene regulator A
+NDNNOAAD_00230	gene	agrA_1
+NDNNOAAD_00231	CDS	tagE	2.4.1.52	Poly(glycerol-phosphate) alpha-glucosyltransferase
+NDNNOAAD_00231	gene	tagE
+NDNNOAAD_00232	CDS	hypothetical protein
+NDNNOAAD_00232	gene
+NDNNOAAD_00233	CDS	epsH	2.4.-.-	Putative glycosyltransferase EpsH
+NDNNOAAD_00233	gene	epsH
+NDNNOAAD_00234	CDS	hypothetical protein
+NDNNOAAD_00234	gene
+NDNNOAAD_00235	CDS	hypothetical protein
+NDNNOAAD_00235	gene
+NDNNOAAD_00236	CDS	2.4.1.54	Undecaprenyl-phosphate mannosyltransferase
+NDNNOAAD_00236	gene
+NDNNOAAD_00237	CDS	amiA_1	Oligopeptide-binding protein AmiA
+NDNNOAAD_00237	gene	amiA_1
+NDNNOAAD_00238	CDS	amiA_2	Oligopeptide-binding protein AmiA
+NDNNOAAD_00238	gene	amiA_2
+NDNNOAAD_00239	CDS	amiA_3	Oligopeptide-binding protein AmiA
+NDNNOAAD_00239	gene	amiA_3
+NDNNOAAD_00240	CDS	amiA_4	Oligopeptide-binding protein AmiA
+NDNNOAAD_00240	gene	amiA_4
+NDNNOAAD_00241	CDS	amiA_5	Oligopeptide-binding protein AmiA
+NDNNOAAD_00241	gene	amiA_5
+NDNNOAAD_00242	CDS	hypothetical protein
+NDNNOAAD_00242	gene
+NDNNOAAD_00243	CDS	hypothetical protein
+NDNNOAAD_00243	gene
+NDNNOAAD_00244	CDS	hypothetical protein
+NDNNOAAD_00244	gene
+NDNNOAAD_00245	CDS	yhfQ	Putative ABC transporter substrate-binding lipoprotein YhfQ
+NDNNOAAD_00245	gene	yhfQ
+NDNNOAAD_00246	CDS	3.1.3.5	5'-nucleotidase
+NDNNOAAD_00246	gene
+NDNNOAAD_00247	CDS	deoD_1	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+NDNNOAAD_00247	gene	deoD_1
+NDNNOAAD_00248	CDS	ygbT	3.1.-.-	CRISPR-associated endonuclease Cas1
+NDNNOAAD_00248	gene	ygbT
+NDNNOAAD_00249	CDS	cse3	3.1.-.-	CRISPR-associated endoribonuclease Cse3
+NDNNOAAD_00249	gene	cse3
+NDNNOAAD_00250	CDS	casD	CRISPR system Cascade subunit CasD
+NDNNOAAD_00250	gene	casD
+NDNNOAAD_00251	CDS	casC	CRISPR system Cascade subunit CasC
+NDNNOAAD_00251	gene	casC
+NDNNOAAD_00252	CDS	hypothetical protein
+NDNNOAAD_00252	gene
+NDNNOAAD_00253	CDS	cse1	CRISPR-associated protein CasA/Cse1
+NDNNOAAD_00253	gene	cse1
+NDNNOAAD_00254	CDS	cas3	3.1.-.-	CRISPR-associated nuclease/helicase Cas3
+NDNNOAAD_00254	gene	cas3
+NDNNOAAD_00255	CDS	hypothetical protein
+NDNNOAAD_00255	gene
+NDNNOAAD_00256	CDS	hisE	3.6.1.31	Phosphoribosyl-ATP pyrophosphatase
+NDNNOAAD_00256	gene	hisE
+NDNNOAAD_00257	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+NDNNOAAD_00257	gene	hisI
+NDNNOAAD_00258	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+NDNNOAAD_00258	gene	hisF
+NDNNOAAD_00259	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+NDNNOAAD_00259	gene	hisA
+NDNNOAAD_00260	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+NDNNOAAD_00260	gene	hisH
+NDNNOAAD_00261	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+NDNNOAAD_00261	gene	hisB
+NDNNOAAD_00262	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+NDNNOAAD_00262	gene	hisD
+NDNNOAAD_00263	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+NDNNOAAD_00263	gene	hisG
+NDNNOAAD_00264	CDS	hisZ	ATP phosphoribosyltransferase regulatory subunit
+NDNNOAAD_00264	gene	hisZ
+NDNNOAAD_00265	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+NDNNOAAD_00265	gene	hisC
+NDNNOAAD_00266	CDS	yraA	3.2.-.-	Putative cysteine protease YraA
+NDNNOAAD_00266	gene	yraA
+NDNNOAAD_00267	CDS	pyrK	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NDNNOAAD_00267	gene	pyrK
+NDNNOAAD_00268	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+NDNNOAAD_00268	gene	pyrDB
+NDNNOAAD_00269	CDS	cas1_1	3.1.-.-	CRISPR-associated endonuclease Cas1
+NDNNOAAD_00269	gene	cas1_1
+NDNNOAAD_00270	CDS	cas2_1	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+NDNNOAAD_00270	gene	cas2_1
+NDNNOAAD_00271	CDS	hypothetical protein
+NDNNOAAD_00271	gene
+NDNNOAAD_00272	CDS	3.6.3.8	Calcium-transporting ATPase 1
+NDNNOAAD_00272	gene
+NDNNOAAD_00273	CDS	nfrA	1.6.-.-	NADPH-dependent oxidoreductase
+NDNNOAAD_00273	gene	nfrA
+NDNNOAAD_00274	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NDNNOAAD_00274	gene	cpdA
+NDNNOAAD_00275	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+NDNNOAAD_00275	gene	queG
+NDNNOAAD_00276	CDS	prfB	Peptide chain release factor 2
+NDNNOAAD_00276	gene	prfB
+NDNNOAAD_00277	CDS	ftsE	Cell division ATP-binding protein FtsE
+NDNNOAAD_00277	gene	ftsE
+NDNNOAAD_00278	CDS	ftsX	Cell division protein FtsX
+NDNNOAAD_00278	gene	ftsX
+NDNNOAAD_00279	CDS	mutX	3.6.1.55	8-oxo-dGTP diphosphatase
+NDNNOAAD_00279	gene	mutX
+NDNNOAAD_00280	CDS	hypothetical protein
+NDNNOAAD_00280	gene
+NDNNOAAD_00281	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+NDNNOAAD_00281	gene	bepA
+NDNNOAAD_00282	CDS	spsB_1	3.4.21.89	Signal peptidase IB
+NDNNOAAD_00282	gene	spsB_1
+NDNNOAAD_00283	CDS	pepT	3.4.11.4	Peptidase T
+NDNNOAAD_00283	gene	pepT
+NDNNOAAD_00284	CDS	hypothetical protein
+NDNNOAAD_00284	gene
+NDNNOAAD_00285	CDS	hypothetical protein
+NDNNOAAD_00285	gene
+NDNNOAAD_00286	CDS	cmk	2.7.4.25	Cytidylate kinase
+NDNNOAAD_00286	gene	cmk
+NDNNOAAD_00287	CDS	infC	Translation initiation factor IF-3
+NDNNOAAD_00287	gene	infC
+NDNNOAAD_00288	CDS	rpmI	50S ribosomal protein L35
+NDNNOAAD_00288	gene	rpmI
+NDNNOAAD_00289	CDS	rplT	50S ribosomal protein L20
+NDNNOAAD_00289	gene	rplT
+NDNNOAAD_00290	CDS	galE_1	5.1.3.2	UDP-glucose 4-epimerase
+NDNNOAAD_00290	gene	galE_1
+NDNNOAAD_00291	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+NDNNOAAD_00291	gene
+NDNNOAAD_00292	CDS	hypothetical protein
+NDNNOAAD_00292	gene
+NDNNOAAD_00293	CDS	pqqE_1	Coenzyme PQQ synthesis protein E
+NDNNOAAD_00293	gene	pqqE_1
+NDNNOAAD_00294	CDS	hypothetical protein
+NDNNOAAD_00294	gene
+NDNNOAAD_00295	CDS	hypothetical protein
+NDNNOAAD_00295	gene
+NDNNOAAD_00296	CDS	hrtA	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+NDNNOAAD_00296	gene	hrtA
+NDNNOAAD_00297	CDS	putative ABC transporter permease
+NDNNOAAD_00297	gene
+NDNNOAAD_00298	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+NDNNOAAD_00298	gene	epsJ_1
+NDNNOAAD_00299	CDS	rpmH	50S ribosomal protein L34
+NDNNOAAD_00299	gene	rpmH
+NDNNOAAD_00300	CDS	hypothetical protein
+NDNNOAAD_00300	gene
+NDNNOAAD_00301	CDS	yidC2	Membrane protein insertase YidC 2
+NDNNOAAD_00301	gene	yidC2
+NDNNOAAD_00302	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+NDNNOAAD_00302	gene	rnpA
+NDNNOAAD_00303	CDS	argH	4.3.2.1	Argininosuccinate lyase
+NDNNOAAD_00303	gene	argH
+NDNNOAAD_00304	CDS	argG	6.3.4.5	Argininosuccinate synthase
+NDNNOAAD_00304	gene	argG
+NDNNOAAD_00305	CDS	hypothetical protein
+NDNNOAAD_00305	gene
+NDNNOAAD_00306	CDS	hypothetical protein
+NDNNOAAD_00306	gene
+NDNNOAAD_00307	CDS	hypothetical protein
+NDNNOAAD_00307	gene
+NDNNOAAD_00308	CDS	hypothetical protein
+NDNNOAAD_00308	gene
+NDNNOAAD_00309	CDS	hypothetical protein
+NDNNOAAD_00309	gene
+NDNNOAAD_00310	CDS	hypothetical protein
+NDNNOAAD_00310	gene
+NDNNOAAD_00311	CDS	hypothetical protein
+NDNNOAAD_00311	gene
+NDNNOAAD_00312	CDS	hypothetical protein
+NDNNOAAD_00312	gene
+NDNNOAAD_00313	CDS	hypothetical protein
+NDNNOAAD_00313	gene
+NDNNOAAD_00314	CDS	Int-Tn_1	Transposase from transposon Tn916
+NDNNOAAD_00314	gene	Int-Tn_1
+NDNNOAAD_00315	CDS	hypothetical protein
+NDNNOAAD_00315	gene
+NDNNOAAD_00316	CDS	hypothetical protein
+NDNNOAAD_00316	gene
+NDNNOAAD_00317	CDS	epsL_3	2.-.-.-	putative sugar transferase EpsL
+NDNNOAAD_00317	gene	epsL_3
+NDNNOAAD_00318	CDS	cpsD_3	2.7.10.2	Tyrosine-protein kinase CpsD
+NDNNOAAD_00318	gene	cpsD_3
+NDNNOAAD_00319	CDS	cap8A_2	Capsular polysaccharide type 8 biosynthesis protein cap8A
+NDNNOAAD_00319	gene	cap8A_2
+NDNNOAAD_00320	CDS	cpsB_2	3.1.3.48	Tyrosine-protein phosphatase CpsB
+NDNNOAAD_00320	gene	cpsB_2
+NDNNOAAD_00321	CDS	2.4.2.-	Putative glutamine amidotransferase
+NDNNOAAD_00321	gene
+NDNNOAAD_00322	CDS	hypothetical protein
+NDNNOAAD_00322	gene
+NDNNOAAD_00323	CDS	hypothetical protein
+NDNNOAAD_00323	gene
+NDNNOAAD_00324	CDS	tagH_1	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+NDNNOAAD_00324	gene	tagH_1
+NDNNOAAD_00325	CDS	tagG_1	Teichoic acid translocation permease protein TagG
+NDNNOAAD_00325	gene	tagG_1
+NDNNOAAD_00326	CDS	wfgD	2.4.1.305	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+NDNNOAAD_00326	gene	wfgD
+NDNNOAAD_00327	CDS	hypothetical protein
+NDNNOAAD_00327	gene
+NDNNOAAD_00328	CDS	hypothetical protein
+NDNNOAAD_00328	gene
+NDNNOAAD_00329	CDS	hypothetical protein
+NDNNOAAD_00329	gene
+NDNNOAAD_00330	CDS	hypothetical protein
+NDNNOAAD_00330	gene
+NDNNOAAD_00331	CDS	mcjD_1	Microcin-J25 export ATP-binding/permease protein McjD
+NDNNOAAD_00331	gene	mcjD_1
+NDNNOAAD_00332	CDS	hypothetical protein
+NDNNOAAD_00332	gene
+NDNNOAAD_00333	CDS	hypothetical protein
+NDNNOAAD_00333	gene
+NDNNOAAD_00334	CDS	hypothetical protein
+NDNNOAAD_00334	gene
+NDNNOAAD_00335	CDS	efeM	putative iron uptake system component EfeM
+NDNNOAAD_00335	gene	efeM
+NDNNOAAD_00336	CDS	efeN	1.11.1.-	putative deferrochelatase/peroxidase EfeN
+NDNNOAAD_00336	gene	efeN
+NDNNOAAD_00337	CDS	efeU	Ferrous iron permease EfeU
+NDNNOAAD_00337	gene	efeU
+NDNNOAAD_00338	CDS	tatC1	Sec-independent protein translocase protein TatCd
+NDNNOAAD_00338	gene	tatC1
+NDNNOAAD_00339	CDS	tatAd	Sec-independent protein translocase protein TatAd
+NDNNOAAD_00339	gene	tatAd
+NDNNOAAD_00340	CDS	hypothetical protein
+NDNNOAAD_00340	gene
+NDNNOAAD_00341	CDS	hypothetical protein
+NDNNOAAD_00341	gene
+NDNNOAAD_00342	CDS	hypothetical protein
+NDNNOAAD_00342	gene
+NDNNOAAD_00343	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+NDNNOAAD_00343	gene
+NDNNOAAD_00344	CDS	hypothetical protein
+NDNNOAAD_00344	gene
+NDNNOAAD_00345	CDS	hypothetical protein
+NDNNOAAD_00345	gene
+NDNNOAAD_00346	CDS	3.2.1.-	Protein-ADP-ribose hydrolase
+NDNNOAAD_00346	gene
+NDNNOAAD_00347	CDS	trxA	Thioredoxin
+NDNNOAAD_00347	gene	trxA
+NDNNOAAD_00348	CDS	hypothetical protein
+NDNNOAAD_00348	gene
+NDNNOAAD_00349	CDS	dtd3	3.1.1.96	D-aminoacyl-tRNA deacylase
+NDNNOAAD_00349	gene	dtd3
+NDNNOAAD_00350	CDS	rnmV	3.1.26.8	Ribonuclease M5
+NDNNOAAD_00350	gene	rnmV
+NDNNOAAD_00351	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+NDNNOAAD_00351	gene	rsmA
+NDNNOAAD_00352	tRNA	tRNA-Leu(cag)
+NDNNOAAD_00352	gene
+NDNNOAAD_00353	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+NDNNOAAD_00353	gene	rsgA
+NDNNOAAD_00354	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+NDNNOAAD_00354	gene	rpe
+NDNNOAAD_00355	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+NDNNOAAD_00355	gene	thiN
+NDNNOAAD_00356	CDS	hypothetical protein
+NDNNOAAD_00356	gene
+NDNNOAAD_00357	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+NDNNOAAD_00357	gene	yhaM
+NDNNOAAD_00358	CDS	purR	Pur operon repressor
+NDNNOAAD_00358	gene	purR
+NDNNOAAD_00359	CDS	rpsL	30S ribosomal protein S12
+NDNNOAAD_00359	gene	rpsL
+NDNNOAAD_00360	CDS	rpsG	30S ribosomal protein S7
+NDNNOAAD_00360	gene	rpsG
+NDNNOAAD_00361	CDS	hypothetical protein
+NDNNOAAD_00361	gene
+NDNNOAAD_00362	CDS	putative HTH-type transcriptional regulator
+NDNNOAAD_00362	gene
+NDNNOAAD_00363	CDS	hypothetical protein
+NDNNOAAD_00363	gene
+NDNNOAAD_00364	CDS	hypothetical protein
+NDNNOAAD_00364	gene
+NDNNOAAD_00365	CDS	ltrA	Group II intron-encoded protein LtrA
+NDNNOAAD_00365	gene	ltrA
+NDNNOAAD_00366	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+NDNNOAAD_00366	gene
+NDNNOAAD_00367	CDS	hypothetical protein
+NDNNOAAD_00367	gene
+NDNNOAAD_00368	CDS	wbbI	2.4.1.-	Beta-1,6-galactofuranosyltransferase WbbI
+NDNNOAAD_00368	gene	wbbI
+NDNNOAAD_00369	CDS	glf_1	5.4.99.9	UDP-galactopyranose mutase
+NDNNOAAD_00369	gene	glf_1
+NDNNOAAD_00370	CDS	rfbX_1	Putative O-antigen transporter
+NDNNOAAD_00370	gene	rfbX_1
+NDNNOAAD_00371	CDS	fieF	Ferrous-iron efflux pump FieF
+NDNNOAAD_00371	gene	fieF
+NDNNOAAD_00372	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+NDNNOAAD_00372	gene	ung
+NDNNOAAD_00373	CDS	hypothetical protein
+NDNNOAAD_00373	gene
+NDNNOAAD_00374	CDS	nudG	3.6.1.65	CTP pyrophosphohydrolase
+NDNNOAAD_00374	gene	nudG
+NDNNOAAD_00375	CDS	hypothetical protein
+NDNNOAAD_00375	gene
+NDNNOAAD_00376	CDS	radD	3.6.4.12	Putative DNA repair helicase RadD
+NDNNOAAD_00376	gene	radD
+NDNNOAAD_00377	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+NDNNOAAD_00377	gene	lysS
+NDNNOAAD_00378	CDS	nisC	Nisin biosynthesis protein NisC
+NDNNOAAD_00378	gene	nisC
+NDNNOAAD_00379	CDS	hypothetical protein
+NDNNOAAD_00379	gene
+NDNNOAAD_00380	CDS	hypothetical protein
+NDNNOAAD_00380	gene
+NDNNOAAD_00381	CDS	hypothetical protein
+NDNNOAAD_00381	gene
+NDNNOAAD_00382	CDS	hypothetical protein
+NDNNOAAD_00382	gene
+NDNNOAAD_00383	CDS	ybhF	putative ABC transporter ATP-binding protein YbhF
+NDNNOAAD_00383	gene	ybhF
+NDNNOAAD_00384	CDS	hypothetical protein
+NDNNOAAD_00384	gene
+NDNNOAAD_00385	CDS	desK	2.7.13.3	Sensor histidine kinase DesK
+NDNNOAAD_00385	gene	desK
+NDNNOAAD_00386	CDS	natA_1	ABC transporter ATP-binding protein NatA
+NDNNOAAD_00386	gene	natA_1
+NDNNOAAD_00387	CDS	hypothetical protein
+NDNNOAAD_00387	gene
+NDNNOAAD_00388	CDS	hypothetical protein
+NDNNOAAD_00388	gene
+NDNNOAAD_00389	CDS	hypothetical protein
+NDNNOAAD_00389	gene
+NDNNOAAD_00390	CDS	hypothetical protein
+NDNNOAAD_00390	gene
+NDNNOAAD_00391	CDS	hisJ	putative histidine-binding protein
+NDNNOAAD_00391	gene	hisJ
+NDNNOAAD_00392	CDS	rpsU	30S ribosomal protein S21
+NDNNOAAD_00392	gene	rpsU
+NDNNOAAD_00393	CDS	mscL	Large-conductance mechanosensitive channel
+NDNNOAAD_00393	gene	mscL
+NDNNOAAD_00394	CDS	dnaG	2.7.7.-	DNA primase
+NDNNOAAD_00394	gene	dnaG
+NDNNOAAD_00395	CDS	sigA	RNA polymerase sigma factor SigA
+NDNNOAAD_00395	gene	sigA
+NDNNOAAD_00396	CDS	mrp	Iron-sulfur cluster carrier protein
+NDNNOAAD_00396	gene	mrp
+NDNNOAAD_00397	CDS	csbB_1	2.4.-.-	Putative glycosyltransferase CsbB
+NDNNOAAD_00397	gene	csbB_1
+NDNNOAAD_00398	CDS	hypothetical protein
+NDNNOAAD_00398	gene
+NDNNOAAD_00399	CDS	rmlD_1	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+NDNNOAAD_00399	gene	rmlD_1
+NDNNOAAD_00400	CDS	hypothetical protein
+NDNNOAAD_00400	gene
+NDNNOAAD_00401	CDS	hypothetical protein
+NDNNOAAD_00401	gene
+NDNNOAAD_00402	CDS	gspA	General stress protein A
+NDNNOAAD_00402	gene	gspA
+NDNNOAAD_00403	CDS	hutU	4.2.1.49	Urocanate hydratase
+NDNNOAAD_00403	gene	hutU
+NDNNOAAD_00404	CDS	hypothetical protein
+NDNNOAAD_00404	gene
+NDNNOAAD_00405	CDS	hutH	4.3.1.3	Histidine ammonia-lyase
+NDNNOAAD_00405	gene	hutH
+NDNNOAAD_00406	CDS	opuCB_1	Carnitine transport permease protein OpuCB
+NDNNOAAD_00406	gene	opuCB_1
+NDNNOAAD_00407	CDS	opuCC	Carnitine transport binding protein OpuCC
+NDNNOAAD_00407	gene	opuCC
+NDNNOAAD_00408	CDS	opuCA	Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+NDNNOAAD_00408	gene	opuCA
+NDNNOAAD_00409	CDS	opuCB_2	Carnitine transport permease protein OpuCB
+NDNNOAAD_00409	gene	opuCB_2
+NDNNOAAD_00410	CDS	bioY2_1	Biotin transporter BioY2
+NDNNOAAD_00410	gene	bioY2_1
+NDNNOAAD_00411	CDS	yfnB	3.-.-.-	Putative HAD-hydrolase YfnB
+NDNNOAAD_00411	gene	yfnB
+NDNNOAAD_00412	CDS	uvrC	UvrABC system protein C
+NDNNOAAD_00412	gene	uvrC
+NDNNOAAD_00413	CDS	clsA	2.7.8.-	Major cardiolipin synthase ClsA
+NDNNOAAD_00413	gene	clsA
+NDNNOAAD_00414	CDS	deoD_2	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+NDNNOAAD_00414	gene	deoD_2
+NDNNOAAD_00415	CDS	hypothetical protein
+NDNNOAAD_00415	gene
+NDNNOAAD_00416	CDS	hypothetical protein
+NDNNOAAD_00416	gene
+NDNNOAAD_00417	CDS	hypothetical protein
+NDNNOAAD_00417	gene
+NDNNOAAD_00418	CDS	gadC	Glutamate/gamma-aminobutyrate antiporter
+NDNNOAAD_00418	gene	gadC
+NDNNOAAD_00419	CDS	gadB	4.1.1.15	Glutamate decarboxylase
+NDNNOAAD_00419	gene	gadB
+NDNNOAAD_00420	CDS	glmU	Bifunctional protein GlmU
+NDNNOAAD_00420	gene	glmU
+NDNNOAAD_00421	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+NDNNOAAD_00421	gene	act
+NDNNOAAD_00422	CDS	hypothetical protein
+NDNNOAAD_00422	gene
+NDNNOAAD_00423	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+NDNNOAAD_00423	gene	mtnN
+NDNNOAAD_00424	CDS	divIVA	Cell division protein DivIVA
+NDNNOAAD_00424	gene	divIVA
+NDNNOAAD_00425	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+NDNNOAAD_00425	gene	ywqD
+NDNNOAAD_00426	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+NDNNOAAD_00426	gene	epsJ_2
+NDNNOAAD_00427	CDS	rfbX_2	Putative O-antigen transporter
+NDNNOAAD_00427	gene	rfbX_2
+NDNNOAAD_00428	CDS	hypothetical protein
+NDNNOAAD_00428	gene
+NDNNOAAD_00429	CDS	hypothetical protein
+NDNNOAAD_00429	gene
+NDNNOAAD_00430	CDS	ansB	3.5.1.38	Glutaminase-asparaginase
+NDNNOAAD_00430	gene	ansB
+NDNNOAAD_00431	CDS	ycsE	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+NDNNOAAD_00431	gene	ycsE
+NDNNOAAD_00432	CDS	hypothetical protein
+NDNNOAAD_00432	gene
+NDNNOAAD_00433	CDS	hypothetical protein
+NDNNOAAD_00433	gene
+NDNNOAAD_00434	CDS	hypothetical protein
+NDNNOAAD_00434	gene
+NDNNOAAD_00435	CDS	hypothetical protein
+NDNNOAAD_00435	gene
+NDNNOAAD_00436	CDS	hypothetical protein
+NDNNOAAD_00436	gene
+NDNNOAAD_00437	CDS	hypothetical protein
+NDNNOAAD_00437	gene
+NDNNOAAD_00438	CDS	rexB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+NDNNOAAD_00438	gene	rexB
+NDNNOAAD_00439	CDS	addA_1	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+NDNNOAAD_00439	gene	addA_1
+NDNNOAAD_00440	CDS	hypothetical protein
+NDNNOAAD_00440	gene
+NDNNOAAD_00441	CDS	hypothetical protein
+NDNNOAAD_00441	gene
+NDNNOAAD_00442	CDS	capA	Capsule biosynthesis protein CapA
+NDNNOAAD_00442	gene	capA
+NDNNOAAD_00443	CDS	hypothetical protein
+NDNNOAAD_00443	gene
+NDNNOAAD_00444	CDS	dltC	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 2
+NDNNOAAD_00444	gene	dltC
+NDNNOAAD_00445	CDS	patA_1	2.3.1.-	Peptidoglycan O-acetyltransferase
+NDNNOAAD_00445	gene	patA_1
+NDNNOAAD_00446	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+NDNNOAAD_00446	gene	dltA
+NDNNOAAD_00447	CDS	hypothetical protein
+NDNNOAAD_00447	gene
+NDNNOAAD_00448	CDS	putative ABC transporter ATP-binding protein
+NDNNOAAD_00448	gene
+NDNNOAAD_00449	CDS	putative ABC transporter ATP-binding protein
+NDNNOAAD_00449	gene
+NDNNOAAD_00450	CDS	hypothetical protein
+NDNNOAAD_00450	gene
+NDNNOAAD_00451	CDS	hypothetical protein
+NDNNOAAD_00451	gene
+NDNNOAAD_00452	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+NDNNOAAD_00452	gene	glyA
+NDNNOAAD_00453	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+NDNNOAAD_00453	gene	ywlC
+NDNNOAAD_00454	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+NDNNOAAD_00454	gene	prmC
+NDNNOAAD_00455	CDS	prfA	Peptide chain release factor 1
+NDNNOAAD_00455	gene	prfA
+NDNNOAAD_00456	CDS	tdk	2.7.1.21	Thymidine kinase
+NDNNOAAD_00456	gene	tdk
+NDNNOAAD_00457	CDS	add	3.5.4.4	Adenosine deaminase
+NDNNOAAD_00457	gene	add
+NDNNOAAD_00458	CDS	yghU	1.8.4.-	Disulfide-bond oxidoreductase YghU
+NDNNOAAD_00458	gene	yghU
+NDNNOAAD_00459	CDS	nrnA	3.1.-.-	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+NDNNOAAD_00459	gene	nrnA
+NDNNOAAD_00460	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+NDNNOAAD_00460	gene	apbE
+NDNNOAAD_00461	CDS	rpmE2	50S ribosomal protein L31 type B
+NDNNOAAD_00461	gene	rpmE2
+NDNNOAAD_00462	CDS	hypothetical protein
+NDNNOAAD_00462	gene
+NDNNOAAD_00463	CDS	hypothetical protein
+NDNNOAAD_00463	gene
+NDNNOAAD_00464	CDS	hypothetical protein
+NDNNOAAD_00464	gene
+NDNNOAAD_00465	CDS	hypothetical protein
+NDNNOAAD_00465	gene
+NDNNOAAD_00466	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+NDNNOAAD_00466	gene	mutY
+NDNNOAAD_00467	CDS	hypothetical protein
+NDNNOAAD_00467	gene
+NDNNOAAD_00468	CDS	rpsF	30S ribosomal protein S6
+NDNNOAAD_00468	gene	rpsF
+NDNNOAAD_00469	CDS	ssb_1	Single-stranded DNA-binding protein
+NDNNOAAD_00469	gene	ssb_1
+NDNNOAAD_00470	CDS	rpsR	30S ribosomal protein S18
+NDNNOAAD_00470	gene	rpsR
+NDNNOAAD_00471	CDS	hypothetical protein
+NDNNOAAD_00471	gene
+NDNNOAAD_00472	CDS	hypothetical protein
+NDNNOAAD_00472	gene
+NDNNOAAD_00473	CDS	corA	Cobalt/magnesium transport protein CorA
+NDNNOAAD_00473	gene	corA
+NDNNOAAD_00474	CDS	uvrA	UvrABC system protein A
+NDNNOAAD_00474	gene	uvrA
+NDNNOAAD_00475	CDS	hypothetical protein
+NDNNOAAD_00475	gene
+NDNNOAAD_00476	CDS	hypothetical protein
+NDNNOAAD_00476	gene
+NDNNOAAD_00477	CDS	natA_2	ABC transporter ATP-binding protein NatA
+NDNNOAAD_00477	gene	natA_2
+NDNNOAAD_00478	CDS	hypothetical protein
+NDNNOAAD_00478	gene
+NDNNOAAD_00479	CDS	hypothetical protein
+NDNNOAAD_00479	gene
+NDNNOAAD_00480	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+NDNNOAAD_00480	gene	ypdF
+NDNNOAAD_00481	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+NDNNOAAD_00481	gene	tadA_1
+NDNNOAAD_00482	CDS	efp	Elongation factor P
+NDNNOAAD_00482	gene	efp
+NDNNOAAD_00483	CDS	hypothetical protein
+NDNNOAAD_00483	gene
+NDNNOAAD_00484	CDS	nusB	N utilization substance protein B 
+NDNNOAAD_00484	gene	nusB
+NDNNOAAD_00485	CDS	rbsR	Ribose operon repressor
+NDNNOAAD_00485	gene	rbsR
+NDNNOAAD_00486	CDS	scrB	3.2.1.26	Sucrose-6-phosphate hydrolase
+NDNNOAAD_00486	gene	scrB
+NDNNOAAD_00487	CDS	hypothetical protein
+NDNNOAAD_00487	gene
+NDNNOAAD_00488	CDS	alr	5.1.1.1	Alanine racemase
+NDNNOAAD_00488	gene	alr
+NDNNOAAD_00489	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+NDNNOAAD_00489	gene	acpS
+NDNNOAAD_00490	CDS	aroF	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+NDNNOAAD_00490	gene	aroF
+NDNNOAAD_00491	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive
+NDNNOAAD_00491	gene	aroH
+NDNNOAAD_00492	CDS	secA	Protein translocase subunit SecA
+NDNNOAAD_00492	gene	secA
+NDNNOAAD_00493	CDS	hypothetical protein
+NDNNOAAD_00493	gene
+NDNNOAAD_00494	CDS	manA_1	5.3.1.8	Mannose-6-phosphate isomerase ManA
+NDNNOAAD_00494	gene	manA_1
+NDNNOAAD_00495	CDS	gmuE	2.7.1.4	Putative fructokinase
+NDNNOAAD_00495	gene	gmuE
+NDNNOAAD_00496	CDS	bglF_1	PTS system beta-glucoside-specific EIIBCA component
+NDNNOAAD_00496	gene	bglF_1
+NDNNOAAD_00497	CDS	hypothetical protein
+NDNNOAAD_00497	gene
+NDNNOAAD_00498	CDS	hypothetical protein
+NDNNOAAD_00498	gene
+NDNNOAAD_00499	CDS	uvrB_2	UvrABC system protein B
+NDNNOAAD_00499	gene	uvrB_2
+NDNNOAAD_00500	CDS	uvrB_3	UvrABC system protein B
+NDNNOAAD_00500	gene	uvrB_3
+NDNNOAAD_00501	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+NDNNOAAD_00501	gene	mshD_1
+NDNNOAAD_00502	CDS	hypothetical protein
+NDNNOAAD_00502	gene
+NDNNOAAD_00503	CDS	hypothetical protein
+NDNNOAAD_00503	gene
+NDNNOAAD_00504	CDS	hypothetical protein
+NDNNOAAD_00504	gene
+NDNNOAAD_00505	CDS	hypothetical protein
+NDNNOAAD_00505	gene
+NDNNOAAD_00506	CDS	cdd	3.5.4.5	Cytidine deaminase
+NDNNOAAD_00506	gene	cdd
+NDNNOAAD_00507	CDS	panS	Pantothenate precursors transporter PanS
+NDNNOAAD_00507	gene	panS
+NDNNOAAD_00508	CDS	hypothetical protein
+NDNNOAAD_00508	gene
+NDNNOAAD_00509	CDS	hypothetical protein
+NDNNOAAD_00509	gene
+NDNNOAAD_00510	CDS	hypothetical protein
+NDNNOAAD_00510	gene
+NDNNOAAD_00511	CDS	cvfB	Conserved virulence factor B
+NDNNOAAD_00511	gene	cvfB
+NDNNOAAD_00512	CDS	frr	Ribosome-recycling factor
+NDNNOAAD_00512	gene	frr
+NDNNOAAD_00513	CDS	pyrH	2.7.4.22	Uridylate kinase
+NDNNOAAD_00513	gene	pyrH
+NDNNOAAD_00514	CDS	tcrY	2.7.13.3	putative sensor histidine kinase TcrY
+NDNNOAAD_00514	gene	tcrY
+NDNNOAAD_00515	CDS	hypothetical protein
+NDNNOAAD_00515	gene
+NDNNOAAD_00516	CDS	putative ABC transporter ATP-binding protein
+NDNNOAAD_00516	gene
+NDNNOAAD_00517	CDS	putative ABC transporter ATP-binding protein
+NDNNOAAD_00517	gene
+NDNNOAAD_00518	CDS	hypothetical protein
+NDNNOAAD_00518	gene
+NDNNOAAD_00519	CDS	def_1	3.5.1.88	Peptide deformylase
+NDNNOAAD_00519	gene	def_1
+NDNNOAAD_00520	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+NDNNOAAD_00520	gene	gdh
+NDNNOAAD_00521	CDS	nadR	Trifunctional NAD biosynthesis/regulator protein NadR
+NDNNOAAD_00521	gene	nadR
+NDNNOAAD_00522	CDS	Bifunctional NMN adenylyltransferase/Nudix hydrolase
+NDNNOAAD_00522	gene
+NDNNOAAD_00523	CDS	hypothetical protein
+NDNNOAAD_00523	gene
+NDNNOAAD_00524	CDS	ettA	Energy-dependent translational throttle protein EttA
+NDNNOAAD_00524	gene	ettA
+NDNNOAAD_00525	CDS	cca	2.7.7.72	CCA-adding enzyme
+NDNNOAAD_00525	gene	cca
+NDNNOAAD_00526	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+NDNNOAAD_00526	gene	dapB
+NDNNOAAD_00527	CDS	DegV domain-containing protein
+NDNNOAAD_00527	gene
+NDNNOAAD_00528	CDS	hypothetical protein
+NDNNOAAD_00528	gene
+NDNNOAAD_00529	CDS	hypothetical protein
+NDNNOAAD_00529	gene
+NDNNOAAD_00530	CDS	speG	2.3.1.57	Spermidine N(1)-acetyltransferase
+NDNNOAAD_00530	gene	speG
+NDNNOAAD_00531	CDS	rpmA	50S ribosomal protein L27
+NDNNOAAD_00531	gene	rpmA
+NDNNOAAD_00532	CDS	rplU	50S ribosomal protein L21
+NDNNOAAD_00532	gene	rplU
+NDNNOAAD_00533	CDS	hypothetical protein
+NDNNOAAD_00533	gene
+NDNNOAAD_00534	CDS	hypothetical protein
+NDNNOAAD_00534	gene
+NDNNOAAD_00535	CDS	glcR_1	HTH-type transcriptional repressor GlcR
+NDNNOAAD_00535	gene	glcR_1
+NDNNOAAD_00536	CDS	lacC	2.7.1.144	Tagatose-6-phosphate kinase
+NDNNOAAD_00536	gene	lacC
+NDNNOAAD_00537	CDS	fruA_1	PTS system fructose-specific EIIABC component
+NDNNOAAD_00537	gene	fruA_1
+NDNNOAAD_00538	CDS	fruA_2	PTS system fructose-specific EIIABC component
+NDNNOAAD_00538	gene	fruA_2
+NDNNOAAD_00539	CDS	gor	1.8.1.7	Glutathione reductase
+NDNNOAAD_00539	gene	gor
+NDNNOAAD_00540	CDS	fpgS_1	6.3.2.17	Folylpolyglutamate synthase
+NDNNOAAD_00540	gene	fpgS_1
+NDNNOAAD_00541	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+NDNNOAAD_00541	gene	iscS_1
+NDNNOAAD_00542	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+NDNNOAAD_00542	gene	thiI
+NDNNOAAD_00543	CDS	gtf1_1	2.4.1.-	Glycosyltransferase Gtf1
+NDNNOAAD_00543	gene	gtf1_1
+NDNNOAAD_00544	CDS	gtf2	Glycosyltransferase-stabilizing protein Gtf2
+NDNNOAAD_00544	gene	gtf2
+NDNNOAAD_00545	CDS	sbcD	Nuclease SbcCD subunit D
+NDNNOAAD_00545	gene	sbcD
+NDNNOAAD_00546	CDS	lacZ	3.2.1.23	Beta-galactosidase
+NDNNOAAD_00546	gene	lacZ
+NDNNOAAD_00547	CDS	lacS	Lactose permease
+NDNNOAAD_00547	gene	lacS
+NDNNOAAD_00548	CDS	5.1.3.21	Maltose epimerase
+NDNNOAAD_00548	gene
+NDNNOAAD_00549	CDS	galE_2	5.1.3.2	UDP-glucose 4-epimerase
+NDNNOAAD_00549	gene	galE_2
+NDNNOAAD_00550	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+NDNNOAAD_00550	gene	galT
+NDNNOAAD_00551	CDS	galK_1	2.7.1.6	Galactokinase
+NDNNOAAD_00551	gene	galK_1
+NDNNOAAD_00552	CDS	lacR	HTH-type transcriptional regulator LacR
+NDNNOAAD_00552	gene	lacR
+NDNNOAAD_00553	CDS	hypothetical protein
+NDNNOAAD_00553	gene
+NDNNOAAD_00554	CDS	hypothetical protein
+NDNNOAAD_00554	gene
+NDNNOAAD_00555	CDS	gtf1_2	2.4.1.-	Glycosyltransferase Gtf1
+NDNNOAAD_00555	gene	gtf1_2
+NDNNOAAD_00556	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+NDNNOAAD_00556	gene	gatC
+NDNNOAAD_00557	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+NDNNOAAD_00557	gene	gatA
+NDNNOAAD_00558	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+NDNNOAAD_00558	gene	gatB
+NDNNOAAD_00559	CDS	hypothetical protein
+NDNNOAAD_00559	gene
+NDNNOAAD_00560	CDS	yicL	putative inner membrane transporter YicL
+NDNNOAAD_00560	gene	yicL
+NDNNOAAD_00561	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+NDNNOAAD_00561	gene	ppaX
+NDNNOAAD_00562	CDS	der_1	GTPase Der
+NDNNOAAD_00562	gene	der_1
+NDNNOAAD_00563	CDS	yhbY	RNA-binding protein YhbY
+NDNNOAAD_00563	gene	yhbY
+NDNNOAAD_00564	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+NDNNOAAD_00564	gene	nadD
+NDNNOAAD_00565	CDS	hypothetical protein
+NDNNOAAD_00565	gene
+NDNNOAAD_00566	CDS	rsfS	Ribosomal silencing factor RsfS
+NDNNOAAD_00566	gene	rsfS
+NDNNOAAD_00567	CDS	2.1.1.156	Glycine/sarcosine N-methyltransferase
+NDNNOAAD_00567	gene
+NDNNOAAD_00568	CDS	hypothetical protein
+NDNNOAAD_00568	gene
+NDNNOAAD_00569	CDS	cysB	HTH-type transcriptional regulator CysB
+NDNNOAAD_00569	gene	cysB
+NDNNOAAD_00570	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NDNNOAAD_00570	gene	glmS
+NDNNOAAD_00571	CDS	hypothetical protein
+NDNNOAAD_00571	gene
+NDNNOAAD_00572	CDS	yecS_1	L-cystine transport system permease protein YecS
+NDNNOAAD_00572	gene	yecS_1
+NDNNOAAD_00573	CDS	glnQ_2	Glutamine transport ATP-binding protein GlnQ
+NDNNOAAD_00573	gene	glnQ_2
+NDNNOAAD_00574	CDS	artP_3	Arginine-binding extracellular protein ArtP
+NDNNOAAD_00574	gene	artP_3
+NDNNOAAD_00575	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+NDNNOAAD_00575	gene	dinB_1
+NDNNOAAD_00576	CDS	hypothetical protein
+NDNNOAAD_00576	gene
+NDNNOAAD_00577	CDS	adhA_1	1.1.1.1	Alcohol dehydrogenase 1
+NDNNOAAD_00577	gene	adhA_1
+NDNNOAAD_00578	CDS	adhA_2	1.1.1.1	Alcohol dehydrogenase 1
+NDNNOAAD_00578	gene	adhA_2
+NDNNOAAD_00579	CDS	hypothetical protein
+NDNNOAAD_00579	gene
+NDNNOAAD_00580	CDS	hypothetical protein
+NDNNOAAD_00580	gene
+NDNNOAAD_00581	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+NDNNOAAD_00581	gene	mboIIM
+NDNNOAAD_00582	CDS	hypothetical protein
+NDNNOAAD_00582	gene
+NDNNOAAD_00583	CDS	clfB	Clumping factor B
+NDNNOAAD_00583	gene	clfB
+NDNNOAAD_00584	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+NDNNOAAD_00584	gene	alaS
+NDNNOAAD_00585	CDS	prsA	5.2.1.8	Foldase protein PrsA
+NDNNOAAD_00585	gene	prsA
+NDNNOAAD_00586	CDS	2.1.1.-	Putative O-methyltransferase/MSMEI_4947
+NDNNOAAD_00586	gene
+NDNNOAAD_00587	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+NDNNOAAD_00587	gene	pepF1
+NDNNOAAD_00588	CDS	coiA	Competence protein CoiA
+NDNNOAAD_00588	gene	coiA
+NDNNOAAD_00589	CDS	cynR	HTH-type transcriptional regulator CynR
+NDNNOAAD_00589	gene	cynR
+NDNNOAAD_00590	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+NDNNOAAD_00590	gene	metG
+NDNNOAAD_00591	CDS	hypothetical protein
+NDNNOAAD_00591	gene
+NDNNOAAD_00592	CDS	hypothetical protein
+NDNNOAAD_00592	gene
+NDNNOAAD_00593	CDS	hypothetical protein
+NDNNOAAD_00593	gene
+NDNNOAAD_00594	CDS	PhoH-like protein
+NDNNOAAD_00594	gene
+NDNNOAAD_00595	CDS	hypothetical protein
+NDNNOAAD_00595	gene
+NDNNOAAD_00596	CDS	hypothetical protein
+NDNNOAAD_00596	gene
+NDNNOAAD_00597	CDS	hypothetical protein
+NDNNOAAD_00597	gene
+NDNNOAAD_00598	CDS	hypothetical protein
+NDNNOAAD_00598	gene
+NDNNOAAD_00599	CDS	hypothetical protein
+NDNNOAAD_00599	gene
+NDNNOAAD_00600	CDS	hypothetical protein
+NDNNOAAD_00600	gene
+NDNNOAAD_00601	CDS	esaA	ESAT-6 secretion accessory factor EsaA
+NDNNOAAD_00601	gene	esaA
+NDNNOAAD_00602	CDS	hypothetical protein
+NDNNOAAD_00602	gene
+NDNNOAAD_00603	CDS	hypothetical protein
+NDNNOAAD_00603	gene
+NDNNOAAD_00604	CDS	hypothetical protein
+NDNNOAAD_00604	gene
+NDNNOAAD_00605	CDS	rpsD	30S ribosomal protein S4
+NDNNOAAD_00605	gene	rpsD
+NDNNOAAD_00606	CDS	hypothetical protein
+NDNNOAAD_00606	gene
+NDNNOAAD_00607	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+NDNNOAAD_00607	gene	dnaC
+NDNNOAAD_00608	CDS	rplI	50S ribosomal protein L9
+NDNNOAAD_00608	gene	rplI
+NDNNOAAD_00609	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+NDNNOAAD_00609	gene	gdpP
+NDNNOAAD_00610	CDS	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NDNNOAAD_00610	gene	mnmG
+NDNNOAAD_00611	CDS	hypothetical protein
+NDNNOAAD_00611	gene
+NDNNOAAD_00612	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+NDNNOAAD_00612	gene	mnmA
+NDNNOAAD_00613	CDS	hypothetical protein
+NDNNOAAD_00613	gene
+NDNNOAAD_00614	CDS	isaA	3.2.-.-	putative transglycosylase IsaA
+NDNNOAAD_00614	gene	isaA
+NDNNOAAD_00615	CDS	xlyA	3.5.1.28	N-acetylmuramoyl-L-alanine amidase XlyA
+NDNNOAAD_00615	gene	xlyA
+NDNNOAAD_00616	CDS	ecfT_2	Energy-coupling factor transporter transmembrane protein EcfT
+NDNNOAAD_00616	gene	ecfT_2
+NDNNOAAD_00617	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+NDNNOAAD_00617	gene	ecfA2
+NDNNOAAD_00618	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+NDNNOAAD_00618	gene	ecfA1
+NDNNOAAD_00619	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NDNNOAAD_00619	gene	pgsA
+NDNNOAAD_00620	CDS	hypothetical protein
+NDNNOAAD_00620	gene
+NDNNOAAD_00621	CDS	albF	3.4.24.-	Putative zinc protease AlbF
+NDNNOAAD_00621	gene	albF
+NDNNOAAD_00622	CDS	3.4.24.-	putative zinc protease
+NDNNOAAD_00622	gene
+NDNNOAAD_00623	CDS	hypothetical protein
+NDNNOAAD_00623	gene
+NDNNOAAD_00624	CDS	recF	DNA replication and repair protein RecF
+NDNNOAAD_00624	gene	recF
+NDNNOAAD_00625	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+NDNNOAAD_00625	gene	guaB_1
+NDNNOAAD_00626	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+NDNNOAAD_00626	gene	trpS2
+NDNNOAAD_00627	CDS	hypothetical protein
+NDNNOAAD_00627	gene
+NDNNOAAD_00628	CDS	ybiT_1	putative ABC transporter ATP-binding protein YbiT
+NDNNOAAD_00628	gene	ybiT_1
+NDNNOAAD_00629	CDS	hypothetical protein
+NDNNOAAD_00629	gene
+NDNNOAAD_00630	tRNA	tRNA-Asn(gtt)
+NDNNOAAD_00630	gene
+NDNNOAAD_00631	tRNA	tRNA-Glu(ttc)
+NDNNOAAD_00631	gene
+NDNNOAAD_00632	tRNA	tRNA-Arg(tct)
+NDNNOAAD_00632	gene
+NDNNOAAD_00633	CDS	hypothetical protein
+NDNNOAAD_00633	gene
+NDNNOAAD_00634	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+NDNNOAAD_00634	gene	rlmH
+NDNNOAAD_00635	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+NDNNOAAD_00635	gene	htrA
+NDNNOAAD_00636	CDS	parB	putative chromosome-partitioning protein ParB
+NDNNOAAD_00636	gene	parB
+NDNNOAAD_00637	CDS	dnaA	Chromosomal replication initiator protein DnaA
+NDNNOAAD_00637	gene	dnaA
+NDNNOAAD_00638	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+NDNNOAAD_00638	gene	dnaN
+NDNNOAAD_00639	CDS	hypothetical protein
+NDNNOAAD_00639	gene
+NDNNOAAD_00640	CDS	ychF	Ribosome-binding ATPase YchF
+NDNNOAAD_00640	gene	ychF
+NDNNOAAD_00641	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+NDNNOAAD_00641	gene	pth
+NDNNOAAD_00642	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+NDNNOAAD_00642	gene	mfd
+NDNNOAAD_00643	CDS	hypothetical protein
+NDNNOAAD_00643	gene
+NDNNOAAD_00644	CDS	hypothetical protein
+NDNNOAAD_00644	gene
+NDNNOAAD_00645	CDS	hypothetical protein
+NDNNOAAD_00645	gene
+NDNNOAAD_00646	CDS	hypothetical protein
+NDNNOAAD_00646	gene
+NDNNOAAD_00647	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+NDNNOAAD_00647	gene	tilS
+NDNNOAAD_00648	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+NDNNOAAD_00648	gene	hpt
+NDNNOAAD_00649	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+NDNNOAAD_00649	gene	ftsH
+NDNNOAAD_00650	CDS	hypothetical protein
+NDNNOAAD_00650	gene
+NDNNOAAD_00651	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+NDNNOAAD_00651	gene	tyrS
+NDNNOAAD_00652	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+NDNNOAAD_00652	gene	ilvC
+NDNNOAAD_00653	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+NDNNOAAD_00653	gene	ilvH
+NDNNOAAD_00654	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+NDNNOAAD_00654	gene	ilvB
+NDNNOAAD_00655	CDS	ilvD_2	4.2.1.9	Dihydroxy-acid dehydratase
+NDNNOAAD_00655	gene	ilvD_2
+NDNNOAAD_00656	CDS	hypothetical protein
+NDNNOAAD_00656	gene
+NDNNOAAD_00657	CDS	hypothetical protein
+NDNNOAAD_00657	gene
+NDNNOAAD_00658	CDS	hypothetical protein
+NDNNOAAD_00658	gene
+NDNNOAAD_00659	CDS	yeeO	putative FMN/FAD exporter YeeO
+NDNNOAAD_00659	gene	yeeO
+NDNNOAAD_00660	CDS	thrC	4.2.3.1	Threonine synthase
+NDNNOAAD_00660	gene	thrC
+NDNNOAAD_00661	CDS	hypothetical protein
+NDNNOAAD_00661	gene
+NDNNOAAD_00662	CDS	adhE_1	Aldehyde-alcohol dehydrogenase
+NDNNOAAD_00662	gene	adhE_1
+NDNNOAAD_00663	CDS	adhE_2	Aldehyde-alcohol dehydrogenase
+NDNNOAAD_00663	gene	adhE_2
+NDNNOAAD_00664	CDS	adhE_3	Aldehyde-alcohol dehydrogenase
+NDNNOAAD_00664	gene	adhE_3
+NDNNOAAD_00665	CDS	adhE_4	Aldehyde-alcohol dehydrogenase
+NDNNOAAD_00665	gene	adhE_4
+NDNNOAAD_00666	CDS	adhE_5	Aldehyde-alcohol dehydrogenase
+NDNNOAAD_00666	gene	adhE_5
+NDNNOAAD_00667	CDS	pepO	3.4.24.-	Neutral endopeptidase
+NDNNOAAD_00667	gene	pepO
+NDNNOAAD_00668	CDS	treA	3.2.1.93	Trehalose-6-phosphate hydrolase
+NDNNOAAD_00668	gene	treA
+NDNNOAAD_00669	CDS	treC	3.2.1.93	Trehalose-6-phosphate hydrolase
+NDNNOAAD_00669	gene	treC
+NDNNOAAD_00670	CDS	treB	PTS system trehalose-specific EIIBC component
+NDNNOAAD_00670	gene	treB
+NDNNOAAD_00671	CDS	phnF	putative transcriptional regulator PhnF
+NDNNOAAD_00671	gene	phnF
+NDNNOAAD_00672	CDS	treR	HTH-type transcriptional regulator TreR
+NDNNOAAD_00672	gene	treR
+NDNNOAAD_00673	CDS	hypothetical protein
+NDNNOAAD_00673	gene
+NDNNOAAD_00674	CDS	hypothetical protein
+NDNNOAAD_00674	gene
+NDNNOAAD_00675	CDS	oppF_3	Oligopeptide transport ATP-binding protein OppF
+NDNNOAAD_00675	gene	oppF_3
+NDNNOAAD_00676	CDS	hypothetical protein
+NDNNOAAD_00676	gene
+NDNNOAAD_00677	CDS	ecsA_2	ABC-type transporter ATP-binding protein EcsA
+NDNNOAAD_00677	gene	ecsA_2
+NDNNOAAD_00678	CDS	ytrA	HTH-type transcriptional repressor YtrA
+NDNNOAAD_00678	gene	ytrA
+NDNNOAAD_00679	CDS	ybjI	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+NDNNOAAD_00679	gene	ybjI
+NDNNOAAD_00680	CDS	3.1.3.-	Putative phosphatase
+NDNNOAAD_00680	gene
+NDNNOAAD_00681	CDS	ftsY	Signal recognition particle receptor FtsY
+NDNNOAAD_00681	gene	ftsY
+NDNNOAAD_00682	CDS	gmk	2.7.4.8	Guanylate kinase
+NDNNOAAD_00682	gene	gmk
+NDNNOAAD_00683	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+NDNNOAAD_00683	gene	rpoZ
+NDNNOAAD_00684	CDS	priA	3.6.4.-	Primosomal protein N'
+NDNNOAAD_00684	gene	priA
+NDNNOAAD_00685	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+NDNNOAAD_00685	gene	fmt
+NDNNOAAD_00686	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+NDNNOAAD_00686	gene	rsmB
+NDNNOAAD_00687	CDS	3.1.3.16	Putative protein phosphatase 2C-type
+NDNNOAAD_00687	gene
+NDNNOAAD_00688	CDS	stkP	2.7.11.1	Serine/threonine-protein kinase StkP
+NDNNOAAD_00688	gene	stkP
+NDNNOAAD_00689	CDS	sufB_1	FeS cluster assembly protein SufB
+NDNNOAAD_00689	gene	sufB_1
+NDNNOAAD_00690	CDS	iscU	Iron-sulfur cluster assembly scaffold protein IscU
+NDNNOAAD_00690	gene	iscU
+NDNNOAAD_00691	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+NDNNOAAD_00691	gene	sufS
+NDNNOAAD_00692	CDS	sufB_2	FeS cluster assembly protein SufB
+NDNNOAAD_00692	gene	sufB_2
+NDNNOAAD_00693	CDS	putative ABC transporter ATP-binding protein
+NDNNOAAD_00693	gene
+NDNNOAAD_00694	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+NDNNOAAD_00694	gene	tagO
+NDNNOAAD_00695	CDS	mecA	Adapter protein MecA
+NDNNOAAD_00695	gene	mecA
+NDNNOAAD_00696	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+NDNNOAAD_00696	gene	uppP
+NDNNOAAD_00697	CDS	artQ	Arginine transport system permease protein ArtQ
+NDNNOAAD_00697	gene	artQ
+NDNNOAAD_00698	CDS	tcyN_1	3.6.3.-	L-cystine import ATP-binding protein TcyN
+NDNNOAAD_00698	gene	tcyN_1
+NDNNOAAD_00699	CDS	hypothetical protein
+NDNNOAAD_00699	gene
+NDNNOAAD_00700	CDS	hypothetical protein
+NDNNOAAD_00700	gene
+NDNNOAAD_00701	CDS	hypothetical protein
+NDNNOAAD_00701	gene
+NDNNOAAD_00702	CDS	rpsO	30S ribosomal protein S15
+NDNNOAAD_00702	gene	rpsO
+NDNNOAAD_00703	CDS	hypothetical protein
+NDNNOAAD_00703	gene
+NDNNOAAD_00704	CDS	yeiL	Regulatory protein YeiL
+NDNNOAAD_00704	gene	yeiL
+NDNNOAAD_00705	CDS	def_2	3.5.1.88	Peptide deformylase
+NDNNOAAD_00705	gene	def_2
+NDNNOAAD_00706	CDS	ilvA	4.3.1.19	L-threonine dehydratase biosynthetic IlvA
+NDNNOAAD_00706	gene	ilvA
+NDNNOAAD_00707	CDS	hypothetical protein
+NDNNOAAD_00707	gene
+NDNNOAAD_00708	CDS	hypothetical protein
+NDNNOAAD_00708	gene
+NDNNOAAD_00709	CDS	dex	3.2.1.11	Dextranase
+NDNNOAAD_00709	gene	dex
+NDNNOAAD_00710	CDS	dexA	3.2.1.11	Dextranase
+NDNNOAAD_00710	gene	dexA
+NDNNOAAD_00711	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+NDNNOAAD_00711	gene	dtd
+NDNNOAAD_00712	CDS	relA	Bifunctional (p)ppGpp synthase/hydrolase RelA
+NDNNOAAD_00712	gene	relA
+NDNNOAAD_00713	CDS	Putative NrdI-like protein
+NDNNOAAD_00713	gene
+NDNNOAAD_00714	CDS	hypothetical protein
+NDNNOAAD_00714	gene
+NDNNOAAD_00715	CDS	yfkN_1	Trifunctional nucleotide phosphoesterase protein YfkN
+NDNNOAAD_00715	gene	yfkN_1
+NDNNOAAD_00716	CDS	cpdB_1	3.1.3.6	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+NDNNOAAD_00716	gene	cpdB_1
+NDNNOAAD_00717	CDS	cpdB_2	3.1.3.6	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+NDNNOAAD_00717	gene	cpdB_2
+NDNNOAAD_00718	CDS	yfkN_2	Trifunctional nucleotide phosphoesterase protein YfkN
+NDNNOAAD_00718	gene	yfkN_2
+NDNNOAAD_00719	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+NDNNOAAD_00719	gene	rsmE
+NDNNOAAD_00720	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+NDNNOAAD_00720	gene	prmA
+NDNNOAAD_00721	CDS	hypothetical protein
+NDNNOAAD_00721	gene
+NDNNOAAD_00722	CDS	hypothetical protein
+NDNNOAAD_00722	gene
+NDNNOAAD_00723	CDS	hypothetical protein
+NDNNOAAD_00723	gene
+NDNNOAAD_00724	CDS	pyrG	6.3.4.2	CTP synthase
+NDNNOAAD_00724	gene	pyrG
+NDNNOAAD_00725	CDS	rpoE	putative DNA-directed RNA polymerase subunit delta
+NDNNOAAD_00725	gene	rpoE
+NDNNOAAD_00726	CDS	tig	5.2.1.8	Trigger factor
+NDNNOAAD_00726	gene	tig
+NDNNOAAD_00727	CDS	ykuT	putative MscS family protein YkuT
+NDNNOAAD_00727	gene	ykuT
+NDNNOAAD_00728	CDS	hypothetical protein
+NDNNOAAD_00728	gene
+NDNNOAAD_00729	CDS	hypothetical protein
+NDNNOAAD_00729	gene
+NDNNOAAD_00730	CDS	hypothetical protein
+NDNNOAAD_00730	gene
+NDNNOAAD_00731	CDS	hypothetical protein
+NDNNOAAD_00731	gene
+NDNNOAAD_00732	CDS	hypothetical protein
+NDNNOAAD_00732	gene
+NDNNOAAD_00733	CDS	fetB	putative iron export permease protein FetB
+NDNNOAAD_00733	gene	fetB
+NDNNOAAD_00734	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+NDNNOAAD_00734	gene	nrdE1
+NDNNOAAD_00735	CDS	nrdH	Glutaredoxin-like protein NrdH
+NDNNOAAD_00735	gene	nrdH
+NDNNOAAD_00736	CDS	citB	4.2.1.3	Aconitate hydratase A
+NDNNOAAD_00736	gene	citB
+NDNNOAAD_00737	CDS	citZ	2.3.3.16	Citrate synthase 2
+NDNNOAAD_00737	gene	citZ
+NDNNOAAD_00738	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+NDNNOAAD_00738	gene	icd
+NDNNOAAD_00739	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+NDNNOAAD_00739	gene	ptsH
+NDNNOAAD_00740	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+NDNNOAAD_00740	gene	ptsI
+NDNNOAAD_00741	CDS	gapN	1.2.1.9	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+NDNNOAAD_00741	gene	gapN
+NDNNOAAD_00742	CDS	hypothetical protein
+NDNNOAAD_00742	gene
+NDNNOAAD_00743	CDS	yfmL	3.6.4.13	putative ATP-dependent RNA helicase YfmL
+NDNNOAAD_00743	gene	yfmL
+NDNNOAAD_00744	CDS	udk	2.7.1.48	Uridine kinase
+NDNNOAAD_00744	gene	udk
+NDNNOAAD_00745	CDS	yheS	putative ABC transporter ATP-binding protein YheS
+NDNNOAAD_00745	gene	yheS
+NDNNOAAD_00746	CDS	pip	3.4.11.5	Proline iminopeptidase
+NDNNOAAD_00746	gene	pip
+NDNNOAAD_00747	CDS	mprF	2.3.2.3	Phosphatidylglycerol lysyltransferase
+NDNNOAAD_00747	gene	mprF
+NDNNOAAD_00748	CDS	cobQ	Cobyric acid synthase
+NDNNOAAD_00748	gene	cobQ
+NDNNOAAD_00749	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NDNNOAAD_00749	gene	murF_1
+NDNNOAAD_00750	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+NDNNOAAD_00750	gene	cdaA
+NDNNOAAD_00751	CDS	cdaR	CdaA regulatory protein CdaR
+NDNNOAAD_00751	gene	cdaR
+NDNNOAAD_00752	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+NDNNOAAD_00752	gene	glmM
+NDNNOAAD_00753	CDS	hypothetical protein
+NDNNOAAD_00753	gene
+NDNNOAAD_00754	CDS	trmK	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+NDNNOAAD_00754	gene	trmK
+NDNNOAAD_00755	CDS	GTP cyclohydrolase 1 type 2 
+NDNNOAAD_00755	gene
+NDNNOAAD_00756	CDS	zupT	Zinc transporter ZupT
+NDNNOAAD_00756	gene	zupT
+NDNNOAAD_00757	CDS	abo	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+NDNNOAAD_00757	gene	abo
+NDNNOAAD_00758	CDS	rmlA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+NDNNOAAD_00758	gene	rmlA
+NDNNOAAD_00759	CDS	rfbC	5.1.3.13	putative dTDP-4-dehydrorhamnose 3,5-epimerase
+NDNNOAAD_00759	gene	rfbC
+NDNNOAAD_00760	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+NDNNOAAD_00760	gene	rmlB
+NDNNOAAD_00761	CDS	hypothetical protein
+NDNNOAAD_00761	gene
+NDNNOAAD_00762	CDS	hypothetical protein
+NDNNOAAD_00762	gene
+NDNNOAAD_00763	CDS	hypothetical protein
+NDNNOAAD_00763	gene
+NDNNOAAD_00764	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+NDNNOAAD_00764	gene	hemN
+NDNNOAAD_00765	CDS	hypothetical protein
+NDNNOAAD_00765	gene
+NDNNOAAD_00766	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+NDNNOAAD_00766	gene	yutF
+NDNNOAAD_00767	CDS	hypothetical protein
+NDNNOAAD_00767	gene
+NDNNOAAD_00768	CDS	hisK	3.1.3.15	Histidinol-phosphatase
+NDNNOAAD_00768	gene	hisK
+NDNNOAAD_00769	CDS	hypothetical protein
+NDNNOAAD_00769	gene
+NDNNOAAD_00770	CDS	hypothetical protein
+NDNNOAAD_00770	gene
+NDNNOAAD_00771	CDS	hypothetical protein
+NDNNOAAD_00771	gene
+NDNNOAAD_00772	CDS	hypothetical protein
+NDNNOAAD_00772	gene
+NDNNOAAD_00773	CDS	ssp5	Agglutinin receptor
+NDNNOAAD_00773	gene	ssp5
+NDNNOAAD_00774	CDS	hypothetical protein
+NDNNOAAD_00774	gene
+NDNNOAAD_00775	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+NDNNOAAD_00775	gene	pcrA
+NDNNOAAD_00776	CDS	alsT	Amino-acid carrier protein AlsT
+NDNNOAAD_00776	gene	alsT
+NDNNOAAD_00777	CDS	hypothetical protein
+NDNNOAAD_00777	gene
+NDNNOAAD_00778	CDS	hypothetical protein
+NDNNOAAD_00778	gene
+NDNNOAAD_00779	CDS	yidC	Membrane protein insertase YidC
+NDNNOAAD_00779	gene	yidC
+NDNNOAAD_00780	CDS	acyP	3.6.1.7	Acylphosphatase
+NDNNOAAD_00780	gene	acyP
+NDNNOAAD_00781	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+NDNNOAAD_00781	gene
+NDNNOAAD_00782	CDS	hypothetical protein
+NDNNOAAD_00782	gene
+NDNNOAAD_00783	CDS	ybhL	Inner membrane protein YbhL
+NDNNOAAD_00783	gene	ybhL
+NDNNOAAD_00784	CDS	hypothetical protein
+NDNNOAAD_00784	gene
+NDNNOAAD_00785	CDS	hypothetical protein
+NDNNOAAD_00785	gene
+NDNNOAAD_00786	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+NDNNOAAD_00786	gene	lysA
+NDNNOAAD_00787	CDS	hypothetical protein
+NDNNOAAD_00787	gene
+NDNNOAAD_00788	CDS	hypothetical protein
+NDNNOAAD_00788	gene
+NDNNOAAD_00789	CDS	murI	5.1.1.3	Glutamate racemase
+NDNNOAAD_00789	gene	murI
+NDNNOAAD_00790	CDS	rdgB	3.6.1.9	dITP/XTP pyrophosphatase
+NDNNOAAD_00790	gene	rdgB
+NDNNOAAD_00791	CDS	yfcE	3.1.4.-	Phosphodiesterase YfcE
+NDNNOAAD_00791	gene	yfcE
+NDNNOAAD_00792	CDS	ykuL	CBS domain-containing protein YkuL
+NDNNOAAD_00792	gene	ykuL
+NDNNOAAD_00793	CDS	Tyrosine recombinase XerD-like protein
+NDNNOAAD_00793	gene
+NDNNOAAD_00794	CDS	scpA	Segregation and condensation protein A
+NDNNOAAD_00794	gene	scpA
+NDNNOAAD_00795	CDS	scpB	Segregation and condensation protein B
+NDNNOAAD_00795	gene	scpB
+NDNNOAAD_00796	CDS	rluB_2	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+NDNNOAAD_00796	gene	rluB_2
+NDNNOAAD_00797	CDS	Putative membrane protein insertion efficiency factor
+NDNNOAAD_00797	gene
+NDNNOAAD_00798	CDS	trkG	Trk system potassium uptake protein TrkG
+NDNNOAAD_00798	gene	trkG
+NDNNOAAD_00799	CDS	trkA	Trk system potassium uptake protein TrkA
+NDNNOAAD_00799	gene	trkA
+NDNNOAAD_00800	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+NDNNOAAD_00800	gene	trmL
+NDNNOAAD_00801	CDS	ribU	Riboflavin transporter RibU
+NDNNOAAD_00801	gene	ribU
+NDNNOAAD_00802	CDS	bcrC_1	3.6.1.27	Undecaprenyl-diphosphatase BcrC
+NDNNOAAD_00802	gene	bcrC_1
+NDNNOAAD_00803	CDS	hypothetical protein
+NDNNOAAD_00803	gene
+NDNNOAAD_00804	CDS	lagD_2	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+NDNNOAAD_00804	gene	lagD_2
+NDNNOAAD_00805	CDS	lagD_3	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+NDNNOAAD_00805	gene	lagD_3
+NDNNOAAD_00806	CDS	lagD_4	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+NDNNOAAD_00806	gene	lagD_4
+NDNNOAAD_00807	CDS	lagD_5	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+NDNNOAAD_00807	gene	lagD_5
+NDNNOAAD_00808	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+NDNNOAAD_00808	gene	msbA
+NDNNOAAD_00809	CDS	yhaI_1	Inner membrane protein YhaI
+NDNNOAAD_00809	gene	yhaI_1
+NDNNOAAD_00810	CDS	hypothetical protein
+NDNNOAAD_00810	gene
+NDNNOAAD_00811	CDS	ureI	Acid-activated urea channel
+NDNNOAAD_00811	gene	ureI
+NDNNOAAD_00812	CDS	ureA	3.5.1.5	Urease subunit gamma
+NDNNOAAD_00812	gene	ureA
+NDNNOAAD_00813	CDS	ureB	3.5.1.5	Urease subunit beta
+NDNNOAAD_00813	gene	ureB
+NDNNOAAD_00814	CDS	hypothetical protein
+NDNNOAAD_00814	gene
+NDNNOAAD_00815	CDS	hypothetical protein
+NDNNOAAD_00815	gene
+NDNNOAAD_00816	CDS	3.1.3.-	Putative phosphatase
+NDNNOAAD_00816	gene
+NDNNOAAD_00817	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+NDNNOAAD_00817	gene
+NDNNOAAD_00818	CDS	glnB	Nitrogen regulatory protein P-II
+NDNNOAAD_00818	gene	glnB
+NDNNOAAD_00819	CDS	hypothetical protein
+NDNNOAAD_00819	gene
+NDNNOAAD_00820	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+NDNNOAAD_00820	gene	rsmI
+NDNNOAAD_00821	CDS	yabA	Initiation-control protein YabA
+NDNNOAAD_00821	gene	yabA
+NDNNOAAD_00822	CDS	hypothetical protein
+NDNNOAAD_00822	gene
+NDNNOAAD_00823	CDS	holB	2.7.7.7	DNA polymerase III subunit delta'
+NDNNOAAD_00823	gene	holB
+NDNNOAAD_00824	CDS	tmk	2.7.4.9	Thymidylate kinase
+NDNNOAAD_00824	gene	tmk
+NDNNOAAD_00825	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+NDNNOAAD_00825	gene	tpiA
+NDNNOAAD_00826	CDS	tuf	Elongation factor Tu
+NDNNOAAD_00826	gene	tuf
+NDNNOAAD_00827	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+NDNNOAAD_00827	gene	ftsW
+NDNNOAAD_00828	CDS	atpC	ATP synthase epsilon chain
+NDNNOAAD_00828	gene	atpC
+NDNNOAAD_00829	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+NDNNOAAD_00829	gene	atpD
+NDNNOAAD_00830	CDS	atpG	ATP synthase gamma chain
+NDNNOAAD_00830	gene	atpG
+NDNNOAAD_00831	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+NDNNOAAD_00831	gene	atpA
+NDNNOAAD_00832	CDS	atpH	ATP synthase subunit delta
+NDNNOAAD_00832	gene	atpH
+NDNNOAAD_00833	CDS	atpF	ATP synthase subunit b
+NDNNOAAD_00833	gene	atpF
+NDNNOAAD_00834	CDS	atpB	ATP synthase subunit a
+NDNNOAAD_00834	gene	atpB
+NDNNOAAD_00835	CDS	atpE	ATP synthase subunit c
+NDNNOAAD_00835	gene	atpE
+NDNNOAAD_00836	CDS	valS	6.1.1.9	Valine--tRNA ligase
+NDNNOAAD_00836	gene	valS
+NDNNOAAD_00837	CDS	rplK	50S ribosomal protein L11
+NDNNOAAD_00837	gene	rplK
+NDNNOAAD_00838	CDS	hypothetical protein
+NDNNOAAD_00838	gene
+NDNNOAAD_00839	CDS	mtcA1	4.2.1.1	Beta-carbonic anhydrase 1
+NDNNOAAD_00839	gene	mtcA1
+NDNNOAAD_00840	CDS	hypothetical protein
+NDNNOAAD_00840	gene
+NDNNOAAD_00841	CDS	hypothetical protein
+NDNNOAAD_00841	gene
+NDNNOAAD_00842	CDS	radA	3.6.4.-	DNA repair protein RadA
+NDNNOAAD_00842	gene	radA
+NDNNOAAD_00843	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NDNNOAAD_00843	gene	dut
+NDNNOAAD_00844	CDS	nfr1_1	1.5.1.36	NADH-dependent flavin reductase subunit 1
+NDNNOAAD_00844	gene	nfr1_1
+NDNNOAAD_00845	CDS	nfr2	1.5.1.36	NADH-dependent flavin reductase subunit 2
+NDNNOAAD_00845	gene	nfr2
+NDNNOAAD_00846	CDS	nfr1_2	1.5.1.36	NADH-dependent flavin reductase subunit 1
+NDNNOAAD_00846	gene	nfr1_2
+NDNNOAAD_00847	CDS	hypothetical protein
+NDNNOAAD_00847	gene
+NDNNOAAD_00848	CDS	hypothetical protein
+NDNNOAAD_00848	gene
+NDNNOAAD_00849	CDS	hypothetical protein
+NDNNOAAD_00849	gene
+NDNNOAAD_00850	CDS	hypothetical protein
+NDNNOAAD_00850	gene
+NDNNOAAD_00851	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NDNNOAAD_00851	gene	gpsA
+NDNNOAAD_00852	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+NDNNOAAD_00852	gene	gtaB
+NDNNOAAD_00853	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+NDNNOAAD_00853	gene	gluP
+NDNNOAAD_00854	CDS	ygfA	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+NDNNOAAD_00854	gene	ygfA
+NDNNOAAD_00855	CDS	3.5.1.47	N-acetyldiaminopimelate deacetylase
+NDNNOAAD_00855	gene
+NDNNOAAD_00856	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NDNNOAAD_00856	gene	dapH
+NDNNOAAD_00857	CDS	hypothetical protein
+NDNNOAAD_00857	gene
+NDNNOAAD_00858	CDS	hypothetical protein
+NDNNOAAD_00858	gene
+NDNNOAAD_00859	CDS	hypothetical protein
+NDNNOAAD_00859	gene
+NDNNOAAD_00860	CDS	hypothetical protein
+NDNNOAAD_00860	gene
+NDNNOAAD_00861	CDS	serB	3.1.3.3	Phosphoserine phosphatase
+NDNNOAAD_00861	gene	serB
+NDNNOAAD_00862	CDS	ezrA	Septation ring formation regulator EzrA
+NDNNOAAD_00862	gene	ezrA
+NDNNOAAD_00863	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+NDNNOAAD_00863	gene	gyrB
+NDNNOAAD_00864	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+NDNNOAAD_00864	gene	gph
+NDNNOAAD_00865	CDS	yohK	Inner membrane protein YohK
+NDNNOAAD_00865	gene	yohK
+NDNNOAAD_00866	CDS	lrgA	Antiholin-like protein LrgA
+NDNNOAAD_00866	gene	lrgA
+NDNNOAAD_00867	tRNA	tRNA-Thr(ggt)
+NDNNOAAD_00867	gene
+NDNNOAAD_00868	CDS	mgsR	Regulatory protein MgsR
+NDNNOAAD_00868	gene	mgsR
+NDNNOAAD_00869	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+NDNNOAAD_00869	gene	ogt
+NDNNOAAD_00870	CDS	1.1.1.81	Hydroxypyruvate reductase
+NDNNOAAD_00870	gene
+NDNNOAAD_00871	CDS	hypothetical protein
+NDNNOAAD_00871	gene
+NDNNOAAD_00872	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+NDNNOAAD_00872	gene	serC
+NDNNOAAD_00873	CDS	bglK_1	2.7.1.85	Beta-glucoside kinase
+NDNNOAAD_00873	gene	bglK_1
+NDNNOAAD_00874	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+NDNNOAAD_00874	gene	gloA
+NDNNOAAD_00875	CDS	hypothetical protein
+NDNNOAAD_00875	gene
+NDNNOAAD_00876	CDS	hypothetical protein
+NDNNOAAD_00876	gene
+NDNNOAAD_00877	CDS	hypothetical protein
+NDNNOAAD_00877	gene
+NDNNOAAD_00878	CDS	potD	Spermidine/putrescine-binding periplasmic protein
+NDNNOAAD_00878	gene	potD
+NDNNOAAD_00879	CDS	ydcV	Inner membrane ABC transporter permease protein YdcV
+NDNNOAAD_00879	gene	ydcV
+NDNNOAAD_00880	CDS	potB	Spermidine/putrescine transport system permease protein PotB
+NDNNOAAD_00880	gene	potB
+NDNNOAAD_00881	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+NDNNOAAD_00881	gene	potA
+NDNNOAAD_00882	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+NDNNOAAD_00882	gene	murB
+NDNNOAAD_00883	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+NDNNOAAD_00883	gene	folK
+NDNNOAAD_00884	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+NDNNOAAD_00884	gene	folB
+NDNNOAAD_00885	CDS	3.2.1.98	Glucan 1,4-alpha-maltohexaosidase
+NDNNOAAD_00885	gene
+NDNNOAAD_00886	CDS	folP	2.5.1.15	Dihydropteroate synthase
+NDNNOAAD_00886	gene	folP
+NDNNOAAD_00887	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+NDNNOAAD_00887	gene	folE
+NDNNOAAD_00888	CDS	hypothetical protein
+NDNNOAAD_00888	gene
+NDNNOAAD_00889	CDS	fpgS_2	6.3.2.17	Folylpolyglutamate synthase
+NDNNOAAD_00889	gene	fpgS_2
+NDNNOAAD_00890	CDS	hypothetical protein
+NDNNOAAD_00890	gene
+NDNNOAAD_00891	CDS	rpsP	30S ribosomal protein S16
+NDNNOAAD_00891	gene	rpsP
+NDNNOAAD_00892	CDS	tehB	2.1.1.-	putative S-adenosyl-L-methionine-dependent methyltransferase TehB
+NDNNOAAD_00892	gene	tehB
+NDNNOAAD_00893	CDS	hypothetical protein
+NDNNOAAD_00893	gene
+NDNNOAAD_00894	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+NDNNOAAD_00894	gene	exoA
+NDNNOAAD_00895	CDS	hypothetical protein
+NDNNOAAD_00895	gene
+NDNNOAAD_00896	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+NDNNOAAD_00896	gene	dagK
+NDNNOAAD_00897	CDS	ligA	6.5.1.2	DNA ligase
+NDNNOAAD_00897	gene	ligA
+NDNNOAAD_00898	CDS	queT	Queuosine precursor transporter QueT
+NDNNOAAD_00898	gene	queT
+NDNNOAAD_00899	CDS	hypothetical protein
+NDNNOAAD_00899	gene
+NDNNOAAD_00900	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+NDNNOAAD_00900	gene	map
+NDNNOAAD_00901	CDS	3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+NDNNOAAD_00901	gene
+NDNNOAAD_00902	CDS	rimL	2.3.1.-	Ribosomal-protein-serine acetyltransferase
+NDNNOAAD_00902	gene	rimL
+NDNNOAAD_00903	CDS	murA1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+NDNNOAAD_00903	gene	murA1
+NDNNOAAD_00904	CDS	comEC	ComE operon protein 3
+NDNNOAAD_00904	gene	comEC
+NDNNOAAD_00905	CDS	comEA	ComE operon protein 1
+NDNNOAAD_00905	gene	comEA
+NDNNOAAD_00906	CDS	hypothetical protein
+NDNNOAAD_00906	gene
+NDNNOAAD_00907	CDS	butA_1	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+NDNNOAAD_00907	gene	butA_1
+NDNNOAAD_00908	CDS	butA_2	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+NDNNOAAD_00908	gene	butA_2
+NDNNOAAD_00909	CDS	pspE	2.8.1.1	Thiosulfate sulfurtransferase PspE
+NDNNOAAD_00909	gene	pspE
+NDNNOAAD_00910	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+NDNNOAAD_00910	gene	ndk
+NDNNOAAD_00911	CDS	hypothetical protein
+NDNNOAAD_00911	gene
+NDNNOAAD_00912	CDS	hypothetical protein
+NDNNOAAD_00912	gene
+NDNNOAAD_00913	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+NDNNOAAD_00913	gene	trmFO
+NDNNOAAD_00914	CDS	cusS	2.7.13.3	Sensor kinase CusS
+NDNNOAAD_00914	gene	cusS
+NDNNOAAD_00915	CDS	arlR_2	Response regulator ArlR
+NDNNOAAD_00915	gene	arlR_2
+NDNNOAAD_00916	CDS	hypothetical protein
+NDNNOAAD_00916	gene
+NDNNOAAD_00917	CDS	topA	5.99.1.2	DNA topoisomerase 1
+NDNNOAAD_00917	gene	topA
+NDNNOAAD_00918	CDS	dprA	DNA processing protein DprA
+NDNNOAAD_00918	gene	dprA
+NDNNOAAD_00919	CDS	bglK_2	2.7.1.85	Beta-glucoside kinase
+NDNNOAAD_00919	gene	bglK_2
+NDNNOAAD_00920	CDS	addA_2	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+NDNNOAAD_00920	gene	addA_2
+NDNNOAAD_00921	CDS	ydfK	putative membrane protein YdfK
+NDNNOAAD_00921	gene	ydfK
+NDNNOAAD_00922	CDS	ecsA_3	ABC-type transporter ATP-binding protein EcsA
+NDNNOAAD_00922	gene	ecsA_3
+NDNNOAAD_00923	CDS	hypothetical protein
+NDNNOAAD_00923	gene
+NDNNOAAD_00924	CDS	hypothetical protein
+NDNNOAAD_00924	gene
+NDNNOAAD_00925	CDS	hypothetical protein
+NDNNOAAD_00925	gene
+NDNNOAAD_00926	CDS	higA1	Antitoxin HigA1
+NDNNOAAD_00926	gene	higA1
+NDNNOAAD_00927	CDS	hypothetical protein
+NDNNOAAD_00927	gene
+NDNNOAAD_00928	CDS	hypothetical protein
+NDNNOAAD_00928	gene
+NDNNOAAD_00929	CDS	hypothetical protein
+NDNNOAAD_00929	gene
+NDNNOAAD_00930	CDS	mftC	2.-.-.-	Putative mycofactocin radical SAM maturase MftC
+NDNNOAAD_00930	gene	mftC
+NDNNOAAD_00931	CDS	3.5.3.24	N(1)-aminopropylagmatine ureohydrolase
+NDNNOAAD_00931	gene
+NDNNOAAD_00932	CDS	hypothetical protein
+NDNNOAAD_00932	gene
+NDNNOAAD_00933	CDS	alsS	2.2.1.6	Acetolactate synthase
+NDNNOAAD_00933	gene	alsS
+NDNNOAAD_00934	CDS	aldC	4.1.1.5	Alpha-acetolactate decarboxylase
+NDNNOAAD_00934	gene	aldC
+NDNNOAAD_00935	CDS	tcyC	3.6.3.-	L-cystine import ATP-binding protein TcyC
+NDNNOAAD_00935	gene	tcyC
+NDNNOAAD_00936	CDS	glnH	ABC transporter glutamine-binding protein GlnH
+NDNNOAAD_00936	gene	glnH
+NDNNOAAD_00937	CDS	hypothetical protein
+NDNNOAAD_00937	gene
+NDNNOAAD_00938	CDS	hypothetical protein
+NDNNOAAD_00938	gene
+NDNNOAAD_00939	CDS	hypothetical protein
+NDNNOAAD_00939	gene
+NDNNOAAD_00940	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NDNNOAAD_00940	gene	murF_2
+NDNNOAAD_00941	CDS	hypothetical protein
+NDNNOAAD_00941	gene
+NDNNOAAD_00942	CDS	hypothetical protein
+NDNNOAAD_00942	gene
+NDNNOAAD_00943	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NDNNOAAD_00943	gene	yfiC
+NDNNOAAD_00944	CDS	hypothetical protein
+NDNNOAAD_00944	gene
+NDNNOAAD_00945	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+NDNNOAAD_00945	gene	cshA
+NDNNOAAD_00946	CDS	hypothetical protein
+NDNNOAAD_00946	gene
+NDNNOAAD_00947	CDS	hypothetical protein
+NDNNOAAD_00947	gene
+NDNNOAAD_00948	CDS	thiT	Thiamine transporter ThiT
+NDNNOAAD_00948	gene	thiT
+NDNNOAAD_00949	CDS	hypothetical protein
+NDNNOAAD_00949	gene
+NDNNOAAD_00950	CDS	hypothetical protein
+NDNNOAAD_00950	gene
+NDNNOAAD_00951	CDS	prfC	Peptide chain release factor 3
+NDNNOAAD_00951	gene	prfC
+NDNNOAAD_00952	CDS	spsB_2	3.4.21.89	Signal peptidase IB
+NDNNOAAD_00952	gene	spsB_2
+NDNNOAAD_00953	CDS	rnhC	3.1.26.4	Ribonuclease HIII
+NDNNOAAD_00953	gene	rnhC
+NDNNOAAD_00954	CDS	hypothetical protein
+NDNNOAAD_00954	gene
+NDNNOAAD_00955	CDS	hypothetical protein
+NDNNOAAD_00955	gene
+NDNNOAAD_00956	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+NDNNOAAD_00956	gene	mutS2
+NDNNOAAD_00957	CDS	polA	2.7.7.7	DNA polymerase I
+NDNNOAAD_00957	gene	polA
+NDNNOAAD_00958	CDS	hypothetical protein
+NDNNOAAD_00958	gene
+NDNNOAAD_00959	CDS	hypothetical protein
+NDNNOAAD_00959	gene
+NDNNOAAD_00960	CDS	glgP	2.4.1.1	Glycogen phosphorylase
+NDNNOAAD_00960	gene	glgP
+NDNNOAAD_00961	CDS	malP	2.4.1.1	Maltodextrin phosphorylase
+NDNNOAAD_00961	gene	malP
+NDNNOAAD_00962	CDS	malQ	2.4.1.25	4-alpha-glucanotransferase
+NDNNOAAD_00962	gene	malQ
+NDNNOAAD_00963	CDS	degA	HTH-type transcriptional regulator DegA
+NDNNOAAD_00963	gene	degA
+NDNNOAAD_00964	CDS	malR	HTH-type transcriptional regulator MalR
+NDNNOAAD_00964	gene	malR
+NDNNOAAD_00965	CDS	hypothetical protein
+NDNNOAAD_00965	gene
+NDNNOAAD_00966	CDS	hypothetical protein
+NDNNOAAD_00966	gene
+NDNNOAAD_00967	CDS	malX_1	Maltose/maltodextrin-binding protein
+NDNNOAAD_00967	gene	malX_1
+NDNNOAAD_00968	CDS	sdhB	4.3.1.17	L-serine dehydratase, beta chain
+NDNNOAAD_00968	gene	sdhB
+NDNNOAAD_00969	CDS	sdhA	4.3.1.17	L-serine dehydratase, alpha chain
+NDNNOAAD_00969	gene	sdhA
+NDNNOAAD_00970	CDS	hypothetical protein
+NDNNOAAD_00970	gene
+NDNNOAAD_00971	CDS	hypothetical protein
+NDNNOAAD_00971	gene
+NDNNOAAD_00972	CDS	hypothetical protein
+NDNNOAAD_00972	gene
+NDNNOAAD_00973	CDS	hypothetical protein
+NDNNOAAD_00973	gene
+NDNNOAAD_00974	CDS	hypothetical protein
+NDNNOAAD_00974	gene
+NDNNOAAD_00975	CDS	desR	Transcriptional regulatory protein DesR
+NDNNOAAD_00975	gene	desR
+NDNNOAAD_00976	CDS	yodC	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+NDNNOAAD_00976	gene	yodC
+NDNNOAAD_00977	CDS	chbC	PTS system N,N'-diacetylchitobiose-specific EIIC component
+NDNNOAAD_00977	gene	chbC
+NDNNOAAD_00978	CDS	hypothetical protein
+NDNNOAAD_00978	gene
+NDNNOAAD_00979	CDS	ywnA	Putative HTH-type transcriptional regulator YwnA
+NDNNOAAD_00979	gene	ywnA
+NDNNOAAD_00980	CDS	catE	1.13.11.2	Catechol-2,3-dioxygenase
+NDNNOAAD_00980	gene	catE
+NDNNOAAD_00981	CDS	hypothetical protein
+NDNNOAAD_00981	gene
+NDNNOAAD_00982	CDS	yhdG	putative amino acid permease YhdG
+NDNNOAAD_00982	gene	yhdG
+NDNNOAAD_00983	CDS	hypothetical protein
+NDNNOAAD_00983	gene
+NDNNOAAD_00984	CDS	manA_2	5.3.1.8	Mannose-6-phosphate isomerase ManA
+NDNNOAAD_00984	gene	manA_2
+NDNNOAAD_00985	CDS	gmuF	5.3.1.8	putative mannose-6-phosphate isomerase GmuF
+NDNNOAAD_00985	gene	gmuF
+NDNNOAAD_00986	CDS	groL	60 kDa chaperonin
+NDNNOAAD_00986	gene	groL
+NDNNOAAD_00987	CDS	groS	10 kDa chaperonin
+NDNNOAAD_00987	gene	groS
+NDNNOAAD_00988	CDS	cmpC	3.6.3.-	Bicarbonate transport ATP-binding protein CmpC
+NDNNOAAD_00988	gene	cmpC
+NDNNOAAD_00989	CDS	lsrC_1	Autoinducer 2 import system permease protein LsrC
+NDNNOAAD_00989	gene	lsrC_1
+NDNNOAAD_00990	CDS	proS	6.1.1.15	Proline--tRNA ligase
+NDNNOAAD_00990	gene	proS
+NDNNOAAD_00991	CDS	3.4.24.-	Putative zinc metalloprotease
+NDNNOAAD_00991	gene
+NDNNOAAD_00992	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+NDNNOAAD_00992	gene	cdsA
+NDNNOAAD_00993	CDS	uppS	2.5.1.-	Isoprenyl transferase
+NDNNOAAD_00993	gene	uppS
+NDNNOAAD_00994	CDS	hypothetical protein
+NDNNOAAD_00994	gene
+NDNNOAAD_00995	CDS	putative transcriptional regulatory protein
+NDNNOAAD_00995	gene
+NDNNOAAD_00996	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+NDNNOAAD_00996	gene	pgi
+NDNNOAAD_00997	CDS	mapP_1	3.1.3.90	Maltose 6'-phosphate phosphatase
+NDNNOAAD_00997	gene	mapP_1
+NDNNOAAD_00998	CDS	mapP_2	3.1.3.90	Maltose 6'-phosphate phosphatase
+NDNNOAAD_00998	gene	mapP_2
+NDNNOAAD_00999	CDS	ptsG_1	2.7.1.199	PTS system glucose-specific EIICBA component
+NDNNOAAD_00999	gene	ptsG_1
+NDNNOAAD_01000	CDS	ptsG_2	PTS system glucose-specific EIICB component
+NDNNOAAD_01000	gene	ptsG_2
+NDNNOAAD_01001	CDS	malX_2	PTS system maltose-specific EIICB component
+NDNNOAAD_01001	gene	malX_2
+NDNNOAAD_01002	CDS	hypothetical protein
+NDNNOAAD_01002	gene
+NDNNOAAD_01003	CDS	hypothetical protein
+NDNNOAAD_01003	gene
+NDNNOAAD_01004	CDS	znuB	High-affinity zinc uptake system membrane protein ZnuB
+NDNNOAAD_01004	gene	znuB
+NDNNOAAD_01005	CDS	znuC	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+NDNNOAAD_01005	gene	znuC
+NDNNOAAD_01006	CDS	copY	Transcriptional repressor CopY
+NDNNOAAD_01006	gene	copY
+NDNNOAAD_01007	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+NDNNOAAD_01007	gene	trpA
+NDNNOAAD_01008	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+NDNNOAAD_01008	gene	trpB
+NDNNOAAD_01009	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+NDNNOAAD_01009	gene	trpF
+NDNNOAAD_01010	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+NDNNOAAD_01010	gene	trpC
+NDNNOAAD_01011	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+NDNNOAAD_01011	gene	trpD
+NDNNOAAD_01012	CDS	pabA	2.6.1.85	Aminodeoxychorismate/anthranilate synthase component 2
+NDNNOAAD_01012	gene	pabA
+NDNNOAAD_01013	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+NDNNOAAD_01013	gene	trpE
+NDNNOAAD_01014	CDS	tyrA_1	T-protein
+NDNNOAAD_01014	gene	tyrA_1
+NDNNOAAD_01015	CDS	hypothetical protein
+NDNNOAAD_01015	gene
+NDNNOAAD_01016	CDS	ctpE	3.6.3.-	putative cation-transporting ATPase E
+NDNNOAAD_01016	gene	ctpE
+NDNNOAAD_01017	CDS	nnrD_1	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+NDNNOAAD_01017	gene	nnrD_1
+NDNNOAAD_01018	CDS	folD	Bifunctional protein FolD protein
+NDNNOAAD_01018	gene	folD
+NDNNOAAD_01019	CDS	hypothetical protein
+NDNNOAAD_01019	gene
+NDNNOAAD_01020	CDS	hypothetical protein
+NDNNOAAD_01020	gene
+NDNNOAAD_01021	CDS	feoB	Fe(2+) transporter FeoB
+NDNNOAAD_01021	gene	feoB
+NDNNOAAD_01022	CDS	hypothetical protein
+NDNNOAAD_01022	gene
+NDNNOAAD_01023	CDS	glnQ_3	Glutamine transport ATP-binding protein GlnQ
+NDNNOAAD_01023	gene	glnQ_3
+NDNNOAAD_01024	CDS	yecS_2	L-cystine transport system permease protein YecS
+NDNNOAAD_01024	gene	yecS_2
+NDNNOAAD_01025	CDS	hypothetical protein
+NDNNOAAD_01025	gene
+NDNNOAAD_01026	CDS	arcB	2.1.3.3	Ornithine carbamoyltransferase, catabolic
+NDNNOAAD_01026	gene	arcB
+NDNNOAAD_01027	CDS	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE
+NDNNOAAD_01027	gene	clpE
+NDNNOAAD_01028	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+NDNNOAAD_01028	gene	rppH
+NDNNOAAD_01029	CDS	hypothetical protein
+NDNNOAAD_01029	gene
+NDNNOAAD_01030	CDS	hypothetical protein
+NDNNOAAD_01030	gene
+NDNNOAAD_01031	CDS	hypothetical protein
+NDNNOAAD_01031	gene
+NDNNOAAD_01032	CDS	hypothetical protein
+NDNNOAAD_01032	gene
+NDNNOAAD_01033	CDS	femB_1	2.3.2.18	Aminoacyltransferase FemB
+NDNNOAAD_01033	gene	femB_1
+NDNNOAAD_01034	CDS	hypothetical protein
+NDNNOAAD_01034	gene
+NDNNOAAD_01035	CDS	hypothetical protein
+NDNNOAAD_01035	gene
+NDNNOAAD_01036	tmRNA	ssrA	transfer-messenger RNA, SsrA
+NDNNOAAD_01036	gene	ssrA
+NDNNOAAD_01037	tRNA	tRNA-Arg(ccg)
+NDNNOAAD_01037	gene
+NDNNOAAD_01038	CDS	rpsA_1	30S Ribosomal protein S1
+NDNNOAAD_01038	gene	rpsA_1
+NDNNOAAD_01039	tRNA	tRNA-Gln(ttg)
+NDNNOAAD_01039	gene
+NDNNOAAD_01040	tRNA	tRNA-Tyr(gta)
+NDNNOAAD_01040	gene
+NDNNOAAD_01041	CDS	hypothetical protein
+NDNNOAAD_01041	gene
+NDNNOAAD_01042	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+NDNNOAAD_01042	gene	ilvE
+NDNNOAAD_01043	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+NDNNOAAD_01043	gene	parC
+NDNNOAAD_01044	CDS	parE	5.99.1.3	DNA topoisomerase 4 subunit B
+NDNNOAAD_01044	gene	parE
+NDNNOAAD_01045	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+NDNNOAAD_01045	gene	plsY
+NDNNOAAD_01046	CDS	hypothetical protein
+NDNNOAAD_01046	gene
+NDNNOAAD_01047	CDS	hypothetical protein
+NDNNOAAD_01047	gene
+NDNNOAAD_01048	CDS	mmuM	2.1.1.10	Homocysteine S-methyltransferase
+NDNNOAAD_01048	gene	mmuM
+NDNNOAAD_01049	CDS	rocE	Amino-acid permease RocE
+NDNNOAAD_01049	gene	rocE
+NDNNOAAD_01050	CDS	yxeP_1	3.-.-.-	putative hydrolase YxeP
+NDNNOAAD_01050	gene	yxeP_1
+NDNNOAAD_01051	CDS	hypothetical protein
+NDNNOAAD_01051	gene
+NDNNOAAD_01052	CDS	ybdH	1.1.-.-	putative oxidoreductase YbdH
+NDNNOAAD_01052	gene	ybdH
+NDNNOAAD_01053	CDS	dhaD	1.1.1.6	Glycerol dehydrogenase
+NDNNOAAD_01053	gene	dhaD
+NDNNOAAD_01054	CDS	bacF	2.6.1.-	Transaminase BacF
+NDNNOAAD_01054	gene	bacF
+NDNNOAAD_01055	CDS	hypothetical protein
+NDNNOAAD_01055	gene
+NDNNOAAD_01056	CDS	ytmI	2.3.1.-	putative N-acetyltransferase YtmI
+NDNNOAAD_01056	gene	ytmI
+NDNNOAAD_01057	CDS	yxeN_1	putative amino-acid permease protein YxeN
+NDNNOAAD_01057	gene	yxeN_1
+NDNNOAAD_01058	CDS	yxeO	3.6.3.-	putative amino-acid import ATP-binding protein YxeO
+NDNNOAAD_01058	gene	yxeO
+NDNNOAAD_01059	CDS	purB_1	4.3.2.2	Adenylosuccinate lyase
+NDNNOAAD_01059	gene	purB_1
+NDNNOAAD_01060	CDS	yxeM	putative amino-acid-binding protein YxeM
+NDNNOAAD_01060	gene	yxeM
+NDNNOAAD_01061	CDS	msrAB1	Peptide methionine sulfoxide reductase MsrA/MsrB 1
+NDNNOAAD_01061	gene	msrAB1
+NDNNOAAD_01062	CDS	mdtK	Multidrug resistance protein MdtK
+NDNNOAAD_01062	gene	mdtK
+NDNNOAAD_01063	CDS	pucK	Uric acid permease PucK
+NDNNOAAD_01063	gene	pucK
+NDNNOAAD_01064	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+NDNNOAAD_01064	gene	xpt
+NDNNOAAD_01065	CDS	graR	Response regulator protein GraR
+NDNNOAAD_01065	gene	graR
+NDNNOAAD_01066	CDS	graS	2.7.13.3	Sensor histidine kinase GraS
+NDNNOAAD_01066	gene	graS
+NDNNOAAD_01067	CDS	bceA	Bacitracin export ATP-binding protein BceA
+NDNNOAAD_01067	gene	bceA
+NDNNOAAD_01068	CDS	bceB	Bacitracin export permease protein BceB
+NDNNOAAD_01068	gene	bceB
+NDNNOAAD_01069	CDS	hypothetical protein
+NDNNOAAD_01069	gene
+NDNNOAAD_01070	CDS	hypothetical protein
+NDNNOAAD_01070	gene
+NDNNOAAD_01071	CDS	hypothetical protein
+NDNNOAAD_01071	gene
+NDNNOAAD_01072	CDS	skfE	3.6.3.25	SkfA peptide export ATP-binding protein SkfE
+NDNNOAAD_01072	gene	skfE
+NDNNOAAD_01073	CDS	hypothetical protein
+NDNNOAAD_01073	gene
+NDNNOAAD_01074	CDS	hypothetical protein
+NDNNOAAD_01074	gene
+NDNNOAAD_01075	CDS	hypothetical protein
+NDNNOAAD_01075	gene
+NDNNOAAD_01076	CDS	hypothetical protein
+NDNNOAAD_01076	gene
+NDNNOAAD_01077	CDS	hypothetical protein
+NDNNOAAD_01077	gene
+NDNNOAAD_01078	CDS	hypothetical protein
+NDNNOAAD_01078	gene
+NDNNOAAD_01079	CDS	rluC	5.4.99.24	Ribosomal large subunit pseudouridine synthase C
+NDNNOAAD_01079	gene	rluC
+NDNNOAAD_01080	CDS	pbpF_1	Penicillin-binding protein 1F
+NDNNOAAD_01080	gene	pbpF_1
+NDNNOAAD_01081	CDS	hypothetical protein
+NDNNOAAD_01081	gene
+NDNNOAAD_01082	CDS	nusG	Transcription termination/antitermination protein NusG
+NDNNOAAD_01082	gene	nusG
+NDNNOAAD_01083	CDS	bcrC_2	3.6.1.27	Undecaprenyl-diphosphatase BcrC
+NDNNOAAD_01083	gene	bcrC_2
+NDNNOAAD_01084	CDS	3.1.3.-	Putative phosphatase
+NDNNOAAD_01084	gene
+NDNNOAAD_01085	CDS	3.1.3.-	Putative phosphatase
+NDNNOAAD_01085	gene
+NDNNOAAD_01086	CDS	glcR_2	HTH-type transcriptional repressor GlcR
+NDNNOAAD_01086	gene	glcR_2
+NDNNOAAD_01087	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+NDNNOAAD_01087	gene	leuS
+NDNNOAAD_01088	CDS	hypothetical protein
+NDNNOAAD_01088	gene
+NDNNOAAD_01089	CDS	hypothetical protein
+NDNNOAAD_01089	gene
+NDNNOAAD_01090	CDS	hypothetical protein
+NDNNOAAD_01090	gene
+NDNNOAAD_01091	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+NDNNOAAD_01091	gene	pncB2
+NDNNOAAD_01092	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+NDNNOAAD_01092	gene	nadE
+NDNNOAAD_01093	CDS	yhaH	Inner membrane protein YhaH
+NDNNOAAD_01093	gene	yhaH
+NDNNOAAD_01094	CDS	pepC	3.4.22.40	Aminopeptidase C
+NDNNOAAD_01094	gene	pepC
+NDNNOAAD_01095	CDS	recU	3.1.22.-	Holliday junction resolvase RecU
+NDNNOAAD_01095	gene	recU
+NDNNOAAD_01096	CDS	hypothetical protein
+NDNNOAAD_01096	gene
+NDNNOAAD_01097	CDS	gpsB	Cell cycle protein GpsB
+NDNNOAAD_01097	gene	gpsB
+NDNNOAAD_01098	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+NDNNOAAD_01098	gene	rlmL
+NDNNOAAD_01099	CDS	mapZ	Mid-cell-anchored protein Z
+NDNNOAAD_01099	gene	mapZ
+NDNNOAAD_01100	CDS	rbgA	Ribosome biogenesis GTPase A
+NDNNOAAD_01100	gene	rbgA
+NDNNOAAD_01101	CDS	putative HTH-type transcriptional regulator
+NDNNOAAD_01101	gene
+NDNNOAAD_01102	CDS	niaR	putative transcription repressor NiaR
+NDNNOAAD_01102	gene	niaR
+NDNNOAAD_01103	CDS	niaX	Niacin transporter NiaX
+NDNNOAAD_01103	gene	niaX
+NDNNOAAD_01104	CDS	ffh	Signal recognition particle protein
+NDNNOAAD_01104	gene	ffh
+NDNNOAAD_01105	CDS	hypothetical protein
+NDNNOAAD_01105	gene
+NDNNOAAD_01106	CDS	yvoA	HTH-type transcriptional repressor YvoA
+NDNNOAAD_01106	gene	yvoA
+NDNNOAAD_01107	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+NDNNOAAD_01107	gene	guaA
+NDNNOAAD_01108	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+NDNNOAAD_01108	gene	pta
+NDNNOAAD_01109	CDS	rluD_1	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+NDNNOAAD_01109	gene	rluD_1
+NDNNOAAD_01110	CDS	nadK	2.7.1.23	NAD kinase
+NDNNOAAD_01110	gene	nadK
+NDNNOAAD_01111	CDS	yjbM	2.7.6.5	GTP pyrophosphokinase YjbM
+NDNNOAAD_01111	gene	yjbM
+NDNNOAAD_01112	CDS	yjbK	3.6.1.-	Putative triphosphatase YjbK
+NDNNOAAD_01112	gene	yjbK
+NDNNOAAD_01113	CDS	prs2	2.7.6.1	Ribose-phosphate pyrophosphokinase 2
+NDNNOAAD_01113	gene	prs2
+NDNNOAAD_01114	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+NDNNOAAD_01114	gene	iscS_2
+NDNNOAAD_01115	CDS	hypothetical protein
+NDNNOAAD_01115	gene
+NDNNOAAD_01116	CDS	rex	Redox-sensing transcriptional repressor Rex
+NDNNOAAD_01116	gene	rex
+NDNNOAAD_01117	CDS	htpX	3.4.24.-	Protease HtpX 
+NDNNOAAD_01117	gene	htpX
+NDNNOAAD_01118	CDS	hypothetical protein
+NDNNOAAD_01118	gene
+NDNNOAAD_01119	CDS	hypothetical protein
+NDNNOAAD_01119	gene
+NDNNOAAD_01120	CDS	ppc	4.1.1.31	Phosphoenolpyruvate carboxylase
+NDNNOAAD_01120	gene	ppc
+NDNNOAAD_01121	CDS	hypothetical protein
+NDNNOAAD_01121	gene
+NDNNOAAD_01122	CDS	sodA	1.15.1.1	Superoxide dismutase [Mn/Fe]
+NDNNOAAD_01122	gene	sodA
+NDNNOAAD_01123	CDS	spxA_1	Regulatory protein Spx
+NDNNOAAD_01123	gene	spxA_1
+NDNNOAAD_01124	CDS	recA	Protein RecA
+NDNNOAAD_01124	gene	recA
+NDNNOAAD_01125	CDS	cinA	Putative competence-damage inducible protein
+NDNNOAAD_01125	gene	cinA
+NDNNOAAD_01126	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+NDNNOAAD_01126	gene	tag
+NDNNOAAD_01127	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+NDNNOAAD_01127	gene	ruvA
+NDNNOAAD_01128	CDS	hypothetical protein
+NDNNOAAD_01128	gene
+NDNNOAAD_01129	CDS	mutL	DNA mismatch repair protein MutL
+NDNNOAAD_01129	gene	mutL
+NDNNOAAD_01130	CDS	hypothetical protein
+NDNNOAAD_01130	gene
+NDNNOAAD_01131	CDS	putative HTH-type transcriptional regulator
+NDNNOAAD_01131	gene
+NDNNOAAD_01132	CDS	hypothetical protein
+NDNNOAAD_01132	gene
+NDNNOAAD_01133	CDS	mutS	DNA mismatch repair protein MutS
+NDNNOAAD_01133	gene	mutS
+NDNNOAAD_01134	CDS	hypothetical protein
+NDNNOAAD_01134	gene
+NDNNOAAD_01135	CDS	argR_1	Arginine repressor
+NDNNOAAD_01135	gene	argR_1
+NDNNOAAD_01136	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+NDNNOAAD_01136	gene	argS
+NDNNOAAD_01137	CDS	purB_2	4.3.2.2	Adenylosuccinate lyase
+NDNNOAAD_01137	gene	purB_2
+NDNNOAAD_01138	CDS	hypothetical protein
+NDNNOAAD_01138	gene
+NDNNOAAD_01139	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+NDNNOAAD_01139	gene	purK
+NDNNOAAD_01140	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+NDNNOAAD_01140	gene	purE
+NDNNOAAD_01141	CDS	hypothetical protein
+NDNNOAAD_01141	gene
+NDNNOAAD_01142	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+NDNNOAAD_01142	gene	luxS
+NDNNOAAD_01143	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+NDNNOAAD_01143	gene	accA
+NDNNOAAD_01144	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+NDNNOAAD_01144	gene	accD
+NDNNOAAD_01145	CDS	accC	6.3.4.14	Biotin carboxylase
+NDNNOAAD_01145	gene	accC
+NDNNOAAD_01146	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+NDNNOAAD_01146	gene	fabZ
+NDNNOAAD_01147	CDS	accB	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NDNNOAAD_01147	gene	accB
+NDNNOAAD_01148	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NDNNOAAD_01148	gene	fabF
+NDNNOAAD_01149	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NDNNOAAD_01149	gene	fabG
+NDNNOAAD_01150	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+NDNNOAAD_01150	gene	fabD
+NDNNOAAD_01151	CDS	1.13.12.16	Nitronate monooxygenase
+NDNNOAAD_01151	gene
+NDNNOAAD_01152	CDS	acpP_1	Acyl carrier protein
+NDNNOAAD_01152	gene	acpP_1
+NDNNOAAD_01153	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NDNNOAAD_01153	gene	fabH
+NDNNOAAD_01154	CDS	zitR	Transcriptional regulator ZitR
+NDNNOAAD_01154	gene	zitR
+NDNNOAAD_01155	CDS	fabM	5.3.3.14	Trans-2-decenoyl-[acyl-carrier-protein] isomerase
+NDNNOAAD_01155	gene	fabM
+NDNNOAAD_01156	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+NDNNOAAD_01156	gene
+NDNNOAAD_01157	CDS	yclM	2.7.2.4	Aspartokinase 3
+NDNNOAAD_01157	gene	yclM
+NDNNOAAD_01158	CDS	asnA	6.3.1.1	Aspartate--ammonia ligase
+NDNNOAAD_01158	gene	asnA
+NDNNOAAD_01159	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NDNNOAAD_01159	gene	rlmCD_1
+NDNNOAAD_01160	CDS	recX	Regulatory protein RecX
+NDNNOAAD_01160	gene	recX
+NDNNOAAD_01161	CDS	hypothetical protein
+NDNNOAAD_01161	gene
+NDNNOAAD_01162	CDS	hypothetical protein
+NDNNOAAD_01162	gene
+NDNNOAAD_01163	CDS	ppaC	3.6.1.1	putative manganese-dependent inorganic pyrophosphatase
+NDNNOAAD_01163	gene	ppaC
+NDNNOAAD_01164	tRNA	tRNA-Glu(ttc)
+NDNNOAAD_01164	gene
+NDNNOAAD_01165	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+NDNNOAAD_01165	gene	asd
+NDNNOAAD_01166	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+NDNNOAAD_01166	gene	dapA
+NDNNOAAD_01167	CDS	rnc	3.1.26.3	Ribonuclease 3
+NDNNOAAD_01167	gene	rnc
+NDNNOAAD_01168	CDS	smc_1	Chromosome partition protein Smc
+NDNNOAAD_01168	gene	smc_1
+NDNNOAAD_01169	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+NDNNOAAD_01169	gene	pheS
+NDNNOAAD_01170	CDS	paiA	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+NDNNOAAD_01170	gene	paiA
+NDNNOAAD_01171	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+NDNNOAAD_01171	gene	pheT_1
+NDNNOAAD_01172	CDS	hypothetical protein
+NDNNOAAD_01172	gene
+NDNNOAAD_01173	CDS	nrdD_1	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+NDNNOAAD_01173	gene	nrdD_1
+NDNNOAAD_01174	CDS	gabR	HTH-type transcriptional regulatory protein GabR
+NDNNOAAD_01174	gene	gabR
+NDNNOAAD_01175	CDS	hypothetical protein
+NDNNOAAD_01175	gene
+NDNNOAAD_01176	CDS	hypothetical protein
+NDNNOAAD_01176	gene
+NDNNOAAD_01177	CDS	hypothetical protein
+NDNNOAAD_01177	gene
+NDNNOAAD_01178	CDS	pdxY	2.7.1.35	Pyridoxamine kinase
+NDNNOAAD_01178	gene	pdxY
+NDNNOAAD_01179	CDS	hypothetical protein
+NDNNOAAD_01179	gene
+NDNNOAAD_01180	CDS	ybiT_2	putative ABC transporter ATP-binding protein YbiT
+NDNNOAAD_01180	gene	ybiT_2
+NDNNOAAD_01181	CDS	1.6.99.3	putative NADH oxidase
+NDNNOAAD_01181	gene
+NDNNOAAD_01182	CDS	ldh	1.1.1.27	L-lactate dehydrogenase
+NDNNOAAD_01182	gene	ldh
+NDNNOAAD_01183	CDS	pbpF_2	Penicillin-binding protein 1F
+NDNNOAAD_01183	gene	pbpF_2
+NDNNOAAD_01184	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+NDNNOAAD_01184	gene	rpoB
+NDNNOAAD_01185	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+NDNNOAAD_01185	gene	rpoC
+NDNNOAAD_01186	CDS	hypothetical protein
+NDNNOAAD_01186	gene
+NDNNOAAD_01187	CDS	comGA	ComG operon protein 1
+NDNNOAAD_01187	gene	comGA
+NDNNOAAD_01188	CDS	gspF	Putative type II secretion system protein F
+NDNNOAAD_01188	gene	gspF
+NDNNOAAD_01189	CDS	hypothetical protein
+NDNNOAAD_01189	gene
+NDNNOAAD_01190	CDS	hypothetical protein
+NDNNOAAD_01190	gene
+NDNNOAAD_01191	CDS	hypothetical protein
+NDNNOAAD_01191	gene
+NDNNOAAD_01192	CDS	hypothetical protein
+NDNNOAAD_01192	gene
+NDNNOAAD_01193	CDS	hypothetical protein
+NDNNOAAD_01193	gene
+NDNNOAAD_01194	CDS	hypothetical protein
+NDNNOAAD_01194	gene
+NDNNOAAD_01195	CDS	ackA	2.7.2.1	Acetate kinase
+NDNNOAAD_01195	gene	ackA
+NDNNOAAD_01196	CDS	hypothetical protein
+NDNNOAAD_01196	gene
+NDNNOAAD_01197	CDS	hypothetical protein
+NDNNOAAD_01197	gene
+NDNNOAAD_01198	CDS	hypothetical protein
+NDNNOAAD_01198	gene
+NDNNOAAD_01199	CDS	hypothetical protein
+NDNNOAAD_01199	gene
+NDNNOAAD_01200	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+NDNNOAAD_01200	gene	proC
+NDNNOAAD_01201	CDS	pepA	3.4.11.7	Glutamyl aminopeptidase
+NDNNOAAD_01201	gene	pepA
+NDNNOAAD_01202	CDS	hypothetical protein
+NDNNOAAD_01202	gene
+NDNNOAAD_01203	CDS	ytpP	Thioredoxin-like protein YtpP
+NDNNOAAD_01203	gene	ytpP
+NDNNOAAD_01204	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+NDNNOAAD_01204	gene	pheT_2
+NDNNOAAD_01205	CDS	hypothetical protein
+NDNNOAAD_01205	gene
+NDNNOAAD_01206	CDS	hypothetical protein
+NDNNOAAD_01206	gene
+NDNNOAAD_01207	CDS	ssb_2	Single-stranded DNA-binding protein
+NDNNOAAD_01207	gene	ssb_2
+NDNNOAAD_01208	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+NDNNOAAD_01208	gene	tadA_2
+NDNNOAAD_01209	CDS	hypothetical protein
+NDNNOAAD_01209	gene
+NDNNOAAD_01210	CDS	hypothetical protein
+NDNNOAAD_01210	gene
+NDNNOAAD_01211	CDS	hypothetical protein
+NDNNOAAD_01211	gene
+NDNNOAAD_01212	CDS	yheH	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+NDNNOAAD_01212	gene	yheH
+NDNNOAAD_01213	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+NDNNOAAD_01213	gene	yheI
+NDNNOAAD_01214	CDS	hypothetical protein
+NDNNOAAD_01214	gene
+NDNNOAAD_01215	CDS	hypothetical protein
+NDNNOAAD_01215	gene
+NDNNOAAD_01216	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+NDNNOAAD_01216	gene	rlmN
+NDNNOAAD_01217	CDS	hypothetical protein
+NDNNOAAD_01217	gene
+NDNNOAAD_01218	CDS	mggB	3.1.3.-	Mannosylglucosyl-3-phosphoglycerate phosphatase
+NDNNOAAD_01218	gene	mggB
+NDNNOAAD_01219	CDS	hypothetical protein
+NDNNOAAD_01219	gene
+NDNNOAAD_01220	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+NDNNOAAD_01220	gene	cshB
+NDNNOAAD_01221	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NDNNOAAD_01221	gene	mraY
+NDNNOAAD_01222	CDS	pbpX	Penicillin-binding protein 2x
+NDNNOAAD_01222	gene	pbpX
+NDNNOAAD_01223	CDS	ftsL	Cell division protein FtsL
+NDNNOAAD_01223	gene	ftsL
+NDNNOAAD_01224	CDS	rsmH_1	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+NDNNOAAD_01224	gene	rsmH_1
+NDNNOAAD_01225	CDS	hypothetical protein
+NDNNOAAD_01225	gene
+NDNNOAAD_01226	CDS	hypothetical protein
+NDNNOAAD_01226	gene
+NDNNOAAD_01227	CDS	yhaI_2	Inner membrane protein YhaI
+NDNNOAAD_01227	gene	yhaI_2
+NDNNOAAD_01228	CDS	hypothetical protein
+NDNNOAAD_01228	gene
+NDNNOAAD_01229	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+NDNNOAAD_01229	gene	proA
+NDNNOAAD_01230	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+NDNNOAAD_01230	gene	proB
+NDNNOAAD_01231	CDS	hypothetical protein
+NDNNOAAD_01231	gene
+NDNNOAAD_01232	CDS	hypothetical protein
+NDNNOAAD_01232	gene
+NDNNOAAD_01233	CDS	hypothetical protein
+NDNNOAAD_01233	gene
+NDNNOAAD_01234	CDS	saeR	Response regulator SaeR
+NDNNOAAD_01234	gene	saeR
+NDNNOAAD_01235	CDS	hypothetical protein
+NDNNOAAD_01235	gene
+NDNNOAAD_01236	CDS	hypothetical protein
+NDNNOAAD_01236	gene
+NDNNOAAD_01237	CDS	hypothetical protein
+NDNNOAAD_01237	gene
+NDNNOAAD_01238	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+NDNNOAAD_01238	gene	dinB_2
+NDNNOAAD_01239	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+NDNNOAAD_01239	gene	prs
+NDNNOAAD_01240	CDS	hypothetical protein
+NDNNOAAD_01240	gene
+NDNNOAAD_01241	CDS	mreC	Cell shape-determining protein MreC
+NDNNOAAD_01241	gene	mreC
+NDNNOAAD_01242	tRNA	tRNA-Ser(gct)
+NDNNOAAD_01242	gene
+NDNNOAAD_01243	tRNA	tRNA-Ile(gat)
+NDNNOAAD_01243	gene
+NDNNOAAD_01244	tRNA	tRNA-Gly(tcc)
+NDNNOAAD_01244	gene
+NDNNOAAD_01245	tRNA	tRNA-Phe(gaa)
+NDNNOAAD_01245	gene
+NDNNOAAD_01246	tRNA	tRNA-Met(cat)
+NDNNOAAD_01246	gene
+NDNNOAAD_01247	tRNA	tRNA-Ser(tga)
+NDNNOAAD_01247	gene
+NDNNOAAD_01248	tRNA	tRNA-Met(cat)
+NDNNOAAD_01248	gene
+NDNNOAAD_01249	tRNA	tRNA-Met(cat)
+NDNNOAAD_01249	gene
+NDNNOAAD_01250	CDS	smc_2	Chromosome partition protein Smc
+NDNNOAAD_01250	gene	smc_2
+NDNNOAAD_01251	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+NDNNOAAD_01251	gene	liaS
+NDNNOAAD_01252	CDS	liaR	Transcriptional regulatory protein LiaR
+NDNNOAAD_01252	gene	liaR
+NDNNOAAD_01253	tRNA	tRNA-Gln(ttg)
+NDNNOAAD_01253	gene
+NDNNOAAD_01254	tRNA	tRNA-Glu(ttc)
+NDNNOAAD_01254	gene
+NDNNOAAD_01255	CDS	rimM	Ribosome maturation factor RimM
+NDNNOAAD_01255	gene	rimM
+NDNNOAAD_01256	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+NDNNOAAD_01256	gene	trmD
+NDNNOAAD_01257	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+NDNNOAAD_01257	gene	yumC
+NDNNOAAD_01258	CDS	ftsK	DNA translocase FtsK
+NDNNOAAD_01258	gene	ftsK
+NDNNOAAD_01259	CDS	pulA_5	3.2.1.41	Pullulanase
+NDNNOAAD_01259	gene	pulA_5
+NDNNOAAD_01260	CDS	pulA_6	3.2.1.41	Pullulanase
+NDNNOAAD_01260	gene	pulA_6
+NDNNOAAD_01261	CDS	pulA_7	3.2.1.41	Pullulanase
+NDNNOAAD_01261	gene	pulA_7
+NDNNOAAD_01262	CDS	amyX_2	3.2.1.41	Pullulanase
+NDNNOAAD_01262	gene	amyX_2
+NDNNOAAD_01263	CDS	hypothetical protein
+NDNNOAAD_01263	gene
+NDNNOAAD_01264	CDS	gshAB	Glutathione biosynthesis bifunctional protein GshAB
+NDNNOAAD_01264	gene	gshAB
+NDNNOAAD_01265	CDS	deoD_3	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+NDNNOAAD_01265	gene	deoD_3
+NDNNOAAD_01266	CDS	hypothetical protein
+NDNNOAAD_01266	gene
+NDNNOAAD_01267	CDS	rluB_3	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+NDNNOAAD_01267	gene	rluB_3
+NDNNOAAD_01268	CDS	yxeP_2	3.-.-.-	putative hydrolase YxeP
+NDNNOAAD_01268	gene	yxeP_2
+NDNNOAAD_01269	CDS	ald2	1.4.1.1	Alanine dehydrogenase 2
+NDNNOAAD_01269	gene	ald2
+NDNNOAAD_01270	CDS	hypothetical protein
+NDNNOAAD_01270	gene
+NDNNOAAD_01271	CDS	hypothetical protein
+NDNNOAAD_01271	gene
+NDNNOAAD_01272	CDS	hypothetical protein
+NDNNOAAD_01272	gene
+NDNNOAAD_01273	CDS	hypothetical protein
+NDNNOAAD_01273	gene
+NDNNOAAD_01274	CDS	hypothetical protein
+NDNNOAAD_01274	gene
+NDNNOAAD_01275	CDS	hypothetical protein
+NDNNOAAD_01275	gene
+NDNNOAAD_01276	CDS	hypothetical protein
+NDNNOAAD_01276	gene
+NDNNOAAD_01277	CDS	fokIM	2.1.1.72	Modification methylase FokI
+NDNNOAAD_01277	gene	fokIM
+NDNNOAAD_01278	CDS	hypothetical protein
+NDNNOAAD_01278	gene
+NDNNOAAD_01279	CDS	hypothetical protein
+NDNNOAAD_01279	gene
+NDNNOAAD_01280	CDS	cas9-1	3.1.-.-	CRISPR-associated endonuclease Cas9 1
+NDNNOAAD_01280	gene	cas9-1
+NDNNOAAD_01281	CDS	cas1_2	3.1.-.-	CRISPR-associated endonuclease Cas1
+NDNNOAAD_01281	gene	cas1_2
+NDNNOAAD_01282	CDS	cas2_2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+NDNNOAAD_01282	gene	cas2_2
+NDNNOAAD_01283	CDS	hypothetical protein
+NDNNOAAD_01283	gene
+NDNNOAAD_01284	CDS	Putative two-component membrane permease complex subunit SMU_746c
+NDNNOAAD_01284	gene
+NDNNOAAD_01285	CDS	Putative two-component membrane permease complex subunit SMU_747c
+NDNNOAAD_01285	gene
+NDNNOAAD_01286	CDS	hypothetical protein
+NDNNOAAD_01286	gene
+NDNNOAAD_01287	CDS	rpsA_2	30S ribosomal protein S1
+NDNNOAAD_01287	gene	rpsA_2
+NDNNOAAD_01288	CDS	Protein SprT-like protein
+NDNNOAAD_01288	gene
+NDNNOAAD_01289	CDS	hypothetical protein
+NDNNOAAD_01289	gene
+NDNNOAAD_01290	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+NDNNOAAD_01290	gene	hprK
+NDNNOAAD_01291	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+NDNNOAAD_01291	gene	lgt
+NDNNOAAD_01292	CDS	hypothetical protein
+NDNNOAAD_01292	gene
+NDNNOAAD_01293	CDS	hypothetical protein
+NDNNOAAD_01293	gene
+NDNNOAAD_01294	CDS	hypothetical protein
+NDNNOAAD_01294	gene
+NDNNOAAD_01295	CDS	ydcP_1	3.4.-.-	putative protease YdcP
+NDNNOAAD_01295	gene	ydcP_1
+NDNNOAAD_01296	CDS	ydcP_2	3.4.-.-	putative protease YdcP
+NDNNOAAD_01296	gene	ydcP_2
+NDNNOAAD_01297	CDS	bioY2_2	Biotin transporter BioY2
+NDNNOAAD_01297	gene	bioY2_2
+NDNNOAAD_01298	CDS	hypothetical protein
+NDNNOAAD_01298	gene
+NDNNOAAD_01299	CDS	hypothetical protein
+NDNNOAAD_01299	gene
+NDNNOAAD_01300	CDS	hypothetical protein
+NDNNOAAD_01300	gene
+NDNNOAAD_01301	CDS	hypothetical protein
+NDNNOAAD_01301	gene
+NDNNOAAD_01302	CDS	mccF	Microcin C7 self-immunity protein MccF
+NDNNOAAD_01302	gene	mccF
+NDNNOAAD_01303	tRNA	tRNA-Cys(gca)
+NDNNOAAD_01303	gene
+NDNNOAAD_01304	CDS	rpsB	30S ribosomal protein S2
+NDNNOAAD_01304	gene	rpsB
+NDNNOAAD_01305	CDS	tsf	Elongation factor Ts
+NDNNOAAD_01305	gene	tsf
+NDNNOAAD_01306	CDS	hypothetical protein
+NDNNOAAD_01306	gene
+NDNNOAAD_01307	CDS	ctsR	Transcriptional regulator CtsR
+NDNNOAAD_01307	gene	ctsR
+NDNNOAAD_01308	CDS	clpC	Negative regulator of genetic competence ClpC/MecB
+NDNNOAAD_01308	gene	clpC
+NDNNOAAD_01309	CDS	dacA_1	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+NDNNOAAD_01309	gene	dacA_1
+NDNNOAAD_01310	CDS	dacA_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+NDNNOAAD_01310	gene	dacA_2
+NDNNOAAD_01311	CDS	dacA_3	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+NDNNOAAD_01311	gene	dacA_3
+NDNNOAAD_01312	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+NDNNOAAD_01312	gene	pnp
+NDNNOAAD_01313	CDS	hypothetical protein
+NDNNOAAD_01313	gene
+NDNNOAAD_01314	CDS	cysE_2	2.3.1.30	Serine acetyltransferase
+NDNNOAAD_01314	gene	cysE_2
+NDNNOAAD_01315	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+NDNNOAAD_01315	gene	cysS
+NDNNOAAD_01316	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+NDNNOAAD_01316	gene	mrnC
+NDNNOAAD_01317	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+NDNNOAAD_01317	gene
+NDNNOAAD_01318	CDS	hypothetical protein
+NDNNOAAD_01318	gene
+NDNNOAAD_01319	CDS	Fatty acid-binding protein
+NDNNOAAD_01319	gene
+NDNNOAAD_01320	CDS	hypothetical protein
+NDNNOAAD_01320	gene
+NDNNOAAD_01321	CDS	hypothetical protein
+NDNNOAAD_01321	gene
+NDNNOAAD_01322	CDS	panE	1.1.1.169	putative 2-dehydropantoate 2-reductase
+NDNNOAAD_01322	gene	panE
+NDNNOAAD_01323	CDS	rplM	50S ribosomal protein L13
+NDNNOAAD_01323	gene	rplM
+NDNNOAAD_01324	CDS	hypothetical protein
+NDNNOAAD_01324	gene
+NDNNOAAD_01325	CDS	hypothetical protein
+NDNNOAAD_01325	gene
+NDNNOAAD_01326	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+NDNNOAAD_01326	gene	purD
+NDNNOAAD_01327	CDS	lgrB	Linear gramicidin synthase subunit B
+NDNNOAAD_01327	gene	lgrB
+NDNNOAAD_01328	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+NDNNOAAD_01328	gene	ahcY
+NDNNOAAD_01329	CDS	hypothetical protein
+NDNNOAAD_01329	gene
+NDNNOAAD_01330	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+NDNNOAAD_01330	gene
+NDNNOAAD_01331	CDS	hypothetical protein
+NDNNOAAD_01331	gene
+NDNNOAAD_01332	CDS	hypothetical protein
+NDNNOAAD_01332	gene
+NDNNOAAD_01333	CDS	hypothetical protein
+NDNNOAAD_01333	gene
+NDNNOAAD_01334	CDS	hypothetical protein
+NDNNOAAD_01334	gene
+NDNNOAAD_01335	CDS	hypothetical protein
+NDNNOAAD_01335	gene
+NDNNOAAD_01336	CDS	hypothetical protein
+NDNNOAAD_01336	gene
+NDNNOAAD_01337	CDS	hypothetical protein
+NDNNOAAD_01337	gene
+NDNNOAAD_01338	CDS	hypothetical protein
+NDNNOAAD_01338	gene
+NDNNOAAD_01339	CDS	hypothetical protein
+NDNNOAAD_01339	gene
+NDNNOAAD_01340	CDS	hypothetical protein
+NDNNOAAD_01340	gene
+NDNNOAAD_01341	CDS	hpaIIM	2.1.1.37	Modification methylase HpaII
+NDNNOAAD_01341	gene	hpaIIM
+NDNNOAAD_01342	CDS	hypothetical protein
+NDNNOAAD_01342	gene
+NDNNOAAD_01343	CDS	hypothetical protein
+NDNNOAAD_01343	gene
+NDNNOAAD_01344	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NDNNOAAD_01344	gene	rlmCD_2
+NDNNOAAD_01345	CDS	hypothetical protein
+NDNNOAAD_01345	gene
+NDNNOAAD_01346	CDS	hypothetical protein
+NDNNOAAD_01346	gene
+NDNNOAAD_01347	CDS	hypothetical protein
+NDNNOAAD_01347	gene
+NDNNOAAD_01348	CDS	rplL	50S ribosomal protein L7/L12
+NDNNOAAD_01348	gene	rplL
+NDNNOAAD_01349	CDS	rplJ	50S ribosomal protein L10
+NDNNOAAD_01349	gene	rplJ
+NDNNOAAD_01350	CDS	yknZ_1	putative ABC transporter permease YknZ
+NDNNOAAD_01350	gene	yknZ_1
+NDNNOAAD_01351	CDS	yknZ_2	putative ABC transporter permease YknZ
+NDNNOAAD_01351	gene	yknZ_2
+NDNNOAAD_01352	CDS	hypothetical protein
+NDNNOAAD_01352	gene
+NDNNOAAD_01353	CDS	hypothetical protein
+NDNNOAAD_01353	gene
+NDNNOAAD_01354	CDS	hypothetical protein
+NDNNOAAD_01354	gene
+NDNNOAAD_01355	CDS	rsmJ	2.1.1.242	Ribosomal RNA small subunit methyltransferase J
+NDNNOAAD_01355	gene	rsmJ
+NDNNOAAD_01356	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+NDNNOAAD_01356	gene	carB
+NDNNOAAD_01357	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+NDNNOAAD_01357	gene	carA
+NDNNOAAD_01358	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+NDNNOAAD_01358	gene	pyrB
+NDNNOAAD_01359	CDS	pyrP	Uracil permease
+NDNNOAAD_01359	gene	pyrP
+NDNNOAAD_01360	CDS	pyrR	Bifunctional protein PyrR
+NDNNOAAD_01360	gene	pyrR
+NDNNOAAD_01361	CDS	hpf	Ribosome hibernation promotion factor
+NDNNOAAD_01361	gene	hpf
+NDNNOAAD_01362	CDS	hypothetical protein
+NDNNOAAD_01362	gene
+NDNNOAAD_01363	CDS	comFA	3.6.4.12	ComF operon protein 1
+NDNNOAAD_01363	gene	comFA
+NDNNOAAD_01364	CDS	yigZ	IMPACT family member YigZ
+NDNNOAAD_01364	gene	yigZ
+NDNNOAAD_01365	CDS	cysK	2.5.1.47	Cysteine synthase
+NDNNOAAD_01365	gene	cysK
+NDNNOAAD_01366	CDS	hypothetical protein
+NDNNOAAD_01366	gene
+NDNNOAAD_01367	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+NDNNOAAD_01367	gene	guaB_2
+NDNNOAAD_01368	CDS	livF	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+NDNNOAAD_01368	gene	livF
+NDNNOAAD_01369	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+NDNNOAAD_01369	gene	lptB
+NDNNOAAD_01370	CDS	hypothetical protein
+NDNNOAAD_01370	gene
+NDNNOAAD_01371	CDS	livH	High-affinity branched-chain amino acid transport system permease protein LivH
+NDNNOAAD_01371	gene	livH
+NDNNOAAD_01372	CDS	Leu/Ile/Val-binding protein 
+NDNNOAAD_01372	gene
+NDNNOAAD_01373	CDS	hypothetical protein
+NDNNOAAD_01373	gene
+NDNNOAAD_01374	CDS	hypothetical protein
+NDNNOAAD_01374	gene
+NDNNOAAD_01375	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+NDNNOAAD_01375	gene	clpP
+NDNNOAAD_01376	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+NDNNOAAD_01376	gene	upp
+NDNNOAAD_01377	CDS	hypothetical protein
+NDNNOAAD_01377	gene
+NDNNOAAD_01378	CDS	hypothetical protein
+NDNNOAAD_01378	gene
+NDNNOAAD_01379	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+NDNNOAAD_01379	gene	patB
+NDNNOAAD_01380	CDS	metI	2.5.1.-	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+NDNNOAAD_01380	gene	metI
+NDNNOAAD_01381	CDS	ctpF	3.6.3.-	putative cation-transporting ATPase F
+NDNNOAAD_01381	gene	ctpF
+NDNNOAAD_01382	CDS	murJ	Lipid II flippase MurJ
+NDNNOAAD_01382	gene	murJ
+NDNNOAAD_01383	CDS	murE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+NDNNOAAD_01383	gene	murE
+NDNNOAAD_01384	CDS	femB_2	2.3.2.18	Aminoacyltransferase FemB
+NDNNOAAD_01384	gene	femB_2
+NDNNOAAD_01385	CDS	hypothetical protein
+NDNNOAAD_01385	gene
+NDNNOAAD_01386	CDS	yvdD	LOG family protein YvdD
+NDNNOAAD_01386	gene	yvdD
+NDNNOAAD_01387	CDS	rbfA	Ribosome-binding factor A
+NDNNOAAD_01387	gene	rbfA
+NDNNOAAD_01388	CDS	infB	Translation initiation factor IF-2
+NDNNOAAD_01388	gene	infB
+NDNNOAAD_01389	CDS	rplGA	putative ribosomal protein YlxQ
+NDNNOAAD_01389	gene	rplGA
+NDNNOAAD_01390	CDS	hypothetical protein
+NDNNOAAD_01390	gene
+NDNNOAAD_01391	CDS	nusA	Transcription termination/antitermination protein NusA
+NDNNOAAD_01391	gene	nusA
+NDNNOAAD_01392	CDS	rimP	Ribosome maturation factor RimP
+NDNNOAAD_01392	gene	rimP
+NDNNOAAD_01393	CDS	brpA	Biofilm regulatory protein A
+NDNNOAAD_01393	gene	brpA
+NDNNOAAD_01394	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+NDNNOAAD_01394	gene	mshD_2
+NDNNOAAD_01395	CDS	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NDNNOAAD_01395	gene	tsaE
+NDNNOAAD_01396	CDS	adeQ	Adenine permease AdeQ
+NDNNOAAD_01396	gene	adeQ
+NDNNOAAD_01397	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+NDNNOAAD_01397	gene	yitU
+NDNNOAAD_01398	CDS	kynB	3.5.1.9	Kynurenine formamidase
+NDNNOAAD_01398	gene	kynB
+NDNNOAAD_01399	CDS	manX	2.7.1.191	PTS system mannose-specific EIIAB component
+NDNNOAAD_01399	gene	manX
+NDNNOAAD_01400	CDS	manY	PTS system mannose-specific EIIC component
+NDNNOAAD_01400	gene	manY
+NDNNOAAD_01401	CDS	manZ	PTS system mannose-specific EIID component
+NDNNOAAD_01401	gene	manZ
+NDNNOAAD_01402	CDS	hypothetical protein
+NDNNOAAD_01402	gene
+NDNNOAAD_01403	CDS	serS	6.1.1.11	Serine--tRNA ligase
+NDNNOAAD_01403	gene	serS
+NDNNOAAD_01404	CDS	pheA	4.2.1.51	Prephenate dehydratase
+NDNNOAAD_01404	gene	pheA
+NDNNOAAD_01405	CDS	aroK	2.7.1.71	Shikimate kinase
+NDNNOAAD_01405	gene	aroK
+NDNNOAAD_01406	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+NDNNOAAD_01406	gene	aroA
+NDNNOAAD_01407	CDS	1.1.1.-	L-2-hydroxyisocaproate dehydrogenase
+NDNNOAAD_01407	gene
+NDNNOAAD_01408	CDS	hypothetical protein
+NDNNOAAD_01408	gene
+NDNNOAAD_01409	CDS	tyrA_2	1.3.1.12	Prephenate dehydrogenase
+NDNNOAAD_01409	gene	tyrA_2
+NDNNOAAD_01410	CDS	aroC	4.2.3.5	Chorismate synthase
+NDNNOAAD_01410	gene	aroC
+NDNNOAAD_01411	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+NDNNOAAD_01411	gene	aroB
+NDNNOAAD_01412	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+NDNNOAAD_01412	gene	aroE
+NDNNOAAD_01413	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+NDNNOAAD_01413	gene	aroD
+NDNNOAAD_01414	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+NDNNOAAD_01414	gene	rlmI
+NDNNOAAD_01415	CDS	ltaS2	Lipoteichoic acid synthase 2
+NDNNOAAD_01415	gene	ltaS2
+NDNNOAAD_01416	CDS	hypothetical protein
+NDNNOAAD_01416	gene
+NDNNOAAD_01417	CDS	eno	4.2.1.11	Enolase
+NDNNOAAD_01417	gene	eno
+NDNNOAAD_01418	CDS	hypothetical protein
+NDNNOAAD_01418	gene
+NDNNOAAD_01419	CDS	glxK	2.7.1.31	Glycerate kinase
+NDNNOAAD_01419	gene	glxK
+NDNNOAAD_01420	CDS	hypothetical protein
+NDNNOAAD_01420	gene
+NDNNOAAD_01421	CDS	hypothetical protein
+NDNNOAAD_01421	gene
+NDNNOAAD_01422	CDS	hypothetical protein
+NDNNOAAD_01422	gene
+NDNNOAAD_01423	CDS	ccpA	Catabolite control protein A
+NDNNOAAD_01423	gene	ccpA
+NDNNOAAD_01424	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+NDNNOAAD_01424	gene	pepQ
+NDNNOAAD_01425	CDS	yugI	General stress protein 13
+NDNNOAAD_01425	gene	yugI
+NDNNOAAD_01426	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+NDNNOAAD_01426	gene
+NDNNOAAD_01427	CDS	smpB	SsrA-binding protein
+NDNNOAAD_01427	gene	smpB
+NDNNOAAD_01428	CDS	rnr	3.1.13.1	Ribonuclease R
+NDNNOAAD_01428	gene	rnr
+NDNNOAAD_01429	CDS	secG	putative protein-export membrane protein SecG
+NDNNOAAD_01429	gene	secG
+NDNNOAAD_01430	CDS	yjhB	Putative metabolite transport protein YjhB
+NDNNOAAD_01430	gene	yjhB
+NDNNOAAD_01431	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+NDNNOAAD_01431	gene	coaE
+NDNNOAAD_01432	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+NDNNOAAD_01432	gene	mutM
+NDNNOAAD_01433	CDS	era	GTPase Era
+NDNNOAAD_01433	gene	era
+NDNNOAAD_01434	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+NDNNOAAD_01434	gene	dgkA
+NDNNOAAD_01435	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+NDNNOAAD_01435	gene	ybeY
+NDNNOAAD_01436	CDS	licT_1	Transcription antiterminator LicT
+NDNNOAAD_01436	gene	licT_1
+NDNNOAAD_01437	CDS	licT_2	Transcription antiterminator LicT
+NDNNOAAD_01437	gene	licT_2
+NDNNOAAD_01438	CDS	recR	Recombination protein RecR
+NDNNOAAD_01438	gene	recR
+NDNNOAAD_01439	CDS	penA	Penicillin-binding protein 2B
+NDNNOAAD_01439	gene	penA
+NDNNOAAD_01440	CDS	nnrD_2	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+NDNNOAAD_01440	gene	nnrD_2
+NDNNOAAD_01441	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+NDNNOAAD_01441	gene	rpiA
+NDNNOAAD_01442	CDS	deoB	5.4.2.7	Phosphopentomutase
+NDNNOAAD_01442	gene	deoB
+NDNNOAAD_01443	CDS	hypothetical protein
+NDNNOAAD_01443	gene
+NDNNOAAD_01444	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+NDNNOAAD_01444	gene	rapA
+NDNNOAAD_01445	CDS	hypothetical protein
+NDNNOAAD_01445	gene
+NDNNOAAD_01446	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+NDNNOAAD_01446	gene	murC
+NDNNOAAD_01447	CDS	hypothetical protein
+NDNNOAAD_01447	gene
+NDNNOAAD_01448	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+NDNNOAAD_01448	gene	mltG
+NDNNOAAD_01449	CDS	greA	Transcription elongation factor GreA
+NDNNOAAD_01449	gene	greA
+NDNNOAAD_01450	CDS	rodA	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+NDNNOAAD_01450	gene	rodA
+NDNNOAAD_01451	CDS	hflX	GTPase HflX
+NDNNOAAD_01451	gene	hflX
+NDNNOAAD_01452	CDS	hypothetical protein
+NDNNOAAD_01452	gene
+NDNNOAAD_01453	CDS	rnz	3.1.26.11	Ribonuclease Z
+NDNNOAAD_01453	gene	rnz
+NDNNOAAD_01454	CDS	1.-.-.-	putative oxidoreductase
+NDNNOAAD_01454	gene
+NDNNOAAD_01455	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+NDNNOAAD_01455	gene	recJ
+NDNNOAAD_01456	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+NDNNOAAD_01456	gene	apt
+NDNNOAAD_01457	CDS	metA	2.3.1.46	Homoserine O-succinyltransferase
+NDNNOAAD_01457	gene	metA
+NDNNOAAD_01458	CDS	hypothetical protein
+NDNNOAAD_01458	gene
+NDNNOAAD_01459	CDS	pdg	Ultraviolet N-glycosylase/AP lyase
+NDNNOAAD_01459	gene	pdg
+NDNNOAAD_01460	CDS	hypothetical protein
+NDNNOAAD_01460	gene
+NDNNOAAD_01461	CDS	hypothetical protein
+NDNNOAAD_01461	gene
+NDNNOAAD_01462	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+NDNNOAAD_01462	gene	xseA
+NDNNOAAD_01463	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+NDNNOAAD_01463	gene	xseB
+NDNNOAAD_01464	CDS	2.5.1.10	Farnesyl diphosphate synthase
+NDNNOAAD_01464	gene
+NDNNOAAD_01465	CDS	tlyA	Hemolysin A
+NDNNOAAD_01465	gene	tlyA
+NDNNOAAD_01466	CDS	argR_2	Arginine repressor
+NDNNOAAD_01466	gene	argR_2
+NDNNOAAD_01467	CDS	recN	DNA repair protein RecN
+NDNNOAAD_01467	gene	recN
+NDNNOAAD_01468	CDS	DegV domain-containing protein
+NDNNOAAD_01468	gene
+NDNNOAAD_01469	CDS	lipC	3.-.-.-	Spore germination lipase LipC
+NDNNOAAD_01469	gene	lipC
+NDNNOAAD_01470	CDS	hypothetical protein
+NDNNOAAD_01470	gene
+NDNNOAAD_01471	CDS	hup	DNA-binding protein HU
+NDNNOAAD_01471	gene	hup
+NDNNOAAD_01472	CDS	hypothetical protein
+NDNNOAAD_01472	gene
+NDNNOAAD_01473	CDS	pyrDA	1.3.98.1	putative dihydroorotate dehydrogenase A (fumarate)
+NDNNOAAD_01473	gene	pyrDA
+NDNNOAAD_01474	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+NDNNOAAD_01474	gene	gpmA
+NDNNOAAD_01475	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+NDNNOAAD_01475	gene	leuA
+NDNNOAAD_01476	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+NDNNOAAD_01476	gene	leuB
+NDNNOAAD_01477	CDS	hypothetical protein
+NDNNOAAD_01477	gene
+NDNNOAAD_01478	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+NDNNOAAD_01478	gene	leuC
+NDNNOAAD_01479	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+NDNNOAAD_01479	gene	leuD
+NDNNOAAD_01480	CDS	hypothetical protein
+NDNNOAAD_01480	gene
+NDNNOAAD_01481	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+NDNNOAAD_01481	gene	dnaE
+NDNNOAAD_01482	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+NDNNOAAD_01482	gene	pfkA
+NDNNOAAD_01483	CDS	pyk	2.7.1.40	Pyruvate kinase
+NDNNOAAD_01483	gene	pyk
+NDNNOAAD_01484	CDS	Stress response regulator gls24 
+NDNNOAAD_01484	gene
+NDNNOAAD_01485	CDS	hypothetical protein
+NDNNOAAD_01485	gene
+NDNNOAAD_01486	CDS	hypothetical protein
+NDNNOAAD_01486	gene
+NDNNOAAD_01487	CDS	hypothetical protein
+NDNNOAAD_01487	gene
+NDNNOAAD_01488	CDS	hypothetical protein
+NDNNOAAD_01488	gene
+NDNNOAAD_01489	CDS	hypothetical protein
+NDNNOAAD_01489	gene
+NDNNOAAD_01490	CDS	2.7.1.-	Putative lipid kinase
+NDNNOAAD_01490	gene
+NDNNOAAD_01491	CDS	2.7.1.-	Putative lipid kinase
+NDNNOAAD_01491	gene
+NDNNOAAD_01492	CDS	hypothetical protein
+NDNNOAAD_01492	gene
+NDNNOAAD_01493	CDS	hypothetical protein
+NDNNOAAD_01493	gene
+NDNNOAAD_01494	CDS	rpmGA	50S ribosomal protein L33 1
+NDNNOAAD_01494	gene	rpmGA
+NDNNOAAD_01495	CDS	rpmF	50S ribosomal protein L32
+NDNNOAAD_01495	gene	rpmF
+NDNNOAAD_01496	CDS	hypothetical protein
+NDNNOAAD_01496	gene
+NDNNOAAD_01497	CDS	xecA1	4.4.1.23	2-hydroxypropyl-CoM lyase
+NDNNOAAD_01497	gene	xecA1
+NDNNOAAD_01498	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+NDNNOAAD_01498	gene	hisS
+NDNNOAAD_01499	CDS	hypothetical protein
+NDNNOAAD_01499	gene
+NDNNOAAD_01500	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+NDNNOAAD_01500	gene	aspS
+NDNNOAAD_01501	CDS	hypothetical protein
+NDNNOAAD_01501	gene
+NDNNOAAD_01502	CDS	hypothetical protein
+NDNNOAAD_01502	gene
+NDNNOAAD_01503	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+NDNNOAAD_01503	gene	nrdG
+NDNNOAAD_01504	CDS	hypothetical protein
+NDNNOAAD_01504	gene
+NDNNOAAD_01505	CDS	hypothetical protein
+NDNNOAAD_01505	gene
+NDNNOAAD_01506	CDS	nrdD_2	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+NDNNOAAD_01506	gene	nrdD_2
+NDNNOAAD_01507	CDS	hypothetical protein
+NDNNOAAD_01507	gene
+NDNNOAAD_01508	CDS	hypothetical protein
+NDNNOAAD_01508	gene
+NDNNOAAD_01509	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+NDNNOAAD_01509	gene	yrrK
+NDNNOAAD_01510	CDS	hypothetical protein
+NDNNOAAD_01510	gene
+NDNNOAAD_01511	CDS	rpmB	50S ribosomal protein L28
+NDNNOAAD_01511	gene	rpmB
+NDNNOAAD_01512	CDS	putative AAA domain-containing protein
+NDNNOAAD_01512	gene
+NDNNOAAD_01513	tRNA	tRNA-Lys(ctt)
+NDNNOAAD_01513	gene
+NDNNOAAD_01514	CDS	Int-Tn_2	Transposase from transposon Tn916
+NDNNOAAD_01514	gene	Int-Tn_2
+NDNNOAAD_01515	CDS	cspLA_1	Cold shock-like protein CspLA
+NDNNOAAD_01515	gene	cspLA_1
+NDNNOAAD_01516	CDS	cspLA_2	Cold shock-like protein CspLA
+NDNNOAAD_01516	gene	cspLA_2
+NDNNOAAD_01517	CDS	pepD_1	3.4.-.-	Dipeptidase
+NDNNOAAD_01517	gene	pepD_1
+NDNNOAAD_01518	CDS	pepD_2	3.4.-.-	Dipeptidase
+NDNNOAAD_01518	gene	pepD_2
+NDNNOAAD_01519	CDS	whiA	Putative sporulation transcription regulator WhiA
+NDNNOAAD_01519	gene	whiA
+NDNNOAAD_01520	CDS	Putative gluconeogenesis factor
+NDNNOAAD_01520	gene
+NDNNOAAD_01521	CDS	yvcJ	Nucleotide-binding protein YvcJ
+NDNNOAAD_01521	gene	yvcJ
+NDNNOAAD_01522	CDS	hypothetical protein
+NDNNOAAD_01522	gene
+NDNNOAAD_01523	CDS	hypothetical protein
+NDNNOAAD_01523	gene
+NDNNOAAD_01524	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+NDNNOAAD_01524	gene	queF
+NDNNOAAD_01525	CDS	queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+NDNNOAAD_01525	gene	queE
+NDNNOAAD_01526	CDS	queD	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+NDNNOAAD_01526	gene	queD
+NDNNOAAD_01527	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+NDNNOAAD_01527	gene	queC
+NDNNOAAD_01528	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+NDNNOAAD_01528	gene	yabJ
+NDNNOAAD_01529	CDS	hypothetical protein
+NDNNOAAD_01529	gene
+NDNNOAAD_01530	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+NDNNOAAD_01530	gene	glpE
+NDNNOAAD_01531	CDS	hypothetical protein
+NDNNOAAD_01531	gene
+NDNNOAAD_01532	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+NDNNOAAD_01532	gene	drrA
+NDNNOAAD_01533	CDS	moeZ	putative adenylyltransferase/sulfurtransferase MoeZ
+NDNNOAAD_01533	gene	moeZ
+NDNNOAAD_01534	CDS	ypdB	Transcriptional regulatory protein YpdB
+NDNNOAAD_01534	gene	ypdB
+NDNNOAAD_01535	CDS	hypothetical protein
+NDNNOAAD_01535	gene
+NDNNOAAD_01536	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase
+NDNNOAAD_01536	gene	nagB
+NDNNOAAD_01537	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NDNNOAAD_01537	gene	queA
+NDNNOAAD_01538	CDS	putative ABC transporter ATP-binding protein
+NDNNOAAD_01538	gene
+NDNNOAAD_01539	CDS	putative ABC transporter ATP-binding protein
+NDNNOAAD_01539	gene
+NDNNOAAD_01540	CDS	hypothetical protein
+NDNNOAAD_01540	gene
+NDNNOAAD_01541	CDS	rclA	putative pyridine nucleotide-disulfide oxidoreductase RclA
+NDNNOAAD_01541	gene	rclA
+NDNNOAAD_01542	CDS	hypothetical protein
+NDNNOAAD_01542	gene
+NDNNOAAD_01543	CDS	galK_2	2.7.1.6	Galactokinase
+NDNNOAAD_01543	gene	galK_2
+NDNNOAAD_01544	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NDNNOAAD_01544	gene	ispE
+NDNNOAAD_01545	CDS	2.7.4.2	Phosphomevalonate kinase
+NDNNOAAD_01545	gene
+NDNNOAAD_01546	CDS	rluD_2	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+NDNNOAAD_01546	gene	rluD_2
+NDNNOAAD_01547	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+NDNNOAAD_01547	gene	lspA
+NDNNOAAD_01548	CDS	oxyR	Hydrogen peroxide-inducible genes activator
+NDNNOAAD_01548	gene	oxyR
+NDNNOAAD_01549	CDS	hypothetical protein
+NDNNOAAD_01549	gene
+NDNNOAAD_01550	CDS	hypothetical protein
+NDNNOAAD_01550	gene
+NDNNOAAD_01551	CDS	hypothetical protein
+NDNNOAAD_01551	gene
+NDNNOAAD_01552	CDS	hypothetical protein
+NDNNOAAD_01552	gene
+NDNNOAAD_01553	CDS	5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+NDNNOAAD_01553	gene
+NDNNOAAD_01554	CDS	bglF_2	PTS system beta-glucoside-specific EIIBCA component
+NDNNOAAD_01554	gene	bglF_2
+NDNNOAAD_01555	CDS	bglF_3	PTS system beta-glucoside-specific EIIBCA component
+NDNNOAAD_01555	gene	bglF_3
+NDNNOAAD_01556	CDS	bglF_4	PTS system beta-glucoside-specific EIIBCA component
+NDNNOAAD_01556	gene	bglF_4
+NDNNOAAD_01557	CDS	bglF_5	PTS system beta-glucoside-specific EIIBCA component
+NDNNOAAD_01557	gene	bglF_5
+NDNNOAAD_01558	CDS	hypothetical protein
+NDNNOAAD_01558	gene
+NDNNOAAD_01559	CDS	cycA	D-serine/D-alanine/glycine transporter
+NDNNOAAD_01559	gene	cycA
+NDNNOAAD_01560	CDS	hypothetical protein
+NDNNOAAD_01560	gene
+NDNNOAAD_01561	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+NDNNOAAD_01561	gene	glyS
+NDNNOAAD_01562	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+NDNNOAAD_01562	gene	glyQ
+NDNNOAAD_01563	CDS	yfkN_3	Trifunctional nucleotide phosphoesterase protein YfkN
+NDNNOAAD_01563	gene	yfkN_3
+NDNNOAAD_01564	CDS	hypothetical protein
+NDNNOAAD_01564	gene
+NDNNOAAD_01565	CDS	rob	Right origin-binding protein
+NDNNOAAD_01565	gene	rob
+NDNNOAAD_01566	CDS	hypothetical protein
+NDNNOAAD_01566	gene
+NDNNOAAD_01567	CDS	pflA	1.97.1.4	Pyruvate formate-lyase 1-activating enzyme
+NDNNOAAD_01567	gene	pflA
+NDNNOAAD_01568	CDS	hypothetical protein
+NDNNOAAD_01568	gene
+NDNNOAAD_01569	CDS	Putative universal stress protein
+NDNNOAAD_01569	gene
+NDNNOAAD_01570	CDS	alaA	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+NDNNOAAD_01570	gene	alaA
+NDNNOAAD_01571	CDS	codY	GTP-sensing transcriptional pleiotropic repressor CodY
+NDNNOAAD_01571	gene	codY
+NDNNOAAD_01572	CDS	yecD	3.-.-.-	Isochorismatase family protein YecD
+NDNNOAAD_01572	gene	yecD
+NDNNOAAD_01573	CDS	Membrane lipoprotein TpN32
+NDNNOAAD_01573	gene
+NDNNOAAD_01574	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+NDNNOAAD_01574	gene	msrA
+NDNNOAAD_01575	CDS	hypothetical protein
+NDNNOAAD_01575	gene
+NDNNOAAD_01576	CDS	pppA	Leader peptidase PppA
+NDNNOAAD_01576	gene	pppA
+NDNNOAAD_01577	CDS	dps	1.16.-.-	DNA protection during starvation protein
+NDNNOAAD_01577	gene	dps
+NDNNOAAD_01578	CDS	perR	Peroxide-responsive repressor PerR
+NDNNOAAD_01578	gene	perR
+NDNNOAAD_01579	CDS	hypothetical protein
+NDNNOAAD_01579	gene
+NDNNOAAD_01580	CDS	glcK	2.7.1.2	Glucokinase
+NDNNOAAD_01580	gene	glcK
+NDNNOAAD_01581	CDS	typA	GTP-binding protein TypA/BipA
+NDNNOAAD_01581	gene	typA
+NDNNOAAD_01582	CDS	hypothetical protein
+NDNNOAAD_01582	gene
+NDNNOAAD_01583	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NDNNOAAD_01583	gene	murD
+NDNNOAAD_01584	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NDNNOAAD_01584	gene	murG
+NDNNOAAD_01585	CDS	divIB	Cell division protein DivIB
+NDNNOAAD_01585	gene	divIB
+NDNNOAAD_01586	CDS	ftsA	Cell division protein FtsA
+NDNNOAAD_01586	gene	ftsA
+NDNNOAAD_01587	CDS	ftsZ	Cell division protein FtsZ
+NDNNOAAD_01587	gene	ftsZ
+NDNNOAAD_01588	CDS	hypothetical protein
+NDNNOAAD_01588	gene
+NDNNOAAD_01589	CDS	dnaI	Primosomal protein DnaI
+NDNNOAAD_01589	gene	dnaI
+NDNNOAAD_01590	CDS	der_2	GTPase Der
+NDNNOAAD_01590	gene	der_2
+NDNNOAAD_01591	CDS	mcjD_2	Microcin-J25 export ATP-binding/permease protein McjD
+NDNNOAAD_01591	gene	mcjD_2
+NDNNOAAD_01592	CDS	csm4	CRISPR type III-associated RAMP protein Csm4
+NDNNOAAD_01592	gene	csm4
+NDNNOAAD_01593	CDS	csm3	CRISPR type III-associated RAMP protein Csm3
+NDNNOAAD_01593	gene	csm3
+NDNNOAAD_01594	CDS	csm2	CRISPR type III-associated protein Csm2
+NDNNOAAD_01594	gene	csm2
+NDNNOAAD_01595	CDS	CRISPR-associated protein Cas10/Csm1
+NDNNOAAD_01595	gene
+NDNNOAAD_01596	CDS	cas6	3.1.-.-	CRISPR-associated endoribonuclease Cas6
+NDNNOAAD_01596	gene	cas6
+NDNNOAAD_01597	CDS	agrA_2	Accessory gene regulator A
+NDNNOAAD_01597	gene	agrA_2
+NDNNOAAD_01598	CDS	hypothetical protein
+NDNNOAAD_01598	gene
+NDNNOAAD_01599	CDS	hypothetical protein
+NDNNOAAD_01599	gene
+NDNNOAAD_01600	CDS	lcnD_2	Lactococcin A secretion protein LcnD
+NDNNOAAD_01600	gene	lcnD_2
+NDNNOAAD_01601	CDS	lagD_6	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+NDNNOAAD_01601	gene	lagD_6
+NDNNOAAD_01602	CDS	czcD	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+NDNNOAAD_01602	gene	czcD
+NDNNOAAD_01603	CDS	hemH	4.99.1.1	Ferrochelatase
+NDNNOAAD_01603	gene	hemH
+NDNNOAAD_01604	CDS	hypothetical protein
+NDNNOAAD_01604	gene
+NDNNOAAD_01605	CDS	hypothetical protein
+NDNNOAAD_01605	gene
+NDNNOAAD_01606	CDS	rfbX_3	Putative O-antigen transporter
+NDNNOAAD_01606	gene	rfbX_3
+NDNNOAAD_01607	CDS	hypothetical protein
+NDNNOAAD_01607	gene
+NDNNOAAD_01608	CDS	glf_2	5.4.99.9	UDP-galactopyranose mutase
+NDNNOAAD_01608	gene	glf_2
+NDNNOAAD_01609	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+NDNNOAAD_01609	gene	metK
+NDNNOAAD_01610	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+NDNNOAAD_01610	gene	birA
+NDNNOAAD_01611	CDS	hypothetical protein
+NDNNOAAD_01611	gene
+NDNNOAAD_01612	CDS	dnaX	2.7.7.7	DNA polymerase III subunit gamma/tau
+NDNNOAAD_01612	gene	dnaX
+NDNNOAAD_01613	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+NDNNOAAD_01613	gene	msrC
+NDNNOAAD_01614	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+NDNNOAAD_01614	gene	miaA
+NDNNOAAD_01615	CDS	hypothetical protein
+NDNNOAAD_01615	gene
+NDNNOAAD_01616	CDS	hypothetical protein
+NDNNOAAD_01616	gene
+NDNNOAAD_01617	tRNA	tRNA-Arg(cct)
+NDNNOAAD_01617	gene
+NDNNOAAD_01618	CDS	rplS	50S ribosomal protein L19
+NDNNOAAD_01618	gene	rplS
+NDNNOAAD_01619	CDS	eriC	Chloride/fluoride channel protein
+NDNNOAAD_01619	gene	eriC
+NDNNOAAD_01620	CDS	tyrA_3	T-protein
+NDNNOAAD_01620	gene	tyrA_3
+NDNNOAAD_01621	CDS	clcA	H(+)/Cl(-) exchange transporter ClcA
+NDNNOAAD_01621	gene	clcA
+NDNNOAAD_01622	CDS	Flavodoxin
+NDNNOAAD_01622	gene
+NDNNOAAD_01623	CDS	hypothetical protein
+NDNNOAAD_01623	gene
+NDNNOAAD_01624	CDS	hypothetical protein
+NDNNOAAD_01624	gene
+NDNNOAAD_01625	CDS	axe1-6A	Carbohydrate acetyl esterase/feruloyl esterase
+NDNNOAAD_01625	gene	axe1-6A
+NDNNOAAD_01626	CDS	rnj2	3.1.-.-	Ribonuclease J 2
+NDNNOAAD_01626	gene	rnj2
+NDNNOAAD_01627	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+NDNNOAAD_01627	gene	cmpD
+NDNNOAAD_01628	CDS	lsrC_2	Autoinducer 2 import system permease protein LsrC
+NDNNOAAD_01628	gene	lsrC_2
+NDNNOAAD_01629	CDS	hypothetical protein
+NDNNOAAD_01629	gene
+NDNNOAAD_01630	CDS	hypothetical protein
+NDNNOAAD_01630	gene
+NDNNOAAD_01631	CDS	hypothetical protein
+NDNNOAAD_01631	gene
+NDNNOAAD_01632	CDS	hypothetical protein
+NDNNOAAD_01632	gene
+NDNNOAAD_01633	CDS	hypothetical protein
+NDNNOAAD_01633	gene
+NDNNOAAD_01634	CDS	hypothetical protein
+NDNNOAAD_01634	gene
+NDNNOAAD_01635	CDS	hypothetical protein
+NDNNOAAD_01635	gene
+NDNNOAAD_01636	CDS	hypothetical protein
+NDNNOAAD_01636	gene
+NDNNOAAD_01637	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+NDNNOAAD_01637	gene	purA
+NDNNOAAD_01638	CDS	ptpA	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase PtpA
+NDNNOAAD_01638	gene	ptpA
+NDNNOAAD_01639	CDS	hypothetical protein
+NDNNOAAD_01639	gene
+NDNNOAAD_01640	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+NDNNOAAD_01640	gene	oatA
+NDNNOAAD_01641	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+NDNNOAAD_01641	gene	ruvB
+NDNNOAAD_01642	CDS	rpsJ	30S ribosomal protein S10
+NDNNOAAD_01642	gene	rpsJ
+NDNNOAAD_01643	CDS	rplC	50S ribosomal protein L3
+NDNNOAAD_01643	gene	rplC
+NDNNOAAD_01644	CDS	rplD	50S ribosomal protein L4
+NDNNOAAD_01644	gene	rplD
+NDNNOAAD_01645	CDS	rplW	50S ribosomal protein L23
+NDNNOAAD_01645	gene	rplW
+NDNNOAAD_01646	CDS	rplB	50S ribosomal protein L2
+NDNNOAAD_01646	gene	rplB
+NDNNOAAD_01647	CDS	rpsS	30S ribosomal protein S19
+NDNNOAAD_01647	gene	rpsS
+NDNNOAAD_01648	CDS	rplV	50S ribosomal protein L22
+NDNNOAAD_01648	gene	rplV
+NDNNOAAD_01649	CDS	rpsC	30S ribosomal protein S3
+NDNNOAAD_01649	gene	rpsC
+NDNNOAAD_01650	CDS	rplP	50S ribosomal protein L16
+NDNNOAAD_01650	gene	rplP
+NDNNOAAD_01651	CDS	rpmC	50S ribosomal protein L29
+NDNNOAAD_01651	gene	rpmC
+NDNNOAAD_01652	CDS	rpsQ	30S ribosomal protein S17
+NDNNOAAD_01652	gene	rpsQ
+NDNNOAAD_01653	CDS	rplN	50S ribosomal protein L14
+NDNNOAAD_01653	gene	rplN
+NDNNOAAD_01654	CDS	rplX	50S ribosomal protein L24
+NDNNOAAD_01654	gene	rplX
+NDNNOAAD_01655	CDS	rplE	50S ribosomal protein L5
+NDNNOAAD_01655	gene	rplE
+NDNNOAAD_01656	CDS	rpsZ	30S ribosomal protein S14 type Z
+NDNNOAAD_01656	gene	rpsZ
+NDNNOAAD_01657	CDS	rpsH	30S ribosomal protein S8
+NDNNOAAD_01657	gene	rpsH
+NDNNOAAD_01658	CDS	rplF	50S ribosomal protein L6
+NDNNOAAD_01658	gene	rplF
+NDNNOAAD_01659	CDS	rplR	50S ribosomal protein L18
+NDNNOAAD_01659	gene	rplR
+NDNNOAAD_01660	CDS	rpsE	30S ribosomal protein S5
+NDNNOAAD_01660	gene	rpsE
+NDNNOAAD_01661	CDS	rpmD	50S ribosomal protein L30
+NDNNOAAD_01661	gene	rpmD
+NDNNOAAD_01662	CDS	rplO	50S ribosomal protein L15
+NDNNOAAD_01662	gene	rplO
+NDNNOAAD_01663	CDS	secY	Protein translocase subunit SecY
+NDNNOAAD_01663	gene	secY
+NDNNOAAD_01664	CDS	adk	2.7.4.3	Adenylate kinase
+NDNNOAAD_01664	gene	adk
+NDNNOAAD_01665	CDS	infA	Translation initiation factor IF-1
+NDNNOAAD_01665	gene	infA
+NDNNOAAD_01666	CDS	rpmJ	50S ribosomal protein L36
+NDNNOAAD_01666	gene	rpmJ
+NDNNOAAD_01667	CDS	rpsM	30S ribosomal protein S13
+NDNNOAAD_01667	gene	rpsM
+NDNNOAAD_01668	CDS	rpsK	30S ribosomal protein S11
+NDNNOAAD_01668	gene	rpsK
+NDNNOAAD_01669	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+NDNNOAAD_01669	gene	rpoA
+NDNNOAAD_01670	CDS	rplQ	50S ribosomal protein L17
+NDNNOAAD_01670	gene	rplQ
+NDNNOAAD_01671	CDS	pepN	3.4.11.2	Aminopeptidase N
+NDNNOAAD_01671	gene	pepN
+NDNNOAAD_01672	CDS	phoU	Phosphate-specific transport system accessory protein PhoU 
+NDNNOAAD_01672	gene	phoU
+NDNNOAAD_01673	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+NDNNOAAD_01673	gene	pstB3_1
+NDNNOAAD_01674	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+NDNNOAAD_01674	gene	pstB3_2
+NDNNOAAD_01675	CDS	pstA	Phosphate transport system permease protein PstA
+NDNNOAAD_01675	gene	pstA
+NDNNOAAD_01676	CDS	pstC	Phosphate transport system permease protein PstC
+NDNNOAAD_01676	gene	pstC
+NDNNOAAD_01677	CDS	pstS1	Phosphate-binding protein PstS 1
+NDNNOAAD_01677	gene	pstS1
+NDNNOAAD_01678	CDS	rsmF	2.1.1.-	Ribosomal RNA small subunit methyltransferase F
+NDNNOAAD_01678	gene	rsmF
+NDNNOAAD_01679	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+NDNNOAAD_01679	gene	suhB
+NDNNOAAD_01680	CDS	hypothetical protein
+NDNNOAAD_01680	gene
+NDNNOAAD_01681	CDS	spxA_2	Regulatory protein Spx
+NDNNOAAD_01681	gene	spxA_2
+NDNNOAAD_01682	CDS	ribF	Riboflavin biosynthesis protein RibF
+NDNNOAAD_01682	gene	ribF
+NDNNOAAD_01683	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+NDNNOAAD_01683	gene	truB
+NDNNOAAD_01684	CDS	hypothetical protein
+NDNNOAAD_01684	gene
+NDNNOAAD_01685	CDS	hypothetical protein
+NDNNOAAD_01685	gene
+NDNNOAAD_01686	CDS	tpx	1.11.1.-	putative thiol peroxidase
+NDNNOAAD_01686	gene	tpx
+NDNNOAAD_01687	CDS	hypothetical protein
+NDNNOAAD_01687	gene
+NDNNOAAD_01688	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+NDNNOAAD_01688	gene	purN
+NDNNOAAD_01689	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+NDNNOAAD_01689	gene	purM
+NDNNOAAD_01690	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+NDNNOAAD_01690	gene	purF
+NDNNOAAD_01691	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase
+NDNNOAAD_01691	gene	purL
+NDNNOAAD_01692	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NDNNOAAD_01692	gene	purC
+NDNNOAAD_01693	CDS	acpP_2	Acyl carrier protein
+NDNNOAAD_01693	gene	acpP_2
+NDNNOAAD_01694	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+NDNNOAAD_01694	gene	plsX
+NDNNOAAD_01695	CDS	recO	DNA repair protein RecO
+NDNNOAAD_01695	gene	recO
+NDNNOAAD_01696	CDS	patA_2	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+NDNNOAAD_01696	gene	patA_2
+NDNNOAAD_01697	tRNA	tRNA-Phe(aaa)
+NDNNOAAD_01697	gene
+NDNNOAAD_01698	tRNA	tRNA-Arg(acg)
+NDNNOAAD_01698	gene
+NDNNOAAD_01699	tRNA	tRNA-Pro(tgg)
+NDNNOAAD_01699	gene
+NDNNOAAD_01700	rRNA	16S ribosomal RNA
+NDNNOAAD_01700	gene
+NDNNOAAD_01701	tRNA	tRNA-Ala(tgc)
+NDNNOAAD_01701	gene
+NDNNOAAD_01702	rRNA	23S ribosomal RNA
+NDNNOAAD_01702	gene
+NDNNOAAD_01703	rRNA	5S ribosomal RNA
+NDNNOAAD_01703	gene
+NDNNOAAD_01704	tRNA	tRNA-Val(tac)
+NDNNOAAD_01704	gene
+NDNNOAAD_01705	rRNA	5S ribosomal RNA (partial)
+NDNNOAAD_01705	gene
+NDNNOAAD_01706	tRNA	tRNA-Val(tac)
+NDNNOAAD_01706	gene
+NDNNOAAD_01707	tRNA	tRNA-Gly(tcc)
+NDNNOAAD_01707	gene
+NDNNOAAD_01708	tRNA	tRNA-Ile(gat)
+NDNNOAAD_01708	gene
+NDNNOAAD_01709	tRNA	tRNA-Glu(ttc)
+NDNNOAAD_01709	gene
+NDNNOAAD_01710	tRNA	tRNA-Ser(tga)
+NDNNOAAD_01710	gene
+NDNNOAAD_01711	tRNA	tRNA-Met(cat)
+NDNNOAAD_01711	gene
+NDNNOAAD_01712	tRNA	tRNA-Phe(gaa)
+NDNNOAAD_01712	gene
+NDNNOAAD_01713	tRNA	tRNA-Tyr(gta)
+NDNNOAAD_01713	gene
+NDNNOAAD_01714	tRNA	tRNA-Trp(cca)
+NDNNOAAD_01714	gene
+NDNNOAAD_01715	tRNA	tRNA-His(gtg)
+NDNNOAAD_01715	gene
+NDNNOAAD_01716	tRNA	tRNA-Gln(ttg)
+NDNNOAAD_01716	gene
+NDNNOAAD_01717	tRNA	tRNA-Leu(caa)
+NDNNOAAD_01717	gene
+NDNNOAAD_01718	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+NDNNOAAD_01718	gene	polC
+NDNNOAAD_01719	CDS	hypothetical protein
+NDNNOAAD_01719	gene
+NDNNOAAD_01720	CDS	csbB_2	2.4.-.-	Putative glycosyltransferase CsbB
+NDNNOAAD_01720	gene	csbB_2
+NDNNOAAD_01721	CDS	hypothetical protein
+NDNNOAAD_01721	gene
+NDNNOAAD_01722	CDS	rmlD_2	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+NDNNOAAD_01722	gene	rmlD_2
+NDNNOAAD_01723	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+NDNNOAAD_01723	gene	ppm1
+NDNNOAAD_01724	CDS	hypothetical protein
+NDNNOAAD_01724	gene
+NDNNOAAD_01725	CDS	hypothetical protein
+NDNNOAAD_01725	gene
+NDNNOAAD_01726	CDS	hypothetical protein
+NDNNOAAD_01726	gene
+NDNNOAAD_01727	CDS	hypothetical protein
+NDNNOAAD_01727	gene
+NDNNOAAD_01728	CDS	epsE_1	2.4.-.-	Putative glycosyltransferase EpsE
+NDNNOAAD_01728	gene	epsE_1
+NDNNOAAD_01729	CDS	tagG_2	Teichoic acid translocation permease protein TagG
+NDNNOAAD_01729	gene	tagG_2
+NDNNOAAD_01730	CDS	tagH_2	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+NDNNOAAD_01730	gene	tagH_2
+NDNNOAAD_01731	CDS	epsE_2	2.4.-.-	Putative glycosyltransferase EpsE
+NDNNOAAD_01731	gene	epsE_2
+NDNNOAAD_01732	CDS	hypothetical protein
+NDNNOAAD_01732	gene
+NDNNOAAD_01733	CDS	sbcC	Nuclease SbcCD subunit C
+NDNNOAAD_01733	gene	sbcC
+NDNNOAAD_01734	CDS	hypothetical protein
+NDNNOAAD_01734	gene
+NDNNOAAD_01735	CDS	hypothetical protein
+NDNNOAAD_01735	gene
+NDNNOAAD_01736	CDS	hypothetical protein
+NDNNOAAD_01736	gene
+NDNNOAAD_01737	CDS	hypothetical protein
+NDNNOAAD_01737	gene
+NDNNOAAD_01738	CDS	hypothetical protein
+NDNNOAAD_01738	gene
+NDNNOAAD_01739	CDS	hypothetical protein
+NDNNOAAD_01739	gene
+NDNNOAAD_01740	CDS	pqqE_2	Coenzyme PQQ synthesis protein E
+NDNNOAAD_01740	gene	pqqE_2
+NDNNOAAD_01741	CDS	hypothetical protein
+NDNNOAAD_01741	gene
+NDNNOAAD_01742	CDS	gla	Glycerol facilitator-aquaporin gla
+NDNNOAAD_01742	gene	gla
+NDNNOAAD_01743	CDS	hypothetical protein
+NDNNOAAD_01743	gene
+NDNNOAAD_01744	CDS	hypothetical protein
+NDNNOAAD_01744	gene
+NDNNOAAD_01745	CDS	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+NDNNOAAD_01745	gene
+NDNNOAAD_01746	CDS	fetA	3.6.3.-	putative iron export ATP-binding protein FetA
+NDNNOAAD_01746	gene	fetA
+NDNNOAAD_01747	CDS	2.3.1.-	Acetyltransferase
+NDNNOAAD_01747	gene
+NDNNOAAD_01748	CDS	cah	4.2.1.1	Carbonic anhydrase
+NDNNOAAD_01748	gene	cah
+NDNNOAAD_01749	CDS	pflB	2.3.1.54	Formate acetyltransferase
+NDNNOAAD_01749	gene	pflB
+NDNNOAAD_01750	CDS	dinB_3	2.7.7.7	DNA polymerase IV
+NDNNOAAD_01750	gene	dinB_3
+NDNNOAAD_01751	CDS	hypothetical protein
+NDNNOAAD_01751	gene
+NDNNOAAD_01752	CDS	tcyA	L-cystine-binding protein TcyA
+NDNNOAAD_01752	gene	tcyA
+NDNNOAAD_01753	CDS	yxeN_2	putative amino-acid permease protein YxeN
+NDNNOAAD_01753	gene	yxeN_2
+NDNNOAAD_01754	CDS	tcyN_2	3.6.3.-	L-cystine import ATP-binding protein TcyN
+NDNNOAAD_01754	gene	tcyN_2
+NDNNOAAD_01755	CDS	hypothetical protein
+NDNNOAAD_01755	gene
+NDNNOAAD_01756	CDS	trxB	1.8.1.9	Thioredoxin reductase
+NDNNOAAD_01756	gene	trxB
+NDNNOAAD_01757	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+NDNNOAAD_01757	gene	rsmD
+NDNNOAAD_01758	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+NDNNOAAD_01758	gene	coaD
+NDNNOAAD_01759	CDS	hypothetical protein
+NDNNOAAD_01759	gene
+NDNNOAAD_01760	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NDNNOAAD_01760	gene	miaB
+NDNNOAAD_01761	CDS	rsmH_2	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+NDNNOAAD_01761	gene	rsmH_2
+NDNNOAAD_01762	CDS	hypothetical protein
+NDNNOAAD_01762	gene
+NDNNOAAD_01763	CDS	hypothetical protein
+NDNNOAAD_01763	gene
+NDNNOAAD_01764	CDS	hypothetical protein
+NDNNOAAD_01764	gene
+NDNNOAAD_01765	CDS	pepV	3.4.13.-	Beta-Ala-Xaa dipeptidase
+NDNNOAAD_01765	gene	pepV
+NDNNOAAD_01766	CDS	xylH	5.3.2.6	2-hydroxymuconate tautomerase
+NDNNOAAD_01766	gene	xylH
+NDNNOAAD_01767	CDS	mshD_3	2.3.1.189	Mycothiol acetyltransferase
+NDNNOAAD_01767	gene	mshD_3
+NDNNOAAD_01768	CDS	hypothetical protein
+NDNNOAAD_01768	gene

@@ -1,0 +1,884 @@
+# 
+#
+# Authors:
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /scratch/norobert/data/run_mpwt/ptools-local/pgdbs/user/lco_lactis_1064-c11_scyc/1.0/data/pubs.dat
+#
+# Organism: Lactococcus lactis
+# Database: NIL
+# Version: 1.0
+# Date and time generated: October 24, 2023, 14:09:56
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABSTRACT
+#    AGRICOLA-ID
+#    AUTHORS
+#    COMMENT
+#    CREDITS
+#    DATA-SOURCE
+#    DOCUMENTATION
+#    DOI-ID
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    MEDLINE-UID
+#    MEMBER-SORT-FN
+#    MESH-HEADINGS
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PUBMED-ID
+#    REFERENT-FRAME
+#    SOURCE
+#    SYNONYMS
+#    TITLE
+#    URL
+#    YEAR
+#
+UNIQUE-ID - PUB-3896121
+TYPES - Publications
+AUTHORS - Holmgren A
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 85277988
+PUBMED-ID - 3896121
+SOURCE - Annu Rev Biochem 54;237-71
+TITLE - Thioredoxin.
+YEAR - 1985
+//
+UNIQUE-ID - PUB-8299941
+TYPES - Publications
+AUTHORS - Fortner DM
+AUTHORS - Troy RG
+AUTHORS - Brow DA
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 8299941
+SOURCE - Genes Dev 8(2);221-33
+TITLE - A stem/loop in U6 RNA defines a conformational switch required for pre-mRNA splicing.
+YEAR - 1994
+//
+UNIQUE-ID - PUB-9214294
+TYPES - Publications
+AUTHORS - Gehring AM
+AUTHORS - Bradley KA
+AUTHORS - Walsh CT
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 97361959
+PUBMED-ID - 9214294
+SOURCE - Biochemistry 36(28);8495-503
+TITLE - Enterobactin biosynthesis in Escherichia coli: isochorismate lyase (EntB) is a bifunctional enzyme that is phosphopantetheinylated by EntD and then acylated by EntE using ATP and 2,3-dihydroxybenzoate.
+YEAR - 1997
+//
+UNIQUE-ID - PUB-5334200
+TYPES - Publications
+AUTHORS - Hayward RS
+AUTHORS - Weiss SB
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 5334200
+SOURCE - Proc Natl Acad Sci U S A 55(5);1161-8
+TITLE - RNA thiolase: the enzymatic transfer of sulfur from cysteine to sRNA in Escherichia coli extracts.
+YEAR - 1966
+//
+UNIQUE-ID - PUB-9485415
+TYPES - Publications
+AUTHORS - Gehring AM
+AUTHORS - Mori I
+AUTHORS - Walsh CT
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 98153148
+PUBMED-ID - 9485415
+SOURCE - Biochemistry 37(8);2648-59
+TITLE - Reconstitution and characterization of the Escherichia coli enterobactin synthetase from EntB, EntE, and EntF.
+YEAR - 1998
+//
+UNIQUE-ID - PUB-3033637
+TYPES - Publications
+AUTHORS - Zinoni F
+AUTHORS - Birkmann A
+AUTHORS - Leinfelder W
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 3033637
+SOURCE - Proc Natl Acad Sci U S A 84(10);3156-60
+TITLE - Cotranslational insertion of selenocysteine into formate dehydrogenase from Escherichia coli directed by a UGA codon.
+YEAR - 1987
+//
+UNIQUE-ID - PUB-2193685
+TYPES - Publications
+AUTHORS - Dyson HJ
+AUTHORS - Gippert GP
+AUTHORS - Case DA
+AUTHORS - Holmgren A
+AUTHORS - Wright PE
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 90298180
+PUBMED-ID - 2193685
+SOURCE - Biochemistry 29(17);4129-36
+TITLE - Three-dimensional solution structure of the reduced form of Escherichia coli thioredoxin determined by nuclear magnetic resonance spectroscopy.
+YEAR - 1990
+//
+UNIQUE-ID - PUB-1370545
+TYPES - Publications
+AUTHORS - Li WQ
+AUTHORS - Yarus M
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1370545
+SOURCE - J Mol Biol 223(1);9-15
+TITLE - Bar to normal UGA translation by the selenocysteine tRNA.
+YEAR - 1992
+//
+UNIQUE-ID - PUB-2181145
+TYPES - Publications
+AUTHORS - Katti SK
+AUTHORS - LeMaster DM
+AUTHORS - Eklund H
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 90204538
+PUBMED-ID - 2181145
+SOURCE - J Mol Biol 212(1);167-84
+TITLE - Crystal structure of thioredoxin from Escherichia coli at 1.68 A resolution.
+YEAR - 1990
+//
+UNIQUE-ID - PUB-26715757
+TYPES - Publications
+AUTHORS - Fan P
+AUTHORS - Miller AM
+AUTHORS - Schilmiller AL
+AUTHORS - Liu X
+AUTHORS - Ofner I
+AUTHORS - Jones AD
+AUTHORS - Zamir D
+AUTHORS - Last RL
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 26715757
+SOURCE - Proc Natl Acad Sci U S A 113(2);E239-48
+TITLE - In vitro reconstruction and analysis of evolutionary variation of the tomato acylsucrose metabolic network.
+YEAR - 2016
+//
+UNIQUE-ID - PUB-8098620
+TYPES - Publications
+AUTHORS - Nikkola M
+AUTHORS - Gleason FK
+AUTHORS - Fuchs JA
+AUTHORS - Eklund H
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 93264420
+PUBMED-ID - 8098620
+SOURCE - Biochemistry 32(19);5093-8
+TITLE - Crystal structure analysis of a mutant Escherichia coli thioredoxin in which lysine 36 is replaced by glutamic acid.
+YEAR - 1993
+//
+UNIQUE-ID - PUB-24021645
+TYPES - Publications
+AUTHORS - Englert M
+AUTHORS - Moses S
+AUTHORS - Hohn M
+AUTHORS - Ling J
+AUTHORS - O'Donoghue P
+AUTHORS - Soll D
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 24021645
+SOURCE - FEBS Lett 587(20);3360-4
+TITLE - Aminoacylation of tRNA 2'- or 3'-hydroxyl by phosphoseryl- and pyrrolysyl-tRNA synthetases.
+YEAR - 2013
+//
+UNIQUE-ID - PUB-3152490
+TYPES - Publications
+AUTHORS - Gleason FK
+AUTHORS - Holmgren A
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 90198521
+PUBMED-ID - 3152490
+SOURCE - FEMS Microbiol Rev 4(4);271-97
+TITLE - Thioredoxin and related proteins in procaryotes.
+YEAR - 1988
+//
+UNIQUE-ID - PUB-1103137
+TYPES - Publications
+AUTHORS - Sprinzl M
+AUTHORS - Cramer F
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1103137
+SOURCE - Proc Natl Acad Sci U S A 72(8);3049-53
+TITLE - Site of aminoacylation of tRNAs from Escherichia coli with respect to the 2'- or 3'-hydroxyl group of the terminal adenosine.
+YEAR - 1975
+//
+UNIQUE-ID - PUB-6378624
+TYPES - Publications
+AUTHORS - Eklund H
+AUTHORS - Cambillau C
+AUTHORS - Sjoberg BM
+AUTHORS - Holmgren A
+AUTHORS - Jornvall H
+AUTHORS - Hoog JO
+AUTHORS - Branden CI
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 84261438
+PUBMED-ID - 6378624
+SOURCE - EMBO J 3(7);1443-9
+TITLE - Conformational and functional similarities between glutaredoxin and thioredoxins.
+YEAR - 1984
+//
+UNIQUE-ID - PUB-11112538
+TYPES - Publications
+AUTHORS - Keating TA
+AUTHORS - Marshall CG
+AUTHORS - Walsh CT
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 11112538
+SOURCE - Biochemistry 39(50);15522-30
+TITLE - Reconstitution and characterization of the Vibrio cholerae vibriobactin synthetase from VibB, VibE, VibF, and VibH.
+YEAR - 2000
+//
+UNIQUE-ID - PUB-COLISALII
+TYPES - Publications
+AUTHORS - Neidhardt FC
+AUTHORS - Curtiss III R
+AUTHORS - Ingraham JL
+AUTHORS - Lin ECC
+AUTHORS - Low Jr KB
+AUTHORS - Magasanik B
+AUTHORS - Reznikoff WS
+AUTHORS - Riley M
+AUTHORS - Schaechter M
+AUTHORS - Umbarger HE
+INSTANCE-NAME-TEMPLATE - PUB--*
+SOURCE - American Society for Microbiology, Washington, D.C., 1996
+TITLE - Escherichia coli and Salmonella, Cellular and Molecular Biology, Second Edition
+//
+UNIQUE-ID - PUB-1702199
+TYPES - Publications
+AUTHORS - Baron C
+AUTHORS - Heider J
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1702199
+SOURCE - Nucleic Acids Res 18(23);6761-6
+TITLE - Mutagenesis of selC, the gene for the selenocysteine-inserting tRNA-species in E. coli: effects on in vivo function.
+YEAR - 1990
+//
+UNIQUE-ID - PUB-7798207
+TYPES - Publications
+AUTHORS - Chen D
+AUTHORS - Swenson RP
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 7798207
+SOURCE - J Biol Chem 269(51);32120-30
+TITLE - Cloning, sequence analysis, and expression of the genes encoding the two subunits of the methylotrophic bacterium W3A1 electron transfer flavoprotein.
+YEAR - 1994
+//
+UNIQUE-ID - PUB-8962055
+TYPES - Publications
+AUTHORS - Roberts DL
+AUTHORS - Frerman FE
+AUTHORS - Kim JJ
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 8962055
+SOURCE - Proc Natl Acad Sci U S A 93(25);14355-60
+TITLE - Three-dimensional structure of human electron transfer flavoprotein to 2.1-A resolution.
+YEAR - 1996
+//
+UNIQUE-ID - PUB-18645197
+TYPES - Publications
+AUTHORS - Jankowski MD
+AUTHORS - Henry CS
+AUTHORS - Broadbelt LJ
+AUTHORS - Hatzimanikatis V
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 18645197
+SOURCE - Biophys J 95(3);1487-99
+TITLE - Group contribution method for thermodynamic analysis of complex metabolic networks.
+YEAR - 2008
+//
+UNIQUE-ID - PUB-14688238
+TYPES - Publications
+AUTHORS - Sato K
+AUTHORS - Nishina Y
+AUTHORS - Shiga K
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 14688238
+SOURCE - J Biochem 134(5);719-29
+TITLE - Purification of electron-transferring flavoprotein from Megasphaera elsdenii and binding of additional FAD with an unusual absorption spectrum.
+YEAR - 2003
+//
+UNIQUE-ID - PUB-1396569
+TYPES - Publications
+AUTHORS - Heider J
+AUTHORS - Baron C
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1396569
+SOURCE - EMBO J 11(10);3759-66
+TITLE - Coding from a distance: dissection of the mRNA determinants required for the incorporation of selenocysteine into protein.
+YEAR - 1992
+//
+UNIQUE-ID - PUB-10026281
+TYPES - Publications
+AUTHORS - Roberts DL
+AUTHORS - Salazar D
+AUTHORS - Fulmer JP
+AUTHORS - Frerman FE
+AUTHORS - Kim JJ
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 10026281
+SOURCE - Biochemistry 38(7);1977-89
+TITLE - Crystal structure of Paracoccus denitrificans electron transfer flavoprotein: structural and electrostatic analysis of a conserved flavin binding domain.
+YEAR - 1999
+//
+UNIQUE-ID - PUB-31588324
+TYPES - Publications
+AUTHORS - Mohamed-Raseek N
+AUTHORS - Duan HD
+AUTHORS - Hildebrandt P
+AUTHORS - Mroginski MA
+AUTHORS - Miller AF
+DOI-ID - 10.1039/c9sc00942f
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 31588324
+SOURCE - Chem Sci 10(33);7762-7772
+TITLE - Spectroscopic, thermodynamic and computational evidence of the locations of the FADs in the nitrogen fixation-associated electron transfer flavoprotein.
+YEAR - 2019
+//
+UNIQUE-ID - PUB-16466637
+TYPES - Publications
+AUTHORS - Park YJ
+AUTHORS - Yoo CB
+AUTHORS - Choi SY
+AUTHORS - Lee HB
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 16466637
+SOURCE - J Biochem Mol Biol 39(1);46-54
+TITLE - Purifications and characterizations of a ferredoxin and its related 2-oxoacid:ferredoxin oxidoreductase from the hyperthermophilic archaeon, Sulfolobus solfataricus P1.
+YEAR - 2006
+//
+UNIQUE-ID - PUB-16923016
+TYPES - Publications
+AUTHORS - Ishizaki K
+AUTHORS - Schauer N
+AUTHORS - Larson TR
+AUTHORS - Graham IA
+AUTHORS - Fernie AR
+AUTHORS - Leaver CJ
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 16923016
+SOURCE - Plant J 47(5);751-60
+TITLE - The mitochondrial electron transfer flavoprotein complex is essential for survival of Arabidopsis in extended darkness.
+YEAR - 2006
+//
+UNIQUE-ID - PUB-12610725
+TYPES - Publications
+AUTHORS - Thamer W
+AUTHORS - Cirpus I
+AUTHORS - Hans M
+AUTHORS - Pierik AJ
+AUTHORS - Selmer T
+AUTHORS - Bill E
+AUTHORS - Linder D
+AUTHORS - Buckel W
+DOI-ID - 10.1007/s00203-003-0517-8
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 12610725
+SOURCE - Arch Microbiol 179(3);197-204
+TITLE - A two [4Fe-4S]-cluster-containing ferredoxin as an alternative electron donor for 2-hydroxyglutaryl-CoA dehydratase from Acidaminococcus fermentans.
+YEAR - 2003
+//
+UNIQUE-ID - PUB-10610791
+TYPES - Publications
+AUTHORS - Drennan CL
+AUTHORS - Pattridge KA
+AUTHORS - Weber CH
+AUTHORS - Metzger AL
+AUTHORS - Hoover DM
+AUTHORS - Ludwig ML
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 10610791
+SOURCE - J Mol Biol 294(3);711-24
+TITLE - Refined structures of oxidized flavodoxin from Anacystis nidulans.
+YEAR - 1999
+//
+UNIQUE-ID - PUB-LI16
+TYPES - Publications
+AUTHORS - Li B
+AUTHORS - Elliott SJ
+DOI-ID - 10.1016/j.electacta.2016.02.119
+INSTANCE-NAME-TEMPLATE - PUB--*
+SOURCE - Electrochimica Acta 199;349-356
+TITLE - The catalytic bias of 2-oxoacid:ferredoxin oxidoreductase in CO<sub>2</sub>: evolution and reduction through a ferredoxin-mediated electrocatalytic assay
+URL - https://linkinghub.elsevier.com/retrieve/pii/S0013468616304133
+YEAR - 2016
+//
+UNIQUE-ID - PUB-11687213
+TYPES - Publications
+AUTHORS - Setif P
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 11687213
+SOURCE - Biochim Biophys Acta 1507(1-3);161-79
+TITLE - Ferredoxin and flavodoxin reduction by photosystem I.
+YEAR - 2001
+//
+UNIQUE-ID - PUB-1587808
+TYPES - Publications
+AUTHORS - Rajagopalan KV
+AUTHORS - Johnson JL
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1587808
+SOURCE - J Biol Chem 267(15);10199-202
+TITLE - The pterin molybdenum cofactors.
+YEAR - 1992
+//
+UNIQUE-ID - PUB-26811191
+TYPES - Publications
+AUTHORS - Schilmiller AL
+AUTHORS - Gilgallon K
+AUTHORS - Ghosh B
+AUTHORS - Jones AD
+AUTHORS - Last RL
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 26811191
+SOURCE - Plant Physiol 170(3);1331-44
+TITLE - Acylsugar Acylhydrolases: Carboxylesterase-Catalyzed Hydrolysis of Acylsugars in Tomato Trichomes.
+YEAR - 2016
+//
+UNIQUE-ID - PUB-16784786
+TYPES - Publications
+AUTHORS - Mendel RR
+AUTHORS - Bittner F
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 16784786
+SOURCE - Biochim Biophys Acta 1763(7);621-35
+TITLE - Cell biology of molybdenum.
+YEAR - 2006
+//
+UNIQUE-ID - PUB-11222605
+TYPES - Publications
+AUTHORS - Kiriukhin MY
+AUTHORS - Neuhaus FC
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 11222605
+SOURCE - J Bacteriol 183(6);2051-8
+TITLE - D-alanylation of lipoteichoic acid: role of the D-alanyl carrier protein in acylation.
+YEAR - 2001
+//
+UNIQUE-ID - PUB-28362257
+TYPES - Publications
+AUTHORS - Pawar KI
+AUTHORS - Suma K
+AUTHORS - Seenivasan A
+AUTHORS - Kuncha SK
+AUTHORS - Routh SB
+AUTHORS - Kruparani SP
+AUTHORS - Sankaranarayanan R
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 28362257
+SOURCE - Elife 6
+TITLE - Role of D-aminoacyl-tRNA deacylase beyond chiral proofreading as a cellular defense against glycine mischarging by AlaRS.
+YEAR - 2017
+//
+UNIQUE-ID - PUB-1939093
+TYPES - Publications
+AUTHORS - Baron C
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1939093
+SOURCE - J Biol Chem 266(30);20375-9
+TITLE - The length of the aminoacyl-acceptor stem of the selenocysteine-specific tRNA(Sec) of Escherichia coli is the determinant for binding to elongation factors SELB or Tu.
+YEAR - 1991
+//
+UNIQUE-ID - PUB-7033244
+TYPES - Publications
+AUTHORS - Siekevitz P
+AUTHORS - Zamecnik PC
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 7033244
+SOURCE - J Cell Biol 91(3 Pt 2);53s-65s
+TITLE - Ribosomes and protein synthesis.
+YEAR - 1981
+//
+UNIQUE-ID - PUB-2963963
+TYPES - Publications
+AUTHORS - Leinfelder W
+AUTHORS - Zehelein E
+AUTHORS - Mandrand-Berthelot MA
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 2963963
+SOURCE - Nature 331(6158);723-5
+TITLE - Gene for a novel tRNA species that accepts L-serine and cotranslationally inserts selenocysteine.
+YEAR - 1988
+//
+UNIQUE-ID - PUB-2531290
+TYPES - Publications
+AUTHORS - Forchhammer K
+AUTHORS - Leinfelder W
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 2531290
+SOURCE - Nature 342(6248);453-6
+TITLE - Identification of a novel translation factor necessary for the incorporation of selenocysteine into protein.
+YEAR - 1989
+//
+UNIQUE-ID - PUB-1826089
+TYPES - Publications
+AUTHORS - Rusnak F
+AUTHORS - Sakaitani M
+AUTHORS - Drueckhammer D
+AUTHORS - Reichert J
+AUTHORS - Walsh CT
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 91175738
+PUBMED-ID - 1826089
+SOURCE - Biochemistry 30(11);2916-27
+TITLE - Biosynthesis of the Escherichia coli siderophore enterobactin: sequence of the entF gene, expression and purification of EntF, and analysis of covalent phosphopantetheine.
+YEAR - 1991
+//
+UNIQUE-ID - PUB-24288371
+TYPES - Publications
+AUTHORS - Finn RD
+AUTHORS - Bateman A
+AUTHORS - Clements J
+AUTHORS - Coggill P
+AUTHORS - Eberhardt RY
+AUTHORS - Eddy SR
+AUTHORS - Heger A
+AUTHORS - Hetherington K
+AUTHORS - Holm L
+AUTHORS - Mistry J
+AUTHORS - Sonnhammer EL
+AUTHORS - Tate J
+AUTHORS - Punta M
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 24288371
+SOURCE - Nucleic Acids Res 42(Database issue);D222-30
+TITLE - Pfam: the protein families database.
+YEAR - 2014
+//
+UNIQUE-ID - PUB-9025288
+TYPES - Publications
+AUTHORS - Hantash FM
+AUTHORS - Ammerlaan M
+AUTHORS - Earhart CF
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 97177782
+PUBMED-ID - 9025288
+SOURCE - Microbiology 143 ( Pt 1);147-56
+TITLE - Enterobactin synthase polypeptides of Escherichia coli are present in an osmotic-shock-sensitive cytoplasmic locality.
+YEAR - 1997
+//
+UNIQUE-ID - PUB-319826
+TYPES - Publications
+AUTHORS - Chinault AC
+AUTHORS - Tan KH
+AUTHORS - Hassur SM
+AUTHORS - Hecht SM
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 319826
+SOURCE - Biochemistry 16(4);766-76
+TITLE - Initial position of aminoacylation of individual Escherichia coli, yeast, and calf liver transfer RNAs.
+YEAR - 1977
+//
+UNIQUE-ID - PUB-22365602
+TYPES - Publications
+AUTHORS - Sundlov JA
+AUTHORS - Shi C
+AUTHORS - Wilson DJ
+AUTHORS - Aldrich CC
+AUTHORS - Gulick AM
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 22365602
+SOURCE - Chem Biol 19(2);188-98
+TITLE - Structural and functional investigation of the intermolecular interaction between NRPS adenylation and carrier protein domains.
+YEAR - 2012
+//
+UNIQUE-ID - PUB-20139989
+TYPES - Publications
+AUTHORS - Ikeuchi Y
+AUTHORS - Kimura S
+AUTHORS - Numata T
+AUTHORS - Nakamura D
+AUTHORS - Yokogawa T
+AUTHORS - Ogata T
+AUTHORS - Wada T
+AUTHORS - Suzuki T
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 20139989
+SOURCE - Nat Chem Biol 6(4);277-82
+TITLE - Agmatine-conjugated cytidine in a tRNA anticodon is essential for AUA decoding in archaea.
+YEAR - 2010
+//
+UNIQUE-ID - PUB-1338974
+TYPES - Publications
+AUTHORS - Reichert J
+AUTHORS - Sakaitani M
+AUTHORS - Walsh CT
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 93278284
+PUBMED-ID - 1338974
+SOURCE - Protein Sci 1(4);549-56
+TITLE - Characterization of EntF as a serine-activating enzyme.
+YEAR - 1992
+//
+UNIQUE-ID - PUB-2524495
+TYPES - Publications
+AUTHORS - Leinfelder W
+AUTHORS - Stadtman TC
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 2524495
+SOURCE - J Biol Chem 264(17);9720-3
+TITLE - Occurrence in vivo of selenocysteyl-tRNA(SERUCA) in Escherichia coli. Effect of sel mutations.
+YEAR - 1989
+//
+UNIQUE-ID - PUB-10688898
+TYPES - Publications
+AUTHORS - Ehmann DE
+AUTHORS - Shaw-Reid CA
+AUTHORS - Losey HC
+AUTHORS - Walsh CT
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 10688898
+SOURCE - Proc Natl Acad Sci U S A 97(6);2509-14
+TITLE - The EntF and EntE adenylation domains of Escherichia coli enterobactin synthetase: sequestration and selectivity in acyl-AMP transfers to thiolation domain cosubstrates.
+YEAR - 2000
+//
+UNIQUE-ID - PUB-21896613
+TYPES - Publications
+AUTHORS - Rother M
+AUTHORS - Rother K
+AUTHORS - Puton T
+AUTHORS - Bujnicki JM
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 21896613
+SOURCE - Brief Bioinform 12(6);601-13
+TITLE - RNA tertiary structure prediction with ModeRNA.
+YEAR - 2011
+//
+UNIQUE-ID - PUB-3040679
+TYPES - Publications
+AUTHORS - Pettis GS
+AUTHORS - McIntosh MA
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 87307997
+PUBMED-ID - 3040679
+SOURCE - J Bacteriol 169(9);4154-62
+TITLE - Molecular characterization of the Escherichia coli enterobactin cistron entF and coupled expression of entF and the fes gene.
+YEAR - 1987
+//
+UNIQUE-ID - PUB-2203971
+TYPES - Publications
+AUTHORS - Eriani G
+AUTHORS - Delarue M
+AUTHORS - Poch O
+AUTHORS - Gangloff J
+AUTHORS - Moras D
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 2203971
+SOURCE - Nature 347(6289);203-6
+TITLE - Partition of tRNA synthetases into two classes based on mutually exclusive sets of sequence motifs.
+YEAR - 1990
+//
+UNIQUE-ID - PUB-8939709
+TYPES - Publications
+AUTHORS - Lambalot RH
+AUTHORS - Gehring AM
+AUTHORS - Flugel RS
+AUTHORS - Zuber P
+AUTHORS - LaCelle M
+AUTHORS - Marahiel MA
+AUTHORS - Reid R
+AUTHORS - Khosla C
+AUTHORS - Walsh CT
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 97144264
+PUBMED-ID - 8939709
+SOURCE - Chem Biol 3(11);923-36
+TITLE - A new enzyme superfamily - the phosphopantetheinyl transferases.
+YEAR - 1996
+//
+UNIQUE-ID - PUB-22002222
+TYPES - Publications
+AUTHORS - Terasaka N
+AUTHORS - Kimura S
+AUTHORS - Osawa T
+AUTHORS - Numata T
+AUTHORS - Suzuki T
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 22002222
+SOURCE - Nat Struct Mol Biol 18(11);1268-74
+TITLE - Biogenesis of 2-agmatinylcytidine catalyzed by the dual protein and RNA kinase TiaS.
+YEAR - 2011
+//
+UNIQUE-ID - PUB-20101632
+TYPES - Publications
+AUTHORS - Hou YM
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 20101632
+SOURCE - IUBMB Life 62(4);251-60
+TITLE - CCA addition to tRNA: implications for tRNA quality control.
+YEAR - 2010
+//
+UNIQUE-ID - PUB-2529478
+TYPES - Publications
+AUTHORS - Schon A
+AUTHORS - Bock A
+AUTHORS - Ott G
+AUTHORS - Sprinzl M
+AUTHORS - Soll D
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 2529478
+SOURCE - Nucleic Acids Res 17(18);7159-65
+TITLE - The selenocysteine-inserting opal suppressor serine tRNA from E. coli is highly unusual in structure and modification.
+YEAR - 1989
+//
+UNIQUE-ID - PUB-2408012
+TYPES - Publications
+AUTHORS - Forster C
+AUTHORS - Ott G
+AUTHORS - Forchhammer K
+AUTHORS - Sprinzl M
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 2408012
+SOURCE - Nucleic Acids Res 18(3);487-91
+TITLE - Interaction of a selenocysteine-incorporating tRNA with elongation factor Tu from E.coli.
+YEAR - 1990
+//
+UNIQUE-ID - PUB-17206069
+TYPES - Publications
+AUTHORS - Sprinzl M
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 17206069
+SOURCE - J Biosci 31(4);489-96
+TITLE - Chemistry of aminoacylation and peptide bond formation on the 3'terminus of tRNA.
+YEAR - 2006
+//
+UNIQUE-ID - PUB-1834670
+TYPES - Publications
+AUTHORS - Berg BL
+AUTHORS - Baron C
+AUTHORS - Stewart V
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1834670
+SOURCE - J Biol Chem 266(33);22386-91
+TITLE - Nitrate-inducible formate dehydrogenase in Escherichia coli K-12. II. Evidence that a mRNA stem-loop structure is essential for decoding opal (UGA) as selenocysteine.
+YEAR - 1991
+//
+UNIQUE-ID - PUB-1839607
+TYPES - Publications
+AUTHORS - Forchhammer K
+AUTHORS - Boesmiller K
+AUTHORS - Bock A
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 1839607
+SOURCE - Biochimie 73(12);1481-6
+TITLE - The function of selenocysteine synthase and SELB in the synthesis and incorporation of selenocysteine.
+YEAR - 1991
+//
+UNIQUE-ID - PUB-2112406
+TYPES - Publications
+AUTHORS - Chattapadhyay R
+AUTHORS - Pelka H
+AUTHORS - Schulman LH
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 2112406
+SOURCE - Biochemistry 29(18);4263-8
+TITLE - Initiation of in vivo protein synthesis with non-methionine amino acids.
+YEAR - 1990
+//
+UNIQUE-ID - PUB-21310715
+TYPES - Publications
+AUTHORS - Werner M
+AUTHORS - Purta E
+AUTHORS - Kaminska KH
+AUTHORS - Cymerman IA
+AUTHORS - Campbell DA
+AUTHORS - Mittra B
+AUTHORS - Zamudio JR
+AUTHORS - Sturm NR
+AUTHORS - Jaworski J
+AUTHORS - Bujnicki JM
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 21310715
+SOURCE - Nucleic Acids Res 39(11);4756-68
+TITLE - 2'-O-ribose methylation of cap2 in human: function and evolution in a horizontally mobile family.
+YEAR - 2011
+//
+UNIQUE-ID - PUB-7882985
+TYPES - Publications
+AUTHORS - Jandrositz A
+AUTHORS - Guthrie C
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 7882985
+SOURCE - EMBO J 14(4);820-32
+TITLE - Evidence for a Prp24 binding site in U6 snRNA and in a putative intermediate in the annealing of U6 and U4 snRNAs.
+YEAR - 1995
+//
+UNIQUE-ID - PUB-LATENDRESSE2013
+TYPES - Publications
+AUTHORS - Latendresse M.
+INSTANCE-NAME-TEMPLATE - PUB--*
+TITLE - Computing Gibbs Free Energy of Compounds and Reactions in MetaCyc.
+URL - http://www.biocyc.org/PGDBConceptsGuide.shtml#gibbs
+YEAR - 2013
+//
+UNIQUE-ID - PUB-3041282
+TYPES - Publications
+AUTHORS - Brow DA
+AUTHORS - Guthrie C
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 3041282
+SOURCE - Nature 334(6179);213-8
+TITLE - Spliceosomal RNA U6 is remarkably conserved from yeast to mammals.
+YEAR - 1988
+//
+UNIQUE-ID - PUB-18059524
+TYPES - Publications
+AUTHORS - Byers DM
+AUTHORS - Gong H
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 18059524
+SOURCE - Biochem Cell Biol 85(6);649-62
+TITLE - Acyl carrier protein: structure-function relationships in a conserved multifunctional protein family.
+YEAR - 2007
+//
+UNIQUE-ID - PUB-8510147
+TYPES - Publications
+AUTHORS - Baron C
+AUTHORS - Westhof E
+AUTHORS - Bock A
+AUTHORS - Giege R
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 8510147
+SOURCE - J Mol Biol 231(2);274-92
+TITLE - Solution structure of selenocysteine-inserting tRNA(Sec) from Escherichia coli. Comparison with canonical tRNA(Ser).
+YEAR - 1993
+//
+UNIQUE-ID - PUB-2187529
+TYPES - Publications
+AUTHORS - Gleason FK
+AUTHORS - Lim CJ
+AUTHORS - Gerami-Nejad M
+AUTHORS - Fuchs JA
+INSTANCE-NAME-TEMPLATE - PUB--*
+MEDLINE-UID - 90254096
+PUBMED-ID - 2187529
+SOURCE - Biochemistry 29(15);3701-9
+TITLE - Characterization of Escherichia coli thioredoxins with altered active site residues.
+YEAR - 1990
+//
+UNIQUE-ID - PUB-23054567
+TYPES - Publications
+AUTHORS - Kim J
+AUTHORS - Kang K
+AUTHORS - Gonzales-Vigil E
+AUTHORS - Shi F
+AUTHORS - Jones AD
+AUTHORS - Barry CS
+AUTHORS - Last RL
+INSTANCE-NAME-TEMPLATE - PUB--*
+PUBMED-ID - 23054567
+SOURCE - Plant Physiol 160(4);1854-70
+TITLE - Striking natural diversity in glandular trichome acylsugar composition is shaped by variation at the Acyltransferase2 locus in the wild tomato Solanum habrochaites.
+YEAR - 2012
+//
