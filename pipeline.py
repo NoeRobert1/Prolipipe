@@ -99,7 +99,7 @@ def main() :
     parser.add_option("--ptsi",dest="ptsi", help="Name of the singularity image.")
     parser.add_option("--pwy",dest="pwy_fold", help="Path to the folder with the pathways.txt files for all wanted metabolites.")
     parser.add_option("--strain",dest="strain", help="Path to the strains file.")
-    parser.add_option("--annot",dest="annot",help="Annotation tool. 'prokka' by default, can choose 'eggnog' or 'bakta'.")
+    parser.add_option("--annot",dest="annot",help="Annotation tool to use. 'prokka' by default, can choose 'eggnog' or 'bakta'.")
     parser.add_option("--egg_path",dest="egg_path",help="Path to the eggnog database, mandatory if you want to use eggnog as the annotation tool.")
     parser.add_option("--bak_path",dest="bak_path",help="Path to the bakta database, mandatory if you want to use bakta as the annotation tool.")
     parser.add_option("-r","--rename",action="store_true",dest="rename", help="Renames of the strains with abreviations.")
@@ -295,7 +295,9 @@ def main() :
     for name in files :
         bigprint("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
         os.system("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
-    
+
+        
+
     #-------------------------------------------------------
         # COMPARE THE .padmet FILES
     #------------------------------------------------------- 
