@@ -1,0 +1,36 @@
+# 
+#
+# Authors:
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /scratch/norobert/data/run_mpwt/ptools-local/pgdbs/user/st_thermophilus_cbc-s77_scyc/1.0/data/terminators.dat
+#
+# Organism: Streptococcus thermophilus
+# Database: NIL
+# Version: 1.0
+# Date and time generated: October 24, 2023, 14:09:20
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    LEFT-END-POSITION
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    RIGHT-END-POSITION
+#    SYNONYMS
+#    UNMAPPED-COMPONENT-OF
+#
+# The ST_THERMOPHILUS_CBC-S77_S database contains no Terminators.

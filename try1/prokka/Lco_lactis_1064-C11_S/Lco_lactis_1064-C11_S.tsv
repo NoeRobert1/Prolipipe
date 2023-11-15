@@ -1,0 +1,4781 @@
+locus_tag	ftype	gene	EC_number	product
+PPHIGDPK_00001	CDS	coiA	Competence protein CoiA
+PPHIGDPK_00001	gene	coiA
+PPHIGDPK_00002	CDS	hypothetical protein
+PPHIGDPK_00002	gene
+PPHIGDPK_00003	CDS	hypothetical protein
+PPHIGDPK_00003	gene
+PPHIGDPK_00004	CDS	pbuO	Guanine/hypoxanthine permease PbuO
+PPHIGDPK_00004	gene	pbuO
+PPHIGDPK_00005	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+PPHIGDPK_00005	gene	yitU
+PPHIGDPK_00006	CDS	lutA	Lactate utilization protein A
+PPHIGDPK_00006	gene	lutA
+PPHIGDPK_00007	CDS	lutB	Lactate utilization protein B
+PPHIGDPK_00007	gene	lutB
+PPHIGDPK_00008	CDS	lutC	Lactate utilization protein C
+PPHIGDPK_00008	gene	lutC
+PPHIGDPK_00009	CDS	ybhL	Inner membrane protein YbhL
+PPHIGDPK_00009	gene	ybhL
+PPHIGDPK_00010	CDS	dagK_1	2.7.1.107	Diacylglycerol kinase
+PPHIGDPK_00010	gene	dagK_1
+PPHIGDPK_00011	CDS	rny_1	3.1.-.-	Ribonuclease Y
+PPHIGDPK_00011	gene	rny_1
+PPHIGDPK_00012	CDS	rpsT	30S ribosomal protein S20
+PPHIGDPK_00012	gene	rpsT
+PPHIGDPK_00013	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+PPHIGDPK_00013	gene	recD2
+PPHIGDPK_00014	CDS	pspB_1	3.1.3.3	Putative phosphoserine phosphatase 2
+PPHIGDPK_00014	gene	pspB_1
+PPHIGDPK_00015	CDS	pheA	4.2.1.51	Prephenate dehydratase
+PPHIGDPK_00015	gene	pheA
+PPHIGDPK_00016	CDS	aroK_1	2.7.1.71	Shikimate kinase
+PPHIGDPK_00016	gene	aroK_1
+PPHIGDPK_00017	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+PPHIGDPK_00017	gene	aroA
+PPHIGDPK_00018	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+PPHIGDPK_00018	gene	tyrA
+PPHIGDPK_00019	CDS	graS	2.7.13.3	Sensor histidine kinase GraS
+PPHIGDPK_00019	gene	graS
+PPHIGDPK_00020	CDS	graR	Response regulator protein GraR
+PPHIGDPK_00020	gene	graR
+PPHIGDPK_00021	CDS	hypothetical protein
+PPHIGDPK_00021	gene
+PPHIGDPK_00022	CDS	bceB	Bacitracin export permease protein BceB
+PPHIGDPK_00022	gene	bceB
+PPHIGDPK_00023	CDS	yxdL	ABC transporter ATP-binding protein YxdL
+PPHIGDPK_00023	gene	yxdL
+PPHIGDPK_00024	CDS	hypothetical protein
+PPHIGDPK_00024	gene
+PPHIGDPK_00025	CDS	hypothetical protein
+PPHIGDPK_00025	gene
+PPHIGDPK_00026	CDS	aroC	4.2.3.5	Chorismate synthase
+PPHIGDPK_00026	gene	aroC
+PPHIGDPK_00027	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+PPHIGDPK_00027	gene	ppaX
+PPHIGDPK_00028	CDS	hypothetical protein
+PPHIGDPK_00028	gene
+PPHIGDPK_00029	CDS	hypothetical protein
+PPHIGDPK_00029	gene
+PPHIGDPK_00030	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+PPHIGDPK_00030	gene	aroB
+PPHIGDPK_00031	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+PPHIGDPK_00031	gene	aroE
+PPHIGDPK_00032	CDS	putative membrane protein
+PPHIGDPK_00032	gene
+PPHIGDPK_00033	CDS	glnP	Glutamine transport system permease protein GlnP
+PPHIGDPK_00033	gene	glnP
+PPHIGDPK_00034	CDS	artM_1	Arginine transport ATP-binding protein ArtM
+PPHIGDPK_00034	gene	artM_1
+PPHIGDPK_00035	CDS	hypothetical protein
+PPHIGDPK_00035	gene
+PPHIGDPK_00036	CDS	hypothetical protein
+PPHIGDPK_00036	gene
+PPHIGDPK_00037	CDS	atpC	ATP synthase epsilon chain
+PPHIGDPK_00037	gene	atpC
+PPHIGDPK_00038	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+PPHIGDPK_00038	gene	atpD
+PPHIGDPK_00039	CDS	atpG	ATP synthase gamma chain
+PPHIGDPK_00039	gene	atpG
+PPHIGDPK_00040	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+PPHIGDPK_00040	gene	atpA
+PPHIGDPK_00041	CDS	atpH	ATP synthase subunit delta
+PPHIGDPK_00041	gene	atpH
+PPHIGDPK_00042	CDS	atpF	ATP synthase subunit b
+PPHIGDPK_00042	gene	atpF
+PPHIGDPK_00043	CDS	atpB	ATP synthase subunit a
+PPHIGDPK_00043	gene	atpB
+PPHIGDPK_00044	CDS	atpE	ATP synthase subunit c
+PPHIGDPK_00044	gene	atpE
+PPHIGDPK_00045	CDS	frmB	3.1.2.12	S-formylglutathione hydrolase FrmB
+PPHIGDPK_00045	gene	frmB
+PPHIGDPK_00046	CDS	comEC	ComE operon protein 3
+PPHIGDPK_00046	gene	comEC
+PPHIGDPK_00047	CDS	comEA	ComE operon protein 1
+PPHIGDPK_00047	gene	comEA
+PPHIGDPK_00048	CDS	hypothetical protein
+PPHIGDPK_00048	gene
+PPHIGDPK_00049	CDS	natA_1	ABC transporter ATP-binding protein NatA
+PPHIGDPK_00049	gene	natA_1
+PPHIGDPK_00050	CDS	hypothetical protein
+PPHIGDPK_00050	gene
+PPHIGDPK_00051	CDS	pat	2.3.1.183	Phosphinothricin N-acetyltransferase
+PPHIGDPK_00051	gene	pat
+PPHIGDPK_00052	CDS	ybiR_1	Inner membrane protein YbiR
+PPHIGDPK_00052	gene	ybiR_1
+PPHIGDPK_00053	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+PPHIGDPK_00053	gene	tenA
+PPHIGDPK_00054	CDS	birA_1	6.3.4.15	Bifunctional ligase/repressor BirA
+PPHIGDPK_00054	gene	birA_1
+PPHIGDPK_00055	CDS	bioY	Biotin transporter BioY
+PPHIGDPK_00055	gene	bioY
+PPHIGDPK_00056	CDS	yhfT	6.2.1.-	putative acyl--CoA ligase YhfT
+PPHIGDPK_00056	gene	yhfT
+PPHIGDPK_00057	CDS	2.3.1.9	putative acetyl-CoA acyltransferase
+PPHIGDPK_00057	gene
+PPHIGDPK_00058	CDS	hypothetical protein
+PPHIGDPK_00058	gene
+PPHIGDPK_00059	CDS	hypothetical protein
+PPHIGDPK_00059	gene
+PPHIGDPK_00060	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PPHIGDPK_00060	gene	fabG_1
+PPHIGDPK_00061	CDS	1.13.12.16	Nitronate monooxygenase
+PPHIGDPK_00061	gene
+PPHIGDPK_00062	CDS	sufB_1	FeS cluster assembly protein SufB
+PPHIGDPK_00062	gene	sufB_1
+PPHIGDPK_00063	CDS	iscU	Iron-sulfur cluster assembly scaffold protein IscU
+PPHIGDPK_00063	gene	iscU
+PPHIGDPK_00064	CDS	hypothetical protein
+PPHIGDPK_00064	gene
+PPHIGDPK_00065	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+PPHIGDPK_00065	gene	sufS
+PPHIGDPK_00066	CDS	sufB_2	FeS cluster assembly protein SufB
+PPHIGDPK_00066	gene	sufB_2
+PPHIGDPK_00067	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_00067	gene
+PPHIGDPK_00068	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+PPHIGDPK_00068	gene	tagO
+PPHIGDPK_00069	CDS	mecA	Adapter protein MecA
+PPHIGDPK_00069	gene	mecA
+PPHIGDPK_00070	CDS	artM_2	Arginine transport ATP-binding protein ArtM
+PPHIGDPK_00070	gene	artM_2
+PPHIGDPK_00071	CDS	artQ	Arginine transport system permease protein ArtQ
+PPHIGDPK_00071	gene	artQ
+PPHIGDPK_00072	CDS	ytlR	2.7.1.-	Putative lipid kinase YtlR
+PPHIGDPK_00072	gene	ytlR
+PPHIGDPK_00073	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+PPHIGDPK_00073	gene	rpoC
+PPHIGDPK_00074	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+PPHIGDPK_00074	gene	rpoB
+PPHIGDPK_00075	CDS	codY_1	GTP-sensing transcriptional pleiotropic repressor CodY
+PPHIGDPK_00075	gene	codY_1
+PPHIGDPK_00076	CDS	hypothetical protein
+PPHIGDPK_00076	gene
+PPHIGDPK_00077	CDS	pepO_1	3.4.24.-	Neutral endopeptidase
+PPHIGDPK_00077	gene	pepO_1
+PPHIGDPK_00078	CDS	atl	DNA base-flipping protein
+PPHIGDPK_00078	gene	atl
+PPHIGDPK_00079	CDS	murJ	Lipid II flippase MurJ
+PPHIGDPK_00079	gene	murJ
+PPHIGDPK_00080	CDS	murE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+PPHIGDPK_00080	gene	murE
+PPHIGDPK_00081	CDS	hypothetical protein
+PPHIGDPK_00081	gene
+PPHIGDPK_00082	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+PPHIGDPK_00082	gene	adh
+PPHIGDPK_00083	CDS	recQ	3.6.4.12	ATP-dependent DNA helicase RecQ
+PPHIGDPK_00083	gene	recQ
+PPHIGDPK_00084	CDS	yjeM	Inner membrane transporter YjeM
+PPHIGDPK_00084	gene	yjeM
+PPHIGDPK_00085	CDS	pepT	3.4.11.4	Peptidase T
+PPHIGDPK_00085	gene	pepT
+PPHIGDPK_00086	CDS	hypothetical protein
+PPHIGDPK_00086	gene
+PPHIGDPK_00087	CDS	ppaC	3.6.1.1	putative manganese-dependent inorganic pyrophosphatase
+PPHIGDPK_00087	gene	ppaC
+PPHIGDPK_00088	CDS	pflA	1.97.1.4	Pyruvate formate-lyase 1-activating enzyme
+PPHIGDPK_00088	gene	pflA
+PPHIGDPK_00089	CDS	corC	Magnesium and cobalt efflux protein CorC
+PPHIGDPK_00089	gene	corC
+PPHIGDPK_00090	CDS	hypothetical protein
+PPHIGDPK_00090	gene
+PPHIGDPK_00091	tRNA	tRNA-Leu(taa)
+PPHIGDPK_00091	gene
+PPHIGDPK_00092	CDS	hypothetical protein
+PPHIGDPK_00092	gene
+PPHIGDPK_00093	CDS	hypothetical protein
+PPHIGDPK_00093	gene
+PPHIGDPK_00094	CDS	hypothetical protein
+PPHIGDPK_00094	gene
+PPHIGDPK_00095	CDS	hypothetical protein
+PPHIGDPK_00095	gene
+PPHIGDPK_00096	CDS	hypothetical protein
+PPHIGDPK_00096	gene
+PPHIGDPK_00097	CDS	hypothetical protein
+PPHIGDPK_00097	gene
+PPHIGDPK_00098	CDS	hypothetical protein
+PPHIGDPK_00098	gene
+PPHIGDPK_00099	CDS	xerD_1	Tyrosine recombinase XerD
+PPHIGDPK_00099	gene	xerD_1
+PPHIGDPK_00100	CDS	xerC_1	Tyrosine recombinase XerC
+PPHIGDPK_00100	gene	xerC_1
+PPHIGDPK_00101	CDS	2.3.1.-	Acetyltransferase
+PPHIGDPK_00101	gene
+PPHIGDPK_00102	CDS	endA	3.1.30.-	DNA-entry nuclease
+PPHIGDPK_00102	gene	endA
+PPHIGDPK_00103	CDS	hypothetical protein
+PPHIGDPK_00103	gene
+PPHIGDPK_00104	CDS	hypothetical protein
+PPHIGDPK_00104	gene
+PPHIGDPK_00105	CDS	hypothetical protein
+PPHIGDPK_00105	gene
+PPHIGDPK_00106	CDS	hypothetical protein
+PPHIGDPK_00106	gene
+PPHIGDPK_00107	CDS	hypothetical protein
+PPHIGDPK_00107	gene
+PPHIGDPK_00108	CDS	hypothetical protein
+PPHIGDPK_00108	gene
+PPHIGDPK_00109	CDS	hypothetical protein
+PPHIGDPK_00109	gene
+PPHIGDPK_00110	CDS	hypothetical protein
+PPHIGDPK_00110	gene
+PPHIGDPK_00111	CDS	hypothetical protein
+PPHIGDPK_00111	gene
+PPHIGDPK_00112	CDS	uvrA	UvrABC system protein A
+PPHIGDPK_00112	gene	uvrA
+PPHIGDPK_00113	CDS	hypothetical protein
+PPHIGDPK_00113	gene
+PPHIGDPK_00114	CDS	pspB_2	3.1.3.3	Putative phosphoserine phosphatase 2
+PPHIGDPK_00114	gene	pspB_2
+PPHIGDPK_00115	CDS	hypothetical protein
+PPHIGDPK_00115	gene
+PPHIGDPK_00116	CDS	yvbW_1	putative amino acid permease YvbW
+PPHIGDPK_00116	gene	yvbW_1
+PPHIGDPK_00117	CDS	yceM	1.-.-.-	Putative oxidoreductase YceM
+PPHIGDPK_00117	gene	yceM
+PPHIGDPK_00118	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+PPHIGDPK_00118	gene	thiN
+PPHIGDPK_00119	CDS	hypothetical protein
+PPHIGDPK_00119	gene
+PPHIGDPK_00120	CDS	hypothetical protein
+PPHIGDPK_00120	gene
+PPHIGDPK_00121	CDS	hypothetical protein
+PPHIGDPK_00121	gene
+PPHIGDPK_00122	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+PPHIGDPK_00122	gene	asnS
+PPHIGDPK_00123	CDS	hypothetical protein
+PPHIGDPK_00123	gene
+PPHIGDPK_00124	CDS	2.6.1.1	Aspartate aminotransferase
+PPHIGDPK_00124	gene
+PPHIGDPK_00125	CDS	hypothetical protein
+PPHIGDPK_00125	gene
+PPHIGDPK_00126	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+PPHIGDPK_00126	gene	dinG
+PPHIGDPK_00127	CDS	Putative universal stress protein
+PPHIGDPK_00127	gene
+PPHIGDPK_00128	CDS	tlyC	Hemolysin C
+PPHIGDPK_00128	gene	tlyC
+PPHIGDPK_00129	CDS	3.5.1.11	Penicillin acylase
+PPHIGDPK_00129	gene
+PPHIGDPK_00130	CDS	kdpC	Potassium-transporting ATPase KdpC subunit
+PPHIGDPK_00130	gene	kdpC
+PPHIGDPK_00131	CDS	kdpB	3.6.3.12	Potassium-transporting ATPase ATP-binding subunit
+PPHIGDPK_00131	gene	kdpB
+PPHIGDPK_00132	CDS	kdpA	Potassium-transporting ATPase potassium-binding subunit
+PPHIGDPK_00132	gene	kdpA
+PPHIGDPK_00133	CDS	hypothetical protein
+PPHIGDPK_00133	gene
+PPHIGDPK_00134	CDS	kdpE	Transcriptional regulatory protein KdpE
+PPHIGDPK_00134	gene	kdpE
+PPHIGDPK_00135	CDS	kdpD	2.7.13.3	Sensor protein KdpD
+PPHIGDPK_00135	gene	kdpD
+PPHIGDPK_00136	CDS	sraP_1	Serine-rich adhesin for platelets
+PPHIGDPK_00136	gene	sraP_1
+PPHIGDPK_00137	CDS	ssp5	Agglutinin receptor
+PPHIGDPK_00137	gene	ssp5
+PPHIGDPK_00138	CDS	alsS	2.2.1.6	Acetolactate synthase
+PPHIGDPK_00138	gene	alsS
+PPHIGDPK_00139	CDS	lapB	Lipopolysaccharide assembly protein B
+PPHIGDPK_00139	gene	lapB
+PPHIGDPK_00140	CDS	tqsA	AI-2 transport protein TqsA
+PPHIGDPK_00140	gene	tqsA
+PPHIGDPK_00141	CDS	ycgJ_1	2.1.1.-	putative methyltransferase YcgJ
+PPHIGDPK_00141	gene	ycgJ_1
+PPHIGDPK_00142	CDS	hypothetical protein
+PPHIGDPK_00142	gene
+PPHIGDPK_00143	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PPHIGDPK_00143	gene	rlmCD_1
+PPHIGDPK_00144	CDS	hypothetical protein
+PPHIGDPK_00144	gene
+PPHIGDPK_00145	CDS	rpiR	HTH-type transcriptional regulator RpiR
+PPHIGDPK_00145	gene	rpiR
+PPHIGDPK_00146	CDS	nanE	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+PPHIGDPK_00146	gene	nanE
+PPHIGDPK_00147	CDS	ctpE_1	3.6.3.-	putative cation-transporting ATPase E
+PPHIGDPK_00147	gene	ctpE_1
+PPHIGDPK_00148	CDS	clsA_1	2.7.8.-	Major cardiolipin synthase ClsA
+PPHIGDPK_00148	gene	clsA_1
+PPHIGDPK_00149	CDS	hypothetical protein
+PPHIGDPK_00149	gene
+PPHIGDPK_00150	CDS	hypothetical protein
+PPHIGDPK_00150	gene
+PPHIGDPK_00151	CDS	hypothetical protein
+PPHIGDPK_00151	gene
+PPHIGDPK_00152	CDS	hypothetical protein
+PPHIGDPK_00152	gene
+PPHIGDPK_00153	CDS	hypothetical protein
+PPHIGDPK_00153	gene
+PPHIGDPK_00154	CDS	hypothetical protein
+PPHIGDPK_00154	gene
+PPHIGDPK_00155	CDS	fom3	2.1.1.308	2-hydroxyethylphosphonate methyltransferase
+PPHIGDPK_00155	gene	fom3
+PPHIGDPK_00156	CDS	hypothetical protein
+PPHIGDPK_00156	gene
+PPHIGDPK_00157	CDS	potD	Spermidine/putrescine-binding periplasmic protein
+PPHIGDPK_00157	gene	potD
+PPHIGDPK_00158	CDS	ydcV	Inner membrane ABC transporter permease protein YdcV
+PPHIGDPK_00158	gene	ydcV
+PPHIGDPK_00159	CDS	potB	Spermidine/putrescine transport system permease protein PotB
+PPHIGDPK_00159	gene	potB
+PPHIGDPK_00160	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+PPHIGDPK_00160	gene	potA
+PPHIGDPK_00161	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+PPHIGDPK_00161	gene	murB
+PPHIGDPK_00162	CDS	niaX	Niacin transporter NiaX
+PPHIGDPK_00162	gene	niaX
+PPHIGDPK_00163	CDS	thrB_1	2.7.1.39	Homoserine kinase
+PPHIGDPK_00163	gene	thrB_1
+PPHIGDPK_00164	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+PPHIGDPK_00164	gene	hom
+PPHIGDPK_00165	CDS	2.7.1.113	Deoxyguanosine kinase
+PPHIGDPK_00165	gene
+PPHIGDPK_00166	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+PPHIGDPK_00166	gene	fpgS
+PPHIGDPK_00167	CDS	folQ	3.6.1.-	putative DHNTP pyrophosphohydrolase
+PPHIGDPK_00167	gene	folQ
+PPHIGDPK_00168	CDS	folP	2.5.1.15	Dihydropteroate synthase
+PPHIGDPK_00168	gene	folP
+PPHIGDPK_00169	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+PPHIGDPK_00169	gene	folE
+PPHIGDPK_00170	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+PPHIGDPK_00170	gene	folB
+PPHIGDPK_00171	CDS	engB	putative GTP-binding protein EngB
+PPHIGDPK_00171	gene	engB
+PPHIGDPK_00172	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+PPHIGDPK_00172	gene	clpX
+PPHIGDPK_00173	CDS	hypothetical protein
+PPHIGDPK_00173	gene
+PPHIGDPK_00174	CDS	dhfR	1.5.1.3	Dihydrofolate reductase
+PPHIGDPK_00174	gene	dhfR
+PPHIGDPK_00175	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+PPHIGDPK_00175	gene	trmL
+PPHIGDPK_00176	CDS	hypothetical protein
+PPHIGDPK_00176	gene
+PPHIGDPK_00177	CDS	pucK	Uric acid permease PucK
+PPHIGDPK_00177	gene	pucK
+PPHIGDPK_00178	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+PPHIGDPK_00178	gene	xpt
+PPHIGDPK_00179	CDS	guaC	1.7.1.7	GMP reductase
+PPHIGDPK_00179	gene	guaC
+PPHIGDPK_00180	CDS	hypothetical protein
+PPHIGDPK_00180	gene
+PPHIGDPK_00181	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+PPHIGDPK_00181	gene	yutF
+PPHIGDPK_00182	CDS	hypothetical protein
+PPHIGDPK_00182	gene
+PPHIGDPK_00183	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+PPHIGDPK_00183	gene	tadA_1
+PPHIGDPK_00184	CDS	hypothetical protein
+PPHIGDPK_00184	gene
+PPHIGDPK_00185	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+PPHIGDPK_00185	gene	hemN
+PPHIGDPK_00186	CDS	hypothetical protein
+PPHIGDPK_00186	gene
+PPHIGDPK_00187	CDS	hypothetical protein
+PPHIGDPK_00187	gene
+PPHIGDPK_00188	CDS	hypothetical protein
+PPHIGDPK_00188	gene
+PPHIGDPK_00189	CDS	3.5.1.11	Penicillin acylase
+PPHIGDPK_00189	gene
+PPHIGDPK_00190	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+PPHIGDPK_00190	gene	tpiA
+PPHIGDPK_00191	CDS	ybbH_1	putative HTH-type transcriptional regulator YbbH
+PPHIGDPK_00191	gene	ybbH_1
+PPHIGDPK_00192	CDS	PTS system EIIBC component
+PPHIGDPK_00192	gene
+PPHIGDPK_00193	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+PPHIGDPK_00193	gene	murQ
+PPHIGDPK_00194	CDS	hypothetical protein
+PPHIGDPK_00194	gene
+PPHIGDPK_00195	CDS	ldh	1.1.1.27	L-lactate dehydrogenase
+PPHIGDPK_00195	gene	ldh
+PPHIGDPK_00196	CDS	ribF	Riboflavin biosynthesis protein RibF
+PPHIGDPK_00196	gene	ribF
+PPHIGDPK_00197	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+PPHIGDPK_00197	gene	truB
+PPHIGDPK_00198	CDS	hypothetical protein
+PPHIGDPK_00198	gene
+PPHIGDPK_00199	CDS	fccA	1.3.5.4	Fumarate reductase flavoprotein subunit
+PPHIGDPK_00199	gene	fccA
+PPHIGDPK_00200	CDS	hypothetical protein
+PPHIGDPK_00200	gene
+PPHIGDPK_00201	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+PPHIGDPK_00201	gene	tag
+PPHIGDPK_00202	CDS	nudC	3.6.1.22	NADH pyrophosphatase
+PPHIGDPK_00202	gene	nudC
+PPHIGDPK_00203	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+PPHIGDPK_00203	gene	pcrA
+PPHIGDPK_00204	CDS	hypothetical protein
+PPHIGDPK_00204	gene
+PPHIGDPK_00205	CDS	hypothetical protein
+PPHIGDPK_00205	gene
+PPHIGDPK_00206	CDS	lysX	Lysylphosphatidylglycerol biosynthesis bifunctional protein LysX
+PPHIGDPK_00206	gene	lysX
+PPHIGDPK_00207	CDS	hypothetical protein
+PPHIGDPK_00207	gene
+PPHIGDPK_00208	CDS	hypothetical protein
+PPHIGDPK_00208	gene
+PPHIGDPK_00209	CDS	apbE_1	2.7.1.180	FAD:protein FMN transferase
+PPHIGDPK_00209	gene	apbE_1
+PPHIGDPK_00210	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+PPHIGDPK_00210	gene	gyrA
+PPHIGDPK_00211	CDS	ycaM	Inner membrane transporter YcaM
+PPHIGDPK_00211	gene	ycaM
+PPHIGDPK_00212	CDS	yhfK	4.-.-.-	putative sugar epimerase YhfK
+PPHIGDPK_00212	gene	yhfK
+PPHIGDPK_00213	CDS	lepA	3.6.5.-	Elongation factor 4
+PPHIGDPK_00213	gene	lepA
+PPHIGDPK_00214	CDS	aldC_1	4.1.1.5	Alpha-acetolactate decarboxylase
+PPHIGDPK_00214	gene	aldC_1
+PPHIGDPK_00215	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PPHIGDPK_00215	gene	murF_1
+PPHIGDPK_00216	CDS	cobQ	Cobyric acid synthase
+PPHIGDPK_00216	gene	cobQ
+PPHIGDPK_00217	CDS	hypothetical protein
+PPHIGDPK_00217	gene
+PPHIGDPK_00218	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_00218	gene
+PPHIGDPK_00219	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+PPHIGDPK_00219	gene	nadE
+PPHIGDPK_00220	CDS	wecD	2.3.1.210	dTDP-fucosamine acetyltransferase
+PPHIGDPK_00220	gene	wecD
+PPHIGDPK_00221	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+PPHIGDPK_00221	gene	pncB2
+PPHIGDPK_00222	CDS	hypothetical protein
+PPHIGDPK_00222	gene
+PPHIGDPK_00223	CDS	nadD_1	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+PPHIGDPK_00223	gene	nadD_1
+PPHIGDPK_00224	CDS	eriC	Chloride/fluoride channel protein
+PPHIGDPK_00224	gene	eriC
+PPHIGDPK_00225	CDS	hypothetical protein
+PPHIGDPK_00225	gene
+PPHIGDPK_00226	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+PPHIGDPK_00226	gene	glyS
+PPHIGDPK_00227	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+PPHIGDPK_00227	gene	glyQ
+PPHIGDPK_00228	CDS	yfkN_1	Trifunctional nucleotide phosphoesterase protein YfkN
+PPHIGDPK_00228	gene	yfkN_1
+PPHIGDPK_00229	CDS	hypothetical protein
+PPHIGDPK_00229	gene
+PPHIGDPK_00230	CDS	hypothetical protein
+PPHIGDPK_00230	gene
+PPHIGDPK_00231	CDS	yigZ	IMPACT family member YigZ
+PPHIGDPK_00231	gene	yigZ
+PPHIGDPK_00232	CDS	comFA	3.6.4.12	ComF operon protein 1
+PPHIGDPK_00232	gene	comFA
+PPHIGDPK_00233	CDS	hypothetical protein
+PPHIGDPK_00233	gene
+PPHIGDPK_00234	CDS	hypothetical protein
+PPHIGDPK_00234	gene
+PPHIGDPK_00235	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+PPHIGDPK_00235	gene	dgkA
+PPHIGDPK_00236	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+PPHIGDPK_00236	gene	ybeY
+PPHIGDPK_00237	CDS	nudI	3.6.1.9	Nucleoside triphosphatase NudI
+PPHIGDPK_00237	gene	nudI
+PPHIGDPK_00238	CDS	PhoH-like protein
+PPHIGDPK_00238	gene
+PPHIGDPK_00239	CDS	mntH_1	Divalent metal cation transporter MntH
+PPHIGDPK_00239	gene	mntH_1
+PPHIGDPK_00240	CDS	rpmA	50S ribosomal protein L27
+PPHIGDPK_00240	gene	rpmA
+PPHIGDPK_00241	CDS	hypothetical protein
+PPHIGDPK_00241	gene
+PPHIGDPK_00242	CDS	rplU	50S ribosomal protein L21
+PPHIGDPK_00242	gene	rplU
+PPHIGDPK_00243	CDS	hypothetical protein
+PPHIGDPK_00243	gene
+PPHIGDPK_00244	CDS	hypothetical protein
+PPHIGDPK_00244	gene
+PPHIGDPK_00245	CDS	hypothetical protein
+PPHIGDPK_00245	gene
+PPHIGDPK_00246	CDS	3.1.3.-	Putative phosphatase
+PPHIGDPK_00246	gene
+PPHIGDPK_00247	CDS	hypothetical protein
+PPHIGDPK_00247	gene
+PPHIGDPK_00248	CDS	GTP cyclohydrolase 1 type 2 
+PPHIGDPK_00248	gene
+PPHIGDPK_00249	CDS	trmK	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+PPHIGDPK_00249	gene	trmK
+PPHIGDPK_00250	CDS	nth	4.2.99.18	Endonuclease III
+PPHIGDPK_00250	gene	nth
+PPHIGDPK_00251	CDS	dnaD	DNA replication protein DnaD
+PPHIGDPK_00251	gene	dnaD
+PPHIGDPK_00252	CDS	hypothetical protein
+PPHIGDPK_00252	gene
+PPHIGDPK_00253	CDS	pyrC	3.5.2.3	Dihydroorotase
+PPHIGDPK_00253	gene	pyrC
+PPHIGDPK_00254	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+PPHIGDPK_00254	gene	pyrE
+PPHIGDPK_00255	CDS	hypothetical protein
+PPHIGDPK_00255	gene
+PPHIGDPK_00256	CDS	hypothetical protein
+PPHIGDPK_00256	gene
+PPHIGDPK_00257	CDS	hypothetical protein
+PPHIGDPK_00257	gene
+PPHIGDPK_00258	CDS	hypothetical protein
+PPHIGDPK_00258	gene
+PPHIGDPK_00259	CDS	hypothetical protein
+PPHIGDPK_00259	gene
+PPHIGDPK_00260	CDS	ettA_1	Energy-dependent translational throttle protein EttA
+PPHIGDPK_00260	gene	ettA_1
+PPHIGDPK_00261	CDS	spxA_1	Regulatory protein Spx
+PPHIGDPK_00261	gene	spxA_1
+PPHIGDPK_00262	CDS	rex	Redox-sensing transcriptional repressor Rex
+PPHIGDPK_00262	gene	rex
+PPHIGDPK_00263	CDS	hypothetical protein
+PPHIGDPK_00263	gene
+PPHIGDPK_00264	CDS	hypothetical protein
+PPHIGDPK_00264	gene
+PPHIGDPK_00265	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PPHIGDPK_00265	gene	glmS
+PPHIGDPK_00266	CDS	ybjG	3.6.1.27	Putative undecaprenyl-diphosphatase YbjG
+PPHIGDPK_00266	gene	ybjG
+PPHIGDPK_00267	CDS	arlS_1	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+PPHIGDPK_00267	gene	arlS_1
+PPHIGDPK_00268	CDS	hypothetical protein
+PPHIGDPK_00268	gene
+PPHIGDPK_00269	CDS	mprA	Response regulator MprA
+PPHIGDPK_00269	gene	mprA
+PPHIGDPK_00270	CDS	ykoT	2.4.-.-	putative glycosyltransferase YkoT
+PPHIGDPK_00270	gene	ykoT
+PPHIGDPK_00271	CDS	hypothetical protein
+PPHIGDPK_00271	gene
+PPHIGDPK_00272	CDS	hypothetical protein
+PPHIGDPK_00272	gene
+PPHIGDPK_00273	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+PPHIGDPK_00273	gene	rluD
+PPHIGDPK_00274	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+PPHIGDPK_00274	gene	lspA
+PPHIGDPK_00275	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+PPHIGDPK_00275	gene	ribH
+PPHIGDPK_00276	CDS	ribBA	Riboflavin biosynthesis protein RibBA
+PPHIGDPK_00276	gene	ribBA
+PPHIGDPK_00277	CDS	ribE	2.5.1.9	Riboflavin synthase
+PPHIGDPK_00277	gene	ribE
+PPHIGDPK_00278	CDS	ribD	Riboflavin biosynthesis protein RibD
+PPHIGDPK_00278	gene	ribD
+PPHIGDPK_00279	CDS	hypothetical protein
+PPHIGDPK_00279	gene
+PPHIGDPK_00280	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+PPHIGDPK_00280	gene	parC
+PPHIGDPK_00281	CDS	2.3.1.-	Acetyltransferase
+PPHIGDPK_00281	gene
+PPHIGDPK_00282	CDS	polC_1	2.7.7.7	DNA polymerase III PolC-type
+PPHIGDPK_00282	gene	polC_1
+PPHIGDPK_00283	CDS	yecD_1	3.-.-.-	Isochorismatase family protein YecD
+PPHIGDPK_00283	gene	yecD_1
+PPHIGDPK_00284	CDS	parE	5.99.1.3	DNA topoisomerase 4 subunit B
+PPHIGDPK_00284	gene	parE
+PPHIGDPK_00285	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+PPHIGDPK_00285	gene	plsY
+PPHIGDPK_00286	CDS	nrdH	Glutaredoxin-like protein NrdH
+PPHIGDPK_00286	gene	nrdH
+PPHIGDPK_00287	CDS	Putative NrdI-like protein
+PPHIGDPK_00287	gene
+PPHIGDPK_00288	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+PPHIGDPK_00288	gene	nrdE1
+PPHIGDPK_00289	CDS	nrdF2	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+PPHIGDPK_00289	gene	nrdF2
+PPHIGDPK_00290	CDS	ftsX	Cell division protein FtsX
+PPHIGDPK_00290	gene	ftsX
+PPHIGDPK_00291	CDS	ftsE	Cell division ATP-binding protein FtsE
+PPHIGDPK_00291	gene	ftsE
+PPHIGDPK_00292	CDS	prfB	Peptide chain release factor 2
+PPHIGDPK_00292	gene	prfB
+PPHIGDPK_00293	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PPHIGDPK_00293	gene	cpdA_1
+PPHIGDPK_00294	CDS	hypothetical protein
+PPHIGDPK_00294	gene
+PPHIGDPK_00295	CDS	focA	putative formate transporter 1
+PPHIGDPK_00295	gene	focA
+PPHIGDPK_00296	CDS	hypothetical protein
+PPHIGDPK_00296	gene
+PPHIGDPK_00297	CDS	hypothetical protein
+PPHIGDPK_00297	gene
+PPHIGDPK_00298	CDS	natA_2	ABC transporter ATP-binding protein NatA
+PPHIGDPK_00298	gene	natA_2
+PPHIGDPK_00299	CDS	ethR	HTH-type transcriptional regulator EthR
+PPHIGDPK_00299	gene	ethR
+PPHIGDPK_00300	CDS	whiA	Putative sporulation transcription regulator WhiA
+PPHIGDPK_00300	gene	whiA
+PPHIGDPK_00301	CDS	Putative gluconeogenesis factor
+PPHIGDPK_00301	gene
+PPHIGDPK_00302	CDS	yvcJ	Nucleotide-binding protein YvcJ
+PPHIGDPK_00302	gene	yvcJ
+PPHIGDPK_00303	CDS	clsA_2	2.7.8.-	Major cardiolipin synthase ClsA
+PPHIGDPK_00303	gene	clsA_2
+PPHIGDPK_00304	CDS	fruA	PTS system fructose-specific EIIABC component
+PPHIGDPK_00304	gene	fruA
+PPHIGDPK_00305	CDS	lacC_1	2.7.1.144	Tagatose-6-phosphate kinase
+PPHIGDPK_00305	gene	lacC_1
+PPHIGDPK_00306	CDS	glcR_1	HTH-type transcriptional repressor GlcR
+PPHIGDPK_00306	gene	glcR_1
+PPHIGDPK_00307	CDS	yxeP_1	3.-.-.-	putative hydrolase YxeP
+PPHIGDPK_00307	gene	yxeP_1
+PPHIGDPK_00308	CDS	sph	4.2.1.53	Oleate hydratase
+PPHIGDPK_00308	gene	sph
+PPHIGDPK_00309	CDS	dnaK	Chaperone protein DnaK
+PPHIGDPK_00309	gene	dnaK
+PPHIGDPK_00310	CDS	grpE	Protein GrpE
+PPHIGDPK_00310	gene	grpE
+PPHIGDPK_00311	CDS	hrcA	Heat-inducible transcription repressor HrcA
+PPHIGDPK_00311	gene	hrcA
+PPHIGDPK_00312	CDS	hypothetical protein
+PPHIGDPK_00312	gene
+PPHIGDPK_00313	CDS	vanYB	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+PPHIGDPK_00313	gene	vanYB
+PPHIGDPK_00314	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PPHIGDPK_00314	gene	gpmA_1
+PPHIGDPK_00315	CDS	hypothetical protein
+PPHIGDPK_00315	gene
+PPHIGDPK_00316	CDS	hypothetical protein
+PPHIGDPK_00316	gene
+PPHIGDPK_00317	CDS	hypothetical protein
+PPHIGDPK_00317	gene
+PPHIGDPK_00318	CDS	menA_1	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PPHIGDPK_00318	gene	menA_1
+PPHIGDPK_00319	CDS	hypothetical protein
+PPHIGDPK_00319	gene
+PPHIGDPK_00320	CDS	yecD_2	3.-.-.-	Isochorismatase family protein YecD
+PPHIGDPK_00320	gene	yecD_2
+PPHIGDPK_00321	CDS	rnr_1	3.1.13.1	Ribonuclease R
+PPHIGDPK_00321	gene	rnr_1
+PPHIGDPK_00322	CDS	secG	putative protein-export membrane protein SecG
+PPHIGDPK_00322	gene	secG
+PPHIGDPK_00323	CDS	trxB	1.8.1.9	Thioredoxin reductase
+PPHIGDPK_00323	gene	trxB
+PPHIGDPK_00324	CDS	hypothetical protein
+PPHIGDPK_00324	gene
+PPHIGDPK_00325	CDS	tcyN	3.6.3.-	L-cystine import ATP-binding protein TcyN
+PPHIGDPK_00325	gene	tcyN
+PPHIGDPK_00326	CDS	yxeN	putative amino-acid permease protein YxeN
+PPHIGDPK_00326	gene	yxeN
+PPHIGDPK_00327	CDS	tcyJ	L-cystine-binding protein TcyJ
+PPHIGDPK_00327	gene	tcyJ
+PPHIGDPK_00328	CDS	3.4.-.-	putative endopeptidase
+PPHIGDPK_00328	gene
+PPHIGDPK_00329	CDS	fhs1	6.3.4.3	Formate--tetrahydrofolate ligase 1
+PPHIGDPK_00329	gene	fhs1
+PPHIGDPK_00330	CDS	hypothetical protein
+PPHIGDPK_00330	gene
+PPHIGDPK_00331	CDS	hypothetical protein
+PPHIGDPK_00331	gene
+PPHIGDPK_00332	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+PPHIGDPK_00332	gene	deoD
+PPHIGDPK_00333	CDS	hypothetical protein
+PPHIGDPK_00333	gene
+PPHIGDPK_00334	CDS	deoB	5.4.2.7	Phosphopentomutase
+PPHIGDPK_00334	gene	deoB
+PPHIGDPK_00335	CDS	hypothetical protein
+PPHIGDPK_00335	gene
+PPHIGDPK_00336	CDS	hypothetical protein
+PPHIGDPK_00336	gene
+PPHIGDPK_00337	CDS	emrB_1	Multidrug export protein EmrB
+PPHIGDPK_00337	gene	emrB_1
+PPHIGDPK_00338	CDS	hypothetical protein
+PPHIGDPK_00338	gene
+PPHIGDPK_00339	CDS	hypothetical protein
+PPHIGDPK_00339	gene
+PPHIGDPK_00340	CDS	ycgJ_2	2.1.1.-	putative methyltransferase YcgJ
+PPHIGDPK_00340	gene	ycgJ_2
+PPHIGDPK_00341	CDS	hypothetical protein
+PPHIGDPK_00341	gene
+PPHIGDPK_00342	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+PPHIGDPK_00342	gene	gyrB
+PPHIGDPK_00343	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+PPHIGDPK_00343	gene	gph_1
+PPHIGDPK_00344	CDS	hypothetical protein
+PPHIGDPK_00344	gene
+PPHIGDPK_00345	CDS	yicL_1	putative inner membrane transporter YicL
+PPHIGDPK_00345	gene	yicL_1
+PPHIGDPK_00346	CDS	citS	Citrate-sodium symporter
+PPHIGDPK_00346	gene	citS
+PPHIGDPK_00347	CDS	mleA	4.1.1.101	Malolactic enzyme
+PPHIGDPK_00347	gene	mleA
+PPHIGDPK_00348	CDS	yheS	putative ABC transporter ATP-binding protein YheS
+PPHIGDPK_00348	gene	yheS
+PPHIGDPK_00349	CDS	hypothetical protein
+PPHIGDPK_00349	gene
+PPHIGDPK_00350	CDS	hypothetical protein
+PPHIGDPK_00350	gene
+PPHIGDPK_00351	CDS	butA	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+PPHIGDPK_00351	gene	butA
+PPHIGDPK_00352	CDS	gutB	1.1.1.14	Sorbitol dehydrogenase
+PPHIGDPK_00352	gene	gutB
+PPHIGDPK_00353	CDS	rodA	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+PPHIGDPK_00353	gene	rodA
+PPHIGDPK_00354	CDS	hypothetical protein
+PPHIGDPK_00354	gene
+PPHIGDPK_00355	CDS	yugI	General stress protein 13
+PPHIGDPK_00355	gene	yugI
+PPHIGDPK_00356	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+PPHIGDPK_00356	gene
+PPHIGDPK_00357	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+PPHIGDPK_00357	gene
+PPHIGDPK_00358	CDS	liaR	Transcriptional regulatory protein LiaR
+PPHIGDPK_00358	gene	liaR
+PPHIGDPK_00359	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+PPHIGDPK_00359	gene	liaS
+PPHIGDPK_00360	CDS	hypothetical protein
+PPHIGDPK_00360	gene
+PPHIGDPK_00361	CDS	rpsN2	Alternate 30S ribosomal protein S14
+PPHIGDPK_00361	gene	rpsN2
+PPHIGDPK_00362	CDS	brpA_1	Biofilm regulatory protein A
+PPHIGDPK_00362	gene	brpA_1
+PPHIGDPK_00363	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+PPHIGDPK_00363	gene	ftsW_1
+PPHIGDPK_00364	CDS	hypothetical protein
+PPHIGDPK_00364	gene
+PPHIGDPK_00365	CDS	hypothetical protein
+PPHIGDPK_00365	gene
+PPHIGDPK_00366	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+PPHIGDPK_00366	gene	pepF1
+PPHIGDPK_00367	CDS	prmC_1	2.1.1.297	Release factor glutamine methyltransferase
+PPHIGDPK_00367	gene	prmC_1
+PPHIGDPK_00368	CDS	prsA_1	5.2.1.8	Foldase protein PrsA
+PPHIGDPK_00368	gene	prsA_1
+PPHIGDPK_00369	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+PPHIGDPK_00369	gene	alaS
+PPHIGDPK_00370	CDS	tesA	3.1.1.1	Esterase TesA
+PPHIGDPK_00370	gene	tesA
+PPHIGDPK_00371	CDS	smpB	SsrA-binding protein
+PPHIGDPK_00371	gene	smpB
+PPHIGDPK_00372	CDS	pstS1_1	Phosphate-binding protein PstS 1
+PPHIGDPK_00372	gene	pstS1_1
+PPHIGDPK_00373	CDS	pstS1_2	Phosphate-binding protein PstS 1
+PPHIGDPK_00373	gene	pstS1_2
+PPHIGDPK_00374	CDS	pstC	Phosphate transport system permease protein PstC
+PPHIGDPK_00374	gene	pstC
+PPHIGDPK_00375	CDS	pstA	Phosphate transport system permease protein PstA
+PPHIGDPK_00375	gene	pstA
+PPHIGDPK_00376	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+PPHIGDPK_00376	gene	pstB3_1
+PPHIGDPK_00377	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+PPHIGDPK_00377	gene	pstB3_2
+PPHIGDPK_00378	CDS	phoU	Phosphate-specific transport system accessory protein PhoU 
+PPHIGDPK_00378	gene	phoU
+PPHIGDPK_00379	CDS	pspA_1	3.1.3.3	Phosphoserine phosphatase 1
+PPHIGDPK_00379	gene	pspA_1
+PPHIGDPK_00380	CDS	ykfA	3.4.16.-	putative murein peptide carboxypeptidase
+PPHIGDPK_00380	gene	ykfA
+PPHIGDPK_00381	CDS	serS	6.1.1.11	Serine--tRNA ligase
+PPHIGDPK_00381	gene	serS
+PPHIGDPK_00382	CDS	hypothetical protein
+PPHIGDPK_00382	gene
+PPHIGDPK_00383	CDS	hypothetical protein
+PPHIGDPK_00383	gene
+PPHIGDPK_00384	CDS	hypothetical protein
+PPHIGDPK_00384	gene
+PPHIGDPK_00385	CDS	manZ	PTS system mannose-specific EIID component
+PPHIGDPK_00385	gene	manZ
+PPHIGDPK_00386	CDS	sorC	PTS system sorbose-specific EIIC component
+PPHIGDPK_00386	gene	sorC
+PPHIGDPK_00387	CDS	manX	2.7.1.191	PTS system mannose-specific EIIAB component
+PPHIGDPK_00387	gene	manX
+PPHIGDPK_00388	CDS	hypothetical protein
+PPHIGDPK_00388	gene
+PPHIGDPK_00389	CDS	cmk	2.7.4.25	Cytidylate kinase
+PPHIGDPK_00389	gene	cmk
+PPHIGDPK_00390	CDS	msrR	Regulatory protein MsrR
+PPHIGDPK_00390	gene	msrR
+PPHIGDPK_00391	CDS	gerE	Spore germination protein GerE
+PPHIGDPK_00391	gene	gerE
+PPHIGDPK_00392	CDS	ptcA	2.1.3.6	Putrescine carbamoyltransferase
+PPHIGDPK_00392	gene	ptcA
+PPHIGDPK_00393	CDS	gadC_1	Glutamate/gamma-aminobutyrate antiporter
+PPHIGDPK_00393	gene	gadC_1
+PPHIGDPK_00394	CDS	aguA_1	3.5.3.12	Putative agmatine deiminase
+PPHIGDPK_00394	gene	aguA_1
+PPHIGDPK_00395	CDS	arcC1_1	2.7.2.2	Carbamate kinase 1
+PPHIGDPK_00395	gene	arcC1_1
+PPHIGDPK_00396	CDS	hypothetical protein
+PPHIGDPK_00396	gene
+PPHIGDPK_00397	CDS	cmpC	3.6.3.-	Bicarbonate transport ATP-binding protein CmpC
+PPHIGDPK_00397	gene	cmpC
+PPHIGDPK_00398	CDS	ywtF	Putative transcriptional regulator YwtF
+PPHIGDPK_00398	gene	ywtF
+PPHIGDPK_00399	CDS	hypothetical protein
+PPHIGDPK_00399	gene
+PPHIGDPK_00400	CDS	hypothetical protein
+PPHIGDPK_00400	gene
+PPHIGDPK_00401	CDS	yagU_1	Inner membrane protein YagU
+PPHIGDPK_00401	gene	yagU_1
+PPHIGDPK_00402	CDS	1.-.-.-	putative oxidoreductase
+PPHIGDPK_00402	gene
+PPHIGDPK_00403	CDS	arsR2	Arsenic resistance transcriptional regulator ArsR2
+PPHIGDPK_00403	gene	arsR2
+PPHIGDPK_00404	CDS	hypothetical protein
+PPHIGDPK_00404	gene
+PPHIGDPK_00405	CDS	hypothetical protein
+PPHIGDPK_00405	gene
+PPHIGDPK_00406	CDS	yagU_2	Inner membrane protein YagU
+PPHIGDPK_00406	gene	yagU_2
+PPHIGDPK_00407	CDS	hypothetical protein
+PPHIGDPK_00407	gene
+PPHIGDPK_00408	CDS	hypothetical protein
+PPHIGDPK_00408	gene
+PPHIGDPK_00409	CDS	hypothetical protein
+PPHIGDPK_00409	gene
+PPHIGDPK_00410	CDS	malG	Maltose transport system permease protein MalG
+PPHIGDPK_00410	gene	malG
+PPHIGDPK_00411	CDS	malF	Maltose transport system permease protein MalF
+PPHIGDPK_00411	gene	malF
+PPHIGDPK_00412	CDS	cycB	Cyclodextrin-binding protein
+PPHIGDPK_00412	gene	cycB
+PPHIGDPK_00413	CDS	bbmA	3.2.1.-	Intracellular maltogenic amylase
+PPHIGDPK_00413	gene	bbmA
+PPHIGDPK_00414	CDS	dexB_1	3.2.1.70	Glucan 1,6-alpha-glucosidase
+PPHIGDPK_00414	gene	dexB_1
+PPHIGDPK_00415	CDS	lacA_1	2.3.1.18	Galactoside O-acetyltransferase
+PPHIGDPK_00415	gene	lacA_1
+PPHIGDPK_00416	CDS	3.2.1.1	Alpha-amylase
+PPHIGDPK_00416	gene
+PPHIGDPK_00417	CDS	malL	3.2.1.10	Oligo-1,6-glucosidase
+PPHIGDPK_00417	gene	malL
+PPHIGDPK_00418	CDS	malP	2.4.1.8	Maltose phosphorylase
+PPHIGDPK_00418	gene	malP
+PPHIGDPK_00419	CDS	degA_1	HTH-type transcriptional regulator DegA
+PPHIGDPK_00419	gene	degA_1
+PPHIGDPK_00420	CDS	arlR_1	Response regulator ArlR
+PPHIGDPK_00420	gene	arlR_1
+PPHIGDPK_00421	CDS	resE	2.7.13.3	Sensor histidine kinase ResE
+PPHIGDPK_00421	gene	resE
+PPHIGDPK_00422	CDS	dxs_1	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+PPHIGDPK_00422	gene	dxs_1
+PPHIGDPK_00423	CDS	Putative membrane protein insertion efficiency factor
+PPHIGDPK_00423	gene
+PPHIGDPK_00424	CDS	bglH_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+PPHIGDPK_00424	gene	bglH_1
+PPHIGDPK_00425	CDS	smc_1	Chromosome partition protein Smc
+PPHIGDPK_00425	gene	smc_1
+PPHIGDPK_00426	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+PPHIGDPK_00426	gene	menG
+PPHIGDPK_00427	CDS	hypothetical protein
+PPHIGDPK_00427	gene
+PPHIGDPK_00428	CDS	hypothetical protein
+PPHIGDPK_00428	gene
+PPHIGDPK_00429	CDS	hypothetical protein
+PPHIGDPK_00429	gene
+PPHIGDPK_00430	CDS	hypothetical protein
+PPHIGDPK_00430	gene
+PPHIGDPK_00431	CDS	clcA	H(+)/Cl(-) exchange transporter ClcA
+PPHIGDPK_00431	gene	clcA
+PPHIGDPK_00432	CDS	menA_2	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PPHIGDPK_00432	gene	menA_2
+PPHIGDPK_00433	CDS	hypothetical protein
+PPHIGDPK_00433	gene
+PPHIGDPK_00434	tRNA	tRNA-Arg(cct)
+PPHIGDPK_00434	gene
+PPHIGDPK_00435	CDS	iolW	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP(+))
+PPHIGDPK_00435	gene	iolW
+PPHIGDPK_00436	CDS	udk	2.7.1.48	Uridine kinase
+PPHIGDPK_00436	gene	udk
+PPHIGDPK_00437	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+PPHIGDPK_00437	gene	pta
+PPHIGDPK_00438	CDS	hypothetical protein
+PPHIGDPK_00438	gene
+PPHIGDPK_00439	CDS	ywtE	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YwtE
+PPHIGDPK_00439	gene	ywtE
+PPHIGDPK_00440	CDS	ftsK	DNA translocase FtsK
+PPHIGDPK_00440	gene	ftsK
+PPHIGDPK_00441	CDS	hypothetical protein
+PPHIGDPK_00441	gene
+PPHIGDPK_00442	CDS	hypothetical protein
+PPHIGDPK_00442	gene
+PPHIGDPK_00443	CDS	gpsB	Cell cycle protein GpsB
+PPHIGDPK_00443	gene	gpsB
+PPHIGDPK_00444	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+PPHIGDPK_00444	gene	rlmL
+PPHIGDPK_00445	CDS	mapZ	Mid-cell-anchored protein Z
+PPHIGDPK_00445	gene	mapZ
+PPHIGDPK_00446	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+PPHIGDPK_00446	gene	pepQ
+PPHIGDPK_00447	CDS	ccpA	Catabolite control protein A
+PPHIGDPK_00447	gene	ccpA
+PPHIGDPK_00448	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+PPHIGDPK_00448	gene	yumC
+PPHIGDPK_00449	CDS	hypothetical protein
+PPHIGDPK_00449	gene
+PPHIGDPK_00450	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+PPHIGDPK_00450	gene	mutS2
+PPHIGDPK_00451	CDS	trxA	Thioredoxin
+PPHIGDPK_00451	gene	trxA
+PPHIGDPK_00452	CDS	hypothetical protein
+PPHIGDPK_00452	gene
+PPHIGDPK_00453	tRNA	tRNA-Gln(ttg)
+PPHIGDPK_00453	gene
+PPHIGDPK_00454	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+PPHIGDPK_00454	gene	aroD
+PPHIGDPK_00455	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+PPHIGDPK_00455	gene	purB
+PPHIGDPK_00456	CDS	rbsR	Ribose operon repressor
+PPHIGDPK_00456	gene	rbsR
+PPHIGDPK_00457	CDS	rbsK	2.7.1.15	Ribokinase
+PPHIGDPK_00457	gene	rbsK
+PPHIGDPK_00458	CDS	rbsD	5.4.99.62	D-ribose pyranase
+PPHIGDPK_00458	gene	rbsD
+PPHIGDPK_00459	CDS	rbsA_1	3.6.3.17	Ribose import ATP-binding protein RbsA
+PPHIGDPK_00459	gene	rbsA_1
+PPHIGDPK_00460	CDS	rbsA_2	3.6.3.17	Ribose import ATP-binding protein RbsA
+PPHIGDPK_00460	gene	rbsA_2
+PPHIGDPK_00461	CDS	rbsC	Ribose import permease protein RbsC
+PPHIGDPK_00461	gene	rbsC
+PPHIGDPK_00462	CDS	rbsB	Ribose import binding protein RbsB
+PPHIGDPK_00462	gene	rbsB
+PPHIGDPK_00463	CDS	stp	Multidrug resistance protein Stp
+PPHIGDPK_00463	gene	stp
+PPHIGDPK_00464	CDS	rspR	HTH-type transcriptional repressor RspR
+PPHIGDPK_00464	gene	rspR
+PPHIGDPK_00465	CDS	hypothetical protein
+PPHIGDPK_00465	gene
+PPHIGDPK_00466	CDS	por_1	1.1.1.-	Polyol:NADP oxidoreductase
+PPHIGDPK_00466	gene	por_1
+PPHIGDPK_00467	CDS	uxuA	4.2.1.8	Mannonate dehydratase
+PPHIGDPK_00467	gene	uxuA
+PPHIGDPK_00468	CDS	hypothetical protein
+PPHIGDPK_00468	gene
+PPHIGDPK_00469	CDS	hypothetical protein
+PPHIGDPK_00469	gene
+PPHIGDPK_00470	CDS	hypothetical protein
+PPHIGDPK_00470	gene
+PPHIGDPK_00471	CDS	uxaC	5.3.1.12	Uronate isomerase
+PPHIGDPK_00471	gene	uxaC
+PPHIGDPK_00472	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+PPHIGDPK_00472	gene	kdgK
+PPHIGDPK_00473	CDS	kdgA	KHG/KDPG aldolase
+PPHIGDPK_00473	gene	kdgA
+PPHIGDPK_00474	CDS	mtlR_1	Transcriptional regulator MtlR
+PPHIGDPK_00474	gene	mtlR_1
+PPHIGDPK_00475	CDS	ulaC	2.7.1.194	Ascorbate-specific PTS system EIIA component
+PPHIGDPK_00475	gene	ulaC
+PPHIGDPK_00476	CDS	hypothetical protein
+PPHIGDPK_00476	gene
+PPHIGDPK_00477	CDS	ulaA	Ascorbate-specific PTS system EIIC component
+PPHIGDPK_00477	gene	ulaA
+PPHIGDPK_00478	CDS	tkt	2.2.1.1	Transketolase
+PPHIGDPK_00478	gene	tkt
+PPHIGDPK_00479	CDS	hypothetical protein
+PPHIGDPK_00479	gene
+PPHIGDPK_00480	CDS	gla_1	Glycerol facilitator-aquaporin gla
+PPHIGDPK_00480	gene	gla_1
+PPHIGDPK_00481	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+PPHIGDPK_00481	gene	asd
+PPHIGDPK_00482	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+PPHIGDPK_00482	gene	mutT4
+PPHIGDPK_00483	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+PPHIGDPK_00483	gene	dapA
+PPHIGDPK_00484	CDS	hypothetical protein
+PPHIGDPK_00484	gene
+PPHIGDPK_00485	CDS	rnj2	3.1.-.-	Ribonuclease J 2
+PPHIGDPK_00485	gene	rnj2
+PPHIGDPK_00486	CDS	hypothetical protein
+PPHIGDPK_00486	gene
+PPHIGDPK_00487	CDS	hypothetical protein
+PPHIGDPK_00487	gene
+PPHIGDPK_00488	CDS	hypothetical protein
+PPHIGDPK_00488	gene
+PPHIGDPK_00489	CDS	hypothetical protein
+PPHIGDPK_00489	gene
+PPHIGDPK_00490	CDS	hypothetical protein
+PPHIGDPK_00490	gene
+PPHIGDPK_00491	CDS	hypothetical protein
+PPHIGDPK_00491	gene
+PPHIGDPK_00492	CDS	smc_2	Chromosome partition protein Smc
+PPHIGDPK_00492	gene	smc_2
+PPHIGDPK_00493	CDS	sarZ	HTH-type transcriptional regulator SarZ
+PPHIGDPK_00493	gene	sarZ
+PPHIGDPK_00494	CDS	Organic hydroperoxide resistance protein-like protein
+PPHIGDPK_00494	gene
+PPHIGDPK_00495	CDS	tdk	2.7.1.21	Thymidine kinase
+PPHIGDPK_00495	gene	tdk
+PPHIGDPK_00496	CDS	hypothetical protein
+PPHIGDPK_00496	gene
+PPHIGDPK_00497	CDS	prfA	Peptide chain release factor 1
+PPHIGDPK_00497	gene	prfA
+PPHIGDPK_00498	CDS	hypothetical protein
+PPHIGDPK_00498	gene
+PPHIGDPK_00499	CDS	nfrA1	1.5.1.38	FMN reductase (NADPH)
+PPHIGDPK_00499	gene	nfrA1
+PPHIGDPK_00500	CDS	prmC_2	2.1.1.297	Release factor glutamine methyltransferase
+PPHIGDPK_00500	gene	prmC_2
+PPHIGDPK_00501	CDS	yvbK	2.3.1.-	putative N-acetyltransferase YvbK
+PPHIGDPK_00501	gene	yvbK
+PPHIGDPK_00502	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+PPHIGDPK_00502	gene	ywlC
+PPHIGDPK_00503	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+PPHIGDPK_00503	gene	glyA
+PPHIGDPK_00504	CDS	hypothetical protein
+PPHIGDPK_00504	gene
+PPHIGDPK_00505	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+PPHIGDPK_00505	gene	serC
+PPHIGDPK_00506	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+PPHIGDPK_00506	gene	serA
+PPHIGDPK_00507	CDS	serB	3.1.3.3	Phosphoserine phosphatase
+PPHIGDPK_00507	gene	serB
+PPHIGDPK_00508	CDS	acyP	3.6.1.7	Acylphosphatase
+PPHIGDPK_00508	gene	acyP
+PPHIGDPK_00509	CDS	rlmB	2.1.1.185	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+PPHIGDPK_00509	gene	rlmB
+PPHIGDPK_00510	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+PPHIGDPK_00510	gene	ppa
+PPHIGDPK_00511	CDS	Flavodoxin
+PPHIGDPK_00511	gene
+PPHIGDPK_00512	CDS	emrB_2	Multidrug export protein EmrB
+PPHIGDPK_00512	gene	emrB_2
+PPHIGDPK_00513	CDS	hypothetical protein
+PPHIGDPK_00513	gene
+PPHIGDPK_00514	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+PPHIGDPK_00514	gene	map
+PPHIGDPK_00515	CDS	hypothetical protein
+PPHIGDPK_00515	gene
+PPHIGDPK_00516	CDS	hypothetical protein
+PPHIGDPK_00516	gene
+PPHIGDPK_00517	CDS	hypothetical protein
+PPHIGDPK_00517	gene
+PPHIGDPK_00518	CDS	hypothetical protein
+PPHIGDPK_00518	gene
+PPHIGDPK_00519	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+PPHIGDPK_00519	gene	hprK
+PPHIGDPK_00520	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+PPHIGDPK_00520	gene	lgt
+PPHIGDPK_00521	CDS	hypothetical protein
+PPHIGDPK_00521	gene
+PPHIGDPK_00522	CDS	hypothetical protein
+PPHIGDPK_00522	gene
+PPHIGDPK_00523	CDS	gnd	1.1.1.44	6-phosphogluconate dehydrogenase, decarboxylating
+PPHIGDPK_00523	gene	gnd
+PPHIGDPK_00524	CDS	kup_1	Low affinity potassium transport system protein kup
+PPHIGDPK_00524	gene	kup_1
+PPHIGDPK_00525	CDS	kup_2	Low affinity potassium transport system protein kup
+PPHIGDPK_00525	gene	kup_2
+PPHIGDPK_00526	CDS	hypothetical protein
+PPHIGDPK_00526	gene
+PPHIGDPK_00527	CDS	hypothetical protein
+PPHIGDPK_00527	gene
+PPHIGDPK_00528	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+PPHIGDPK_00528	gene	miaA
+PPHIGDPK_00529	CDS	galT_1	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+PPHIGDPK_00529	gene	galT_1
+PPHIGDPK_00530	CDS	hflK	Modulator of FtsH protease HflK
+PPHIGDPK_00530	gene	hflK
+PPHIGDPK_00531	tRNA	tRNA-Arg(ccg)
+PPHIGDPK_00531	gene
+PPHIGDPK_00532	CDS	hypothetical protein
+PPHIGDPK_00532	gene
+PPHIGDPK_00533	tRNA	tRNA-Lys(ttt)
+PPHIGDPK_00533	gene
+PPHIGDPK_00534	CDS	rnz	3.1.26.11	Ribonuclease Z
+PPHIGDPK_00534	gene	rnz
+PPHIGDPK_00535	CDS	bdcA	Cyclic-di-GMP-binding biofilm dispersal mediator protein
+PPHIGDPK_00535	gene	bdcA
+PPHIGDPK_00536	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+PPHIGDPK_00536	gene	recJ
+PPHIGDPK_00537	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+PPHIGDPK_00537	gene	apt
+PPHIGDPK_00538	CDS	rpoE	putative DNA-directed RNA polymerase subunit delta
+PPHIGDPK_00538	gene	rpoE
+PPHIGDPK_00539	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+PPHIGDPK_00539	gene	mltG
+PPHIGDPK_00540	CDS	greA	Transcription elongation factor GreA
+PPHIGDPK_00540	gene	greA
+PPHIGDPK_00541	CDS	ctsr	Transcriptional regulator CtsR
+PPHIGDPK_00541	gene	ctsr
+PPHIGDPK_00542	CDS	clpC_1	Negative regulator of genetic competence ClpC/MecB
+PPHIGDPK_00542	gene	clpC_1
+PPHIGDPK_00543	CDS	hpf	Ribosome hibernation promotion factor
+PPHIGDPK_00543	gene	hpf
+PPHIGDPK_00544	CDS	eno_1	4.2.1.11	Enolase
+PPHIGDPK_00544	gene	eno_1
+PPHIGDPK_00545	CDS	hrtA_1	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+PPHIGDPK_00545	gene	hrtA_1
+PPHIGDPK_00546	CDS	putative ABC transporter permease
+PPHIGDPK_00546	gene
+PPHIGDPK_00547	CDS	hypothetical protein
+PPHIGDPK_00547	gene
+PPHIGDPK_00548	CDS	fadD	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+PPHIGDPK_00548	gene	fadD
+PPHIGDPK_00549	CDS	hypothetical protein
+PPHIGDPK_00549	gene
+PPHIGDPK_00550	CDS	pflB	2.3.1.54	Formate acetyltransferase
+PPHIGDPK_00550	gene	pflB
+PPHIGDPK_00551	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+PPHIGDPK_00551	gene	coaE
+PPHIGDPK_00552	CDS	tetA_1	Tetracycline resistance protein, class C
+PPHIGDPK_00552	gene	tetA_1
+PPHIGDPK_00553	CDS	rpmGA_1	50S ribosomal protein L33 1
+PPHIGDPK_00553	gene	rpmGA_1
+PPHIGDPK_00554	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+PPHIGDPK_00554	gene	ftsW_2
+PPHIGDPK_00555	CDS	cfiB	6.4.1.7	2-oxoglutarate carboxylase small subunit
+PPHIGDPK_00555	gene	cfiB
+PPHIGDPK_00556	CDS	prpC	2.3.3.5	2-methylcitrate synthase
+PPHIGDPK_00556	gene	prpC
+PPHIGDPK_00557	CDS	citB	4.2.1.3	Aconitate hydratase A
+PPHIGDPK_00557	gene	citB
+PPHIGDPK_00558	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+PPHIGDPK_00558	gene	icd
+PPHIGDPK_00559	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+PPHIGDPK_00559	gene	clpP
+PPHIGDPK_00560	CDS	hypothetical protein
+PPHIGDPK_00560	gene
+PPHIGDPK_00561	CDS	spxA_2	Regulatory protein Spx
+PPHIGDPK_00561	gene	spxA_2
+PPHIGDPK_00562	CDS	hypothetical protein
+PPHIGDPK_00562	gene
+PPHIGDPK_00563	CDS	hypothetical protein
+PPHIGDPK_00563	gene
+PPHIGDPK_00564	CDS	yloB	3.6.3.8	Calcium-transporting ATPase
+PPHIGDPK_00564	gene	yloB
+PPHIGDPK_00565	CDS	hypothetical protein
+PPHIGDPK_00565	gene
+PPHIGDPK_00566	CDS	icaA	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+PPHIGDPK_00566	gene	icaA
+PPHIGDPK_00567	CDS	hypothetical protein
+PPHIGDPK_00567	gene
+PPHIGDPK_00568	CDS	icaB_1	3.5.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+PPHIGDPK_00568	gene	icaB_1
+PPHIGDPK_00569	CDS	hypothetical protein
+PPHIGDPK_00569	gene
+PPHIGDPK_00570	CDS	cna	Collagen adhesin
+PPHIGDPK_00570	gene	cna
+PPHIGDPK_00571	CDS	brnQ	Branched-chain amino acid transport system 2 carrier protein
+PPHIGDPK_00571	gene	brnQ
+PPHIGDPK_00572	CDS	hypothetical protein
+PPHIGDPK_00572	gene
+PPHIGDPK_00573	CDS	hypothetical protein
+PPHIGDPK_00573	gene
+PPHIGDPK_00574	CDS	rnhB	3.1.26.4	Ribonuclease HII
+PPHIGDPK_00574	gene	rnhB
+PPHIGDPK_00575	CDS	rbgA	Ribosome biogenesis GTPase A
+PPHIGDPK_00575	gene	rbgA
+PPHIGDPK_00576	CDS	hypothetical protein
+PPHIGDPK_00576	gene
+PPHIGDPK_00577	CDS	hypothetical protein
+PPHIGDPK_00577	gene
+PPHIGDPK_00578	CDS	glcR_2	HTH-type transcriptional repressor GlcR
+PPHIGDPK_00578	gene	glcR_2
+PPHIGDPK_00579	CDS	hypothetical protein
+PPHIGDPK_00579	gene
+PPHIGDPK_00580	CDS	znuA_1	High-affinity zinc uptake system binding-protein ZnuA
+PPHIGDPK_00580	gene	znuA_1
+PPHIGDPK_00581	CDS	hypothetical protein
+PPHIGDPK_00581	gene
+PPHIGDPK_00582	CDS	hypothetical protein
+PPHIGDPK_00582	gene
+PPHIGDPK_00583	CDS	aguA_2	3.2.1.131	Xylan alpha-(1->2)-glucuronosidase
+PPHIGDPK_00583	gene	aguA_2
+PPHIGDPK_00584	CDS	pgdA_1	3.5.1.104	Peptidoglycan-N-acetylglucosamine deacetylase
+PPHIGDPK_00584	gene	pgdA_1
+PPHIGDPK_00585	CDS	3.2.1.156	Reducing end xylose-releasing exo-oligoxylanase
+PPHIGDPK_00585	gene
+PPHIGDPK_00586	CDS	hypothetical protein
+PPHIGDPK_00586	gene
+PPHIGDPK_00587	CDS	hypothetical protein
+PPHIGDPK_00587	gene
+PPHIGDPK_00588	CDS	lipO_1	Lipoprotein LipO
+PPHIGDPK_00588	gene	lipO_1
+PPHIGDPK_00589	CDS	ycjP	Inner membrane ABC transporter permease protein YcjP
+PPHIGDPK_00589	gene	ycjP
+PPHIGDPK_00590	CDS	yteP_1	putative multiple-sugar transport system permease YteP
+PPHIGDPK_00590	gene	yteP_1
+PPHIGDPK_00591	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+PPHIGDPK_00591	gene
+PPHIGDPK_00592	CDS	hypothetical protein
+PPHIGDPK_00592	gene
+PPHIGDPK_00593	CDS	hypothetical protein
+PPHIGDPK_00593	gene
+PPHIGDPK_00594	CDS	hypothetical protein
+PPHIGDPK_00594	gene
+PPHIGDPK_00595	CDS	hypothetical protein
+PPHIGDPK_00595	gene
+PPHIGDPK_00596	CDS	hypothetical protein
+PPHIGDPK_00596	gene
+PPHIGDPK_00597	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+PPHIGDPK_00597	gene
+PPHIGDPK_00598	CDS	hypothetical protein
+PPHIGDPK_00598	gene
+PPHIGDPK_00599	CDS	ybiR_2	Inner membrane protein YbiR
+PPHIGDPK_00599	gene	ybiR_2
+PPHIGDPK_00600	CDS	pspA_2	3.1.3.3	Phosphoserine phosphatase 1
+PPHIGDPK_00600	gene	pspA_2
+PPHIGDPK_00601	CDS	ybjI_1	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+PPHIGDPK_00601	gene	ybjI_1
+PPHIGDPK_00602	CDS	ybjI_2	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+PPHIGDPK_00602	gene	ybjI_2
+PPHIGDPK_00603	CDS	maa_1	2.3.1.79	Maltose O-acetyltransferase
+PPHIGDPK_00603	gene	maa_1
+PPHIGDPK_00604	CDS	hypothetical protein
+PPHIGDPK_00604	gene
+PPHIGDPK_00605	CDS	nagC	N-acetylglucosamine repressor
+PPHIGDPK_00605	gene	nagC
+PPHIGDPK_00606	CDS	ipdC	4.1.1.74	Indole-3-pyruvate decarboxylase
+PPHIGDPK_00606	gene	ipdC
+PPHIGDPK_00607	CDS	hypothetical protein
+PPHIGDPK_00607	gene
+PPHIGDPK_00608	CDS	cmpR	HTH-type transcriptional activator CmpR
+PPHIGDPK_00608	gene	cmpR
+PPHIGDPK_00609	CDS	hypothetical protein
+PPHIGDPK_00609	gene
+PPHIGDPK_00610	CDS	hypothetical protein
+PPHIGDPK_00610	gene
+PPHIGDPK_00611	CDS	hypothetical protein
+PPHIGDPK_00611	gene
+PPHIGDPK_00612	CDS	hypothetical protein
+PPHIGDPK_00612	gene
+PPHIGDPK_00613	CDS	spxA_3	Regulatory protein Spx
+PPHIGDPK_00613	gene	spxA_3
+PPHIGDPK_00614	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+PPHIGDPK_00614	gene	pabB
+PPHIGDPK_00615	CDS	pabA_1	2.6.1.85	Aminodeoxychorismate/anthranilate synthase component 2
+PPHIGDPK_00615	gene	pabA_1
+PPHIGDPK_00616	CDS	ssaB	Manganese ABC transporter substrate-binding lipoprotein
+PPHIGDPK_00616	gene	ssaB
+PPHIGDPK_00617	CDS	mntB	Manganese transport system membrane protein MntB
+PPHIGDPK_00617	gene	mntB
+PPHIGDPK_00618	CDS	fecE_1	Fe(3+) dicitrate transport ATP-binding protein FecE
+PPHIGDPK_00618	gene	fecE_1
+PPHIGDPK_00619	CDS	hypothetical protein
+PPHIGDPK_00619	gene
+PPHIGDPK_00620	CDS	hypothetical protein
+PPHIGDPK_00620	gene
+PPHIGDPK_00621	CDS	hypothetical protein
+PPHIGDPK_00621	gene
+PPHIGDPK_00622	CDS	sbcC	Nuclease SbcCD subunit C
+PPHIGDPK_00622	gene	sbcC
+PPHIGDPK_00623	CDS	sbcD	Nuclease SbcCD subunit D
+PPHIGDPK_00623	gene	sbcD
+PPHIGDPK_00624	CDS	panE	1.1.1.169	2-dehydropantoate 2-reductase
+PPHIGDPK_00624	gene	panE
+PPHIGDPK_00625	CDS	spxA_4	Regulatory protein Spx
+PPHIGDPK_00625	gene	spxA_4
+PPHIGDPK_00626	CDS	hypothetical protein
+PPHIGDPK_00626	gene
+PPHIGDPK_00627	CDS	hypothetical protein
+PPHIGDPK_00627	gene
+PPHIGDPK_00628	CDS	hypothetical protein
+PPHIGDPK_00628	gene
+PPHIGDPK_00629	CDS	rlmA	2.1.1.187	23S rRNA (guanine(745)-N(1))-methyltransferase
+PPHIGDPK_00629	gene	rlmA
+PPHIGDPK_00630	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+PPHIGDPK_00630	gene	mglA
+PPHIGDPK_00631	CDS	hypothetical protein
+PPHIGDPK_00631	gene
+PPHIGDPK_00632	CDS	hypothetical protein
+PPHIGDPK_00632	gene
+PPHIGDPK_00633	CDS	ldhA	1.1.1.27	L-lactate dehydrogenase 1
+PPHIGDPK_00633	gene	ldhA
+PPHIGDPK_00634	CDS	pyk	2.7.1.40	Pyruvate kinase
+PPHIGDPK_00634	gene	pyk
+PPHIGDPK_00635	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+PPHIGDPK_00635	gene	pfkA
+PPHIGDPK_00636	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+PPHIGDPK_00636	gene	nagA
+PPHIGDPK_00637	CDS	TelA-like protein
+PPHIGDPK_00637	gene
+PPHIGDPK_00638	CDS	hypothetical protein
+PPHIGDPK_00638	gene
+PPHIGDPK_00639	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PPHIGDPK_00639	gene	gpsA
+PPHIGDPK_00640	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+PPHIGDPK_00640	gene	gtaB
+PPHIGDPK_00641	CDS	hypothetical protein
+PPHIGDPK_00641	gene
+PPHIGDPK_00642	CDS	hypothetical protein
+PPHIGDPK_00642	gene
+PPHIGDPK_00643	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+PPHIGDPK_00643	gene	hepT
+PPHIGDPK_00644	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+PPHIGDPK_00644	gene	rsmG
+PPHIGDPK_00645	CDS	hypothetical protein
+PPHIGDPK_00645	gene
+PPHIGDPK_00646	CDS	pyrF_1	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+PPHIGDPK_00646	gene	pyrF_1
+PPHIGDPK_00647	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+PPHIGDPK_00647	gene	pyrDB
+PPHIGDPK_00648	CDS	pyrK	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PPHIGDPK_00648	gene	pyrK
+PPHIGDPK_00649	CDS	emrB_3	Multidrug export protein EmrB
+PPHIGDPK_00649	gene	emrB_3
+PPHIGDPK_00650	CDS	gmuR	HTH-type transcriptional regulator GmuR
+PPHIGDPK_00650	gene	gmuR
+PPHIGDPK_00651	CDS	gmuD_1	3.2.1.86	6-phospho-beta-glucosidase GmuD
+PPHIGDPK_00651	gene	gmuD_1
+PPHIGDPK_00652	CDS	hypothetical protein
+PPHIGDPK_00652	gene
+PPHIGDPK_00653	CDS	araQ_1	L-arabinose transport system permease protein AraQ
+PPHIGDPK_00653	gene	araQ_1
+PPHIGDPK_00654	CDS	lacF_1	Lactose transport system permease protein LacF
+PPHIGDPK_00654	gene	lacF_1
+PPHIGDPK_00655	CDS	msmE	Multiple sugar-binding protein
+PPHIGDPK_00655	gene	msmE
+PPHIGDPK_00656	CDS	hypothetical protein
+PPHIGDPK_00656	gene
+PPHIGDPK_00657	CDS	cah	3.1.1.41	Cephalosporin-C deacetylase
+PPHIGDPK_00657	gene	cah
+PPHIGDPK_00658	CDS	hypothetical protein
+PPHIGDPK_00658	gene
+PPHIGDPK_00659	CDS	hypothetical protein
+PPHIGDPK_00659	gene
+PPHIGDPK_00660	CDS	hypothetical protein
+PPHIGDPK_00660	gene
+PPHIGDPK_00661	CDS	rluE	5.4.99.20	Ribosomal large subunit pseudouridine synthase E
+PPHIGDPK_00661	gene	rluE
+PPHIGDPK_00662	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+PPHIGDPK_00662	gene	carB
+PPHIGDPK_00663	CDS	bsaA	Glutathione peroxidase  BsaA
+PPHIGDPK_00663	gene	bsaA
+PPHIGDPK_00664	CDS	lytG	3.2.1.-	Exo-glucosaminidase LytG
+PPHIGDPK_00664	gene	lytG
+PPHIGDPK_00665	CDS	yoaB	3.6.3.8	Calcium-transporting ATPase 1
+PPHIGDPK_00665	gene	yoaB
+PPHIGDPK_00666	CDS	hypothetical protein
+PPHIGDPK_00666	gene
+PPHIGDPK_00667	CDS	hypothetical protein
+PPHIGDPK_00667	gene
+PPHIGDPK_00668	CDS	hypothetical protein
+PPHIGDPK_00668	gene
+PPHIGDPK_00669	CDS	hypothetical protein
+PPHIGDPK_00669	gene
+PPHIGDPK_00670	CDS	hypothetical protein
+PPHIGDPK_00670	gene
+PPHIGDPK_00671	CDS	hypothetical protein
+PPHIGDPK_00671	gene
+PPHIGDPK_00672	CDS	teaD	TRAP-T-associated universal stress protein TeaD
+PPHIGDPK_00672	gene	teaD
+PPHIGDPK_00673	CDS	hypothetical protein
+PPHIGDPK_00673	gene
+PPHIGDPK_00674	CDS	arsC	1.20.4.1	Glutaredoxin arsenate reductase
+PPHIGDPK_00674	gene	arsC
+PPHIGDPK_00675	tRNA	tRNA-Ser(tga)
+PPHIGDPK_00675	gene
+PPHIGDPK_00676	tRNA	tRNA-Arg(acg)
+PPHIGDPK_00676	gene
+PPHIGDPK_00677	tRNA	tRNA-Pro(tgg)
+PPHIGDPK_00677	gene
+PPHIGDPK_00678	tRNA	tRNA-Met(cat)
+PPHIGDPK_00678	gene
+PPHIGDPK_00679	tRNA	tRNA-Met(cat)
+PPHIGDPK_00679	gene
+PPHIGDPK_00680	tRNA	tRNA-Phe(gaa)
+PPHIGDPK_00680	gene
+PPHIGDPK_00681	tRNA	tRNA-Gly(tcc)
+PPHIGDPK_00681	gene
+PPHIGDPK_00682	tRNA	tRNA-Ile(gat)
+PPHIGDPK_00682	gene
+PPHIGDPK_00683	tRNA	tRNA-Ser(gct)
+PPHIGDPK_00683	gene
+PPHIGDPK_00684	CDS	dnaG	2.7.7.-	DNA primase
+PPHIGDPK_00684	gene	dnaG
+PPHIGDPK_00685	CDS	sigA	RNA polymerase sigma factor SigA
+PPHIGDPK_00685	gene	sigA
+PPHIGDPK_00686	CDS	glvR_1	HTH-type transcriptional regulator GlvR
+PPHIGDPK_00686	gene	glvR_1
+PPHIGDPK_00687	CDS	pgtP	Phosphoglycerate transporter protein
+PPHIGDPK_00687	gene	pgtP
+PPHIGDPK_00688	CDS	hypothetical protein
+PPHIGDPK_00688	gene
+PPHIGDPK_00689	CDS	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE
+PPHIGDPK_00689	gene	clpE
+PPHIGDPK_00690	CDS	nsrR	HTH-type transcriptional repressor NsrR
+PPHIGDPK_00690	gene	nsrR
+PPHIGDPK_00691	CDS	gap_1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+PPHIGDPK_00691	gene	gap_1
+PPHIGDPK_00692	CDS	def	3.5.1.88	Peptide deformylase
+PPHIGDPK_00692	gene	def
+PPHIGDPK_00693	CDS	rppH_1	3.6.1.-	RNA pyrophosphohydrolase
+PPHIGDPK_00693	gene	rppH_1
+PPHIGDPK_00694	CDS	uvrB	UvrABC system protein B
+PPHIGDPK_00694	gene	uvrB
+PPHIGDPK_00695	CDS	artP	Arginine-binding extracellular protein ArtP
+PPHIGDPK_00695	gene	artP
+PPHIGDPK_00696	CDS	argE	3.5.1.16	Acetylornithine deacetylase
+PPHIGDPK_00696	gene	argE
+PPHIGDPK_00697	CDS	fabZ_1	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PPHIGDPK_00697	gene	fabZ_1
+PPHIGDPK_00698	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+PPHIGDPK_00698	gene	fabI
+PPHIGDPK_00699	CDS	hypothetical protein
+PPHIGDPK_00699	gene
+PPHIGDPK_00700	CDS	natA_3	ABC transporter ATP-binding protein NatA
+PPHIGDPK_00700	gene	natA_3
+PPHIGDPK_00701	CDS	hypothetical protein
+PPHIGDPK_00701	gene
+PPHIGDPK_00702	CDS	misCB	Membrane protein insertase MisCB
+PPHIGDPK_00702	gene	misCB
+PPHIGDPK_00703	CDS	hypothetical protein
+PPHIGDPK_00703	gene
+PPHIGDPK_00704	CDS	panT	Pantothenic acid transporter PanT
+PPHIGDPK_00704	gene	panT
+PPHIGDPK_00705	CDS	coaBC_1	Coenzyme A biosynthesis bifunctional protein CoaBC
+PPHIGDPK_00705	gene	coaBC_1
+PPHIGDPK_00706	CDS	coaBC_2	Coenzyme A biosynthesis bifunctional protein CoaBC
+PPHIGDPK_00706	gene	coaBC_2
+PPHIGDPK_00707	CDS	xylH	5.3.2.6	2-hydroxymuconate tautomerase
+PPHIGDPK_00707	gene	xylH
+PPHIGDPK_00708	CDS	ctpE_2	3.6.3.-	putative cation-transporting ATPase E
+PPHIGDPK_00708	gene	ctpE_2
+PPHIGDPK_00709	CDS	yjaB	2.3.1.-	putative N-acetyltransferase YjaB
+PPHIGDPK_00709	gene	yjaB
+PPHIGDPK_00710	CDS	hypothetical protein
+PPHIGDPK_00710	gene
+PPHIGDPK_00711	CDS	hypothetical protein
+PPHIGDPK_00711	gene
+PPHIGDPK_00712	CDS	crtK-2	Tryptophan-rich protein TspO
+PPHIGDPK_00712	gene	crtK-2
+PPHIGDPK_00713	CDS	hypothetical protein
+PPHIGDPK_00713	gene
+PPHIGDPK_00714	CDS	DegV domain-containing protein
+PPHIGDPK_00714	gene
+PPHIGDPK_00715	CDS	hypothetical protein
+PPHIGDPK_00715	gene
+PPHIGDPK_00716	CDS	hypothetical protein
+PPHIGDPK_00716	gene
+PPHIGDPK_00717	CDS	hypothetical protein
+PPHIGDPK_00717	gene
+PPHIGDPK_00718	CDS	recX	Regulatory protein RecX
+PPHIGDPK_00718	gene	recX
+PPHIGDPK_00719	CDS	sraP_2	Serine-rich adhesin for platelets
+PPHIGDPK_00719	gene	sraP_2
+PPHIGDPK_00720	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PPHIGDPK_00720	gene	rlmCD_2
+PPHIGDPK_00721	CDS	hypothetical protein
+PPHIGDPK_00721	gene
+PPHIGDPK_00722	CDS	hypothetical protein
+PPHIGDPK_00722	gene
+PPHIGDPK_00723	CDS	hypothetical protein
+PPHIGDPK_00723	gene
+PPHIGDPK_00724	CDS	hypothetical protein
+PPHIGDPK_00724	gene
+PPHIGDPK_00725	CDS	hypothetical protein
+PPHIGDPK_00725	gene
+PPHIGDPK_00726	CDS	mcrB	3.1.21.-	5-methylcytosine-specific restriction enzyme B
+PPHIGDPK_00726	gene	mcrB
+PPHIGDPK_00727	CDS	hypothetical protein
+PPHIGDPK_00727	gene
+PPHIGDPK_00728	CDS	hypothetical protein
+PPHIGDPK_00728	gene
+PPHIGDPK_00729	CDS	valS	6.1.1.9	Valine--tRNA ligase
+PPHIGDPK_00729	gene	valS
+PPHIGDPK_00730	CDS	hypothetical protein
+PPHIGDPK_00730	gene
+PPHIGDPK_00731	CDS	yybR	putative HTH-type transcriptional regulator YybR
+PPHIGDPK_00731	gene	yybR
+PPHIGDPK_00732	CDS	qorB	1.6.5.2	Quinone oxidoreductase 2
+PPHIGDPK_00732	gene	qorB
+PPHIGDPK_00733	CDS	hypothetical protein
+PPHIGDPK_00733	gene
+PPHIGDPK_00734	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+PPHIGDPK_00734	gene	pgi
+PPHIGDPK_00735	CDS	mdtH	Multidrug resistance protein MdtH
+PPHIGDPK_00735	gene	mdtH
+PPHIGDPK_00736	CDS	hypothetical protein
+PPHIGDPK_00736	gene
+PPHIGDPK_00737	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+PPHIGDPK_00737	gene	rsmD
+PPHIGDPK_00738	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+PPHIGDPK_00738	gene	coaD
+PPHIGDPK_00739	CDS	lon1	3.4.21.53	Lon protease 1
+PPHIGDPK_00739	gene	lon1
+PPHIGDPK_00740	CDS	hypothetical protein
+PPHIGDPK_00740	gene
+PPHIGDPK_00741	CDS	1.8.98.-	Anaerobic sulfatase-maturating enzyme
+PPHIGDPK_00741	gene
+PPHIGDPK_00742	CDS	hypothetical protein
+PPHIGDPK_00742	gene
+PPHIGDPK_00743	CDS	hypothetical protein
+PPHIGDPK_00743	gene
+PPHIGDPK_00744	CDS	adhE	Aldehyde-alcohol dehydrogenase
+PPHIGDPK_00744	gene	adhE
+PPHIGDPK_00745	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+PPHIGDPK_00745	gene	pgl
+PPHIGDPK_00746	CDS	rpsB	30S ribosomal protein S2
+PPHIGDPK_00746	gene	rpsB
+PPHIGDPK_00747	CDS	tsf	Elongation factor Ts
+PPHIGDPK_00747	gene	tsf
+PPHIGDPK_00748	CDS	ezrA	Septation ring formation regulator EzrA
+PPHIGDPK_00748	gene	ezrA
+PPHIGDPK_00749	CDS	hypothetical protein
+PPHIGDPK_00749	gene
+PPHIGDPK_00750	CDS	gntT	High-affinity gluconate transporter
+PPHIGDPK_00750	gene	gntT
+PPHIGDPK_00751	CDS	xylB_1	2.7.1.17	Xylulose kinase
+PPHIGDPK_00751	gene	xylB_1
+PPHIGDPK_00752	CDS	1.1.1.343	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+PPHIGDPK_00752	gene
+PPHIGDPK_00753	CDS	hexR_1	HTH-type transcriptional regulator HexR
+PPHIGDPK_00753	gene	hexR_1
+PPHIGDPK_00754	CDS	hypothetical protein
+PPHIGDPK_00754	gene
+PPHIGDPK_00755	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PPHIGDPK_00755	gene	cpdA_2
+PPHIGDPK_00756	CDS	rpsR	30S ribosomal protein S18
+PPHIGDPK_00756	gene	rpsR
+PPHIGDPK_00757	CDS	ssb_1	Single-stranded DNA-binding protein
+PPHIGDPK_00757	gene	ssb_1
+PPHIGDPK_00758	CDS	rpsF	30S ribosomal protein S6
+PPHIGDPK_00758	gene	rpsF
+PPHIGDPK_00759	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+PPHIGDPK_00759	gene	uppP
+PPHIGDPK_00760	CDS	lysP_1	Lysine-specific permease
+PPHIGDPK_00760	gene	lysP_1
+PPHIGDPK_00761	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+PPHIGDPK_00761	gene	dnaX_1
+PPHIGDPK_00762	CDS	hypothetical protein
+PPHIGDPK_00762	gene
+PPHIGDPK_00763	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+PPHIGDPK_00763	gene	msrC
+PPHIGDPK_00764	CDS	hypothetical protein
+PPHIGDPK_00764	gene
+PPHIGDPK_00765	CDS	hypothetical protein
+PPHIGDPK_00765	gene
+PPHIGDPK_00766	CDS	hypothetical protein
+PPHIGDPK_00766	gene
+PPHIGDPK_00767	CDS	glnA	6.3.1.2	Glutamine synthetase
+PPHIGDPK_00767	gene	glnA
+PPHIGDPK_00768	CDS	glnR	HTH-type transcriptional regulator GlnR
+PPHIGDPK_00768	gene	glnR
+PPHIGDPK_00769	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+PPHIGDPK_00769	gene	yfkJ
+PPHIGDPK_00770	CDS	hypothetical protein
+PPHIGDPK_00770	gene
+PPHIGDPK_00771	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+PPHIGDPK_00771	gene	yxlF_1
+PPHIGDPK_00772	CDS	hypothetical protein
+PPHIGDPK_00772	gene
+PPHIGDPK_00773	CDS	hypothetical protein
+PPHIGDPK_00773	gene
+PPHIGDPK_00774	CDS	hypothetical protein
+PPHIGDPK_00774	gene
+PPHIGDPK_00775	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+PPHIGDPK_00775	gene	ruvB
+PPHIGDPK_00776	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+PPHIGDPK_00776	gene	ruvA
+PPHIGDPK_00777	CDS	mutL	DNA mismatch repair protein MutL
+PPHIGDPK_00777	gene	mutL
+PPHIGDPK_00778	CDS	hypothetical protein
+PPHIGDPK_00778	gene
+PPHIGDPK_00779	CDS	mutS	DNA mismatch repair protein MutS
+PPHIGDPK_00779	gene	mutS
+PPHIGDPK_00780	CDS	hypothetical protein
+PPHIGDPK_00780	gene
+PPHIGDPK_00781	CDS	glxR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+PPHIGDPK_00781	gene	glxR
+PPHIGDPK_00782	CDS	hypothetical protein
+PPHIGDPK_00782	gene
+PPHIGDPK_00783	tRNA	tRNA-Leu(cag)
+PPHIGDPK_00783	gene
+PPHIGDPK_00784	CDS	hypothetical protein
+PPHIGDPK_00784	gene
+PPHIGDPK_00785	CDS	hypothetical protein
+PPHIGDPK_00785	gene
+PPHIGDPK_00786	CDS	hypothetical protein
+PPHIGDPK_00786	gene
+PPHIGDPK_00787	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+PPHIGDPK_00787	gene	zwf
+PPHIGDPK_00788	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+PPHIGDPK_00788	gene	gph_2
+PPHIGDPK_00789	CDS	dnaJ	Chaperone protein DnaJ
+PPHIGDPK_00789	gene	dnaJ
+PPHIGDPK_00790	CDS	hypothetical protein
+PPHIGDPK_00790	gene
+PPHIGDPK_00791	CDS	5.1.1.13	Aspartate racemase
+PPHIGDPK_00791	gene
+PPHIGDPK_00792	CDS	6.3.1.12	D-aspartate ligase
+PPHIGDPK_00792	gene
+PPHIGDPK_00793	CDS	asnB_1	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+PPHIGDPK_00793	gene	asnB_1
+PPHIGDPK_00794	CDS	Secreted 45 kDa protein
+PPHIGDPK_00794	gene
+PPHIGDPK_00795	CDS	hypothetical protein
+PPHIGDPK_00795	gene
+PPHIGDPK_00796	CDS	mreC	Cell shape-determining protein MreC
+PPHIGDPK_00796	gene	mreC
+PPHIGDPK_00797	CDS	rppH_2	3.6.1.-	RNA pyrophosphohydrolase
+PPHIGDPK_00797	gene	rppH_2
+PPHIGDPK_00798	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+PPHIGDPK_00798	gene	rpiA
+PPHIGDPK_00799	CDS	fnr	Anaerobic regulatory protein
+PPHIGDPK_00799	gene	fnr
+PPHIGDPK_00800	CDS	hypothetical protein
+PPHIGDPK_00800	gene
+PPHIGDPK_00801	CDS	Putative universal stress protein
+PPHIGDPK_00801	gene
+PPHIGDPK_00802	CDS	hypothetical protein
+PPHIGDPK_00802	gene
+PPHIGDPK_00803	CDS	hadI	3.-.-.-	2-hydroxyisocaproyl-CoA dehydratase activator
+PPHIGDPK_00803	gene	hadI
+PPHIGDPK_00804	CDS	fabR	HTH-type transcriptional repressor FabR
+PPHIGDPK_00804	gene	fabR
+PPHIGDPK_00805	CDS	rsuA	5.4.99.19	Ribosomal small subunit pseudouridine synthase A
+PPHIGDPK_00805	gene	rsuA
+PPHIGDPK_00806	CDS	hypothetical protein
+PPHIGDPK_00806	gene
+PPHIGDPK_00807	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+PPHIGDPK_00807	gene	mnmE
+PPHIGDPK_00808	CDS	hypothetical protein
+PPHIGDPK_00808	gene
+PPHIGDPK_00809	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+PPHIGDPK_00809	gene	recG
+PPHIGDPK_00810	CDS	hypothetical protein
+PPHIGDPK_00810	gene
+PPHIGDPK_00811	CDS	gap_2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+PPHIGDPK_00811	gene	gap_2
+PPHIGDPK_00812	CDS	hypothetical protein
+PPHIGDPK_00812	gene
+PPHIGDPK_00813	CDS	3.6.3.8	Calcium-transporting ATPase 1
+PPHIGDPK_00813	gene
+PPHIGDPK_00814	CDS	hypothetical protein
+PPHIGDPK_00814	gene
+PPHIGDPK_00815	CDS	acr1_1	1.2.1.-	Fatty acyl-CoA reductase
+PPHIGDPK_00815	gene	acr1_1
+PPHIGDPK_00816	CDS	hypothetical protein
+PPHIGDPK_00816	gene
+PPHIGDPK_00817	tRNA	tRNA-Leu(caa)
+PPHIGDPK_00817	gene
+PPHIGDPK_00818	tRNA	tRNA-Gln(ttg)
+PPHIGDPK_00818	gene
+PPHIGDPK_00819	tRNA	tRNA-His(gtg)
+PPHIGDPK_00819	gene
+PPHIGDPK_00820	tRNA	tRNA-Trp(cca)
+PPHIGDPK_00820	gene
+PPHIGDPK_00821	tRNA	tRNA-Tyr(gta)
+PPHIGDPK_00821	gene
+PPHIGDPK_00822	CDS	hypothetical protein
+PPHIGDPK_00822	gene
+PPHIGDPK_00823	CDS	hypothetical protein
+PPHIGDPK_00823	gene
+PPHIGDPK_00824	CDS	hypothetical protein
+PPHIGDPK_00824	gene
+PPHIGDPK_00825	CDS	fixK	Nitrogen fixation regulation protein FixK
+PPHIGDPK_00825	gene	fixK
+PPHIGDPK_00826	CDS	hypothetical protein
+PPHIGDPK_00826	gene
+PPHIGDPK_00827	CDS	copZ	Copper chaperone CopZ
+PPHIGDPK_00827	gene	copZ
+PPHIGDPK_00828	CDS	cadA	3.6.3.3	putative cadmium-transporting ATPase
+PPHIGDPK_00828	gene	cadA
+PPHIGDPK_00829	CDS	hypothetical protein
+PPHIGDPK_00829	gene
+PPHIGDPK_00830	CDS	hypothetical protein
+PPHIGDPK_00830	gene
+PPHIGDPK_00831	CDS	iphP	3.1.3.48	Tyrosine-protein phosphatase
+PPHIGDPK_00831	gene	iphP
+PPHIGDPK_00832	CDS	appA_1	Oligopeptide-binding protein AppA
+PPHIGDPK_00832	gene	appA_1
+PPHIGDPK_00833	CDS	pepO_2	3.4.24.-	Neutral endopeptidase
+PPHIGDPK_00833	gene	pepO_2
+PPHIGDPK_00834	CDS	appA_2	Oligopeptide-binding protein AppA
+PPHIGDPK_00834	gene	appA_2
+PPHIGDPK_00835	CDS	tig	5.2.1.8	Trigger factor
+PPHIGDPK_00835	gene	tig
+PPHIGDPK_00836	CDS	hypothetical protein
+PPHIGDPK_00836	gene
+PPHIGDPK_00837	CDS	murAA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+PPHIGDPK_00837	gene	murAA
+PPHIGDPK_00838	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+PPHIGDPK_00838	gene	suhB
+PPHIGDPK_00839	CDS	hypothetical protein
+PPHIGDPK_00839	gene
+PPHIGDPK_00840	CDS	spxA_5	Regulatory protein Spx
+PPHIGDPK_00840	gene	spxA_5
+PPHIGDPK_00841	CDS	hypothetical protein
+PPHIGDPK_00841	gene
+PPHIGDPK_00842	CDS	recU	3.1.22.-	Holliday junction resolvase RecU
+PPHIGDPK_00842	gene	recU
+PPHIGDPK_00843	CDS	ponA	Penicillin-binding protein 1A
+PPHIGDPK_00843	gene	ponA
+PPHIGDPK_00844	CDS	3.-.-.-	putative metallo-hydrolase
+PPHIGDPK_00844	gene
+PPHIGDPK_00845	CDS	3.2.1.-	Autolysin
+PPHIGDPK_00845	gene
+PPHIGDPK_00846	CDS	cysK_1	2.5.1.47	Cysteine synthase
+PPHIGDPK_00846	gene	cysK_1
+PPHIGDPK_00847	CDS	ygiS	putative deoxycholate-binding periplasmic protein YgiS
+PPHIGDPK_00847	gene	ygiS
+PPHIGDPK_00848	CDS	cwlO	3.4.-.-	Peptidoglycan DL-endopeptidase CwlO
+PPHIGDPK_00848	gene	cwlO
+PPHIGDPK_00849	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+PPHIGDPK_00849	gene	iscS_1
+PPHIGDPK_00850	CDS	hypothetical protein
+PPHIGDPK_00850	gene
+PPHIGDPK_00851	CDS	hypothetical protein
+PPHIGDPK_00851	gene
+PPHIGDPK_00852	CDS	hypothetical protein
+PPHIGDPK_00852	gene
+PPHIGDPK_00853	CDS	ecsA_1	ABC-type transporter ATP-binding protein EcsA
+PPHIGDPK_00853	gene	ecsA_1
+PPHIGDPK_00854	CDS	adaA	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+PPHIGDPK_00854	gene	adaA
+PPHIGDPK_00855	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+PPHIGDPK_00855	gene	ogt
+PPHIGDPK_00856	CDS	paiA	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+PPHIGDPK_00856	gene	paiA
+PPHIGDPK_00857	tRNA	tRNA-Met(cat)
+PPHIGDPK_00857	gene
+PPHIGDPK_00858	CDS	cspC_1	Cold shock protein CspC
+PPHIGDPK_00858	gene	cspC_1
+PPHIGDPK_00859	CDS	hypothetical protein
+PPHIGDPK_00859	gene
+PPHIGDPK_00860	CDS	hypothetical protein
+PPHIGDPK_00860	gene
+PPHIGDPK_00861	CDS	hypothetical protein
+PPHIGDPK_00861	gene
+PPHIGDPK_00862	CDS	hypothetical protein
+PPHIGDPK_00862	gene
+PPHIGDPK_00863	CDS	hypothetical protein
+PPHIGDPK_00863	gene
+PPHIGDPK_00864	CDS	hypothetical protein
+PPHIGDPK_00864	gene
+PPHIGDPK_00865	CDS	hypothetical protein
+PPHIGDPK_00865	gene
+PPHIGDPK_00866	CDS	hypothetical protein
+PPHIGDPK_00866	gene
+PPHIGDPK_00867	CDS	hypothetical protein
+PPHIGDPK_00867	gene
+PPHIGDPK_00868	CDS	hypothetical protein
+PPHIGDPK_00868	gene
+PPHIGDPK_00869	CDS	hypothetical protein
+PPHIGDPK_00869	gene
+PPHIGDPK_00870	CDS	hypothetical protein
+PPHIGDPK_00870	gene
+PPHIGDPK_00871	CDS	hypothetical protein
+PPHIGDPK_00871	gene
+PPHIGDPK_00872	CDS	hypothetical protein
+PPHIGDPK_00872	gene
+PPHIGDPK_00873	CDS	hypothetical protein
+PPHIGDPK_00873	gene
+PPHIGDPK_00874	CDS	hypothetical protein
+PPHIGDPK_00874	gene
+PPHIGDPK_00875	CDS	hypothetical protein
+PPHIGDPK_00875	gene
+PPHIGDPK_00876	CDS	hypothetical protein
+PPHIGDPK_00876	gene
+PPHIGDPK_00877	CDS	hypothetical protein
+PPHIGDPK_00877	gene
+PPHIGDPK_00878	CDS	hypothetical protein
+PPHIGDPK_00878	gene
+PPHIGDPK_00879	CDS	hypothetical protein
+PPHIGDPK_00879	gene
+PPHIGDPK_00880	CDS	hypothetical protein
+PPHIGDPK_00880	gene
+PPHIGDPK_00881	CDS	xerD_2	Tyrosine recombinase XerD
+PPHIGDPK_00881	gene	xerD_2
+PPHIGDPK_00882	CDS	hup	DNA-binding protein HU
+PPHIGDPK_00882	gene	hup
+PPHIGDPK_00883	CDS	hypothetical protein
+PPHIGDPK_00883	gene
+PPHIGDPK_00884	CDS	nagZ	3.2.1.52	Beta-hexosaminidase
+PPHIGDPK_00884	gene	nagZ
+PPHIGDPK_00885	CDS	lipC	3.-.-.-	Spore germination lipase LipC
+PPHIGDPK_00885	gene	lipC
+PPHIGDPK_00886	CDS	DegV domain-containing protein
+PPHIGDPK_00886	gene
+PPHIGDPK_00887	CDS	hypothetical protein
+PPHIGDPK_00887	gene
+PPHIGDPK_00888	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+PPHIGDPK_00888	gene	dnaE
+PPHIGDPK_00889	CDS	hypothetical protein
+PPHIGDPK_00889	gene
+PPHIGDPK_00890	CDS	hypothetical protein
+PPHIGDPK_00890	gene
+PPHIGDPK_00891	CDS	2.7.1.113	Deoxyguanosine kinase
+PPHIGDPK_00891	gene
+PPHIGDPK_00892	CDS	yvdD	LOG family protein YvdD
+PPHIGDPK_00892	gene	yvdD
+PPHIGDPK_00893	CDS	hypothetical protein
+PPHIGDPK_00893	gene
+PPHIGDPK_00894	CDS	hypothetical protein
+PPHIGDPK_00894	gene
+PPHIGDPK_00895	CDS	hypothetical protein
+PPHIGDPK_00895	gene
+PPHIGDPK_00896	CDS	1.1.1.-	L-2-hydroxyisocaproate dehydrogenase
+PPHIGDPK_00896	gene
+PPHIGDPK_00897	CDS	pyrG	6.3.4.2	CTP synthase
+PPHIGDPK_00897	gene	pyrG
+PPHIGDPK_00898	CDS	2.6.1.51	Serine-pyruvate aminotransferase
+PPHIGDPK_00898	gene
+PPHIGDPK_00899	CDS	hypothetical protein
+PPHIGDPK_00899	gene
+PPHIGDPK_00900	CDS	hmpT	Thiamine precursor transporter HmpT
+PPHIGDPK_00900	gene	hmpT
+PPHIGDPK_00901	CDS	pdxK	2.7.1.35	Pyridoxine kinase
+PPHIGDPK_00901	gene	pdxK
+PPHIGDPK_00902	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+PPHIGDPK_00902	gene	truA
+PPHIGDPK_00903	tRNA	tRNA-Arg(tct)
+PPHIGDPK_00903	gene
+PPHIGDPK_00904	CDS	brpA_2	Biofilm regulatory protein A
+PPHIGDPK_00904	gene	brpA_2
+PPHIGDPK_00905	CDS	mshD	2.3.1.189	Mycothiol acetyltransferase
+PPHIGDPK_00905	gene	mshD
+PPHIGDPK_00906	CDS	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PPHIGDPK_00906	gene	tsaE
+PPHIGDPK_00907	CDS	hypothetical protein
+PPHIGDPK_00907	gene
+PPHIGDPK_00908	CDS	axeA1	3.1.1.72	Acetylxylan esterase
+PPHIGDPK_00908	gene	axeA1
+PPHIGDPK_00909	CDS	pgmB	5.4.2.6	Beta-phosphoglucomutase
+PPHIGDPK_00909	gene	pgmB
+PPHIGDPK_00910	CDS	trePP	2.4.1.216	Trehalose 6-phosphate phosphorylase
+PPHIGDPK_00910	gene	trePP
+PPHIGDPK_00911	CDS	bglF_1	PTS system beta-glucoside-specific EIIBCA component
+PPHIGDPK_00911	gene	bglF_1
+PPHIGDPK_00912	CDS	crr	2.7.1.199	PTS system glucose-specific EIIA component
+PPHIGDPK_00912	gene	crr
+PPHIGDPK_00913	CDS	treR	HTH-type transcriptional regulator TreR
+PPHIGDPK_00913	gene	treR
+PPHIGDPK_00914	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+PPHIGDPK_00914	gene	glmM
+PPHIGDPK_00915	CDS	cdaR	CdaA regulatory protein CdaR
+PPHIGDPK_00915	gene	cdaR
+PPHIGDPK_00916	CDS	dacA_1	2.7.7.85	Diadenylate cyclase
+PPHIGDPK_00916	gene	dacA_1
+PPHIGDPK_00917	CDS	por_2	1.2.7.1	Pyruvate synthase
+PPHIGDPK_00917	gene	por_2
+PPHIGDPK_00918	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+PPHIGDPK_00918	gene	sugC
+PPHIGDPK_00919	CDS	dagK_2	2.7.1.107	Diacylglycerol kinase
+PPHIGDPK_00919	gene	dagK_2
+PPHIGDPK_00920	CDS	ligA_1	6.5.1.2	DNA ligase
+PPHIGDPK_00920	gene	ligA_1
+PPHIGDPK_00921	tRNA	tRNA-Cys(gca)
+PPHIGDPK_00921	gene
+PPHIGDPK_00922	CDS	hypothetical protein
+PPHIGDPK_00922	gene
+PPHIGDPK_00923	CDS	bglA_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglA
+PPHIGDPK_00923	gene	bglA_1
+PPHIGDPK_00924	CDS	licC_1	Lichenan permease IIC component
+PPHIGDPK_00924	gene	licC_1
+PPHIGDPK_00925	CDS	ybbH_2	putative HTH-type transcriptional regulator YbbH
+PPHIGDPK_00925	gene	ybbH_2
+PPHIGDPK_00926	CDS	licA	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+PPHIGDPK_00926	gene	licA
+PPHIGDPK_00927	CDS	licB	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIB component
+PPHIGDPK_00927	gene	licB
+PPHIGDPK_00928	CDS	glvR_2	HTH-type transcriptional regulator GlvR
+PPHIGDPK_00928	gene	glvR_2
+PPHIGDPK_00929	CDS	hypothetical protein
+PPHIGDPK_00929	gene
+PPHIGDPK_00930	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+PPHIGDPK_00930	gene	cshB
+PPHIGDPK_00931	CDS	cstA	Carbon starvation protein A
+PPHIGDPK_00931	gene	cstA
+PPHIGDPK_00932	CDS	sodA	1.15.1.1	Superoxide dismutase [Mn]
+PPHIGDPK_00932	gene	sodA
+PPHIGDPK_00933	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+PPHIGDPK_00933	gene	fni
+PPHIGDPK_00934	CDS	2.7.4.2	Phosphomevalonate kinase
+PPHIGDPK_00934	gene
+PPHIGDPK_00935	CDS	thrB_2	2.7.1.39	Homoserine kinase
+PPHIGDPK_00935	gene	thrB_2
+PPHIGDPK_00936	CDS	hddA	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+PPHIGDPK_00936	gene	hddA
+PPHIGDPK_00937	CDS	hypothetical protein
+PPHIGDPK_00937	gene
+PPHIGDPK_00938	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+PPHIGDPK_00938	gene	rsmI
+PPHIGDPK_00939	CDS	yabA	Initiation-control protein YabA
+PPHIGDPK_00939	gene	yabA
+PPHIGDPK_00940	CDS	hypothetical protein
+PPHIGDPK_00940	gene
+PPHIGDPK_00941	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+PPHIGDPK_00941	gene	dnaX_2
+PPHIGDPK_00942	CDS	tmk_1	2.7.4.9	Thymidylate kinase
+PPHIGDPK_00942	gene	tmk_1
+PPHIGDPK_00943	CDS	walR	Transcriptional regulatory protein WalR
+PPHIGDPK_00943	gene	walR
+PPHIGDPK_00944	CDS	walK	2.7.13.3	Sensor histidine kinase WalK
+PPHIGDPK_00944	gene	walK
+PPHIGDPK_00945	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+PPHIGDPK_00945	gene	yycJ
+PPHIGDPK_00946	CDS	groL	60 kDa chaperonin
+PPHIGDPK_00946	gene	groL
+PPHIGDPK_00947	CDS	groS	10 kDa chaperonin
+PPHIGDPK_00947	gene	groS
+PPHIGDPK_00948	CDS	ssb_2	Single-stranded DNA-binding protein
+PPHIGDPK_00948	gene	ssb_2
+PPHIGDPK_00949	CDS	noxE	1.6.99.3	NADH oxidase
+PPHIGDPK_00949	gene	noxE
+PPHIGDPK_00950	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+PPHIGDPK_00950	gene	pheT_1
+PPHIGDPK_00951	CDS	ytpP	Thioredoxin-like protein YtpP
+PPHIGDPK_00951	gene	ytpP
+PPHIGDPK_00952	CDS	hypothetical protein
+PPHIGDPK_00952	gene
+PPHIGDPK_00953	CDS	pepA	3.4.11.7	Glutamyl aminopeptidase
+PPHIGDPK_00953	gene	pepA
+PPHIGDPK_00954	CDS	pbpF_1	Penicillin-binding protein 1F
+PPHIGDPK_00954	gene	pbpF_1
+PPHIGDPK_00955	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+PPHIGDPK_00955	gene	tyrS
+PPHIGDPK_00956	CDS	hypothetical protein
+PPHIGDPK_00956	gene
+PPHIGDPK_00957	CDS	nhaK_1	Sodium, potassium, lithium and rubidium/H(+) antiporter
+PPHIGDPK_00957	gene	nhaK_1
+PPHIGDPK_00958	CDS	hypothetical protein
+PPHIGDPK_00958	gene
+PPHIGDPK_00959	CDS	azoR	1.7.-.-	FMN-dependent NADH-azoreductase
+PPHIGDPK_00959	gene	azoR
+PPHIGDPK_00960	CDS	ribZ_1	Riboflavin transporter RibZ
+PPHIGDPK_00960	gene	ribZ_1
+PPHIGDPK_00961	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+PPHIGDPK_00961	gene	thiI
+PPHIGDPK_00962	CDS	hypothetical protein
+PPHIGDPK_00962	gene
+PPHIGDPK_00963	CDS	cysL_1	HTH-type transcriptional regulator CysL
+PPHIGDPK_00963	gene	cysL_1
+PPHIGDPK_00964	CDS	ldhB	1.1.1.27	L-lactate dehydrogenase 2
+PPHIGDPK_00964	gene	ldhB
+PPHIGDPK_00965	CDS	hypothetical protein
+PPHIGDPK_00965	gene
+PPHIGDPK_00966	CDS	cysL_2	HTH-type transcriptional regulator CysL
+PPHIGDPK_00966	gene	cysL_2
+PPHIGDPK_00967	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+PPHIGDPK_00967	gene	lysS
+PPHIGDPK_00968	CDS	apbE_2	2.7.1.180	FAD:protein FMN transferase
+PPHIGDPK_00968	gene	apbE_2
+PPHIGDPK_00969	CDS	nfr2	1.5.1.36	NADH-dependent flavin reductase subunit 2
+PPHIGDPK_00969	gene	nfr2
+PPHIGDPK_00970	CDS	lysP_2	Lysine-specific permease
+PPHIGDPK_00970	gene	lysP_2
+PPHIGDPK_00971	CDS	5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+PPHIGDPK_00971	gene
+PPHIGDPK_00972	CDS	5.4.99.-	putative RNA pseudouridine synthase
+PPHIGDPK_00972	gene
+PPHIGDPK_00973	CDS	nadK	2.7.1.23	NAD kinase
+PPHIGDPK_00973	gene	nadK
+PPHIGDPK_00974	CDS	yjbM	2.7.6.5	GTP pyrophosphokinase YjbM
+PPHIGDPK_00974	gene	yjbM
+PPHIGDPK_00975	CDS	hypothetical protein
+PPHIGDPK_00975	gene
+PPHIGDPK_00976	CDS	yjbK	3.6.1.-	Putative triphosphatase YjbK
+PPHIGDPK_00976	gene	yjbK
+PPHIGDPK_00977	CDS	hypothetical protein
+PPHIGDPK_00977	gene
+PPHIGDPK_00978	CDS	hypothetical protein
+PPHIGDPK_00978	gene
+PPHIGDPK_00979	CDS	hypothetical protein
+PPHIGDPK_00979	gene
+PPHIGDPK_00980	CDS	cycA_1	D-serine/D-alanine/glycine transporter
+PPHIGDPK_00980	gene	cycA_1
+PPHIGDPK_00981	CDS	cycA_2	D-serine/D-alanine/glycine transporter
+PPHIGDPK_00981	gene	cycA_2
+PPHIGDPK_00982	CDS	recA_1	Protein RecA
+PPHIGDPK_00982	gene	recA_1
+PPHIGDPK_00983	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+PPHIGDPK_00983	gene	mutM
+PPHIGDPK_00984	CDS	asnB_2	6.3.5.4	Asparagine synthetase B [glutamine-hydrolyzing]
+PPHIGDPK_00984	gene	asnB_2
+PPHIGDPK_00985	CDS	era	GTPase Era
+PPHIGDPK_00985	gene	era
+PPHIGDPK_00986	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+PPHIGDPK_00986	gene	cshA
+PPHIGDPK_00987	CDS	prfC	Peptide chain release factor 3
+PPHIGDPK_00987	gene	prfC
+PPHIGDPK_00988	CDS	oppF_1	Oligopeptide transport ATP-binding protein OppF
+PPHIGDPK_00988	gene	oppF_1
+PPHIGDPK_00989	CDS	oppD_1	Oligopeptide transport ATP-binding protein OppD
+PPHIGDPK_00989	gene	oppD_1
+PPHIGDPK_00990	CDS	oppC	Oligopeptide transport system permease protein OppC
+PPHIGDPK_00990	gene	oppC
+PPHIGDPK_00991	CDS	oppB	Oligopeptide transport system permease protein OppB
+PPHIGDPK_00991	gene	oppB
+PPHIGDPK_00992	CDS	oppA_1	Oligopeptide-binding protein OppA
+PPHIGDPK_00992	gene	oppA_1
+PPHIGDPK_00993	CDS	oppA_2	Oligopeptide-binding protein OppA
+PPHIGDPK_00993	gene	oppA_2
+PPHIGDPK_00994	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PPHIGDPK_00994	gene	murF_2
+PPHIGDPK_00995	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+PPHIGDPK_00995	gene	ddl
+PPHIGDPK_00996	CDS	recR	Recombination protein RecR
+PPHIGDPK_00996	gene	recR
+PPHIGDPK_00997	CDS	penA	Penicillin-binding protein 2B
+PPHIGDPK_00997	gene	penA
+PPHIGDPK_00998	CDS	ahpF	1.6.99.3	NADH dehydrogenase
+PPHIGDPK_00998	gene	ahpF
+PPHIGDPK_00999	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+PPHIGDPK_00999	gene	ahpC
+PPHIGDPK_01000	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PPHIGDPK_01000	gene	gpmA_2
+PPHIGDPK_01001	CDS	fosB	2.5.1.-	Metallothiol transferase FosB
+PPHIGDPK_01001	gene	fosB
+PPHIGDPK_01002	CDS	ytcD	putative HTH-type transcriptional regulator YtcD
+PPHIGDPK_01002	gene	ytcD
+PPHIGDPK_01003	CDS	yvgN	1.1.1.-	Glyoxal reductase
+PPHIGDPK_01003	gene	yvgN
+PPHIGDPK_01004	CDS	ydhP_1	Inner membrane transport protein YdhP
+PPHIGDPK_01004	gene	ydhP_1
+PPHIGDPK_01005	CDS	ydhP_2	Inner membrane transport protein YdhP
+PPHIGDPK_01005	gene	ydhP_2
+PPHIGDPK_01006	CDS	oxyR	Hydrogen peroxide-inducible genes activator
+PPHIGDPK_01006	gene	oxyR
+PPHIGDPK_01007	CDS	yxeB	Iron(3+)-hydroxamate-binding protein YxeB
+PPHIGDPK_01007	gene	yxeB
+PPHIGDPK_01008	CDS	feuC	Iron-uptake system permease protein FeuC
+PPHIGDPK_01008	gene	feuC
+PPHIGDPK_01009	CDS	hmuU	Hemin transport system permease protein HmuU
+PPHIGDPK_01009	gene	hmuU
+PPHIGDPK_01010	CDS	fecE_2	Fe(3+) dicitrate transport ATP-binding protein FecE
+PPHIGDPK_01010	gene	fecE_2
+PPHIGDPK_01011	CDS	hypothetical protein
+PPHIGDPK_01011	gene
+PPHIGDPK_01012	CDS	ecfT_1	Energy-coupling factor transporter transmembrane protein EcfT
+PPHIGDPK_01012	gene	ecfT_1
+PPHIGDPK_01013	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+PPHIGDPK_01013	gene	ykoD
+PPHIGDPK_01014	CDS	hypothetical protein
+PPHIGDPK_01014	gene
+PPHIGDPK_01015	CDS	metP	Methionine import system permease protein MetP
+PPHIGDPK_01015	gene	metP
+PPHIGDPK_01016	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+PPHIGDPK_01016	gene	metN
+PPHIGDPK_01017	CDS	metQ_1	D-methionine-binding lipoprotein MetQ
+PPHIGDPK_01017	gene	metQ_1
+PPHIGDPK_01018	CDS	metQ_2	D-methionine-binding lipoprotein MetQ
+PPHIGDPK_01018	gene	metQ_2
+PPHIGDPK_01019	CDS	metQ_3	putative D-methionine-binding lipoprotein MetQ
+PPHIGDPK_01019	gene	metQ_3
+PPHIGDPK_01020	CDS	metQ_4	D-methionine-binding lipoprotein MetQ
+PPHIGDPK_01020	gene	metQ_4
+PPHIGDPK_01021	CDS	thiT	Thiamine transporter ThiT
+PPHIGDPK_01021	gene	thiT
+PPHIGDPK_01022	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+PPHIGDPK_01022	gene	ybaK
+PPHIGDPK_01023	CDS	bioY2	Biotin transporter BioY2
+PPHIGDPK_01023	gene	bioY2
+PPHIGDPK_01024	CDS	hypothetical protein
+PPHIGDPK_01024	gene
+PPHIGDPK_01025	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_01025	gene
+PPHIGDPK_01026	CDS	hypothetical protein
+PPHIGDPK_01026	gene
+PPHIGDPK_01027	CDS	hypothetical protein
+PPHIGDPK_01027	gene
+PPHIGDPK_01028	CDS	hypothetical protein
+PPHIGDPK_01028	gene
+PPHIGDPK_01029	CDS	murA1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PPHIGDPK_01029	gene	murA1
+PPHIGDPK_01030	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_01030	gene
+PPHIGDPK_01031	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_01031	gene
+PPHIGDPK_01032	CDS	hypothetical protein
+PPHIGDPK_01032	gene
+PPHIGDPK_01033	CDS	fieF_1	Ferrous-iron efflux pump FieF
+PPHIGDPK_01033	gene	fieF_1
+PPHIGDPK_01034	CDS	hypothetical protein
+PPHIGDPK_01034	gene
+PPHIGDPK_01035	CDS	tetA_2	Tetracycline resistance protein, class C
+PPHIGDPK_01035	gene	tetA_2
+PPHIGDPK_01036	CDS	pepN	3.4.11.2	Aminopeptidase N
+PPHIGDPK_01036	gene	pepN
+PPHIGDPK_01037	CDS	tpx	1.11.1.-	putative thiol peroxidase
+PPHIGDPK_01037	gene	tpx
+PPHIGDPK_01038	CDS	hypothetical protein
+PPHIGDPK_01038	gene
+PPHIGDPK_01039	CDS	yfkN_2	Trifunctional nucleotide phosphoesterase protein YfkN
+PPHIGDPK_01039	gene	yfkN_2
+PPHIGDPK_01040	CDS	phnE_1	Phosphate-import permease protein PhnE
+PPHIGDPK_01040	gene	phnE_1
+PPHIGDPK_01041	CDS	phnE_2	Phosphate-import permease protein PhnE
+PPHIGDPK_01041	gene	phnE_2
+PPHIGDPK_01042	CDS	glnQ	Glutamine transport ATP-binding protein GlnQ
+PPHIGDPK_01042	gene	glnQ
+PPHIGDPK_01043	CDS	hypothetical protein
+PPHIGDPK_01043	gene
+PPHIGDPK_01044	CDS	hypothetical protein
+PPHIGDPK_01044	gene
+PPHIGDPK_01045	CDS	hypothetical protein
+PPHIGDPK_01045	gene
+PPHIGDPK_01046	CDS	hypothetical protein
+PPHIGDPK_01046	gene
+PPHIGDPK_01047	CDS	hypothetical protein
+PPHIGDPK_01047	gene
+PPHIGDPK_01048	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+PPHIGDPK_01048	gene	tsaD
+PPHIGDPK_01049	CDS	rimI_1	2.3.1.255	N-alpha-acetyltransferase RimI
+PPHIGDPK_01049	gene	rimI_1
+PPHIGDPK_01050	CDS	rimI_2	2.3.1.255	N-alpha-acetyltransferase RimI
+PPHIGDPK_01050	gene	rimI_2
+PPHIGDPK_01051	CDS	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PPHIGDPK_01051	gene	tsaB
+PPHIGDPK_01052	CDS	hypothetical protein
+PPHIGDPK_01052	gene
+PPHIGDPK_01053	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+PPHIGDPK_01053	gene	rnj1
+PPHIGDPK_01054	CDS	hypothetical protein
+PPHIGDPK_01054	gene
+PPHIGDPK_01055	CDS	add	3.5.4.4	Adenosine deaminase
+PPHIGDPK_01055	gene	add
+PPHIGDPK_01056	CDS	Protein SprT-like protein
+PPHIGDPK_01056	gene
+PPHIGDPK_01057	CDS	rps1	30S ribosomal protein S1
+PPHIGDPK_01057	gene	rps1
+PPHIGDPK_01058	CDS	rpsD	30S ribosomal protein S4
+PPHIGDPK_01058	gene	rpsD
+PPHIGDPK_01059	CDS	hypothetical protein
+PPHIGDPK_01059	gene
+PPHIGDPK_01060	tRNA	tRNA-Pro(tgg)
+PPHIGDPK_01060	gene
+PPHIGDPK_01061	tRNA	tRNA-Arg(acg)
+PPHIGDPK_01061	gene
+PPHIGDPK_01062	CDS	pgdA_2	3.5.1.104	Peptidoglycan-N-acetylglucosamine deacetylase
+PPHIGDPK_01062	gene	pgdA_2
+PPHIGDPK_01063	CDS	3.5.1.47	N-acetyldiaminopimelate deacetylase
+PPHIGDPK_01063	gene
+PPHIGDPK_01064	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PPHIGDPK_01064	gene	dapH
+PPHIGDPK_01065	CDS	hypothetical protein
+PPHIGDPK_01065	gene
+PPHIGDPK_01066	CDS	ecfT_2	Energy-coupling factor transporter transmembrane protein EcfT
+PPHIGDPK_01066	gene	ecfT_2
+PPHIGDPK_01067	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+PPHIGDPK_01067	gene	ecfA2
+PPHIGDPK_01068	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+PPHIGDPK_01068	gene	ecfA1
+PPHIGDPK_01069	tRNA	tRNA-Ser(gga)
+PPHIGDPK_01069	gene
+PPHIGDPK_01070	CDS	eno_2	4.2.1.11	Enolase
+PPHIGDPK_01070	gene	eno_2
+PPHIGDPK_01071	CDS	hypothetical protein
+PPHIGDPK_01071	gene
+PPHIGDPK_01072	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+PPHIGDPK_01072	gene	nrdG
+PPHIGDPK_01073	CDS	nrdD	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+PPHIGDPK_01073	gene	nrdD
+PPHIGDPK_01074	CDS	3.2.1.17	Muramidase-2
+PPHIGDPK_01074	gene
+PPHIGDPK_01075	CDS	hypothetical protein
+PPHIGDPK_01075	gene
+PPHIGDPK_01076	CDS	hypothetical protein
+PPHIGDPK_01076	gene
+PPHIGDPK_01077	CDS	pncA	3.5.1.19	Nicotinamidase/pyrazinamidase
+PPHIGDPK_01077	gene	pncA
+PPHIGDPK_01078	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+PPHIGDPK_01078	gene
+PPHIGDPK_01079	CDS	hypothetical protein
+PPHIGDPK_01079	gene
+PPHIGDPK_01080	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+PPHIGDPK_01080	gene	luxS
+PPHIGDPK_01081	CDS	hypothetical protein
+PPHIGDPK_01081	gene
+PPHIGDPK_01082	CDS	yhhX_1	1.-.-.-	putative oxidoreductase YhhX
+PPHIGDPK_01082	gene	yhhX_1
+PPHIGDPK_01083	CDS	hypothetical protein
+PPHIGDPK_01083	gene
+PPHIGDPK_01084	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_01084	gene
+PPHIGDPK_01085	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_01085	gene
+PPHIGDPK_01086	CDS	hypothetical protein
+PPHIGDPK_01086	gene
+PPHIGDPK_01087	CDS	nnrD	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+PPHIGDPK_01087	gene	nnrD
+PPHIGDPK_01088	CDS	5.3.1.29	Putative thiazole biosynthetic enzyme
+PPHIGDPK_01088	gene
+PPHIGDPK_01089	tRNA	tRNA-Leu(aag)
+PPHIGDPK_01089	gene
+PPHIGDPK_01090	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 3
+PPHIGDPK_01090	gene	fbp
+PPHIGDPK_01091	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+PPHIGDPK_01091	gene	rlmI
+PPHIGDPK_01092	CDS	ybhR	Inner membrane transport permease YbhR
+PPHIGDPK_01092	gene	ybhR
+PPHIGDPK_01093	CDS	ybhF	putative ABC transporter ATP-binding protein YbhF
+PPHIGDPK_01093	gene	ybhF
+PPHIGDPK_01094	CDS	kstR	HTH-type transcriptional repressor KstR
+PPHIGDPK_01094	gene	kstR
+PPHIGDPK_01095	CDS	pepDA_1	3.4.-.-	Dipeptidase A
+PPHIGDPK_01095	gene	pepDA_1
+PPHIGDPK_01096	CDS	glpF_1	putative glycerol uptake facilitator protein
+PPHIGDPK_01096	gene	glpF_1
+PPHIGDPK_01097	CDS	glpF_2	Glycerol uptake facilitator protein
+PPHIGDPK_01097	gene	glpF_2
+PPHIGDPK_01098	CDS	dhaM	2.7.1.-	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+PPHIGDPK_01098	gene	dhaM
+PPHIGDPK_01099	CDS	dhaL	2.7.-.-	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+PPHIGDPK_01099	gene	dhaL
+PPHIGDPK_01100	CDS	dhaK	2.7.-.-	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+PPHIGDPK_01100	gene	dhaK
+PPHIGDPK_01101	CDS	dhaS	HTH-type dhaKLM operon transcriptional activator DhaS
+PPHIGDPK_01101	gene	dhaS
+PPHIGDPK_01102	CDS	dhaQ	DhaKLM operon coactivator DhaQ
+PPHIGDPK_01102	gene	dhaQ
+PPHIGDPK_01103	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+PPHIGDPK_01103	gene	pgk
+PPHIGDPK_01104	CDS	3.1.3.-	Putative phosphatase
+PPHIGDPK_01104	gene
+PPHIGDPK_01105	CDS	rpsU	30S ribosomal protein S21
+PPHIGDPK_01105	gene	rpsU
+PPHIGDPK_01106	CDS	adhR_1	HTH-type transcriptional regulator AdhR
+PPHIGDPK_01106	gene	adhR_1
+PPHIGDPK_01107	CDS	bmr3	Multidrug resistance protein 3
+PPHIGDPK_01107	gene	bmr3
+PPHIGDPK_01108	CDS	mftR	Putative mycofactocin biosynthesis transcriptional regulator MftR
+PPHIGDPK_01108	gene	mftR
+PPHIGDPK_01109	CDS	1.3.1.103	2-haloacrylate reductase
+PPHIGDPK_01109	gene
+PPHIGDPK_01110	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+PPHIGDPK_01110	gene	ung
+PPHIGDPK_01111	CDS	hypothetical protein
+PPHIGDPK_01111	gene
+PPHIGDPK_01112	CDS	putative transcriptional regulatory protein
+PPHIGDPK_01112	gene
+PPHIGDPK_01113	CDS	hypothetical protein
+PPHIGDPK_01113	gene
+PPHIGDPK_01114	CDS	hypothetical protein
+PPHIGDPK_01114	gene
+PPHIGDPK_01115	CDS	bsmA	2.1.1.156	Glycine/sarcosine N-methyltransferase
+PPHIGDPK_01115	gene	bsmA
+PPHIGDPK_01116	CDS	rsfS	Ribosomal silencing factor RsfS
+PPHIGDPK_01116	gene	rsfS
+PPHIGDPK_01117	CDS	phnO	2.3.1.-	Aminoalkylphosphonate N-acetyltransferase
+PPHIGDPK_01117	gene	phnO
+PPHIGDPK_01118	CDS	hypothetical protein
+PPHIGDPK_01118	gene
+PPHIGDPK_01119	CDS	nadD_2	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+PPHIGDPK_01119	gene	nadD_2
+PPHIGDPK_01120	CDS	yhbY	RNA-binding protein YhbY
+PPHIGDPK_01120	gene	yhbY
+PPHIGDPK_01121	CDS	hflX	GTPase HflX
+PPHIGDPK_01121	gene	hflX
+PPHIGDPK_01122	CDS	rppH_3	3.6.1.-	RNA pyrophosphohydrolase
+PPHIGDPK_01122	gene	rppH_3
+PPHIGDPK_01123	CDS	der_1	GTPase Der
+PPHIGDPK_01123	gene	der_1
+PPHIGDPK_01124	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+PPHIGDPK_01124	gene	guaB
+PPHIGDPK_01125	CDS	lyc	3.2.1.17	Autolytic lysozyme
+PPHIGDPK_01125	gene	lyc
+PPHIGDPK_01126	CDS	hypothetical protein
+PPHIGDPK_01126	gene
+PPHIGDPK_01127	CDS	hypothetical protein
+PPHIGDPK_01127	gene
+PPHIGDPK_01128	CDS	glf	5.4.99.9	UDP-galactopyranose mutase
+PPHIGDPK_01128	gene	glf
+PPHIGDPK_01129	CDS	rfbX	Putative O-antigen transporter
+PPHIGDPK_01129	gene	rfbX
+PPHIGDPK_01130	CDS	epsE	2.4.-.-	Putative glycosyltransferase EpsE
+PPHIGDPK_01130	gene	epsE
+PPHIGDPK_01131	CDS	rfbB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+PPHIGDPK_01131	gene	rfbB
+PPHIGDPK_01132	CDS	tarI'	2.7.7.40	Ribitol-5-phosphate cytidylyltransferase 2
+PPHIGDPK_01132	gene	tarI'
+PPHIGDPK_01133	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+PPHIGDPK_01133	gene	epsJ_1
+PPHIGDPK_01134	CDS	hypothetical protein
+PPHIGDPK_01134	gene
+PPHIGDPK_01135	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+PPHIGDPK_01135	gene	epsJ_2
+PPHIGDPK_01136	CDS	epsJ_3	2.4.-.-	putative glycosyltransferase EpsJ
+PPHIGDPK_01136	gene	epsJ_3
+PPHIGDPK_01137	CDS	wbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+PPHIGDPK_01137	gene	wbgU
+PPHIGDPK_01138	CDS	hypothetical protein
+PPHIGDPK_01138	gene
+PPHIGDPK_01139	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+PPHIGDPK_01139	gene	ppm1
+PPHIGDPK_01140	CDS	hypothetical protein
+PPHIGDPK_01140	gene
+PPHIGDPK_01141	CDS	epsJ_4	2.4.-.-	putative glycosyltransferase EpsJ
+PPHIGDPK_01141	gene	epsJ_4
+PPHIGDPK_01142	CDS	hypothetical protein
+PPHIGDPK_01142	gene
+PPHIGDPK_01143	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+PPHIGDPK_01143	gene	tagH
+PPHIGDPK_01144	CDS	tagG	Teichoic acid translocation permease protein TagG
+PPHIGDPK_01144	gene	tagG
+PPHIGDPK_01145	CDS	kfoC	Chondroitin synthase
+PPHIGDPK_01145	gene	kfoC
+PPHIGDPK_01146	CDS	hypothetical protein
+PPHIGDPK_01146	gene
+PPHIGDPK_01147	CDS	strL	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+PPHIGDPK_01147	gene	strL
+PPHIGDPK_01148	CDS	bshA	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+PPHIGDPK_01148	gene	bshA
+PPHIGDPK_01149	CDS	hypothetical protein
+PPHIGDPK_01149	gene
+PPHIGDPK_01150	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+PPHIGDPK_01150	gene	rmlB
+PPHIGDPK_01151	CDS	hypothetical protein
+PPHIGDPK_01151	gene
+PPHIGDPK_01152	CDS	rfbC	5.1.3.13	putative dTDP-4-dehydrorhamnose 3,5-epimerase
+PPHIGDPK_01152	gene	rfbC
+PPHIGDPK_01153	CDS	hypothetical protein
+PPHIGDPK_01153	gene
+PPHIGDPK_01154	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+PPHIGDPK_01154	gene	rfbA
+PPHIGDPK_01155	CDS	hypothetical protein
+PPHIGDPK_01155	gene
+PPHIGDPK_01156	CDS	rpmB	50S ribosomal protein L28
+PPHIGDPK_01156	gene	rpmB
+PPHIGDPK_01157	CDS	hypothetical protein
+PPHIGDPK_01157	gene
+PPHIGDPK_01158	CDS	hypothetical protein
+PPHIGDPK_01158	gene
+PPHIGDPK_01159	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+PPHIGDPK_01159	gene	msrB
+PPHIGDPK_01160	CDS	hypothetical protein
+PPHIGDPK_01160	gene
+PPHIGDPK_01161	CDS	feoB	Fe(2+) transporter FeoB
+PPHIGDPK_01161	gene	feoB
+PPHIGDPK_01162	CDS	hypothetical protein
+PPHIGDPK_01162	gene
+PPHIGDPK_01163	CDS	hypothetical protein
+PPHIGDPK_01163	gene
+PPHIGDPK_01164	CDS	menA_3	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PPHIGDPK_01164	gene	menA_3
+PPHIGDPK_01165	CDS	hexs-b	2.5.1.83	Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+PPHIGDPK_01165	gene	hexs-b
+PPHIGDPK_01166	CDS	1.-.-.-	Putative NAD(P)H nitroreductase
+PPHIGDPK_01166	gene
+PPHIGDPK_01167	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+PPHIGDPK_01167	gene	rlmN
+PPHIGDPK_01168	CDS	hypothetical protein
+PPHIGDPK_01168	gene
+PPHIGDPK_01169	CDS	mggB	3.1.3.-	Mannosylglucosyl-3-phosphoglycerate phosphatase
+PPHIGDPK_01169	gene	mggB
+PPHIGDPK_01170	CDS	hypothetical protein
+PPHIGDPK_01170	gene
+PPHIGDPK_01171	CDS	hypothetical protein
+PPHIGDPK_01171	gene
+PPHIGDPK_01172	CDS	dut_1	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PPHIGDPK_01172	gene	dut_1
+PPHIGDPK_01173	CDS	bglC	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglC
+PPHIGDPK_01173	gene	bglC
+PPHIGDPK_01174	CDS	hypothetical protein
+PPHIGDPK_01174	gene
+PPHIGDPK_01175	CDS	hypothetical protein
+PPHIGDPK_01175	gene
+PPHIGDPK_01176	CDS	gmuC	PTS system oligo-beta-mannoside-specific EIIC component
+PPHIGDPK_01176	gene	gmuC
+PPHIGDPK_01177	CDS	hypothetical protein
+PPHIGDPK_01177	gene
+PPHIGDPK_01178	CDS	hypothetical protein
+PPHIGDPK_01178	gene
+PPHIGDPK_01179	CDS	hypothetical protein
+PPHIGDPK_01179	gene
+PPHIGDPK_01180	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+PPHIGDPK_01180	gene	gluP
+PPHIGDPK_01181	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+PPHIGDPK_01181	gene
+PPHIGDPK_01182	CDS	cspC_2	Cold shock protein CspC
+PPHIGDPK_01182	gene	cspC_2
+PPHIGDPK_01183	CDS	mepA_1	Multidrug export protein MepA
+PPHIGDPK_01183	gene	mepA_1
+PPHIGDPK_01184	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+PPHIGDPK_01184	gene	nylA
+PPHIGDPK_01185	CDS	hypothetical protein
+PPHIGDPK_01185	gene
+PPHIGDPK_01186	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+PPHIGDPK_01186	gene	gatB
+PPHIGDPK_01187	CDS	hypothetical protein
+PPHIGDPK_01187	gene
+PPHIGDPK_01188	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+PPHIGDPK_01188	gene	gatA
+PPHIGDPK_01189	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+PPHIGDPK_01189	gene	gatC
+PPHIGDPK_01190	CDS	codY_2	GTP-sensing transcriptional pleiotropic repressor CodY
+PPHIGDPK_01190	gene	codY_2
+PPHIGDPK_01191	CDS	alaA	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+PPHIGDPK_01191	gene	alaA
+PPHIGDPK_01192	CDS	hypothetical protein
+PPHIGDPK_01192	gene
+PPHIGDPK_01193	CDS	hypothetical protein
+PPHIGDPK_01193	gene
+PPHIGDPK_01194	CDS	hypothetical protein
+PPHIGDPK_01194	gene
+PPHIGDPK_01195	CDS	hypothetical protein
+PPHIGDPK_01195	gene
+PPHIGDPK_01196	CDS	hypothetical protein
+PPHIGDPK_01196	gene
+PPHIGDPK_01197	CDS	mdtG	Multidrug resistance protein MdtG
+PPHIGDPK_01197	gene	mdtG
+PPHIGDPK_01198	CDS	hypothetical protein
+PPHIGDPK_01198	gene
+PPHIGDPK_01199	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+PPHIGDPK_01199	gene	tgt
+PPHIGDPK_01200	tRNA	tRNA-Thr(cgt)
+PPHIGDPK_01200	gene
+PPHIGDPK_01201	CDS	hypothetical protein
+PPHIGDPK_01201	gene
+PPHIGDPK_01202	CDS	hypothetical protein
+PPHIGDPK_01202	gene
+PPHIGDPK_01203	CDS	hypothetical protein
+PPHIGDPK_01203	gene
+PPHIGDPK_01204	CDS	hypothetical protein
+PPHIGDPK_01204	gene
+PPHIGDPK_01205	CDS	hypothetical protein
+PPHIGDPK_01205	gene
+PPHIGDPK_01206	CDS	hypothetical protein
+PPHIGDPK_01206	gene
+PPHIGDPK_01207	CDS	hypothetical protein
+PPHIGDPK_01207	gene
+PPHIGDPK_01208	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+PPHIGDPK_01208	gene	glgB
+PPHIGDPK_01209	CDS	slmA	Nucleoid occlusion factor SlmA
+PPHIGDPK_01209	gene	slmA
+PPHIGDPK_01210	CDS	sdh_1	1.1.1.276	Serine 3-dehydrogenase
+PPHIGDPK_01210	gene	sdh_1
+PPHIGDPK_01211	CDS	hypothetical protein
+PPHIGDPK_01211	gene
+PPHIGDPK_01212	CDS	acr1_2	1.2.1.-	Fatty acyl-CoA reductase
+PPHIGDPK_01212	gene	acr1_2
+PPHIGDPK_01213	CDS	hypothetical protein
+PPHIGDPK_01213	gene
+PPHIGDPK_01214	CDS	hypothetical protein
+PPHIGDPK_01214	gene
+PPHIGDPK_01215	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+PPHIGDPK_01215	gene	yrrK
+PPHIGDPK_01216	CDS	hypothetical protein
+PPHIGDPK_01216	gene
+PPHIGDPK_01217	CDS	ydhF	1.-.-.-	Oxidoreductase YdhF
+PPHIGDPK_01217	gene	ydhF
+PPHIGDPK_01218	CDS	rpmH	50S ribosomal protein L34
+PPHIGDPK_01218	gene	rpmH
+PPHIGDPK_01219	CDS	hypothetical protein
+PPHIGDPK_01219	gene
+PPHIGDPK_01220	CDS	misCA	Membrane protein insertase MisCA
+PPHIGDPK_01220	gene	misCA
+PPHIGDPK_01221	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+PPHIGDPK_01221	gene	rnpA
+PPHIGDPK_01222	CDS	hypothetical protein
+PPHIGDPK_01222	gene
+PPHIGDPK_01223	CDS	tetA_3	Tetracycline resistance protein, class B
+PPHIGDPK_01223	gene	tetA_3
+PPHIGDPK_01224	CDS	argH	4.3.2.1	Argininosuccinate lyase
+PPHIGDPK_01224	gene	argH
+PPHIGDPK_01225	CDS	argG	6.3.4.5	Argininosuccinate synthase
+PPHIGDPK_01225	gene	argG
+PPHIGDPK_01226	tRNA	tRNA-Ser(cga)
+PPHIGDPK_01226	gene
+PPHIGDPK_01227	CDS	hypothetical protein
+PPHIGDPK_01227	gene
+PPHIGDPK_01228	CDS	2.4.-.-	putative glycosyltransferase
+PPHIGDPK_01228	gene
+PPHIGDPK_01229	CDS	tetA_4	Tetracycline resistance protein, class B
+PPHIGDPK_01229	gene	tetA_4
+PPHIGDPK_01230	CDS	sugE	Quaternary ammonium compound-resistance protein SugE
+PPHIGDPK_01230	gene	sugE
+PPHIGDPK_01231	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+PPHIGDPK_01231	gene	menH_1
+PPHIGDPK_01232	tRNA	tRNA-Leu(aag)
+PPHIGDPK_01232	gene
+PPHIGDPK_01233	CDS	Nucleoid-associated protein
+PPHIGDPK_01233	gene
+PPHIGDPK_01234	CDS	hypothetical protein
+PPHIGDPK_01234	gene
+PPHIGDPK_01235	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+PPHIGDPK_01235	gene	ptsI
+PPHIGDPK_01236	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+PPHIGDPK_01236	gene	ptsH
+PPHIGDPK_01237	CDS	aroF_1	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+PPHIGDPK_01237	gene	aroF_1
+PPHIGDPK_01238	CDS	secA	Protein translocase subunit SecA
+PPHIGDPK_01238	gene	secA
+PPHIGDPK_01239	CDS	azoR2	1.7.-.-	FMN-dependent NADH-azoreductase 2
+PPHIGDPK_01239	gene	azoR2
+PPHIGDPK_01240	CDS	adcR	Transcriptional regulator AdcR
+PPHIGDPK_01240	gene	adcR
+PPHIGDPK_01241	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PPHIGDPK_01241	gene	plsC
+PPHIGDPK_01242	CDS	yhdG	putative amino acid permease YhdG
+PPHIGDPK_01242	gene	yhdG
+PPHIGDPK_01243	CDS	3.1.3.-	D-ribitol-5-phosphate phosphatase
+PPHIGDPK_01243	gene
+PPHIGDPK_01244	CDS	hypothetical protein
+PPHIGDPK_01244	gene
+PPHIGDPK_01245	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+PPHIGDPK_01245	gene	dtd
+PPHIGDPK_01246	CDS	csbB	2.4.-.-	Putative glycosyltransferase CsbB
+PPHIGDPK_01246	gene	csbB
+PPHIGDPK_01247	CDS	relA	Bifunctional (p)ppGpp synthase/hydrolase RelA
+PPHIGDPK_01247	gene	relA
+PPHIGDPK_01248	CDS	icaB_2	3.5.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+PPHIGDPK_01248	gene	icaB_2
+PPHIGDPK_01249	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+PPHIGDPK_01249	gene	rsmE
+PPHIGDPK_01250	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+PPHIGDPK_01250	gene	prmA
+PPHIGDPK_01251	CDS	hypothetical protein
+PPHIGDPK_01251	gene
+PPHIGDPK_01252	CDS	hypothetical protein
+PPHIGDPK_01252	gene
+PPHIGDPK_01253	CDS	ybiT_1	putative ABC transporter ATP-binding protein YbiT
+PPHIGDPK_01253	gene	ybiT_1
+PPHIGDPK_01254	CDS	hypothetical protein
+PPHIGDPK_01254	gene
+PPHIGDPK_01255	CDS	speG_1	2.3.1.57	Spermidine N(1)-acetyltransferase
+PPHIGDPK_01255	gene	speG_1
+PPHIGDPK_01256	CDS	putative AAA domain-containing protein
+PPHIGDPK_01256	gene
+PPHIGDPK_01257	CDS	parB	putative chromosome-partitioning protein ParB
+PPHIGDPK_01257	gene	parB
+PPHIGDPK_01258	CDS	zosA	3.6.3.-	Zinc-transporting ATPase
+PPHIGDPK_01258	gene	zosA
+PPHIGDPK_01259	CDS	rpmF	50S ribosomal protein L32
+PPHIGDPK_01259	gene	rpmF
+PPHIGDPK_01260	CDS	rpmGA_2	50S ribosomal protein L33 1
+PPHIGDPK_01260	gene	rpmGA_2
+PPHIGDPK_01261	CDS	hypothetical protein
+PPHIGDPK_01261	gene
+PPHIGDPK_01262	CDS	hypothetical protein
+PPHIGDPK_01262	gene
+PPHIGDPK_01263	CDS	hypothetical protein
+PPHIGDPK_01263	gene
+PPHIGDPK_01264	CDS	flr	Flavoredoxin
+PPHIGDPK_01264	gene	flr
+PPHIGDPK_01265	CDS	mhqA	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+PPHIGDPK_01265	gene	mhqA
+PPHIGDPK_01266	CDS	mhqD	3.1.-.-	Putative hydrolase MhqD
+PPHIGDPK_01266	gene	mhqD
+PPHIGDPK_01267	CDS	hypothetical protein
+PPHIGDPK_01267	gene
+PPHIGDPK_01268	CDS	Putative universal stress protein
+PPHIGDPK_01268	gene
+PPHIGDPK_01269	CDS	sdh_2	1.1.1.276	Serine 3-dehydrogenase
+PPHIGDPK_01269	gene	sdh_2
+PPHIGDPK_01270	CDS	mgl	4.4.1.11	L-methionine gamma-lyase
+PPHIGDPK_01270	gene	mgl
+PPHIGDPK_01271	CDS	hypothetical protein
+PPHIGDPK_01271	gene
+PPHIGDPK_01272	CDS	hypothetical protein
+PPHIGDPK_01272	gene
+PPHIGDPK_01273	CDS	hypothetical protein
+PPHIGDPK_01273	gene
+PPHIGDPK_01274	CDS	ybiT_2	putative ABC transporter ATP-binding protein YbiT
+PPHIGDPK_01274	gene	ybiT_2
+PPHIGDPK_01275	CDS	ybiV	3.1.3.23	Sugar phosphatase YbiV
+PPHIGDPK_01275	gene	ybiV
+PPHIGDPK_01276	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+PPHIGDPK_01276	gene	plsX
+PPHIGDPK_01277	CDS	putative transporter
+PPHIGDPK_01277	gene
+PPHIGDPK_01278	CDS	osmC	1.11.1.15	Peroxiredoxin OsmC
+PPHIGDPK_01278	gene	osmC
+PPHIGDPK_01279	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+PPHIGDPK_01279	gene	trpS2
+PPHIGDPK_01280	CDS	hypothetical protein
+PPHIGDPK_01280	gene
+PPHIGDPK_01281	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+PPHIGDPK_01281	gene	glpQ_1
+PPHIGDPK_01282	CDS	lplJ	6.3.1.20	Lipoate-protein ligase LplJ
+PPHIGDPK_01282	gene	lplJ
+PPHIGDPK_01283	CDS	pdhA	1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha
+PPHIGDPK_01283	gene	pdhA
+PPHIGDPK_01284	CDS	pdhB	1.2.4.1	Pyruvate dehydrogenase E1 component subunit beta
+PPHIGDPK_01284	gene	pdhB
+PPHIGDPK_01285	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+PPHIGDPK_01285	gene	pdhC
+PPHIGDPK_01286	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+PPHIGDPK_01286	gene	pdhD
+PPHIGDPK_01287	CDS	ndvA	3.6.3.42	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+PPHIGDPK_01287	gene	ndvA
+PPHIGDPK_01288	CDS	queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+PPHIGDPK_01288	gene	queE
+PPHIGDPK_01289	CDS	hypothetical protein
+PPHIGDPK_01289	gene
+PPHIGDPK_01290	CDS	recO	DNA repair protein RecO
+PPHIGDPK_01290	gene	recO
+PPHIGDPK_01291	CDS	patA_1	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PPHIGDPK_01291	gene	patA_1
+PPHIGDPK_01292	tRNA	tRNA-Lys(ctt)
+PPHIGDPK_01292	gene
+PPHIGDPK_01293	CDS	hypothetical protein
+PPHIGDPK_01293	gene
+PPHIGDPK_01294	CDS	dauA	C4-dicarboxylic acid transporter DauA
+PPHIGDPK_01294	gene	dauA
+PPHIGDPK_01295	CDS	hypothetical protein
+PPHIGDPK_01295	gene
+PPHIGDPK_01296	CDS	yafP	2.3.1.-	putative N-acetyltransferase YafP
+PPHIGDPK_01296	gene	yafP
+PPHIGDPK_01297	CDS	mtlD	1.1.1.17	Mannitol-1-phosphate 5-dehydrogenase
+PPHIGDPK_01297	gene	mtlD
+PPHIGDPK_01298	CDS	mtlF	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+PPHIGDPK_01298	gene	mtlF
+PPHIGDPK_01299	CDS	mtlR_2	Transcriptional regulator MtlR
+PPHIGDPK_01299	gene	mtlR_2
+PPHIGDPK_01300	CDS	mtlA	PTS system mannitol-specific EIICB component
+PPHIGDPK_01300	gene	mtlA
+PPHIGDPK_01301	tRNA	tRNA-Asn(gtt)
+PPHIGDPK_01301	gene
+PPHIGDPK_01302	rRNA	5S ribosomal RNA
+PPHIGDPK_01302	gene
+PPHIGDPK_01303	tRNA	tRNA-Ile(gat)
+PPHIGDPK_01303	gene
+PPHIGDPK_01304	tRNA	tRNA-Gly(tcc)
+PPHIGDPK_01304	gene
+PPHIGDPK_01305	tRNA	tRNA-Phe(gaa)
+PPHIGDPK_01305	gene
+PPHIGDPK_01306	tRNA	tRNA-Met(cat)
+PPHIGDPK_01306	gene
+PPHIGDPK_01307	tRNA	tRNA-Ser(tga)
+PPHIGDPK_01307	gene
+PPHIGDPK_01308	tRNA	tRNA-Glu(ttc)
+PPHIGDPK_01308	gene
+PPHIGDPK_01309	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+PPHIGDPK_01309	gene	ftsH
+PPHIGDPK_01310	CDS	hpt_1	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+PPHIGDPK_01310	gene	hpt_1
+PPHIGDPK_01311	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+PPHIGDPK_01311	gene	tilS
+PPHIGDPK_01312	CDS	hypothetical protein
+PPHIGDPK_01312	gene
+PPHIGDPK_01313	CDS	hypothetical protein
+PPHIGDPK_01313	gene
+PPHIGDPK_01314	CDS	hypothetical protein
+PPHIGDPK_01314	gene
+PPHIGDPK_01315	CDS	hslR	Heat shock protein 15
+PPHIGDPK_01315	gene	hslR
+PPHIGDPK_01316	CDS	hypothetical protein
+PPHIGDPK_01316	gene
+PPHIGDPK_01317	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+PPHIGDPK_01317	gene	mfd
+PPHIGDPK_01318	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+PPHIGDPK_01318	gene	pth
+PPHIGDPK_01319	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+PPHIGDPK_01319	gene	macB_1
+PPHIGDPK_01320	CDS	hypothetical protein
+PPHIGDPK_01320	gene
+PPHIGDPK_01321	CDS	hypothetical protein
+PPHIGDPK_01321	gene
+PPHIGDPK_01322	CDS	hypothetical protein
+PPHIGDPK_01322	gene
+PPHIGDPK_01323	CDS	ychF	Ribosome-binding ATPase YchF
+PPHIGDPK_01323	gene	ychF
+PPHIGDPK_01324	CDS	hypothetical protein
+PPHIGDPK_01324	gene
+PPHIGDPK_01325	CDS	hypothetical protein
+PPHIGDPK_01325	gene
+PPHIGDPK_01326	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+PPHIGDPK_01326	gene	addA
+PPHIGDPK_01327	CDS	rexB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+PPHIGDPK_01327	gene	rexB
+PPHIGDPK_01328	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+PPHIGDPK_01328	gene	dnaN
+PPHIGDPK_01329	CDS	dnaA	Chromosomal replication initiator protein DnaA
+PPHIGDPK_01329	gene	dnaA
+PPHIGDPK_01330	rRNA	16S ribosomal RNA
+PPHIGDPK_01330	gene
+PPHIGDPK_01331	tRNA	tRNA-Ala(tgc)
+PPHIGDPK_01331	gene
+PPHIGDPK_01332	rRNA	23S ribosomal RNA
+PPHIGDPK_01332	gene
+PPHIGDPK_01333	rRNA	5S ribosomal RNA
+PPHIGDPK_01333	gene
+PPHIGDPK_01334	CDS	recA_2	Protein RecA
+PPHIGDPK_01334	gene	recA_2
+PPHIGDPK_01335	CDS	glpF_3	Glycerol uptake facilitator protein
+PPHIGDPK_01335	gene	glpF_3
+PPHIGDPK_01336	CDS	glpO	1.1.3.21	Alpha-glycerophosphate oxidase
+PPHIGDPK_01336	gene	glpO
+PPHIGDPK_01337	CDS	glpK	2.7.1.30	Glycerol kinase
+PPHIGDPK_01337	gene	glpK
+PPHIGDPK_01338	CDS	hypothetical protein
+PPHIGDPK_01338	gene
+PPHIGDPK_01339	CDS	hypothetical protein
+PPHIGDPK_01339	gene
+PPHIGDPK_01340	CDS	nhaK_2	Sodium, potassium, lithium and rubidium/H(+) antiporter
+PPHIGDPK_01340	gene	nhaK_2
+PPHIGDPK_01341	CDS	hypothetical protein
+PPHIGDPK_01341	gene
+PPHIGDPK_01342	CDS	amyS	3.2.1.1	Alpha-amylase
+PPHIGDPK_01342	gene	amyS
+PPHIGDPK_01343	CDS	1.13.12.4	Lactate 2-monooxygenase
+PPHIGDPK_01343	gene
+PPHIGDPK_01344	CDS	aroF_2	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+PPHIGDPK_01344	gene	aroF_2
+PPHIGDPK_01345	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+PPHIGDPK_01345	gene	metF
+PPHIGDPK_01346	CDS	metE_1	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+PPHIGDPK_01346	gene	metE_1
+PPHIGDPK_01347	CDS	ideR	Iron-dependent repressor IdeR
+PPHIGDPK_01347	gene	ideR
+PPHIGDPK_01348	CDS	mgtA	3.6.3.2	Magnesium-transporting ATPase, P-type 1
+PPHIGDPK_01348	gene	mgtA
+PPHIGDPK_01349	CDS	hypothetical protein
+PPHIGDPK_01349	gene
+PPHIGDPK_01350	CDS	dltC	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 2
+PPHIGDPK_01350	gene	dltC
+PPHIGDPK_01351	CDS	patA_2	2.3.1.-	Peptidoglycan O-acetyltransferase
+PPHIGDPK_01351	gene	patA_2
+PPHIGDPK_01352	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+PPHIGDPK_01352	gene	dltA
+PPHIGDPK_01353	CDS	hypothetical protein
+PPHIGDPK_01353	gene
+PPHIGDPK_01354	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+PPHIGDPK_01354	gene	thiE
+PPHIGDPK_01355	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+PPHIGDPK_01355	gene	thiD
+PPHIGDPK_01356	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+PPHIGDPK_01356	gene	thiM
+PPHIGDPK_01357	CDS	pgaC_1	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+PPHIGDPK_01357	gene	pgaC_1
+PPHIGDPK_01358	CDS	mnaA	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase
+PPHIGDPK_01358	gene	mnaA
+PPHIGDPK_01359	CDS	hypothetical protein
+PPHIGDPK_01359	gene
+PPHIGDPK_01360	CDS	rplL	50S ribosomal protein L7/L12
+PPHIGDPK_01360	gene	rplL
+PPHIGDPK_01361	CDS	rplJ	50S ribosomal protein L10
+PPHIGDPK_01361	gene	rplJ
+PPHIGDPK_01362	CDS	hypothetical protein
+PPHIGDPK_01362	gene
+PPHIGDPK_01363	CDS	hypothetical protein
+PPHIGDPK_01363	gene
+PPHIGDPK_01364	CDS	yheH	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+PPHIGDPK_01364	gene	yheH
+PPHIGDPK_01365	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+PPHIGDPK_01365	gene	yheI
+PPHIGDPK_01366	CDS	ribU	Riboflavin transporter RibU
+PPHIGDPK_01366	gene	ribU
+PPHIGDPK_01367	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+PPHIGDPK_01367	gene	rluB
+PPHIGDPK_01368	CDS	scpB	Segregation and condensation protein B
+PPHIGDPK_01368	gene	scpB
+PPHIGDPK_01369	CDS	scpA	Segregation and condensation protein A
+PPHIGDPK_01369	gene	scpA
+PPHIGDPK_01370	CDS	ynbA	Tyrosine recombinase XerD-like protein
+PPHIGDPK_01370	gene	ynbA
+PPHIGDPK_01371	CDS	ykuL	CBS domain-containing protein YkuL
+PPHIGDPK_01371	gene	ykuL
+PPHIGDPK_01372	CDS	yfcE	3.1.4.-	Phosphodiesterase YfcE
+PPHIGDPK_01372	gene	yfcE
+PPHIGDPK_01373	CDS	rdgB	3.6.1.9	dITP/XTP pyrophosphatase
+PPHIGDPK_01373	gene	rdgB
+PPHIGDPK_01374	CDS	murI	5.1.1.3	Glutamate racemase
+PPHIGDPK_01374	gene	murI
+PPHIGDPK_01375	CDS	hypothetical protein
+PPHIGDPK_01375	gene
+PPHIGDPK_01376	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+PPHIGDPK_01376	gene	lysA
+PPHIGDPK_01377	CDS	gltB	1.4.1.13	Glutamate synthase [NADPH] small chain
+PPHIGDPK_01377	gene	gltB
+PPHIGDPK_01378	CDS	gltA	1.4.1.13	Glutamate synthase [NADPH] large chain
+PPHIGDPK_01378	gene	gltA
+PPHIGDPK_01379	CDS	maa_2	2.3.1.79	Maltose O-acetyltransferase
+PPHIGDPK_01379	gene	maa_2
+PPHIGDPK_01380	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+PPHIGDPK_01380	gene	ilvE
+PPHIGDPK_01381	CDS	ykuT	putative MscS family protein YkuT
+PPHIGDPK_01381	gene	ykuT
+PPHIGDPK_01382	CDS	gadB	4.1.1.15	Glutamate decarboxylase
+PPHIGDPK_01382	gene	gadB
+PPHIGDPK_01383	CDS	gadC_2	Glutamate/gamma-aminobutyrate antiporter
+PPHIGDPK_01383	gene	gadC_2
+PPHIGDPK_01384	CDS	hypothetical protein
+PPHIGDPK_01384	gene
+PPHIGDPK_01385	CDS	hypothetical protein
+PPHIGDPK_01385	gene
+PPHIGDPK_01386	CDS	degA_2	HTH-type transcriptional regulator DegA
+PPHIGDPK_01386	gene	degA_2
+PPHIGDPK_01387	CDS	scrB	3.2.1.26	Sucrose-6-phosphate hydrolase
+PPHIGDPK_01387	gene	scrB
+PPHIGDPK_01388	CDS	treP	PTS system trehalose-specific EIIBC component
+PPHIGDPK_01388	gene	treP
+PPHIGDPK_01389	CDS	gmuE_1	2.7.1.4	Putative fructokinase
+PPHIGDPK_01389	gene	gmuE_1
+PPHIGDPK_01390	tRNA	tRNA-Met(cat)
+PPHIGDPK_01390	gene
+PPHIGDPK_01391	CDS	hypothetical protein
+PPHIGDPK_01391	gene
+PPHIGDPK_01392	CDS	hypothetical protein
+PPHIGDPK_01392	gene
+PPHIGDPK_01393	CDS	ffh	Signal recognition particle protein
+PPHIGDPK_01393	gene	ffh
+PPHIGDPK_01394	CDS	speG_2	2.3.1.57	Spermidine N(1)-acetyltransferase
+PPHIGDPK_01394	gene	speG_2
+PPHIGDPK_01395	CDS	hypothetical protein
+PPHIGDPK_01395	gene
+PPHIGDPK_01396	CDS	ygaZ	Inner membrane protein YgaZ
+PPHIGDPK_01396	gene	ygaZ
+PPHIGDPK_01397	CDS	hypothetical protein
+PPHIGDPK_01397	gene
+PPHIGDPK_01398	CDS	hypothetical protein
+PPHIGDPK_01398	gene
+PPHIGDPK_01399	CDS	hypothetical protein
+PPHIGDPK_01399	gene
+PPHIGDPK_01400	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+PPHIGDPK_01400	gene	proB
+PPHIGDPK_01401	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+PPHIGDPK_01401	gene	proA
+PPHIGDPK_01402	CDS	czcD	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+PPHIGDPK_01402	gene	czcD
+PPHIGDPK_01403	CDS	ziaR	Transcriptional repressor SmtB 
+PPHIGDPK_01403	gene	ziaR
+PPHIGDPK_01404	CDS	hypothetical protein
+PPHIGDPK_01404	gene
+PPHIGDPK_01405	CDS	pyrR	Bifunctional protein PyrR
+PPHIGDPK_01405	gene	pyrR
+PPHIGDPK_01406	CDS	pyrP	Uracil permease
+PPHIGDPK_01406	gene	pyrP
+PPHIGDPK_01407	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+PPHIGDPK_01407	gene	pyrB
+PPHIGDPK_01408	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+PPHIGDPK_01408	gene	carA
+PPHIGDPK_01409	CDS	xerD_3	Tyrosine recombinase XerD
+PPHIGDPK_01409	gene	xerD_3
+PPHIGDPK_01410	CDS	hypothetical protein
+PPHIGDPK_01410	gene
+PPHIGDPK_01411	CDS	hypothetical protein
+PPHIGDPK_01411	gene
+PPHIGDPK_01412	CDS	hypothetical protein
+PPHIGDPK_01412	gene
+PPHIGDPK_01413	CDS	hypothetical protein
+PPHIGDPK_01413	gene
+PPHIGDPK_01414	CDS	hypothetical protein
+PPHIGDPK_01414	gene
+PPHIGDPK_01415	CDS	hypothetical protein
+PPHIGDPK_01415	gene
+PPHIGDPK_01416	CDS	hypothetical protein
+PPHIGDPK_01416	gene
+PPHIGDPK_01417	CDS	hypothetical protein
+PPHIGDPK_01417	gene
+PPHIGDPK_01418	CDS	hypothetical protein
+PPHIGDPK_01418	gene
+PPHIGDPK_01419	CDS	hypothetical protein
+PPHIGDPK_01419	gene
+PPHIGDPK_01420	CDS	hypothetical protein
+PPHIGDPK_01420	gene
+PPHIGDPK_01421	CDS	ddrA	Single-stranded DNA-binding protein DdrA
+PPHIGDPK_01421	gene	ddrA
+PPHIGDPK_01422	CDS	ssb_3	Single-stranded DNA-binding protein
+PPHIGDPK_01422	gene	ssb_3
+PPHIGDPK_01423	CDS	hypothetical protein
+PPHIGDPK_01423	gene
+PPHIGDPK_01424	CDS	hypothetical protein
+PPHIGDPK_01424	gene
+PPHIGDPK_01425	CDS	hypothetical protein
+PPHIGDPK_01425	gene
+PPHIGDPK_01426	CDS	hypothetical protein
+PPHIGDPK_01426	gene
+PPHIGDPK_01427	CDS	hypothetical protein
+PPHIGDPK_01427	gene
+PPHIGDPK_01428	CDS	hypothetical protein
+PPHIGDPK_01428	gene
+PPHIGDPK_01429	CDS	hypothetical protein
+PPHIGDPK_01429	gene
+PPHIGDPK_01430	CDS	hypothetical protein
+PPHIGDPK_01430	gene
+PPHIGDPK_01431	CDS	hypothetical protein
+PPHIGDPK_01431	gene
+PPHIGDPK_01432	CDS	hypothetical protein
+PPHIGDPK_01432	gene
+PPHIGDPK_01433	CDS	hypothetical protein
+PPHIGDPK_01433	gene
+PPHIGDPK_01434	CDS	hypothetical protein
+PPHIGDPK_01434	gene
+PPHIGDPK_01435	CDS	hypothetical protein
+PPHIGDPK_01435	gene
+PPHIGDPK_01436	CDS	hypothetical protein
+PPHIGDPK_01436	gene
+PPHIGDPK_01437	CDS	hypothetical protein
+PPHIGDPK_01437	gene
+PPHIGDPK_01438	CDS	hypothetical protein
+PPHIGDPK_01438	gene
+PPHIGDPK_01439	CDS	hypothetical protein
+PPHIGDPK_01439	gene
+PPHIGDPK_01440	CDS	hypothetical protein
+PPHIGDPK_01440	gene
+PPHIGDPK_01441	CDS	hypothetical protein
+PPHIGDPK_01441	gene
+PPHIGDPK_01442	CDS	hypothetical protein
+PPHIGDPK_01442	gene
+PPHIGDPK_01443	CDS	hypothetical protein
+PPHIGDPK_01443	gene
+PPHIGDPK_01444	CDS	hypothetical protein
+PPHIGDPK_01444	gene
+PPHIGDPK_01445	CDS	hypothetical protein
+PPHIGDPK_01445	gene
+PPHIGDPK_01446	CDS	hypothetical protein
+PPHIGDPK_01446	gene
+PPHIGDPK_01447	CDS	hypothetical protein
+PPHIGDPK_01447	gene
+PPHIGDPK_01448	CDS	hypothetical protein
+PPHIGDPK_01448	gene
+PPHIGDPK_01449	CDS	hypothetical protein
+PPHIGDPK_01449	gene
+PPHIGDPK_01450	CDS	hypothetical protein
+PPHIGDPK_01450	gene
+PPHIGDPK_01451	CDS	hypothetical protein
+PPHIGDPK_01451	gene
+PPHIGDPK_01452	CDS	hypothetical protein
+PPHIGDPK_01452	gene
+PPHIGDPK_01453	CDS	hypothetical protein
+PPHIGDPK_01453	gene
+PPHIGDPK_01454	CDS	hypothetical protein
+PPHIGDPK_01454	gene
+PPHIGDPK_01455	CDS	hypothetical protein
+PPHIGDPK_01455	gene
+PPHIGDPK_01456	CDS	cgkA	3.2.1.83	Kappa-carrageenase
+PPHIGDPK_01456	gene	cgkA
+PPHIGDPK_01457	CDS	hypothetical protein
+PPHIGDPK_01457	gene
+PPHIGDPK_01458	CDS	hypothetical protein
+PPHIGDPK_01458	gene
+PPHIGDPK_01459	CDS	hypothetical protein
+PPHIGDPK_01459	gene
+PPHIGDPK_01460	CDS	hypothetical protein
+PPHIGDPK_01460	gene
+PPHIGDPK_01461	CDS	hypothetical protein
+PPHIGDPK_01461	gene
+PPHIGDPK_01462	CDS	hypothetical protein
+PPHIGDPK_01462	gene
+PPHIGDPK_01463	CDS	hypothetical protein
+PPHIGDPK_01463	gene
+PPHIGDPK_01464	CDS	hypothetical protein
+PPHIGDPK_01464	gene
+PPHIGDPK_01465	CDS	hypothetical protein
+PPHIGDPK_01465	gene
+PPHIGDPK_01466	CDS	hypothetical protein
+PPHIGDPK_01466	gene
+PPHIGDPK_01467	CDS	hypothetical protein
+PPHIGDPK_01467	gene
+PPHIGDPK_01468	CDS	hypothetical protein
+PPHIGDPK_01468	gene
+PPHIGDPK_01469	CDS	hypothetical protein
+PPHIGDPK_01469	gene
+PPHIGDPK_01470	CDS	hypothetical protein
+PPHIGDPK_01470	gene
+PPHIGDPK_01471	CDS	hypothetical protein
+PPHIGDPK_01471	gene
+PPHIGDPK_01472	CDS	hypothetical protein
+PPHIGDPK_01472	gene
+PPHIGDPK_01473	CDS	hypothetical protein
+PPHIGDPK_01473	gene
+PPHIGDPK_01474	CDS	hypothetical protein
+PPHIGDPK_01474	gene
+PPHIGDPK_01475	CDS	cpdA_3	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PPHIGDPK_01475	gene	cpdA_3
+PPHIGDPK_01476	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+PPHIGDPK_01476	gene
+PPHIGDPK_01477	CDS	hypothetical protein
+PPHIGDPK_01477	gene
+PPHIGDPK_01478	CDS	hypothetical protein
+PPHIGDPK_01478	gene
+PPHIGDPK_01479	CDS	rpmE2	50S ribosomal protein L31 type B
+PPHIGDPK_01479	gene	rpmE2
+PPHIGDPK_01480	CDS	hypothetical protein
+PPHIGDPK_01480	gene
+PPHIGDPK_01481	CDS	arlR_2	Response regulator ArlR
+PPHIGDPK_01481	gene	arlR_2
+PPHIGDPK_01482	CDS	arlS_2	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+PPHIGDPK_01482	gene	arlS_2
+PPHIGDPK_01483	CDS	nrgA	Ammonium transporter NrgA
+PPHIGDPK_01483	gene	nrgA
+PPHIGDPK_01484	CDS	glnB	Nitrogen regulatory protein P-II
+PPHIGDPK_01484	gene	glnB
+PPHIGDPK_01485	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PPHIGDPK_01485	gene	murD
+PPHIGDPK_01486	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PPHIGDPK_01486	gene	murG
+PPHIGDPK_01487	CDS	divIB	Cell division protein DivIB
+PPHIGDPK_01487	gene	divIB
+PPHIGDPK_01488	CDS	obg	3.6.5.-	GTPase Obg
+PPHIGDPK_01488	gene	obg
+PPHIGDPK_01489	CDS	hypothetical protein
+PPHIGDPK_01489	gene
+PPHIGDPK_01490	CDS	hypothetical protein
+PPHIGDPK_01490	gene
+PPHIGDPK_01491	CDS	hypothetical protein
+PPHIGDPK_01491	gene
+PPHIGDPK_01492	CDS	inlJ	Internalin-J
+PPHIGDPK_01492	gene	inlJ
+PPHIGDPK_01493	CDS	rnr_2	3.1.13.1	Ribonuclease R
+PPHIGDPK_01493	gene	rnr_2
+PPHIGDPK_01494	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+PPHIGDPK_01494	gene	hisC
+PPHIGDPK_01495	CDS	hisZ	ATP phosphoribosyltransferase regulatory subunit
+PPHIGDPK_01495	gene	hisZ
+PPHIGDPK_01496	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+PPHIGDPK_01496	gene	hisG
+PPHIGDPK_01497	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+PPHIGDPK_01497	gene	hisD
+PPHIGDPK_01498	CDS	cmoM	2.1.1.-	tRNA 5-carboxymethoxyuridine methyltransferase
+PPHIGDPK_01498	gene	cmoM
+PPHIGDPK_01499	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+PPHIGDPK_01499	gene	hisB
+PPHIGDPK_01500	CDS	aphA4	2.7.1.95	Aminoglycoside 3'-phosphotransferase
+PPHIGDPK_01500	gene	aphA4
+PPHIGDPK_01501	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+PPHIGDPK_01501	gene	hisH
+PPHIGDPK_01502	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+PPHIGDPK_01502	gene	hisA
+PPHIGDPK_01503	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+PPHIGDPK_01503	gene	hisF
+PPHIGDPK_01504	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+PPHIGDPK_01504	gene	hisI
+PPHIGDPK_01505	CDS	hisK	3.1.3.15	Histidinol-phosphatase
+PPHIGDPK_01505	gene	hisK
+PPHIGDPK_01506	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+PPHIGDPK_01506	gene	glpE_1
+PPHIGDPK_01507	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+PPHIGDPK_01507	gene	leuA
+PPHIGDPK_01508	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+PPHIGDPK_01508	gene	leuB
+PPHIGDPK_01509	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+PPHIGDPK_01509	gene	leuC
+PPHIGDPK_01510	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+PPHIGDPK_01510	gene	leuD
+PPHIGDPK_01511	CDS	ylmA	3.6.3.-	putative ABC transporter ATP-binding protein YlmA
+PPHIGDPK_01511	gene	ylmA
+PPHIGDPK_01512	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+PPHIGDPK_01512	gene	ilvD
+PPHIGDPK_01513	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+PPHIGDPK_01513	gene	ilvB
+PPHIGDPK_01514	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+PPHIGDPK_01514	gene	ilvH
+PPHIGDPK_01515	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+PPHIGDPK_01515	gene	ilvC
+PPHIGDPK_01516	CDS	ilvA	4.3.1.19	L-threonine dehydratase biosynthetic IlvA
+PPHIGDPK_01516	gene	ilvA
+PPHIGDPK_01517	CDS	aldC_2	4.1.1.5	Alpha-acetolactate decarboxylase
+PPHIGDPK_01517	gene	aldC_2
+PPHIGDPK_01518	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+PPHIGDPK_01518	gene	yabJ
+PPHIGDPK_01519	CDS	dprA	DNA processing protein DprA
+PPHIGDPK_01519	gene	dprA
+PPHIGDPK_01520	CDS	topA	5.99.1.2	DNA topoisomerase 1
+PPHIGDPK_01520	gene	topA
+PPHIGDPK_01521	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+PPHIGDPK_01521	gene	trmFO
+PPHIGDPK_01522	CDS	xerS_1	Tyrosine recombinase XerS
+PPHIGDPK_01522	gene	xerS_1
+PPHIGDPK_01523	CDS	hypothetical protein
+PPHIGDPK_01523	gene
+PPHIGDPK_01524	CDS	xerS_2	Tyrosine recombinase XerS
+PPHIGDPK_01524	gene	xerS_2
+PPHIGDPK_01525	CDS	hypothetical protein
+PPHIGDPK_01525	gene
+PPHIGDPK_01526	CDS	hypothetical protein
+PPHIGDPK_01526	gene
+PPHIGDPK_01527	CDS	hypothetical protein
+PPHIGDPK_01527	gene
+PPHIGDPK_01528	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+PPHIGDPK_01528	gene	yxlF_2
+PPHIGDPK_01529	CDS	envZ	2.7.13.3	Osmolarity sensor protein EnvZ
+PPHIGDPK_01529	gene	envZ
+PPHIGDPK_01530	CDS	arlR_3	Response regulator ArlR
+PPHIGDPK_01530	gene	arlR_3
+PPHIGDPK_01531	CDS	nisP	3.4.21.-	Nisin leader peptide-processing serine protease NisP
+PPHIGDPK_01531	gene	nisP
+PPHIGDPK_01532	CDS	nisI	Nisin immunity protein
+PPHIGDPK_01532	gene	nisI
+PPHIGDPK_01533	CDS	nisC	Nisin biosynthesis protein NisC
+PPHIGDPK_01533	gene	nisC
+PPHIGDPK_01534	CDS	apxIB	Toxin RTX-I translocation ATP-binding protein
+PPHIGDPK_01534	gene	apxIB
+PPHIGDPK_01535	CDS	nisB	Nisin biosynthesis protein NisB
+PPHIGDPK_01535	gene	nisB
+PPHIGDPK_01536	CDS	nisZ	Lantibiotic nisin-Z
+PPHIGDPK_01536	gene	nisZ
+PPHIGDPK_01537	CDS	hypothetical protein
+PPHIGDPK_01537	gene
+PPHIGDPK_01538	CDS	xerC_2	Tyrosine recombinase XerC
+PPHIGDPK_01538	gene	xerC_2
+PPHIGDPK_01539	CDS	higB1	3.1.-.-	putative endoribonuclease HigB1
+PPHIGDPK_01539	gene	higB1
+PPHIGDPK_01540	CDS	hypothetical protein
+PPHIGDPK_01540	gene
+PPHIGDPK_01541	CDS	hypothetical protein
+PPHIGDPK_01541	gene
+PPHIGDPK_01542	tRNA	tRNA-Leu(taa)
+PPHIGDPK_01542	gene
+PPHIGDPK_01543	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+PPHIGDPK_01543	gene	fba
+PPHIGDPK_01544	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+PPHIGDPK_01544	gene
+PPHIGDPK_01545	CDS	hypothetical protein
+PPHIGDPK_01545	gene
+PPHIGDPK_01546	CDS	hypothetical protein
+PPHIGDPK_01546	gene
+PPHIGDPK_01547	CDS	hypothetical protein
+PPHIGDPK_01547	gene
+PPHIGDPK_01548	CDS	birA_2	6.3.4.15	Bifunctional ligase/repressor BirA
+PPHIGDPK_01548	gene	birA_2
+PPHIGDPK_01549	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+PPHIGDPK_01549	gene	cfa
+PPHIGDPK_01550	CDS	hypothetical protein
+PPHIGDPK_01550	gene
+PPHIGDPK_01551	CDS	hin_1	DNA-invertase hin
+PPHIGDPK_01551	gene	hin_1
+PPHIGDPK_01552	CDS	hypothetical protein
+PPHIGDPK_01552	gene
+PPHIGDPK_01553	CDS	hypothetical protein
+PPHIGDPK_01553	gene
+PPHIGDPK_01554	CDS	xre	HTH-type transcriptional regulator Xre
+PPHIGDPK_01554	gene	xre
+PPHIGDPK_01555	CDS	hypothetical protein
+PPHIGDPK_01555	gene
+PPHIGDPK_01556	CDS	hypothetical protein
+PPHIGDPK_01556	gene
+PPHIGDPK_01557	CDS	hypothetical protein
+PPHIGDPK_01557	gene
+PPHIGDPK_01558	CDS	hypothetical protein
+PPHIGDPK_01558	gene
+PPHIGDPK_01559	CDS	hypothetical protein
+PPHIGDPK_01559	gene
+PPHIGDPK_01560	CDS	hypothetical protein
+PPHIGDPK_01560	gene
+PPHIGDPK_01561	CDS	repE	Replication initiation protein
+PPHIGDPK_01561	gene	repE
+PPHIGDPK_01562	CDS	hypothetical protein
+PPHIGDPK_01562	gene
+PPHIGDPK_01563	CDS	hypothetical protein
+PPHIGDPK_01563	gene
+PPHIGDPK_01564	CDS	hypothetical protein
+PPHIGDPK_01564	gene
+PPHIGDPK_01565	CDS	pyrF_2	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+PPHIGDPK_01565	gene	pyrF_2
+PPHIGDPK_01566	CDS	tmk_2	2.7.4.9	Thymidylate kinase
+PPHIGDPK_01566	gene	tmk_2
+PPHIGDPK_01567	CDS	pre	Plasmid recombination enzyme
+PPHIGDPK_01567	gene	pre
+PPHIGDPK_01568	CDS	cspLA_1	Cold shock-like protein CspLA
+PPHIGDPK_01568	gene	cspLA_1
+PPHIGDPK_01569	CDS	cspLA_2	Cold shock-like protein CspLA
+PPHIGDPK_01569	gene	cspLA_2
+PPHIGDPK_01570	CDS	hypothetical protein
+PPHIGDPK_01570	gene
+PPHIGDPK_01571	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+PPHIGDPK_01571	gene	thrS
+PPHIGDPK_01572	CDS	hypothetical protein
+PPHIGDPK_01572	gene
+PPHIGDPK_01573	CDS	mntH_2	Divalent metal cation transporter MntH
+PPHIGDPK_01573	gene	mntH_2
+PPHIGDPK_01574	CDS	hypothetical protein
+PPHIGDPK_01574	gene
+PPHIGDPK_01575	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+PPHIGDPK_01575	gene	upp
+PPHIGDPK_01576	CDS	napA	Na(+)/H(+) antiporter
+PPHIGDPK_01576	gene	napA
+PPHIGDPK_01577	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+PPHIGDPK_01577	gene	patB
+PPHIGDPK_01578	CDS	metI	2.5.1.-	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+PPHIGDPK_01578	gene	metI
+PPHIGDPK_01579	CDS	metA	2.3.1.46	Homoserine O-succinyltransferase
+PPHIGDPK_01579	gene	metA
+PPHIGDPK_01580	CDS	hypothetical protein
+PPHIGDPK_01580	gene
+PPHIGDPK_01581	CDS	hypothetical protein
+PPHIGDPK_01581	gene
+PPHIGDPK_01582	CDS	hypothetical protein
+PPHIGDPK_01582	gene
+PPHIGDPK_01583	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+PPHIGDPK_01583	gene	yhaM
+PPHIGDPK_01584	CDS	hypothetical protein
+PPHIGDPK_01584	gene
+PPHIGDPK_01585	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+PPHIGDPK_01585	gene	rpe
+PPHIGDPK_01586	CDS	hypothetical protein
+PPHIGDPK_01586	gene
+PPHIGDPK_01587	CDS	hypothetical protein
+PPHIGDPK_01587	gene
+PPHIGDPK_01588	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+PPHIGDPK_01588	gene	rsgA
+PPHIGDPK_01589	CDS	yocH	Cell wall-binding protein YocH
+PPHIGDPK_01589	gene	yocH
+PPHIGDPK_01590	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+PPHIGDPK_01590	gene	pheT_2
+PPHIGDPK_01591	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+PPHIGDPK_01591	gene	pheS
+PPHIGDPK_01592	CDS	padC	4.1.1.-	Phenolic acid decarboxylase PadC
+PPHIGDPK_01592	gene	padC
+PPHIGDPK_01593	CDS	hypothetical protein
+PPHIGDPK_01593	gene
+PPHIGDPK_01594	CDS	chiD	3.2.1.14	Chitinase D
+PPHIGDPK_01594	gene	chiD
+PPHIGDPK_01595	CDS	gbpA	GlcNAc-binding protein A
+PPHIGDPK_01595	gene	gbpA
+PPHIGDPK_01596	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+PPHIGDPK_01596	gene	purA
+PPHIGDPK_01597	CDS	hypothetical protein
+PPHIGDPK_01597	gene
+PPHIGDPK_01598	CDS	hypothetical protein
+PPHIGDPK_01598	gene
+PPHIGDPK_01599	CDS	hypothetical protein
+PPHIGDPK_01599	gene
+PPHIGDPK_01600	CDS	hypothetical protein
+PPHIGDPK_01600	gene
+PPHIGDPK_01601	CDS	hypothetical protein
+PPHIGDPK_01601	gene
+PPHIGDPK_01602	CDS	hypothetical protein
+PPHIGDPK_01602	gene
+PPHIGDPK_01603	CDS	hypothetical protein
+PPHIGDPK_01603	gene
+PPHIGDPK_01604	CDS	hslO	33 kDa chaperonin
+PPHIGDPK_01604	gene	hslO
+PPHIGDPK_01605	CDS	folA	1.5.1.3	Dihydrofolate reductase
+PPHIGDPK_01605	gene	folA
+PPHIGDPK_01606	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+PPHIGDPK_01606	gene	dus
+PPHIGDPK_01607	CDS	hypothetical protein
+PPHIGDPK_01607	gene
+PPHIGDPK_01608	CDS	hypothetical protein
+PPHIGDPK_01608	gene
+PPHIGDPK_01609	CDS	hypothetical protein
+PPHIGDPK_01609	gene
+PPHIGDPK_01610	CDS	hypothetical protein
+PPHIGDPK_01610	gene
+PPHIGDPK_01611	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+PPHIGDPK_01611	gene	aspS
+PPHIGDPK_01612	CDS	hypothetical protein
+PPHIGDPK_01612	gene
+PPHIGDPK_01613	CDS	hypothetical protein
+PPHIGDPK_01613	gene
+PPHIGDPK_01614	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+PPHIGDPK_01614	gene	hisS
+PPHIGDPK_01615	CDS	hypothetical protein
+PPHIGDPK_01615	gene
+PPHIGDPK_01616	CDS	hypothetical protein
+PPHIGDPK_01616	gene
+PPHIGDPK_01617	CDS	hypothetical protein
+PPHIGDPK_01617	gene
+PPHIGDPK_01618	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PPHIGDPK_01618	gene	pgsA
+PPHIGDPK_01619	CDS	hypothetical protein
+PPHIGDPK_01619	gene
+PPHIGDPK_01620	CDS	albF	3.4.24.-	Putative zinc protease AlbF
+PPHIGDPK_01620	gene	albF
+PPHIGDPK_01621	CDS	3.4.24.-	putative zinc protease
+PPHIGDPK_01621	gene
+PPHIGDPK_01622	CDS	hypothetical protein
+PPHIGDPK_01622	gene
+PPHIGDPK_01623	CDS	recF	DNA replication and repair protein RecF
+PPHIGDPK_01623	gene	recF
+PPHIGDPK_01624	CDS	hypothetical protein
+PPHIGDPK_01624	gene
+PPHIGDPK_01625	CDS	putative HTH-type transcriptional regulator
+PPHIGDPK_01625	gene
+PPHIGDPK_01626	CDS	hypothetical protein
+PPHIGDPK_01626	gene
+PPHIGDPK_01627	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+PPHIGDPK_01627	gene	galE
+PPHIGDPK_01628	CDS	lacZ	3.2.1.23	Beta-galactosidase
+PPHIGDPK_01628	gene	lacZ
+PPHIGDPK_01629	CDS	lacA_2	2.3.1.18	Galactoside O-acetyltransferase
+PPHIGDPK_01629	gene	lacA_2
+PPHIGDPK_01630	CDS	galT_2	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+PPHIGDPK_01630	gene	galT_2
+PPHIGDPK_01631	CDS	galK	2.7.1.6	Galactokinase
+PPHIGDPK_01631	gene	galK
+PPHIGDPK_01632	CDS	mro	5.1.3.3	Aldose 1-epimerase
+PPHIGDPK_01632	gene	mro
+PPHIGDPK_01633	CDS	lacS	Lactose permease
+PPHIGDPK_01633	gene	lacS
+PPHIGDPK_01634	CDS	hexR_2	HTH-type transcriptional regulator HexR
+PPHIGDPK_01634	gene	hexR_2
+PPHIGDPK_01635	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+PPHIGDPK_01635	gene	gpr
+PPHIGDPK_01636	CDS	nadR	Trifunctional NAD biosynthesis/regulator protein NadR
+PPHIGDPK_01636	gene	nadR
+PPHIGDPK_01637	CDS	hprA	1.1.1.29	Glycerate dehydrogenase
+PPHIGDPK_01637	gene	hprA
+PPHIGDPK_01638	CDS	ydcP_1	3.4.-.-	putative protease YdcP
+PPHIGDPK_01638	gene	ydcP_1
+PPHIGDPK_01639	CDS	hypothetical protein
+PPHIGDPK_01639	gene
+PPHIGDPK_01640	CDS	ydcP_2	3.4.-.-	putative protease YdcP
+PPHIGDPK_01640	gene	ydcP_2
+PPHIGDPK_01641	CDS	hypothetical protein
+PPHIGDPK_01641	gene
+PPHIGDPK_01642	CDS	rlmAII	2.1.1.188	23S rRNA (guanine(748)-N(1))-methyltransferase
+PPHIGDPK_01642	gene	rlmAII
+PPHIGDPK_01643	CDS	CutC-like protein
+PPHIGDPK_01643	gene
+PPHIGDPK_01644	CDS	hypothetical protein
+PPHIGDPK_01644	gene
+PPHIGDPK_01645	CDS	ecsA_2	ABC-type transporter ATP-binding protein EcsA
+PPHIGDPK_01645	gene	ecsA_2
+PPHIGDPK_01646	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+PPHIGDPK_01646	gene	glpQ_2
+PPHIGDPK_01647	CDS	putative HIT-like protein
+PPHIGDPK_01647	gene
+PPHIGDPK_01648	CDS	hypothetical protein
+PPHIGDPK_01648	gene
+PPHIGDPK_01649	CDS	hypothetical protein
+PPHIGDPK_01649	gene
+PPHIGDPK_01650	CDS	rplA	50S ribosomal protein L1
+PPHIGDPK_01650	gene	rplA
+PPHIGDPK_01651	CDS	rplK	50S ribosomal protein L11
+PPHIGDPK_01651	gene	rplK
+PPHIGDPK_01652	CDS	hypothetical protein
+PPHIGDPK_01652	gene
+PPHIGDPK_01653	CDS	natA_4	ABC transporter ATP-binding protein NatA
+PPHIGDPK_01653	gene	natA_4
+PPHIGDPK_01654	CDS	hypothetical protein
+PPHIGDPK_01654	gene
+PPHIGDPK_01655	CDS	msrA2_1	1.8.4.11	Peptide methionine sulfoxide reductase MsrA 2
+PPHIGDPK_01655	gene	msrA2_1
+PPHIGDPK_01656	CDS	cvfB	Conserved virulence factor B
+PPHIGDPK_01656	gene	cvfB
+PPHIGDPK_01657	CDS	hypothetical protein
+PPHIGDPK_01657	gene
+PPHIGDPK_01658	CDS	frr	Ribosome-recycling factor
+PPHIGDPK_01658	gene	frr
+PPHIGDPK_01659	CDS	pyrH	2.7.4.22	Uridylate kinase
+PPHIGDPK_01659	gene	pyrH
+PPHIGDPK_01660	CDS	hypothetical protein
+PPHIGDPK_01660	gene
+PPHIGDPK_01661	CDS	ackA_1	2.7.2.1	Acetate kinase
+PPHIGDPK_01661	gene	ackA_1
+PPHIGDPK_01662	CDS	ackA_2	2.7.2.1	Acetate kinase
+PPHIGDPK_01662	gene	ackA_2
+PPHIGDPK_01663	CDS	hypothetical protein
+PPHIGDPK_01663	gene
+PPHIGDPK_01664	CDS	hypothetical protein
+PPHIGDPK_01664	gene
+PPHIGDPK_01665	CDS	typA	GTP-binding protein TypA/BipA
+PPHIGDPK_01665	gene	typA
+PPHIGDPK_01666	CDS	hypothetical protein
+PPHIGDPK_01666	gene
+PPHIGDPK_01667	CDS	yknY	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+PPHIGDPK_01667	gene	yknY
+PPHIGDPK_01668	CDS	hypothetical protein
+PPHIGDPK_01668	gene
+PPHIGDPK_01669	CDS	hypothetical protein
+PPHIGDPK_01669	gene
+PPHIGDPK_01670	CDS	hypothetical protein
+PPHIGDPK_01670	gene
+PPHIGDPK_01671	CDS	hypothetical protein
+PPHIGDPK_01671	gene
+PPHIGDPK_01672	CDS	glcK	2.7.1.2	Glucokinase
+PPHIGDPK_01672	gene	glcK
+PPHIGDPK_01673	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+PPHIGDPK_01673	gene	glpE_2
+PPHIGDPK_01674	CDS	dps	1.16.-.-	DNA protection during starvation protein
+PPHIGDPK_01674	gene	dps
+PPHIGDPK_01675	CDS	comC	Type 4 prepilin-like proteins leader peptide-processing enzyme
+PPHIGDPK_01675	gene	comC
+PPHIGDPK_01676	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+PPHIGDPK_01676	gene	dinB_1
+PPHIGDPK_01677	CDS	proX	Prolyl-tRNA editing protein ProX
+PPHIGDPK_01677	gene	proX
+PPHIGDPK_01678	CDS	arcD2	Arginine/ornithine antiporter ArcD2
+PPHIGDPK_01678	gene	arcD2
+PPHIGDPK_01679	CDS	vioD	4.2.1.145	Capreomycidine synthase
+PPHIGDPK_01679	gene	vioD
+PPHIGDPK_01680	CDS	arcC1_2	2.7.2.2	Carbamate kinase 1
+PPHIGDPK_01680	gene	arcC1_2
+PPHIGDPK_01681	CDS	arcC1_3	2.7.2.2	Carbamate kinase 1
+PPHIGDPK_01681	gene	arcC1_3
+PPHIGDPK_01682	CDS	arcD1	Arginine/ornithine antiporter ArcD1
+PPHIGDPK_01682	gene	arcD1
+PPHIGDPK_01683	CDS	arcB_1	2.1.3.3	Ornithine carbamoyltransferase, catabolic
+PPHIGDPK_01683	gene	arcB_1
+PPHIGDPK_01684	CDS	arcA	3.5.3.6	Arginine deiminase
+PPHIGDPK_01684	gene	arcA
+PPHIGDPK_01685	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+PPHIGDPK_01685	gene	argS
+PPHIGDPK_01686	CDS	argR_1	Arginine repressor
+PPHIGDPK_01686	gene	argR_1
+PPHIGDPK_01687	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+PPHIGDPK_01687	gene	murC
+PPHIGDPK_01688	CDS	hypothetical protein
+PPHIGDPK_01688	gene
+PPHIGDPK_01689	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+PPHIGDPK_01689	gene	rapA
+PPHIGDPK_01690	CDS	hypothetical protein
+PPHIGDPK_01690	gene
+PPHIGDPK_01691	CDS	pox5	1.2.3.3	Pyruvate oxidase
+PPHIGDPK_01691	gene	pox5
+PPHIGDPK_01692	CDS	pbpX_1	Putative penicillin-binding protein PbpX
+PPHIGDPK_01692	gene	pbpX_1
+PPHIGDPK_01693	CDS	hypothetical protein
+PPHIGDPK_01693	gene
+PPHIGDPK_01694	CDS	hypothetical protein
+PPHIGDPK_01694	gene
+PPHIGDPK_01695	CDS	gla_2	Glycerol facilitator-aquaporin gla
+PPHIGDPK_01695	gene	gla_2
+PPHIGDPK_01696	CDS	pepX	3.4.14.11	Xaa-Pro dipeptidyl-peptidase
+PPHIGDPK_01696	gene	pepX
+PPHIGDPK_01697	CDS	2.4.2.-	Putative glutamine amidotransferase
+PPHIGDPK_01697	gene
+PPHIGDPK_01698	CDS	yxeM	putative amino-acid-binding protein YxeM
+PPHIGDPK_01698	gene	yxeM
+PPHIGDPK_01699	CDS	rclA_1	putative pyridine nucleotide-disulfide oxidoreductase RclA
+PPHIGDPK_01699	gene	rclA_1
+PPHIGDPK_01700	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+PPHIGDPK_01700	gene	gltX
+PPHIGDPK_01701	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+PPHIGDPK_01701	gene	sttH
+PPHIGDPK_01702	CDS	hypothetical protein
+PPHIGDPK_01702	gene
+PPHIGDPK_01703	CDS	hypothetical protein
+PPHIGDPK_01703	gene
+PPHIGDPK_01704	CDS	hypothetical protein
+PPHIGDPK_01704	gene
+PPHIGDPK_01705	CDS	hypothetical protein
+PPHIGDPK_01705	gene
+PPHIGDPK_01706	CDS	hypothetical protein
+PPHIGDPK_01706	gene
+PPHIGDPK_01707	CDS	hypothetical protein
+PPHIGDPK_01707	gene
+PPHIGDPK_01708	CDS	yacL	3.1.-.-	putative PIN and TRAM-domain containing protein YacL
+PPHIGDPK_01708	gene	yacL
+PPHIGDPK_01709	CDS	hypothetical protein
+PPHIGDPK_01709	gene
+PPHIGDPK_01710	CDS	radA	3.6.4.-	DNA repair protein RadA
+PPHIGDPK_01710	gene	radA
+PPHIGDPK_01711	CDS	hypothetical protein
+PPHIGDPK_01711	gene
+PPHIGDPK_01712	tRNA	tRNA-Thr(ggt)
+PPHIGDPK_01712	gene
+PPHIGDPK_01713	CDS	rplQ	50S ribosomal protein L17
+PPHIGDPK_01713	gene	rplQ
+PPHIGDPK_01714	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+PPHIGDPK_01714	gene	rpoA
+PPHIGDPK_01715	CDS	rpsK	30S ribosomal protein S11
+PPHIGDPK_01715	gene	rpsK
+PPHIGDPK_01716	CDS	rpsM	30S ribosomal protein S13
+PPHIGDPK_01716	gene	rpsM
+PPHIGDPK_01717	CDS	infA	Translation initiation factor IF-1
+PPHIGDPK_01717	gene	infA
+PPHIGDPK_01718	CDS	sle1	3.5.1.28	N-acetylmuramoyl-L-alanine amidase sle1
+PPHIGDPK_01718	gene	sle1
+PPHIGDPK_01719	CDS	hypothetical protein
+PPHIGDPK_01719	gene
+PPHIGDPK_01720	CDS	hypothetical protein
+PPHIGDPK_01720	gene
+PPHIGDPK_01721	CDS	hypothetical protein
+PPHIGDPK_01721	gene
+PPHIGDPK_01722	CDS	hypothetical protein
+PPHIGDPK_01722	gene
+PPHIGDPK_01723	CDS	hypothetical protein
+PPHIGDPK_01723	gene
+PPHIGDPK_01724	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+PPHIGDPK_01724	gene	mepM
+PPHIGDPK_01725	CDS	hypothetical protein
+PPHIGDPK_01725	gene
+PPHIGDPK_01726	CDS	hypothetical protein
+PPHIGDPK_01726	gene
+PPHIGDPK_01727	CDS	hypothetical protein
+PPHIGDPK_01727	gene
+PPHIGDPK_01728	CDS	hypothetical protein
+PPHIGDPK_01728	gene
+PPHIGDPK_01729	CDS	hypothetical protein
+PPHIGDPK_01729	gene
+PPHIGDPK_01730	CDS	hypothetical protein
+PPHIGDPK_01730	gene
+PPHIGDPK_01731	CDS	hypothetical protein
+PPHIGDPK_01731	gene
+PPHIGDPK_01732	CDS	hypothetical protein
+PPHIGDPK_01732	gene
+PPHIGDPK_01733	CDS	hypothetical protein
+PPHIGDPK_01733	gene
+PPHIGDPK_01734	CDS	hypothetical protein
+PPHIGDPK_01734	gene
+PPHIGDPK_01735	CDS	hypothetical protein
+PPHIGDPK_01735	gene
+PPHIGDPK_01736	CDS	hypothetical protein
+PPHIGDPK_01736	gene
+PPHIGDPK_01737	CDS	hypothetical protein
+PPHIGDPK_01737	gene
+PPHIGDPK_01738	CDS	hypothetical protein
+PPHIGDPK_01738	gene
+PPHIGDPK_01739	CDS	hypothetical protein
+PPHIGDPK_01739	gene
+PPHIGDPK_01740	CDS	hypothetical protein
+PPHIGDPK_01740	gene
+PPHIGDPK_01741	CDS	hypothetical protein
+PPHIGDPK_01741	gene
+PPHIGDPK_01742	CDS	hypothetical protein
+PPHIGDPK_01742	gene
+PPHIGDPK_01743	CDS	hypothetical protein
+PPHIGDPK_01743	gene
+PPHIGDPK_01744	CDS	hypothetical protein
+PPHIGDPK_01744	gene
+PPHIGDPK_01745	CDS	hypothetical protein
+PPHIGDPK_01745	gene
+PPHIGDPK_01746	CDS	hypothetical protein
+PPHIGDPK_01746	gene
+PPHIGDPK_01747	CDS	hypothetical protein
+PPHIGDPK_01747	gene
+PPHIGDPK_01748	CDS	hypothetical protein
+PPHIGDPK_01748	gene
+PPHIGDPK_01749	CDS	hypothetical protein
+PPHIGDPK_01749	gene
+PPHIGDPK_01750	CDS	hypothetical protein
+PPHIGDPK_01750	gene
+PPHIGDPK_01751	CDS	hypothetical protein
+PPHIGDPK_01751	gene
+PPHIGDPK_01752	CDS	hypothetical protein
+PPHIGDPK_01752	gene
+PPHIGDPK_01753	CDS	hypothetical protein
+PPHIGDPK_01753	gene
+PPHIGDPK_01754	CDS	hypothetical protein
+PPHIGDPK_01754	gene
+PPHIGDPK_01755	CDS	dut_2	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PPHIGDPK_01755	gene	dut_2
+PPHIGDPK_01756	CDS	hypothetical protein
+PPHIGDPK_01756	gene
+PPHIGDPK_01757	CDS	hypothetical protein
+PPHIGDPK_01757	gene
+PPHIGDPK_01758	CDS	hypothetical protein
+PPHIGDPK_01758	gene
+PPHIGDPK_01759	CDS	hypothetical protein
+PPHIGDPK_01759	gene
+PPHIGDPK_01760	CDS	hypothetical protein
+PPHIGDPK_01760	gene
+PPHIGDPK_01761	CDS	hypothetical protein
+PPHIGDPK_01761	gene
+PPHIGDPK_01762	CDS	hypothetical protein
+PPHIGDPK_01762	gene
+PPHIGDPK_01763	CDS	hypothetical protein
+PPHIGDPK_01763	gene
+PPHIGDPK_01764	CDS	hypothetical protein
+PPHIGDPK_01764	gene
+PPHIGDPK_01765	CDS	hypothetical protein
+PPHIGDPK_01765	gene
+PPHIGDPK_01766	CDS	hypothetical protein
+PPHIGDPK_01766	gene
+PPHIGDPK_01767	CDS	hypothetical protein
+PPHIGDPK_01767	gene
+PPHIGDPK_01768	CDS	hypothetical protein
+PPHIGDPK_01768	gene
+PPHIGDPK_01769	CDS	hypothetical protein
+PPHIGDPK_01769	gene
+PPHIGDPK_01770	CDS	hypothetical protein
+PPHIGDPK_01770	gene
+PPHIGDPK_01771	CDS	hypothetical protein
+PPHIGDPK_01771	gene
+PPHIGDPK_01772	CDS	hypothetical protein
+PPHIGDPK_01772	gene
+PPHIGDPK_01773	CDS	hypothetical protein
+PPHIGDPK_01773	gene
+PPHIGDPK_01774	CDS	hypothetical protein
+PPHIGDPK_01774	gene
+PPHIGDPK_01775	CDS	hypothetical protein
+PPHIGDPK_01775	gene
+PPHIGDPK_01776	CDS	hypothetical protein
+PPHIGDPK_01776	gene
+PPHIGDPK_01777	CDS	hypothetical protein
+PPHIGDPK_01777	gene
+PPHIGDPK_01778	CDS	lexA	3.4.21.88	LexA repressor
+PPHIGDPK_01778	gene	lexA
+PPHIGDPK_01779	CDS	hypothetical protein
+PPHIGDPK_01779	gene
+PPHIGDPK_01780	CDS	hin_2	DNA-invertase hin
+PPHIGDPK_01780	gene	hin_2
+PPHIGDPK_01781	CDS	adk	2.7.4.3	Adenylate kinase
+PPHIGDPK_01781	gene	adk
+PPHIGDPK_01782	CDS	secY	Protein translocase subunit SecY
+PPHIGDPK_01782	gene	secY
+PPHIGDPK_01783	CDS	rplO	50S ribosomal protein L15
+PPHIGDPK_01783	gene	rplO
+PPHIGDPK_01784	CDS	rpmD	50S ribosomal protein L30
+PPHIGDPK_01784	gene	rpmD
+PPHIGDPK_01785	CDS	rpsE	30S ribosomal protein S5
+PPHIGDPK_01785	gene	rpsE
+PPHIGDPK_01786	CDS	rplR	50S ribosomal protein L18
+PPHIGDPK_01786	gene	rplR
+PPHIGDPK_01787	CDS	rplF	50S ribosomal protein L6
+PPHIGDPK_01787	gene	rplF
+PPHIGDPK_01788	CDS	rpsH	30S ribosomal protein S8
+PPHIGDPK_01788	gene	rpsH
+PPHIGDPK_01789	CDS	hypothetical protein
+PPHIGDPK_01789	gene
+PPHIGDPK_01790	CDS	rpsZ	30S ribosomal protein S14 type Z
+PPHIGDPK_01790	gene	rpsZ
+PPHIGDPK_01791	CDS	rplE	50S ribosomal protein L5
+PPHIGDPK_01791	gene	rplE
+PPHIGDPK_01792	CDS	rplX	50S ribosomal protein L24
+PPHIGDPK_01792	gene	rplX
+PPHIGDPK_01793	CDS	rplN	50S ribosomal protein L14
+PPHIGDPK_01793	gene	rplN
+PPHIGDPK_01794	CDS	rpsQ	30S ribosomal protein S17
+PPHIGDPK_01794	gene	rpsQ
+PPHIGDPK_01795	CDS	rpmC	50S ribosomal protein L29
+PPHIGDPK_01795	gene	rpmC
+PPHIGDPK_01796	CDS	rplP	50S ribosomal protein L16
+PPHIGDPK_01796	gene	rplP
+PPHIGDPK_01797	CDS	rpsC	30S ribosomal protein S3
+PPHIGDPK_01797	gene	rpsC
+PPHIGDPK_01798	CDS	rplV	50S ribosomal protein L22
+PPHIGDPK_01798	gene	rplV
+PPHIGDPK_01799	CDS	rpsS	30S ribosomal protein S19
+PPHIGDPK_01799	gene	rpsS
+PPHIGDPK_01800	CDS	rplB	50S ribosomal protein L2
+PPHIGDPK_01800	gene	rplB
+PPHIGDPK_01801	CDS	rplW	50S ribosomal protein L23
+PPHIGDPK_01801	gene	rplW
+PPHIGDPK_01802	CDS	rplD	50S ribosomal protein L4
+PPHIGDPK_01802	gene	rplD
+PPHIGDPK_01803	CDS	rplC	50S ribosomal protein L3
+PPHIGDPK_01803	gene	rplC
+PPHIGDPK_01804	CDS	rpsJ	30S ribosomal protein S10
+PPHIGDPK_01804	gene	rpsJ
+PPHIGDPK_01805	CDS	mscL	Large-conductance mechanosensitive channel
+PPHIGDPK_01805	gene	mscL
+PPHIGDPK_01806	CDS	yeeO	putative FMN/FAD exporter YeeO
+PPHIGDPK_01806	gene	yeeO
+PPHIGDPK_01807	CDS	thrC	4.2.3.1	Threonine synthase
+PPHIGDPK_01807	gene	thrC
+PPHIGDPK_01808	CDS	nusG	Transcription termination/antitermination protein NusG
+PPHIGDPK_01808	gene	nusG
+PPHIGDPK_01809	CDS	hypothetical protein
+PPHIGDPK_01809	gene
+PPHIGDPK_01810	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+PPHIGDPK_01810	gene	oatA
+PPHIGDPK_01811	CDS	pbpF_2	Penicillin-binding protein 1F
+PPHIGDPK_01811	gene	pbpF_2
+PPHIGDPK_01812	CDS	hypothetical protein
+PPHIGDPK_01812	gene
+PPHIGDPK_01813	CDS	hypothetical protein
+PPHIGDPK_01813	gene
+PPHIGDPK_01814	CDS	FMN-binding protein
+PPHIGDPK_01814	gene
+PPHIGDPK_01815	CDS	rluC	5.4.99.24	Ribosomal large subunit pseudouridine synthase C
+PPHIGDPK_01815	gene	rluC
+PPHIGDPK_01816	CDS	znuB	High-affinity zinc uptake system membrane protein ZnuB
+PPHIGDPK_01816	gene	znuB
+PPHIGDPK_01817	CDS	znuC	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+PPHIGDPK_01817	gene	znuC
+PPHIGDPK_01818	CDS	znuA_2	High-affinity zinc uptake system binding-protein ZnuA
+PPHIGDPK_01818	gene	znuA_2
+PPHIGDPK_01819	CDS	zitR	Transcriptional regulator ZitR
+PPHIGDPK_01819	gene	zitR
+PPHIGDPK_01820	CDS	hypothetical protein
+PPHIGDPK_01820	gene
+PPHIGDPK_01821	CDS	hypothetical protein
+PPHIGDPK_01821	gene
+PPHIGDPK_01822	CDS	hypothetical protein
+PPHIGDPK_01822	gene
+PPHIGDPK_01823	CDS	hypothetical protein
+PPHIGDPK_01823	gene
+PPHIGDPK_01824	CDS	comGC	ComG operon protein 3
+PPHIGDPK_01824	gene	comGC
+PPHIGDPK_01825	CDS	hypothetical protein
+PPHIGDPK_01825	gene
+PPHIGDPK_01826	CDS	comGA	ComG operon protein 1
+PPHIGDPK_01826	gene	comGA
+PPHIGDPK_01827	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+PPHIGDPK_01827	gene	polC_2
+PPHIGDPK_01828	CDS	hypothetical protein
+PPHIGDPK_01828	gene
+PPHIGDPK_01829	CDS	nox	1.6.99.3	NADH oxidase
+PPHIGDPK_01829	gene	nox
+PPHIGDPK_01830	CDS	proS	6.1.1.15	Proline--tRNA ligase
+PPHIGDPK_01830	gene	proS
+PPHIGDPK_01831	CDS	3.4.24.-	Putative zinc metalloprotease
+PPHIGDPK_01831	gene
+PPHIGDPK_01832	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+PPHIGDPK_01832	gene	cdsA
+PPHIGDPK_01833	CDS	uppS	2.5.1.-	Isoprenyl transferase
+PPHIGDPK_01833	gene	uppS
+PPHIGDPK_01834	CDS	hypothetical protein
+PPHIGDPK_01834	gene
+PPHIGDPK_01835	CDS	hypothetical protein
+PPHIGDPK_01835	gene
+PPHIGDPK_01836	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+PPHIGDPK_01836	gene	rlmH
+PPHIGDPK_01837	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+PPHIGDPK_01837	gene	htrA
+PPHIGDPK_01838	CDS	dgs	2.4.1.208	Processive diacylglycerol alpha-glucosyltransferase
+PPHIGDPK_01838	gene	dgs
+PPHIGDPK_01839	CDS	2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+PPHIGDPK_01839	gene
+PPHIGDPK_01840	CDS	hypothetical protein
+PPHIGDPK_01840	gene
+PPHIGDPK_01841	CDS	hypothetical protein
+PPHIGDPK_01841	gene
+PPHIGDPK_01842	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PPHIGDPK_01842	gene	yfiC
+PPHIGDPK_01843	CDS	polA	2.7.7.7	DNA polymerase I
+PPHIGDPK_01843	gene	polA
+PPHIGDPK_01844	CDS	3.1.3.-	Putative phosphatase
+PPHIGDPK_01844	gene
+PPHIGDPK_01845	CDS	ccpB	Catabolite control protein B
+PPHIGDPK_01845	gene	ccpB
+PPHIGDPK_01846	CDS	hypothetical protein
+PPHIGDPK_01846	gene
+PPHIGDPK_01847	CDS	hypothetical protein
+PPHIGDPK_01847	gene
+PPHIGDPK_01848	tRNA	tRNA-Glu(ttc)
+PPHIGDPK_01848	gene
+PPHIGDPK_01849	tRNA	tRNA-Asn(gtt)
+PPHIGDPK_01849	gene
+PPHIGDPK_01850	CDS	bioB	2.8.1.6	Biotin synthase
+PPHIGDPK_01850	gene	bioB
+PPHIGDPK_01851	CDS	rsmH_1	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+PPHIGDPK_01851	gene	rsmH_1
+PPHIGDPK_01852	CDS	glcU	putative glucose uptake protein GlcU
+PPHIGDPK_01852	gene	glcU
+PPHIGDPK_01853	CDS	dacA_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+PPHIGDPK_01853	gene	dacA_2
+PPHIGDPK_01854	CDS	rpsL	30S ribosomal protein S12
+PPHIGDPK_01854	gene	rpsL
+PPHIGDPK_01855	CDS	rpsG	30S ribosomal protein S7
+PPHIGDPK_01855	gene	rpsG
+PPHIGDPK_01856	CDS	fus	Elongation factor G
+PPHIGDPK_01856	gene	fus
+PPHIGDPK_01857	CDS	purR	Pur operon repressor
+PPHIGDPK_01857	gene	purR
+PPHIGDPK_01858	CDS	sipT	3.4.21.89	Signal peptidase I T
+PPHIGDPK_01858	gene	sipT
+PPHIGDPK_01859	CDS	rnhC	3.1.26.4	Ribonuclease HIII
+PPHIGDPK_01859	gene	rnhC
+PPHIGDPK_01860	CDS	hrtA_2	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+PPHIGDPK_01860	gene	hrtA_2
+PPHIGDPK_01861	CDS	putative ABC transporter permease
+PPHIGDPK_01861	gene
+PPHIGDPK_01862	CDS	rplM	50S ribosomal protein L13
+PPHIGDPK_01862	gene	rplM
+PPHIGDPK_01863	CDS	rpsI	30S ribosomal protein S9
+PPHIGDPK_01863	gene	rpsI
+PPHIGDPK_01864	CDS	hypothetical protein
+PPHIGDPK_01864	gene
+PPHIGDPK_01865	tRNA	tRNA-Met(cat)
+PPHIGDPK_01865	gene
+PPHIGDPK_01866	CDS	Stress response regulator gls24 
+PPHIGDPK_01866	gene
+PPHIGDPK_01867	CDS	hypothetical protein
+PPHIGDPK_01867	gene
+PPHIGDPK_01868	CDS	hypothetical protein
+PPHIGDPK_01868	gene
+PPHIGDPK_01869	CDS	hypothetical protein
+PPHIGDPK_01869	gene
+PPHIGDPK_01870	CDS	hypothetical protein
+PPHIGDPK_01870	gene
+PPHIGDPK_01871	CDS	hypothetical protein
+PPHIGDPK_01871	gene
+PPHIGDPK_01872	CDS	hypothetical protein
+PPHIGDPK_01872	gene
+PPHIGDPK_01873	CDS	gsiC	Glutathione transport system permease protein GsiC
+PPHIGDPK_01873	gene	gsiC
+PPHIGDPK_01874	CDS	oppF_2	Oligopeptide transport ATP-binding protein OppF
+PPHIGDPK_01874	gene	oppF_2
+PPHIGDPK_01875	CDS	oppD_2	Oligopeptide transport ATP-binding protein OppD
+PPHIGDPK_01875	gene	oppD_2
+PPHIGDPK_01876	CDS	hypothetical protein
+PPHIGDPK_01876	gene
+PPHIGDPK_01877	tRNA	tRNA-Met(cat)
+PPHIGDPK_01877	gene
+PPHIGDPK_01878	CDS	hypothetical protein
+PPHIGDPK_01878	gene
+PPHIGDPK_01879	CDS	acr3	Arsenical-resistance protein Acr3
+PPHIGDPK_01879	gene	acr3
+PPHIGDPK_01880	CDS	cdr_1	1.8.1.14	Coenzyme A disulfide reductase
+PPHIGDPK_01880	gene	cdr_1
+PPHIGDPK_01881	CDS	arsA	3.6.3.16	Arsenical pump-driving ATPase
+PPHIGDPK_01881	gene	arsA
+PPHIGDPK_01882	CDS	arsD	Arsenical resistance operon trans-acting repressor ArsD
+PPHIGDPK_01882	gene	arsD
+PPHIGDPK_01883	CDS	sdpR	Transcriptional repressor SdpR
+PPHIGDPK_01883	gene	sdpR
+PPHIGDPK_01884	CDS	cspLA_3	Cold shock-like protein CspLA
+PPHIGDPK_01884	gene	cspLA_3
+PPHIGDPK_01885	CDS	cspLA_4	Cold shock-like protein CspLA
+PPHIGDPK_01885	gene	cspLA_4
+PPHIGDPK_01886	CDS	hypothetical protein
+PPHIGDPK_01886	gene
+PPHIGDPK_01887	tRNA	tRNA-Met(cat)
+PPHIGDPK_01887	gene
+PPHIGDPK_01888	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+PPHIGDPK_01888	gene
+PPHIGDPK_01889	CDS	ywqN	1.-.-.-	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+PPHIGDPK_01889	gene	ywqN
+PPHIGDPK_01890	CDS	adhR_2	HTH-type transcriptional regulator AdhR
+PPHIGDPK_01890	gene	adhR_2
+PPHIGDPK_01891	CDS	lacA_3	5.3.1.26	Galactose-6-phosphate isomerase subunit LacA
+PPHIGDPK_01891	gene	lacA_3
+PPHIGDPK_01892	CDS	lacB	5.3.1.26	Galactose-6-phosphate isomerase subunit LacB
+PPHIGDPK_01892	gene	lacB
+PPHIGDPK_01893	CDS	lacC_2	2.7.1.144	Tagatose-6-phosphate kinase
+PPHIGDPK_01893	gene	lacC_2
+PPHIGDPK_01894	CDS	lacD	4.1.2.40	Tagatose 1,6-diphosphate aldolase
+PPHIGDPK_01894	gene	lacD
+PPHIGDPK_01895	CDS	lacF_2	2.7.1.207	PTS system lactose-specific EIIA component
+PPHIGDPK_01895	gene	lacF_2
+PPHIGDPK_01896	CDS	lacE	PTS system lactose-specific EIICB component
+PPHIGDPK_01896	gene	lacE
+PPHIGDPK_01897	CDS	lacG	3.2.1.85	6-phospho-beta-galactosidase
+PPHIGDPK_01897	gene	lacG
+PPHIGDPK_01898	CDS	hypothetical protein
+PPHIGDPK_01898	gene
+PPHIGDPK_01899	CDS	hypothetical protein
+PPHIGDPK_01899	gene
+PPHIGDPK_01900	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+PPHIGDPK_01900	gene	soj
+PPHIGDPK_01901	CDS	noc	Nucleoid occlusion protein
+PPHIGDPK_01901	gene	noc
+PPHIGDPK_01902	CDS	hypothetical protein
+PPHIGDPK_01902	gene
+PPHIGDPK_01903	CDS	hypothetical protein
+PPHIGDPK_01903	gene
+PPHIGDPK_01904	CDS	hypothetical protein
+PPHIGDPK_01904	gene
+PPHIGDPK_01905	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+PPHIGDPK_01905	gene	dinB_2
+PPHIGDPK_01906	CDS	hypothetical protein
+PPHIGDPK_01906	gene
+PPHIGDPK_01907	CDS	dld	1.1.1.28	D-lactate dehydrogenase
+PPHIGDPK_01907	gene	dld
+PPHIGDPK_01908	CDS	hypothetical protein
+PPHIGDPK_01908	gene
+PPHIGDPK_01909	CDS	ktrA	Ktr system potassium uptake protein A
+PPHIGDPK_01909	gene	ktrA
+PPHIGDPK_01910	CDS	ntpJ	Potassium/sodium uptake protein NtpJ
+PPHIGDPK_01910	gene	ntpJ
+PPHIGDPK_01911	CDS	gerN	Na(+)/H(+)-K(+) antiporter GerN
+PPHIGDPK_01911	gene	gerN
+PPHIGDPK_01912	CDS	rclA_2	putative pyridine nucleotide-disulfide oxidoreductase RclA
+PPHIGDPK_01912	gene	rclA_2
+PPHIGDPK_01913	CDS	hypothetical protein
+PPHIGDPK_01913	gene
+PPHIGDPK_01914	CDS	yecD_3	3.-.-.-	Isochorismatase family protein YecD
+PPHIGDPK_01914	gene	yecD_3
+PPHIGDPK_01915	CDS	hypothetical protein
+PPHIGDPK_01915	gene
+PPHIGDPK_01916	CDS	acuR	Transcriptional regulator AcuR
+PPHIGDPK_01916	gene	acuR
+PPHIGDPK_01917	CDS	hypothetical protein
+PPHIGDPK_01917	gene
+PPHIGDPK_01918	CDS	xerD_4	Tyrosine recombinase XerD
+PPHIGDPK_01918	gene	xerD_4
+PPHIGDPK_01919	CDS	mrp	Iron-sulfur cluster carrier protein
+PPHIGDPK_01919	gene	mrp
+PPHIGDPK_01920	CDS	esaA	ESAT-6 secretion accessory factor EsaA
+PPHIGDPK_01920	gene	esaA
+PPHIGDPK_01921	CDS	hypothetical protein
+PPHIGDPK_01921	gene
+PPHIGDPK_01922	CDS	Putative universal stress protein
+PPHIGDPK_01922	gene
+PPHIGDPK_01923	CDS	hypothetical protein
+PPHIGDPK_01923	gene
+PPHIGDPK_01924	CDS	pnuC_1	Nicotinamide riboside transporter PnuC
+PPHIGDPK_01924	gene	pnuC_1
+PPHIGDPK_01925	CDS	hypothetical protein
+PPHIGDPK_01925	gene
+PPHIGDPK_01926	CDS	pgaC_2	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+PPHIGDPK_01926	gene	pgaC_2
+PPHIGDPK_01927	CDS	rplS	50S ribosomal protein L19
+PPHIGDPK_01927	gene	rplS
+PPHIGDPK_01928	CDS	ywaC	2.7.6.5	GTP pyrophosphokinase YwaC
+PPHIGDPK_01928	gene	ywaC
+PPHIGDPK_01929	CDS	cynR	HTH-type transcriptional regulator CynR
+PPHIGDPK_01929	gene	cynR
+PPHIGDPK_01930	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_01930	gene
+PPHIGDPK_01931	CDS	hypothetical protein
+PPHIGDPK_01931	gene
+PPHIGDPK_01932	CDS	hypothetical protein
+PPHIGDPK_01932	gene
+PPHIGDPK_01933	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PPHIGDPK_01933	gene	mraY
+PPHIGDPK_01934	CDS	pbpX_2	Penicillin-binding protein 2x
+PPHIGDPK_01934	gene	pbpX_2
+PPHIGDPK_01935	CDS	ftsL	Cell division protein FtsL
+PPHIGDPK_01935	gene	ftsL
+PPHIGDPK_01936	CDS	rsmH_2	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+PPHIGDPK_01936	gene	rsmH_2
+PPHIGDPK_01937	CDS	hypothetical protein
+PPHIGDPK_01937	gene
+PPHIGDPK_01938	CDS	hypothetical protein
+PPHIGDPK_01938	gene
+PPHIGDPK_01939	CDS	hypothetical protein
+PPHIGDPK_01939	gene
+PPHIGDPK_01940	CDS	recN	DNA repair protein RecN
+PPHIGDPK_01940	gene	recN
+PPHIGDPK_01941	CDS	argR_2	Arginine repressor
+PPHIGDPK_01941	gene	argR_2
+PPHIGDPK_01942	CDS	tlyA	Hemolysin A
+PPHIGDPK_01942	gene	tlyA
+PPHIGDPK_01943	CDS	2.5.1.10	Farnesyl diphosphate synthase
+PPHIGDPK_01943	gene
+PPHIGDPK_01944	CDS	garK	2.7.1.165	Glycerate 2-kinase
+PPHIGDPK_01944	gene	garK
+PPHIGDPK_01945	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+PPHIGDPK_01945	gene	xseB
+PPHIGDPK_01946	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+PPHIGDPK_01946	gene	xseA
+PPHIGDPK_01947	CDS	folD	Bifunctional protein FolD protein
+PPHIGDPK_01947	gene	folD
+PPHIGDPK_01948	CDS	hypothetical protein
+PPHIGDPK_01948	gene
+PPHIGDPK_01949	CDS	hypothetical protein
+PPHIGDPK_01949	gene
+PPHIGDPK_01950	CDS	copB	3.6.3.54	Copper-exporting P-type ATPase B
+PPHIGDPK_01950	gene	copB
+PPHIGDPK_01951	CDS	hypothetical protein
+PPHIGDPK_01951	gene
+PPHIGDPK_01952	CDS	hypothetical protein
+PPHIGDPK_01952	gene
+PPHIGDPK_01953	CDS	hypothetical protein
+PPHIGDPK_01953	gene
+PPHIGDPK_01954	CDS	hypothetical protein
+PPHIGDPK_01954	gene
+PPHIGDPK_01955	CDS	hypothetical protein
+PPHIGDPK_01955	gene
+PPHIGDPK_01956	CDS	hypothetical protein
+PPHIGDPK_01956	gene
+PPHIGDPK_01957	CDS	opuCB	Glycine betaine/carnitine/choline transport system permease protein OpuCB
+PPHIGDPK_01957	gene	opuCB
+PPHIGDPK_01958	CDS	osmV	3.6.3.-	Osmoprotectant import ATP-binding protein OsmV
+PPHIGDPK_01958	gene	osmV
+PPHIGDPK_01959	CDS	garB	1.8.1.16	Glutathione amide reductase
+PPHIGDPK_01959	gene	garB
+PPHIGDPK_01960	CDS	spxA_6	Regulatory protein Spx
+PPHIGDPK_01960	gene	spxA_6
+PPHIGDPK_01961	CDS	alr	5.1.1.1	Alanine racemase
+PPHIGDPK_01961	gene	alr
+PPHIGDPK_01962	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+PPHIGDPK_01962	gene	acpS
+PPHIGDPK_01963	CDS	pepV	3.4.13.-	Beta-Ala-Xaa dipeptidase
+PPHIGDPK_01963	gene	pepV
+PPHIGDPK_01964	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+PPHIGDPK_01964	gene	mutY
+PPHIGDPK_01965	CDS	uvrC	UvrABC system protein C
+PPHIGDPK_01965	gene	uvrC
+PPHIGDPK_01966	CDS	pnuC_2	Nicotinamide riboside transporter PnuC
+PPHIGDPK_01966	gene	pnuC_2
+PPHIGDPK_01967	CDS	udp	2.4.2.3	Uridine phosphorylase
+PPHIGDPK_01967	gene	udp
+PPHIGDPK_01968	CDS	rpsA	30S Ribosomal protein S1
+PPHIGDPK_01968	gene	rpsA
+PPHIGDPK_01969	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+PPHIGDPK_01969	gene	mnmA
+PPHIGDPK_01970	CDS	hypothetical protein
+PPHIGDPK_01970	gene
+PPHIGDPK_01971	CDS	hypothetical protein
+PPHIGDPK_01971	gene
+PPHIGDPK_01972	CDS	hypothetical protein
+PPHIGDPK_01972	gene
+PPHIGDPK_01973	CDS	copA	3.6.3.54	putative copper-importing P-type ATPase A
+PPHIGDPK_01973	gene	copA
+PPHIGDPK_01974	CDS	merP	Mercuric transport protein periplasmic component
+PPHIGDPK_01974	gene	merP
+PPHIGDPK_01975	CDS	copY	Transcriptional repressor CopY
+PPHIGDPK_01975	gene	copY
+PPHIGDPK_01976	CDS	sdhA	4.3.1.17	L-serine dehydratase, alpha chain
+PPHIGDPK_01976	gene	sdhA
+PPHIGDPK_01977	CDS	sdhB	4.3.1.17	L-serine dehydratase, beta chain
+PPHIGDPK_01977	gene	sdhB
+PPHIGDPK_01978	CDS	1.6.99.-	NADH dehydrogenase-like protein
+PPHIGDPK_01978	gene
+PPHIGDPK_01979	CDS	1.6.99.-	NADH dehydrogenase-like protein
+PPHIGDPK_01979	gene
+PPHIGDPK_01980	CDS	hypothetical protein
+PPHIGDPK_01980	gene
+PPHIGDPK_01981	CDS	ydjP	3.-.-.-	AB hydrolase superfamily protein YdjP
+PPHIGDPK_01981	gene	ydjP
+PPHIGDPK_01982	CDS	bglA_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglA
+PPHIGDPK_01982	gene	bglA_2
+PPHIGDPK_01983	CDS	licC_2	Lichenan permease IIC component
+PPHIGDPK_01983	gene	licC_2
+PPHIGDPK_01984	CDS	ybbH_3	putative HTH-type transcriptional regulator YbbH
+PPHIGDPK_01984	gene	ybbH_3
+PPHIGDPK_01985	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+PPHIGDPK_01985	gene	leuS
+PPHIGDPK_01986	CDS	lrp	Leucine-rich protein
+PPHIGDPK_01986	gene	lrp
+PPHIGDPK_01987	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+PPHIGDPK_01987	gene	prs
+PPHIGDPK_01988	CDS	ftsY	Signal recognition particle receptor FtsY
+PPHIGDPK_01988	gene	ftsY
+PPHIGDPK_01989	CDS	hypothetical protein
+PPHIGDPK_01989	gene
+PPHIGDPK_01990	CDS	yidA	3.1.3.23	Sugar phosphatase YidA
+PPHIGDPK_01990	gene	yidA
+PPHIGDPK_01991	CDS	hypothetical protein
+PPHIGDPK_01991	gene
+PPHIGDPK_01992	CDS	yvbW_2	putative amino acid permease YvbW
+PPHIGDPK_01992	gene	yvbW_2
+PPHIGDPK_01993	CDS	hypothetical protein
+PPHIGDPK_01993	gene
+PPHIGDPK_01994	CDS	hypothetical protein
+PPHIGDPK_01994	gene
+PPHIGDPK_01995	CDS	hypothetical protein
+PPHIGDPK_01995	gene
+PPHIGDPK_01996	CDS	ltaS1	Lipoteichoic acid synthase 1
+PPHIGDPK_01996	gene	ltaS1
+PPHIGDPK_01997	CDS	smc_3	Chromosome partition protein Smc
+PPHIGDPK_01997	gene	smc_3
+PPHIGDPK_01998	CDS	rnc	3.1.26.3	Ribonuclease 3
+PPHIGDPK_01998	gene	rnc
+PPHIGDPK_01999	CDS	arcB_2	2.1.3.3	Ornithine carbamoyltransferase, catabolic
+PPHIGDPK_01999	gene	arcB_2
+PPHIGDPK_02000	CDS	argB	2.7.2.8	Acetylglutamate kinase
+PPHIGDPK_02000	gene	argB
+PPHIGDPK_02001	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+PPHIGDPK_02001	gene	argD
+PPHIGDPK_02002	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ
+PPHIGDPK_02002	gene	argJ
+PPHIGDPK_02003	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+PPHIGDPK_02003	gene	argC
+PPHIGDPK_02004	CDS	hypothetical protein
+PPHIGDPK_02004	gene
+PPHIGDPK_02005	CDS	queT	Queuosine precursor transporter QueT
+PPHIGDPK_02005	gene	queT
+PPHIGDPK_02006	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+PPHIGDPK_02006	gene	bacC
+PPHIGDPK_02007	CDS	hypothetical protein
+PPHIGDPK_02007	gene
+PPHIGDPK_02008	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+PPHIGDPK_02008	gene	metG
+PPHIGDPK_02009	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+PPHIGDPK_02009	gene	exoA
+PPHIGDPK_02010	CDS	hypothetical protein
+PPHIGDPK_02010	gene
+PPHIGDPK_02011	CDS	srlR	Glucitol operon repressor
+PPHIGDPK_02011	gene	srlR
+PPHIGDPK_02012	CDS	spxA_7	Regulatory protein Spx
+PPHIGDPK_02012	gene	spxA_7
+PPHIGDPK_02013	CDS	csoR	Copper-sensing transcriptional repressor CsoR
+PPHIGDPK_02013	gene	csoR
+PPHIGDPK_02014	CDS	cdr_2	1.8.1.14	Coenzyme A disulfide reductase
+PPHIGDPK_02014	gene	cdr_2
+PPHIGDPK_02015	CDS	moeZ	putative adenylyltransferase/sulfurtransferase MoeZ
+PPHIGDPK_02015	gene	moeZ
+PPHIGDPK_02016	CDS	glpE_3	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+PPHIGDPK_02016	gene	glpE_3
+PPHIGDPK_02017	CDS	hypothetical protein
+PPHIGDPK_02017	gene
+PPHIGDPK_02018	CDS	cysK_2	2.5.1.47	Cysteine synthase
+PPHIGDPK_02018	gene	cysK_2
+PPHIGDPK_02019	CDS	metC	4.4.1.8	Cystathionine beta-lyase
+PPHIGDPK_02019	gene	metC
+PPHIGDPK_02020	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+PPHIGDPK_02020	gene	accA
+PPHIGDPK_02021	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+PPHIGDPK_02021	gene	accD
+PPHIGDPK_02022	CDS	accC	6.3.4.14	Biotin carboxylase
+PPHIGDPK_02022	gene	accC
+PPHIGDPK_02023	CDS	fabZ_2	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PPHIGDPK_02023	gene	fabZ_2
+PPHIGDPK_02024	CDS	accB	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PPHIGDPK_02024	gene	accB
+PPHIGDPK_02025	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PPHIGDPK_02025	gene	fabF
+PPHIGDPK_02026	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PPHIGDPK_02026	gene	fabG_2
+PPHIGDPK_02027	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+PPHIGDPK_02027	gene	fabD
+PPHIGDPK_02028	CDS	acpA	Acyl carrier protein
+PPHIGDPK_02028	gene	acpA
+PPHIGDPK_02029	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+PPHIGDPK_02029	gene	fabH
+PPHIGDPK_02030	CDS	yusO_1	putative HTH-type transcriptional regulator YusO
+PPHIGDPK_02030	gene	yusO_1
+PPHIGDPK_02031	CDS	manA	5.3.1.8	Mannose-6-phosphate isomerase ManA
+PPHIGDPK_02031	gene	manA
+PPHIGDPK_02032	CDS	rbfA	Ribosome-binding factor A
+PPHIGDPK_02032	gene	rbfA
+PPHIGDPK_02033	CDS	infB	Translation initiation factor IF-2
+PPHIGDPK_02033	gene	infB
+PPHIGDPK_02034	CDS	rplGA	putative ribosomal protein YlxQ
+PPHIGDPK_02034	gene	rplGA
+PPHIGDPK_02035	CDS	hypothetical protein
+PPHIGDPK_02035	gene
+PPHIGDPK_02036	CDS	nusA	Transcription termination/antitermination protein NusA
+PPHIGDPK_02036	gene	nusA
+PPHIGDPK_02037	CDS	rimP	Ribosome maturation factor RimP
+PPHIGDPK_02037	gene	rimP
+PPHIGDPK_02038	CDS	lrgA	Antiholin-like protein LrgA
+PPHIGDPK_02038	gene	lrgA
+PPHIGDPK_02039	CDS	yohK	Inner membrane protein YohK
+PPHIGDPK_02039	gene	yohK
+PPHIGDPK_02040	CDS	hypothetical protein
+PPHIGDPK_02040	gene
+PPHIGDPK_02041	CDS	hypothetical protein
+PPHIGDPK_02041	gene
+PPHIGDPK_02042	CDS	hypothetical protein
+PPHIGDPK_02042	gene
+PPHIGDPK_02043	CDS	hypothetical protein
+PPHIGDPK_02043	gene
+PPHIGDPK_02044	CDS	hypothetical protein
+PPHIGDPK_02044	gene
+PPHIGDPK_02045	CDS	der_2	GTPase Der
+PPHIGDPK_02045	gene	der_2
+PPHIGDPK_02046	CDS	mfpA	Pentapeptide repeat protein MfpA
+PPHIGDPK_02046	gene	mfpA
+PPHIGDPK_02047	CDS	nfrA2	1.5.1.39	FMN reductase [NAD(P)H]
+PPHIGDPK_02047	gene	nfrA2
+PPHIGDPK_02048	CDS	dnaI	Primosomal protein DnaI
+PPHIGDPK_02048	gene	dnaI
+PPHIGDPK_02049	CDS	dnaB	Replication initiation and membrane attachment protein
+PPHIGDPK_02049	gene	dnaB
+PPHIGDPK_02050	CDS	nrdR	Transcriptional repressor NrdR
+PPHIGDPK_02050	gene	nrdR
+PPHIGDPK_02051	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+PPHIGDPK_02051	gene	trmB
+PPHIGDPK_02052	CDS	hypothetical protein
+PPHIGDPK_02052	gene
+PPHIGDPK_02053	CDS	hypothetical protein
+PPHIGDPK_02053	gene
+PPHIGDPK_02054	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+PPHIGDPK_02054	gene	dnaC
+PPHIGDPK_02055	CDS	rplI	50S ribosomal protein L9
+PPHIGDPK_02055	gene	rplI
+PPHIGDPK_02056	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+PPHIGDPK_02056	gene	gdpP
+PPHIGDPK_02057	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+PPHIGDPK_02057	gene
+PPHIGDPK_02058	CDS	slyA_1	Transcriptional regulator SlyA
+PPHIGDPK_02058	gene	slyA_1
+PPHIGDPK_02059	CDS	hypothetical protein
+PPHIGDPK_02059	gene
+PPHIGDPK_02060	CDS	yclM	2.7.2.4	Aspartokinase 3
+PPHIGDPK_02060	gene	yclM
+PPHIGDPK_02061	CDS	yqiK	Inner membrane protein YqiK
+PPHIGDPK_02061	gene	yqiK
+PPHIGDPK_02062	CDS	hypothetical protein
+PPHIGDPK_02062	gene
+PPHIGDPK_02063	CDS	ycsE	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+PPHIGDPK_02063	gene	ycsE
+PPHIGDPK_02064	CDS	ansB	3.5.1.1	L-asparaginase
+PPHIGDPK_02064	gene	ansB
+PPHIGDPK_02065	CDS	nrnA	3.1.-.-	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+PPHIGDPK_02065	gene	nrnA
+PPHIGDPK_02066	CDS	3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+PPHIGDPK_02066	gene
+PPHIGDPK_02067	CDS	rimL	2.3.1.-	Ribosomal-protein-serine acetyltransferase
+PPHIGDPK_02067	gene	rimL
+PPHIGDPK_02068	CDS	pchA	5.4.4.2	Salicylate biosynthesis isochorismate synthase
+PPHIGDPK_02068	gene	pchA
+PPHIGDPK_02069	CDS	menD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+PPHIGDPK_02069	gene	menD
+PPHIGDPK_02070	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+PPHIGDPK_02070	gene	menH_2
+PPHIGDPK_02071	CDS	menB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+PPHIGDPK_02071	gene	menB
+PPHIGDPK_02072	CDS	menE	6.2.1.26	2-succinylbenzoate--CoA ligase
+PPHIGDPK_02072	gene	menE
+PPHIGDPK_02073	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+PPHIGDPK_02073	gene	menC
+PPHIGDPK_02074	CDS	3.1.2.-	Putative esterase
+PPHIGDPK_02074	gene
+PPHIGDPK_02075	CDS	hypothetical protein
+PPHIGDPK_02075	gene
+PPHIGDPK_02076	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+PPHIGDPK_02076	gene	tadA_2
+PPHIGDPK_02077	CDS	apaH	3.6.1.41	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+PPHIGDPK_02077	gene	apaH
+PPHIGDPK_02078	CDS	rbn	3.1.-.-	Ribonuclease BN
+PPHIGDPK_02078	gene	rbn
+PPHIGDPK_02079	CDS	metE_2	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+PPHIGDPK_02079	gene	metE_2
+PPHIGDPK_02080	CDS	Zinc-type alcohol dehydrogenase-like protein
+PPHIGDPK_02080	gene
+PPHIGDPK_02081	CDS	hypothetical protein
+PPHIGDPK_02081	gene
+PPHIGDPK_02082	CDS	hypothetical protein
+PPHIGDPK_02082	gene
+PPHIGDPK_02083	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+PPHIGDPK_02083	gene	macB_2
+PPHIGDPK_02084	CDS	putative membrane protein
+PPHIGDPK_02084	gene
+PPHIGDPK_02085	CDS	hypothetical protein
+PPHIGDPK_02085	gene
+PPHIGDPK_02086	CDS	lmrA	3.6.3.44	Multidrug resistance ABC transporter ATP-binding and permease protein
+PPHIGDPK_02086	gene	lmrA
+PPHIGDPK_02087	CDS	hypothetical protein
+PPHIGDPK_02087	gene
+PPHIGDPK_02088	CDS	hypothetical protein
+PPHIGDPK_02088	gene
+PPHIGDPK_02089	CDS	yusO_2	putative HTH-type transcriptional regulator YusO
+PPHIGDPK_02089	gene	yusO_2
+PPHIGDPK_02090	CDS	hypothetical protein
+PPHIGDPK_02090	gene
+PPHIGDPK_02091	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_02091	gene
+PPHIGDPK_02092	CDS	cydD	ATP-binding/permease protein CydD
+PPHIGDPK_02092	gene	cydD
+PPHIGDPK_02093	CDS	cydB	1.10.3.14	Cytochrome bd-I ubiquinol oxidase subunit 2
+PPHIGDPK_02093	gene	cydB
+PPHIGDPK_02094	CDS	cydA	1.10.3.-	Cytochrome bd ubiquinol oxidase subunit 1
+PPHIGDPK_02094	gene	cydA
+PPHIGDPK_02095	CDS	dtpT	Di-/tripeptide transporter
+PPHIGDPK_02095	gene	dtpT
+PPHIGDPK_02096	CDS	apu	Amylopullulanase
+PPHIGDPK_02096	gene	apu
+PPHIGDPK_02097	CDS	glgP	2.4.1.1	Glycogen phosphorylase
+PPHIGDPK_02097	gene	glgP
+PPHIGDPK_02098	CDS	glgA	2.4.1.21	Glycogen synthase
+PPHIGDPK_02098	gene	glgA
+PPHIGDPK_02099	CDS	glgD	Glycogen biosynthesis protein GlgD
+PPHIGDPK_02099	gene	glgD
+PPHIGDPK_02100	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+PPHIGDPK_02100	gene	glgC
+PPHIGDPK_02101	CDS	malQ	2.4.1.25	4-alpha-glucanotransferase
+PPHIGDPK_02101	gene	malQ
+PPHIGDPK_02102	CDS	nusB	N utilization substance protein B 
+PPHIGDPK_02102	gene	nusB
+PPHIGDPK_02103	CDS	Alkaline shock protein 23
+PPHIGDPK_02103	gene
+PPHIGDPK_02104	CDS	efp	Elongation factor P
+PPHIGDPK_02104	gene	efp
+PPHIGDPK_02105	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+PPHIGDPK_02105	gene	ypdF
+PPHIGDPK_02106	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+PPHIGDPK_02106	gene	rsmA
+PPHIGDPK_02107	CDS	rnmV	3.1.26.8	Ribonuclease M5
+PPHIGDPK_02107	gene	rnmV
+PPHIGDPK_02108	CDS	aroK_2	2.7.1.71	Shikimate kinase
+PPHIGDPK_02108	gene	aroK_2
+PPHIGDPK_02109	CDS	dtd3	3.1.1.96	D-aminoacyl-tRNA deacylase
+PPHIGDPK_02109	gene	dtd3
+PPHIGDPK_02110	CDS	Int-Tn	Transposase from transposon Tn916
+PPHIGDPK_02110	gene	Int-Tn
+PPHIGDPK_02111	CDS	hypothetical protein
+PPHIGDPK_02111	gene
+PPHIGDPK_02112	CDS	hypothetical protein
+PPHIGDPK_02112	gene
+PPHIGDPK_02113	CDS	hypothetical protein
+PPHIGDPK_02113	gene
+PPHIGDPK_02114	CDS	hypothetical protein
+PPHIGDPK_02114	gene
+PPHIGDPK_02115	CDS	hypothetical protein
+PPHIGDPK_02115	gene
+PPHIGDPK_02116	CDS	immR	HTH-type transcriptional regulator ImmR
+PPHIGDPK_02116	gene	immR
+PPHIGDPK_02117	CDS	hypothetical protein
+PPHIGDPK_02117	gene
+PPHIGDPK_02118	CDS	hypothetical protein
+PPHIGDPK_02118	gene
+PPHIGDPK_02119	CDS	hypothetical protein
+PPHIGDPK_02119	gene
+PPHIGDPK_02120	CDS	hypothetical protein
+PPHIGDPK_02120	gene
+PPHIGDPK_02121	CDS	ceo_1	1.5.1.24	N(5)-(carboxyethyl)ornithine synthase
+PPHIGDPK_02121	gene	ceo_1
+PPHIGDPK_02122	CDS	hypothetical protein
+PPHIGDPK_02122	gene
+PPHIGDPK_02123	CDS	hypothetical protein
+PPHIGDPK_02123	gene
+PPHIGDPK_02124	CDS	hypothetical protein
+PPHIGDPK_02124	gene
+PPHIGDPK_02125	CDS	Stress response regulator gls24 
+PPHIGDPK_02125	gene
+PPHIGDPK_02126	CDS	hypothetical protein
+PPHIGDPK_02126	gene
+PPHIGDPK_02127	CDS	ceo_2	1.5.1.24	N(5)-(carboxyethyl)ornithine synthase
+PPHIGDPK_02127	gene	ceo_2
+PPHIGDPK_02128	CDS	hypothetical protein
+PPHIGDPK_02128	gene
+PPHIGDPK_02129	CDS	hypothetical protein
+PPHIGDPK_02129	gene
+PPHIGDPK_02130	CDS	lacR	Lactose phosphotransferase system repressor
+PPHIGDPK_02130	gene	lacR
+PPHIGDPK_02131	CDS	hypothetical protein
+PPHIGDPK_02131	gene
+PPHIGDPK_02132	CDS	pepO_3	3.4.24.-	Neutral endopeptidase
+PPHIGDPK_02132	gene	pepO_3
+PPHIGDPK_02133	CDS	hypothetical protein
+PPHIGDPK_02133	gene
+PPHIGDPK_02134	CDS	hypothetical protein
+PPHIGDPK_02134	gene
+PPHIGDPK_02135	CDS	1.-.-.-	Putative monooxygenase
+PPHIGDPK_02135	gene
+PPHIGDPK_02136	CDS	hypothetical protein
+PPHIGDPK_02136	gene
+PPHIGDPK_02137	CDS	pinR	3.1.22.-	Serine recombinase PinR
+PPHIGDPK_02137	gene	pinR
+PPHIGDPK_02138	CDS	prtP	3.4.21.96	PIII-type proteinase
+PPHIGDPK_02138	gene	prtP
+PPHIGDPK_02139	CDS	prsA_2	5.2.1.8	Foldase protein PrsA
+PPHIGDPK_02139	gene	prsA_2
+PPHIGDPK_02140	CDS	hypothetical protein
+PPHIGDPK_02140	gene
+PPHIGDPK_02141	CDS	yhjX	putative MFS-type transporter YhjX
+PPHIGDPK_02141	gene	yhjX
+PPHIGDPK_02142	CDS	hypothetical protein
+PPHIGDPK_02142	gene
+PPHIGDPK_02143	CDS	hypothetical protein
+PPHIGDPK_02143	gene
+PPHIGDPK_02144	CDS	yxeP_2	3.-.-.-	putative hydrolase YxeP
+PPHIGDPK_02144	gene	yxeP_2
+PPHIGDPK_02145	CDS	hypothetical protein
+PPHIGDPK_02145	gene
+PPHIGDPK_02146	CDS	tetD	Transposon Tn10 TetD protein
+PPHIGDPK_02146	gene	tetD
+PPHIGDPK_02147	CDS	hypothetical protein
+PPHIGDPK_02147	gene
+PPHIGDPK_02148	CDS	hypothetical protein
+PPHIGDPK_02148	gene
+PPHIGDPK_02149	CDS	hypothetical protein
+PPHIGDPK_02149	gene
+PPHIGDPK_02150	CDS	hypothetical protein
+PPHIGDPK_02150	gene
+PPHIGDPK_02151	CDS	hypothetical protein
+PPHIGDPK_02151	gene
+PPHIGDPK_02152	CDS	hypothetical protein
+PPHIGDPK_02152	gene
+PPHIGDPK_02153	CDS	ltrA	Group II intron-encoded protein LtrA
+PPHIGDPK_02153	gene	ltrA
+PPHIGDPK_02154	CDS	hypothetical protein
+PPHIGDPK_02154	gene
+PPHIGDPK_02155	CDS	hypothetical protein
+PPHIGDPK_02155	gene
+PPHIGDPK_02156	CDS	bag	IgA FC receptor
+PPHIGDPK_02156	gene	bag
+PPHIGDPK_02157	CDS	hsdR	3.1.21.3	Type-1 restriction enzyme R protein
+PPHIGDPK_02157	gene	hsdR
+PPHIGDPK_02158	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+PPHIGDPK_02158	gene
+PPHIGDPK_02159	CDS	hypothetical protein
+PPHIGDPK_02159	gene
+PPHIGDPK_02160	CDS	hypothetical protein
+PPHIGDPK_02160	gene
+PPHIGDPK_02161	CDS	hypothetical protein
+PPHIGDPK_02161	gene
+PPHIGDPK_02162	CDS	hypothetical protein
+PPHIGDPK_02162	gene
+PPHIGDPK_02163	CDS	clpC_2	putative ATP-dependent Clp protease ATP-binding subunit
+PPHIGDPK_02163	gene	clpC_2
+PPHIGDPK_02164	CDS	pipB2	Secreted effector protein PipB2
+PPHIGDPK_02164	gene	pipB2
+PPHIGDPK_02165	CDS	hypothetical protein
+PPHIGDPK_02165	gene
+PPHIGDPK_02166	CDS	hypothetical protein
+PPHIGDPK_02166	gene
+PPHIGDPK_02167	CDS	hypothetical protein
+PPHIGDPK_02167	gene
+PPHIGDPK_02168	CDS	hypothetical protein
+PPHIGDPK_02168	gene
+PPHIGDPK_02169	CDS	3.1.1.23	Monoacylglycerol lipase
+PPHIGDPK_02169	gene
+PPHIGDPK_02170	CDS	ligA_2	6.5.1.2	DNA ligase
+PPHIGDPK_02170	gene	ligA_2
+PPHIGDPK_02171	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PPHIGDPK_02171	gene	queA
+PPHIGDPK_02172	CDS	xerC_3	Tyrosine recombinase XerC
+PPHIGDPK_02172	gene	xerC_3
+PPHIGDPK_02173	CDS	hypothetical protein
+PPHIGDPK_02173	gene
+PPHIGDPK_02174	CDS	hypothetical protein
+PPHIGDPK_02174	gene
+PPHIGDPK_02175	CDS	hypothetical protein
+PPHIGDPK_02175	gene
+PPHIGDPK_02176	CDS	menH_3	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+PPHIGDPK_02176	gene	menH_3
+PPHIGDPK_02177	CDS	nagB_1	3.5.99.6	Glucosamine-6-phosphate deaminase
+PPHIGDPK_02177	gene	nagB_1
+PPHIGDPK_02178	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+PPHIGDPK_02178	gene	mvaS
+PPHIGDPK_02179	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+PPHIGDPK_02179	gene	thlA
+PPHIGDPK_02180	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+PPHIGDPK_02180	gene	mvaA
+PPHIGDPK_02181	CDS	rpsP	30S ribosomal protein S16
+PPHIGDPK_02181	gene	rpsP
+PPHIGDPK_02182	CDS	hypothetical protein
+PPHIGDPK_02182	gene
+PPHIGDPK_02183	CDS	hemH	4.99.1.1	Ferrochelatase
+PPHIGDPK_02183	gene	hemH
+PPHIGDPK_02184	CDS	ytpA	3.1.1.-	Phospholipase YtpA
+PPHIGDPK_02184	gene	ytpA
+PPHIGDPK_02185	CDS	araC	Arabinose operon regulatory protein
+PPHIGDPK_02185	gene	araC
+PPHIGDPK_02186	CDS	hypothetical protein
+PPHIGDPK_02186	gene
+PPHIGDPK_02187	CDS	proC_1	1.5.1.2	Pyrroline-5-carboxylate reductase
+PPHIGDPK_02187	gene	proC_1
+PPHIGDPK_02188	CDS	rimM	Ribosome maturation factor RimM
+PPHIGDPK_02188	gene	rimM
+PPHIGDPK_02189	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+PPHIGDPK_02189	gene	trmD
+PPHIGDPK_02190	CDS	hypothetical protein
+PPHIGDPK_02190	gene
+PPHIGDPK_02191	CDS	DegV domain-containing protein
+PPHIGDPK_02191	gene
+PPHIGDPK_02192	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+PPHIGDPK_02192	gene	dapB
+PPHIGDPK_02193	CDS	hypothetical protein
+PPHIGDPK_02193	gene
+PPHIGDPK_02194	CDS	cca	2.7.7.72	CCA-adding enzyme
+PPHIGDPK_02194	gene	cca
+PPHIGDPK_02195	CDS	pepDA_2	3.4.-.-	Dipeptidase A
+PPHIGDPK_02195	gene	pepDA_2
+PPHIGDPK_02196	CDS	hypothetical protein
+PPHIGDPK_02196	gene
+PPHIGDPK_02197	CDS	ybdH	1.1.-.-	putative oxidoreductase YbdH
+PPHIGDPK_02197	gene	ybdH
+PPHIGDPK_02198	CDS	tfdS	HTH-type transcriptional regulator TfdS
+PPHIGDPK_02198	gene	tfdS
+PPHIGDPK_02199	CDS	hypothetical protein
+PPHIGDPK_02199	gene
+PPHIGDPK_02200	CDS	ettA_2	Energy-dependent translational throttle protein EttA
+PPHIGDPK_02200	gene	ettA_2
+PPHIGDPK_02201	CDS	hypothetical protein
+PPHIGDPK_02201	gene
+PPHIGDPK_02202	CDS	yhhX_2	1.-.-.-	putative oxidoreductase YhhX
+PPHIGDPK_02202	gene	yhhX_2
+PPHIGDPK_02203	CDS	msrA2_2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA 2
+PPHIGDPK_02203	gene	msrA2_2
+PPHIGDPK_02204	CDS	pyrDA	1.3.98.1	Dihydroorotate dehydrogenase A (fumarate)
+PPHIGDPK_02204	gene	pyrDA
+PPHIGDPK_02205	CDS	hypothetical protein
+PPHIGDPK_02205	gene
+PPHIGDPK_02206	CDS	hypothetical protein
+PPHIGDPK_02206	gene
+PPHIGDPK_02207	CDS	1.1.1.1	putative zinc-binding alcohol dehydrogenase
+PPHIGDPK_02207	gene
+PPHIGDPK_02208	CDS	hypothetical protein
+PPHIGDPK_02208	gene
+PPHIGDPK_02209	CDS	hypothetical protein
+PPHIGDPK_02209	gene
+PPHIGDPK_02210	CDS	hypothetical protein
+PPHIGDPK_02210	gene
+PPHIGDPK_02211	CDS	hypothetical protein
+PPHIGDPK_02211	gene
+PPHIGDPK_02212	CDS	hypothetical protein
+PPHIGDPK_02212	gene
+PPHIGDPK_02213	CDS	thyA	2.1.1.45	Thymidylate synthase
+PPHIGDPK_02213	gene	thyA
+PPHIGDPK_02214	CDS	slyA_2	Transcriptional regulator SlyA
+PPHIGDPK_02214	gene	slyA_2
+PPHIGDPK_02215	CDS	ribZ_2	Riboflavin transporter RibZ
+PPHIGDPK_02215	gene	ribZ_2
+PPHIGDPK_02216	CDS	1.-.-.-	putative oxidoreductase
+PPHIGDPK_02216	gene
+PPHIGDPK_02217	CDS	hypothetical protein
+PPHIGDPK_02217	gene
+PPHIGDPK_02218	CDS	hypothetical protein
+PPHIGDPK_02218	gene
+PPHIGDPK_02219	CDS	hypothetical protein
+PPHIGDPK_02219	gene
+PPHIGDPK_02220	CDS	hypothetical protein
+PPHIGDPK_02220	gene
+PPHIGDPK_02221	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PPHIGDPK_02221	gene	purC
+PPHIGDPK_02222	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+PPHIGDPK_02222	gene	purS
+PPHIGDPK_02223	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+PPHIGDPK_02223	gene	purQ
+PPHIGDPK_02224	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+PPHIGDPK_02224	gene	purL
+PPHIGDPK_02225	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+PPHIGDPK_02225	gene	ydfG
+PPHIGDPK_02226	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+PPHIGDPK_02226	gene	purF
+PPHIGDPK_02227	CDS	hypothetical protein
+PPHIGDPK_02227	gene
+PPHIGDPK_02228	CDS	hypothetical protein
+PPHIGDPK_02228	gene
+PPHIGDPK_02229	CDS	hypothetical protein
+PPHIGDPK_02229	gene
+PPHIGDPK_02230	CDS	clpB	Chaperone protein ClpB
+PPHIGDPK_02230	gene	clpB
+PPHIGDPK_02231	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+PPHIGDPK_02231	gene	purM
+PPHIGDPK_02232	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+PPHIGDPK_02232	gene	purN
+PPHIGDPK_02233	CDS	putative ABC transporter ATP-binding protein
+PPHIGDPK_02233	gene
+PPHIGDPK_02234	CDS	hypothetical protein
+PPHIGDPK_02234	gene
+PPHIGDPK_02235	CDS	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+PPHIGDPK_02235	gene
+PPHIGDPK_02236	CDS	hpt_2	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+PPHIGDPK_02236	gene	hpt_2
+PPHIGDPK_02237	CDS	purH	Bifunctional purine biosynthesis protein PurH
+PPHIGDPK_02237	gene	purH
+PPHIGDPK_02238	CDS	yfnB_1	3.-.-.-	Putative HAD-hydrolase YfnB
+PPHIGDPK_02238	gene	yfnB_1
+PPHIGDPK_02239	CDS	hsrA	putative transport protein HsrA
+PPHIGDPK_02239	gene	hsrA
+PPHIGDPK_02240	CDS	tetR	Tetracycline repressor protein class B from transposon Tn10
+PPHIGDPK_02240	gene	tetR
+PPHIGDPK_02241	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+PPHIGDPK_02241	gene	purD
+PPHIGDPK_02242	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+PPHIGDPK_02242	gene	purE
+PPHIGDPK_02243	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+PPHIGDPK_02243	gene	purK
+PPHIGDPK_02244	CDS	rhaS	HTH-type transcriptional activator RhaS
+PPHIGDPK_02244	gene	rhaS
+PPHIGDPK_02245	CDS	xylA	5.3.1.5	Xylose isomerase
+PPHIGDPK_02245	gene	xylA
+PPHIGDPK_02246	CDS	xylB_2	2.7.1.17	Xylulose kinase
+PPHIGDPK_02246	gene	xylB_2
+PPHIGDPK_02247	CDS	5.1.3.21	Maltose epimerase
+PPHIGDPK_02247	gene
+PPHIGDPK_02248	CDS	yjmB	putative symporter YjmB
+PPHIGDPK_02248	gene	yjmB
+PPHIGDPK_02249	CDS	xynB	3.2.1.37	Beta-xylosidase
+PPHIGDPK_02249	gene	xynB
+PPHIGDPK_02250	CDS	2.3.1.-	Putative acetyltransferase
+PPHIGDPK_02250	gene
+PPHIGDPK_02251	CDS	csbC_1	putative metabolite transport protein CsbC
+PPHIGDPK_02251	gene	csbC_1
+PPHIGDPK_02252	CDS	araR_1	Arabinose metabolism transcriptional repressor
+PPHIGDPK_02252	gene	araR_1
+PPHIGDPK_02253	CDS	csbC_2	putative metabolite transport protein CsbC
+PPHIGDPK_02253	gene	csbC_2
+PPHIGDPK_02254	CDS	araB	2.7.1.16	Ribulokinase
+PPHIGDPK_02254	gene	araB
+PPHIGDPK_02255	CDS	araD	5.1.3.4	L-ribulose-5-phosphate 4-epimerase AraD
+PPHIGDPK_02255	gene	araD
+PPHIGDPK_02256	CDS	araA	5.3.1.4	L-arabinose isomerase
+PPHIGDPK_02256	gene	araA
+PPHIGDPK_02257	CDS	xpkA	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+PPHIGDPK_02257	gene	xpkA
+PPHIGDPK_02258	CDS	hypothetical protein
+PPHIGDPK_02258	gene
+PPHIGDPK_02259	CDS	araR_2	Arabinose metabolism transcriptional repressor
+PPHIGDPK_02259	gene	araR_2
+PPHIGDPK_02260	CDS	hypothetical protein
+PPHIGDPK_02260	gene
+PPHIGDPK_02261	CDS	mngB	3.2.1.170	Mannosylglycerate hydrolase
+PPHIGDPK_02261	gene	mngB
+PPHIGDPK_02262	CDS	yteP_2	putative multiple-sugar transport system permease YteP
+PPHIGDPK_02262	gene	yteP_2
+PPHIGDPK_02263	CDS	araQ_2	L-arabinose transport system permease protein AraQ
+PPHIGDPK_02263	gene	araQ_2
+PPHIGDPK_02264	CDS	lipO_2	Lipoprotein LipO
+PPHIGDPK_02264	gene	lipO_2
+PPHIGDPK_02265	CDS	strH	3.2.1.52	Beta-N-acetylhexosaminidase
+PPHIGDPK_02265	gene	strH
+PPHIGDPK_02266	CDS	dexB_2	3.2.1.70	Glucan 1,6-alpha-glucosidase
+PPHIGDPK_02266	gene	dexB_2
+PPHIGDPK_02267	CDS	hypothetical protein
+PPHIGDPK_02267	gene
+PPHIGDPK_02268	CDS	hypothetical protein
+PPHIGDPK_02268	gene
+PPHIGDPK_02269	CDS	hypothetical protein
+PPHIGDPK_02269	gene
+PPHIGDPK_02270	CDS	gmuD_2	3.2.1.86	6-phospho-beta-glucosidase GmuD
+PPHIGDPK_02270	gene	gmuD_2
+PPHIGDPK_02271	CDS	bglK	2.7.1.85	Beta-glucoside kinase
+PPHIGDPK_02271	gene	bglK
+PPHIGDPK_02272	CDS	gmuE_2	2.7.1.4	Putative fructokinase
+PPHIGDPK_02272	gene	gmuE_2
+PPHIGDPK_02273	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+PPHIGDPK_02273	gene	guaA
+PPHIGDPK_02274	CDS	hypothetical protein
+PPHIGDPK_02274	gene
+PPHIGDPK_02275	CDS	mepA_2	Multidrug export protein MepA
+PPHIGDPK_02275	gene	mepA_2
+PPHIGDPK_02276	CDS	hypothetical protein
+PPHIGDPK_02276	gene
+PPHIGDPK_02277	CDS	slyA_3	Transcriptional regulator SlyA
+PPHIGDPK_02277	gene	slyA_3
+PPHIGDPK_02278	CDS	dxs_2	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+PPHIGDPK_02278	gene	dxs_2
+PPHIGDPK_02279	CDS	sdh_3	1.1.1.276	Serine 3-dehydrogenase
+PPHIGDPK_02279	gene	sdh_3
+PPHIGDPK_02280	CDS	putative HTH-type transcriptional regulator
+PPHIGDPK_02280	gene
+PPHIGDPK_02281	CDS	yicL_2	putative inner membrane transporter YicL
+PPHIGDPK_02281	gene	yicL_2
+PPHIGDPK_02282	CDS	perR	Peroxide-responsive repressor PerR
+PPHIGDPK_02282	gene	perR
+PPHIGDPK_02283	CDS	hypothetical protein
+PPHIGDPK_02283	gene
+PPHIGDPK_02284	CDS	hypothetical protein
+PPHIGDPK_02284	gene
+PPHIGDPK_02285	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+PPHIGDPK_02285	gene	ubiE
+PPHIGDPK_02286	CDS	mgrA	HTH-type transcriptional regulator MgrA
+PPHIGDPK_02286	gene	mgrA
+PPHIGDPK_02287	CDS	yodC	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+PPHIGDPK_02287	gene	yodC
+PPHIGDPK_02288	CDS	hypothetical protein
+PPHIGDPK_02288	gene
+PPHIGDPK_02289	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+PPHIGDPK_02289	gene	trpE
+PPHIGDPK_02290	CDS	pabA_2	2.6.1.85	Aminodeoxychorismate/anthranilate synthase component 2
+PPHIGDPK_02290	gene	pabA_2
+PPHIGDPK_02291	CDS	trpD2	2.4.2.18	Anthranilate phosphoribosyltransferase 2
+PPHIGDPK_02291	gene	trpD2
+PPHIGDPK_02292	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+PPHIGDPK_02292	gene	trpC
+PPHIGDPK_02293	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+PPHIGDPK_02293	gene	trpF
+PPHIGDPK_02294	CDS	hypothetical protein
+PPHIGDPK_02294	gene
+PPHIGDPK_02295	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+PPHIGDPK_02295	gene	trpB
+PPHIGDPK_02296	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+PPHIGDPK_02296	gene	trpA
+PPHIGDPK_02297	CDS	licT	Transcription antiterminator LicT
+PPHIGDPK_02297	gene	licT
+PPHIGDPK_02298	CDS	bglF_2	PTS system beta-glucoside-specific EIIBCA component
+PPHIGDPK_02298	gene	bglF_2
+PPHIGDPK_02299	CDS	bglH_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+PPHIGDPK_02299	gene	bglH_2
+PPHIGDPK_02300	CDS	hypothetical protein
+PPHIGDPK_02300	gene
+PPHIGDPK_02301	CDS	hypothetical protein
+PPHIGDPK_02301	gene
+PPHIGDPK_02302	CDS	tagE	2.4.1.52	Poly(glycerol-phosphate) alpha-glucosyltransferase
+PPHIGDPK_02302	gene	tagE
+PPHIGDPK_02303	CDS	gtf1	2.4.1.-	Glycosyltransferase Gtf1
+PPHIGDPK_02303	gene	gtf1
+PPHIGDPK_02304	CDS	mngR	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+PPHIGDPK_02304	gene	mngR
+PPHIGDPK_02305	CDS	opuAA	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+PPHIGDPK_02305	gene	opuAA
+PPHIGDPK_02306	CDS	gbuB	Glycine betaine/carnitine transport permease protein GbuB
+PPHIGDPK_02306	gene	gbuB
+PPHIGDPK_02307	CDS	hypothetical protein
+PPHIGDPK_02307	gene
+PPHIGDPK_02308	CDS	hypothetical protein
+PPHIGDPK_02308	gene
+PPHIGDPK_02309	CDS	hypothetical protein
+PPHIGDPK_02309	gene
+PPHIGDPK_02310	CDS	hypothetical protein
+PPHIGDPK_02310	gene
+PPHIGDPK_02311	CDS	hypothetical protein
+PPHIGDPK_02311	gene
+PPHIGDPK_02312	CDS	fieF_2	Ferrous-iron efflux pump FieF
+PPHIGDPK_02312	gene	fieF_2
+PPHIGDPK_02313	CDS	psiE	Protein PsiE
+PPHIGDPK_02313	gene	psiE
+PPHIGDPK_02314	CDS	coaA	2.7.1.33	Pantothenate kinase
+PPHIGDPK_02314	gene	coaA
+PPHIGDPK_02315	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+PPHIGDPK_02315	gene	rsmC
+PPHIGDPK_02316	CDS	pdp	2.4.2.2	Pyrimidine-nucleoside phosphorylase
+PPHIGDPK_02316	gene	pdp
+PPHIGDPK_02317	CDS	hypothetical protein
+PPHIGDPK_02317	gene
+PPHIGDPK_02318	CDS	deoC1	4.1.2.4	Deoxyribose-phosphate aldolase 1
+PPHIGDPK_02318	gene	deoC1
+PPHIGDPK_02319	CDS	cdd	3.5.4.5	Cytidine deaminase
+PPHIGDPK_02319	gene	cdd
+PPHIGDPK_02320	CDS	tmpC	Membrane lipoprotein TmpC
+PPHIGDPK_02320	gene	tmpC
+PPHIGDPK_02321	CDS	yvoA	HTH-type transcriptional repressor YvoA
+PPHIGDPK_02321	gene	yvoA
+PPHIGDPK_02322	CDS	hypothetical protein
+PPHIGDPK_02322	gene
+PPHIGDPK_02323	CDS	phoR	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+PPHIGDPK_02323	gene	phoR
+PPHIGDPK_02324	CDS	phoP	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PPHIGDPK_02324	gene	phoP
+PPHIGDPK_02325	CDS	hypothetical protein
+PPHIGDPK_02325	gene
+PPHIGDPK_02326	tmRNA	ssrA	transfer-messenger RNA, SsrA
+PPHIGDPK_02326	gene	ssrA
+PPHIGDPK_02327	CDS	hypothetical protein
+PPHIGDPK_02327	gene
+PPHIGDPK_02328	CDS	hypothetical protein
+PPHIGDPK_02328	gene
+PPHIGDPK_02329	CDS	nagB_2	3.5.99.6	Glucosamine-6-phosphate deaminase 1
+PPHIGDPK_02329	gene	nagB_2
+PPHIGDPK_02330	CDS	rny_2	3.1.-.-	Ribonuclease Y
+PPHIGDPK_02330	gene	rny_2
+PPHIGDPK_02331	CDS	gmk	2.7.4.8	Guanylate kinase
+PPHIGDPK_02331	gene	gmk
+PPHIGDPK_02332	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+PPHIGDPK_02332	gene	rpoZ
+PPHIGDPK_02333	CDS	priA	3.6.4.-	Primosomal protein N'
+PPHIGDPK_02333	gene	priA
+PPHIGDPK_02334	CDS	hypothetical protein
+PPHIGDPK_02334	gene
+PPHIGDPK_02335	CDS	hypothetical protein
+PPHIGDPK_02335	gene
+PPHIGDPK_02336	CDS	hypothetical protein
+PPHIGDPK_02336	gene
+PPHIGDPK_02337	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+PPHIGDPK_02337	gene	fmt
+PPHIGDPK_02338	CDS	hypothetical protein
+PPHIGDPK_02338	gene
+PPHIGDPK_02339	CDS	hypothetical protein
+PPHIGDPK_02339	gene
+PPHIGDPK_02340	CDS	hypothetical protein
+PPHIGDPK_02340	gene
+PPHIGDPK_02341	CDS	Stress response regulator gls24 
+PPHIGDPK_02341	gene
+PPHIGDPK_02342	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+PPHIGDPK_02342	gene	rsmB
+PPHIGDPK_02343	CDS	3.1.3.16	Putative protein phosphatase 2C-type
+PPHIGDPK_02343	gene
+PPHIGDPK_02344	CDS	stkP	2.7.11.1	Serine/threonine-protein kinase StkP
+PPHIGDPK_02344	gene	stkP
+PPHIGDPK_02345	CDS	rpsO	30S ribosomal protein S15
+PPHIGDPK_02345	gene	rpsO
+PPHIGDPK_02346	CDS	proC_2	1.5.1.2	Pyrroline-5-carboxylate reductase
+PPHIGDPK_02346	gene	proC_2
+PPHIGDPK_02347	CDS	glmU	Bifunctional protein GlmU
+PPHIGDPK_02347	gene	glmU
+PPHIGDPK_02348	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+PPHIGDPK_02348	gene	nudF
+PPHIGDPK_02349	CDS	hypothetical protein
+PPHIGDPK_02349	gene
+PPHIGDPK_02350	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+PPHIGDPK_02350	gene	mtnN
+PPHIGDPK_02351	CDS	hypothetical protein
+PPHIGDPK_02351	gene
+PPHIGDPK_02352	CDS	pepC	3.4.22.40	Aminopeptidase C
+PPHIGDPK_02352	gene	pepC
+PPHIGDPK_02353	CDS	adhR_3	HTH-type transcriptional regulator AdhR
+PPHIGDPK_02353	gene	adhR_3
+PPHIGDPK_02354	CDS	catM	HTH-type transcriptional regulator CatM
+PPHIGDPK_02354	gene	catM
+PPHIGDPK_02355	CDS	efpA	putative MFS-type transporter EfpA
+PPHIGDPK_02355	gene	efpA
+PPHIGDPK_02356	CDS	ytbE	1.-.-.-	putative oxidoreductase YtbE
+PPHIGDPK_02356	gene	ytbE
+PPHIGDPK_02357	CDS	mnmC	1.5.-.-	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+PPHIGDPK_02357	gene	mnmC
+PPHIGDPK_02358	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+PPHIGDPK_02358	gene
+PPHIGDPK_02359	CDS	DegV domain-containing protein
+PPHIGDPK_02359	gene
+PPHIGDPK_02360	CDS	ftsA	Cell division protein FtsA
+PPHIGDPK_02360	gene	ftsA
+PPHIGDPK_02361	CDS	ftsZ	Cell division protein FtsZ
+PPHIGDPK_02361	gene	ftsZ
+PPHIGDPK_02362	CDS	hypothetical protein
+PPHIGDPK_02362	gene
+PPHIGDPK_02363	CDS	sepF	Cell division protein SepF
+PPHIGDPK_02363	gene	sepF
+PPHIGDPK_02364	CDS	hypothetical protein
+PPHIGDPK_02364	gene
+PPHIGDPK_02365	CDS	hypothetical protein
+PPHIGDPK_02365	gene
+PPHIGDPK_02366	CDS	divIVA	Cell division protein DivIVA
+PPHIGDPK_02366	gene	divIVA
+PPHIGDPK_02367	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+PPHIGDPK_02367	gene	ileS
+PPHIGDPK_02368	CDS	hypothetical protein
+PPHIGDPK_02368	gene
+PPHIGDPK_02369	CDS	hypothetical protein
+PPHIGDPK_02369	gene
+PPHIGDPK_02370	CDS	tuf	Elongation factor Tu
+PPHIGDPK_02370	gene	tuf
+PPHIGDPK_02371	CDS	hypothetical protein
+PPHIGDPK_02371	gene
+PPHIGDPK_02372	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+PPHIGDPK_02372	gene	iscS_2
+PPHIGDPK_02373	CDS	Putative universal stress protein
+PPHIGDPK_02373	gene
+PPHIGDPK_02374	CDS	prs2	2.7.6.1	Ribose-phosphate pyrophosphokinase 2
+PPHIGDPK_02374	gene	prs2
+PPHIGDPK_02375	CDS	hypothetical protein
+PPHIGDPK_02375	gene
+PPHIGDPK_02376	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+PPHIGDPK_02376	gene	pnp
+PPHIGDPK_02377	CDS	hypothetical protein
+PPHIGDPK_02377	gene
+PPHIGDPK_02378	CDS	cysE	2.3.1.30	Serine acetyltransferase
+PPHIGDPK_02378	gene	cysE
+PPHIGDPK_02379	CDS	hypothetical protein
+PPHIGDPK_02379	gene
+PPHIGDPK_02380	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+PPHIGDPK_02380	gene	cysS
+PPHIGDPK_02381	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+PPHIGDPK_02381	gene	mrnC
+PPHIGDPK_02382	CDS	hypothetical protein
+PPHIGDPK_02382	gene
+PPHIGDPK_02383	CDS	hypothetical protein
+PPHIGDPK_02383	gene
+PPHIGDPK_02384	CDS	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PPHIGDPK_02384	gene	mnmG
+PPHIGDPK_02385	CDS	yfnB_2	3.-.-.-	Putative HAD-hydrolase YfnB
+PPHIGDPK_02385	gene	yfnB_2
+PPHIGDPK_02386	CDS	hypothetical protein
+PPHIGDPK_02386	gene
+PPHIGDPK_02387	CDS	hypothetical protein
+PPHIGDPK_02387	gene
+PPHIGDPK_02388	CDS	infC	Translation initiation factor IF-3
+PPHIGDPK_02388	gene	infC
+PPHIGDPK_02389	CDS	rpmI	50S ribosomal protein L35
+PPHIGDPK_02389	gene	rpmI
+PPHIGDPK_02390	CDS	rplT	50S ribosomal protein L20
+PPHIGDPK_02390	gene	rplT

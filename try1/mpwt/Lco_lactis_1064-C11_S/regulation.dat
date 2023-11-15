@@ -1,0 +1,48 @@
+# 
+#
+# Authors:
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /scratch/norobert/data/run_mpwt/ptools-local/pgdbs/user/lco_lactis_1064-c11_scyc/1.0/data/regulation.dat
+#
+# Organism: Lactococcus lactis
+# Database: NIL
+# Version: 1.0
+# Date and time generated: October 24, 2023, 14:09:48
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ACCESSORY-PROTEINS
+#    ANTI-ANTITERM-END-POS
+#    ANTI-ANTITERM-START-POS
+#    ANTITERMINATOR-END-POS
+#    ANTITERMINATOR-START-POS
+#    ASSOCIATED-BINDING-SITE
+#    ASSOCIATED-RNASE
+#    CITATIONS
+#    COMMENT
+#    CREDITS
+#    DATA-SOURCE
+#    DOCUMENTATION
+#    DOWNSTREAM-GENES-ONLY?
+#    GROWTH-CONDITIONS
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    KI
+#    MECHANISM
+#    MEMBER-SORT-FN
+#    MODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PAUSE-END-POS
+#    PAUSE-START-POS
+#    PHYSIOLOGICALLY-RELEVANT?
+#    REGULATED-ENTITY
+#    REGULATOR
+#    SYNONYMS
+#
+# The LCO_LACTIS_1064-C11_S database contains no Regulation.
