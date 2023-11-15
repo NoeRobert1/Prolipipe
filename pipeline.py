@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/genouest/dyliss/norobert/miniconda3/envs/prolific/bin python3
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan 10 2023
@@ -14,10 +14,16 @@ from optparse import OptionParser
 import pandas as pd
 import numpy as np
 import csv
+import shutil
+import gzip
+import re
+
 
 # FUNCTIONS ---------------------------------------------------------------------------------
 
 def rename(name) :
+    """ from a [str] name, returns the equivalent str with genera shortened when listed, 
+        and the annotation level converted to a 1-or-2-letter id """
     dico_prefix = {'Anaerobutyricum':'Ab','Anaerostipes':'As','Bifidobacterium':'B','Coprococcus':'Co','Clostridium':'C','Enterococcus':'E', 'Faecalibacterium':'Fa','Fructilactobacillus':'F','Lactobacillus':'Lb', 'Lacticaseibacillus':'Lb','Lactiplantibacillus':'Lb' ,'Limosilactobacillus':'Lb','Levilactobacillus':'Lb','Lentilactobacillus':'Lb','Latilactobacillus':'Lb','Schleiferilactobacillus':'Lb','L':'Lco', 'Lactococcus':'Lco',  'Leuconostoc':'Leu', 'Pediococcus':'Pe', 'Propionibacterium':'Pr', 'P':'Pr', 'Streptococcus':'St','Periweissella':'W','Weissella':'W'}
     dico_suffix = {'Complete':'C', 'complet':'C', 'C':'C', 'contig':'co','Contig':'co','scaffold':'S','Scaffold':'S', 'S':'S', 'Plasmid':'P', 'plasmide':'P', 'P':'P'}
 
@@ -41,6 +47,7 @@ def rename(name) :
     return new_name
 
 def forbiden(name) :
+    """ in a given string, replace all forbidden characters ('.', ':', '__', '-_') by a '-' """
     while '.' in name or ':' in name or '__' in name or '-_' in name :
         name = name.replace('.','-')
         name = name.replace(':','-')
@@ -48,14 +55,38 @@ def forbiden(name) :
         name = name.replace('-_','-')
     return name
 
-def bigprint(message):  ### (added by noé)
+def bigprint(message): 
     delimitation = "-------------------------------------------"
     print("\n{}\n{}\n{}\n".format(delimitation,message,delimitation))
     return
 
+def move(source, dest) : 
+    try :
+        shutil.move(source,dest)
+    except PermissionError:
+        print("Some rights are missing to move {} to {}".format(source,dest))
+
+def mkdir(path) : 
+    try :
+        os.mkdir(path)
+    except PermissionError:
+        print("Some rights are missing to create {}".format(path))
+    except Exception as e:
+        print(f"An error occurred (mkdir): {e}")
+
+def remove(list_path) : 
+    for path in list_path : 
+        if os.path.exists(path):
+            os.remove(path)
+
+def decompress_gzip_file(file_path, suppr_zip):
+    if file_path.endswith(".gz"):
+        with gzip.open(file_path, 'rb') as f_in, open(file_path[:-3], 'wb') as f_out:
+            f_out.write(f_in.read())
+        if suppr_zip == True : 
+            os.remove(file_path)  
+
 # ---------------------------------------------------------------------------------------------
-
-
 
 
 def main() :
@@ -68,12 +99,16 @@ def main() :
     parser.add_option("--ptsi",dest="ptsi", help="Name of the singularity image.")
     parser.add_option("--pwy",dest="pwy_fold", help="Path to the folder with the pathways.txt files for all wanted metabolites.")
     parser.add_option("--strain",dest="strain", help="Path to the strains file.")
-    parser.add_option("--annot",dest="annot",help="Annotation tool. 'prokka' by default, can choose 'eggnog' too.")
+    parser.add_option("--annot",dest="annot",help="Annotation tool. 'prokka' by default, can choose 'eggnog' or 'bakta'.")
     parser.add_option("--egg_path",dest="egg_path",help="Path to the eggnog database, mandatory if you want to use eggnog as the annotation tool.")
+    parser.add_option("--bak_path",dest="bak_path",help="Path to the bakta database, mandatory if you want to use bakta as the annotation tool.")
     parser.add_option("-r","--rename",action="store_true",dest="rename", help="Renames of the strains with abreviations.")
     parser.add_option("-a","--asko", action="store_true", dest="asko", help="Launch the creation of the askomics files.")
     parser.add_option("-v","--verbose",action="store_true",dest="verbose", help="Activate verbose.")
     parser.add_option("-k","--keep_faa", action="store_true", dest="keep_faa", default=False, help="Keep .faa files that can be need to use other annotation software like eggNOG-mapper")
+    parser.add_option("-u","--unzip", action="store_true", dest="unzip", default=False, help="write this flag if your files are gziped")
+    parser.add_option("-c","--cpus", dest="cpus", default=20, help="Give the number of available CPUs")
+    
     (options,args) = parser.parse_args()
     
     path_to_all_data = options.input
@@ -83,6 +118,7 @@ def main() :
     output_path = options.output
     all_taxon = options.all_taxon
     strain_file = options.strain
+    nbThreads=options.cpus
     if options.annot :
         annotation = options.annot
     else :
@@ -91,18 +127,46 @@ def main() :
     if len(args) >=1:
         parser.error("Incorrect number of arguments")
 
+    ## Creating output directory
+    os.makedirs(output_path, exist_ok=True)
+
+    ## unzipping the files if tared 
+    if options.unzip :
+        print("decompressing input files... ")
+        for name in files : 
+            genome_dir = path_to_all_data+name
+            for root, dirs, fastas in os.walk(genome_dir):
+                for fasta in fastas :
+                    if fasta.endswith(".gz"):
+                        if re.search(name, genome_dir+fasta):
+                            ## False : don't delete archive
+                            decompress_gzip_file(f"{genome_dir}/{fasta}", False)  
+        print("decompressing over.")
+
     #-------------------------------------------------------
         # RENAME THE FILES
-    #-------------------------------------------------------
-    
+    #-------------------------------------------------------        
+    print("Conversion of fna files to fasta (if any)...")
+    new_names = []
     for name in files :
         if options.rename :
             new_name = forbiden(rename(name))
         else :
             new_name = forbiden(name)
-        os.system("mv -fv " + path_to_all_data+name+"/*.fna " + path_to_all_data+name+"/"+new_name+".fasta")
-        os.system("mv -fv " + path_to_all_data+name+"/*.fasta " + path_to_all_data+name+"/"+new_name+".fasta")
-        os.system("mv -fv " + path_to_all_data+name+"/ " + path_to_all_data+new_name+"/")
+        new_names.append(new_name)
+        genome_dir = path_to_all_data+name
+
+        ## renaming files with their directory's name, without forbidden caracters
+        for file in os.listdir(genome_dir):
+            if file.endswith(".fna") or file.endswith(".fasta"):
+                move(genome_dir+"/"+file, genome_dir+"/"+new_name+".fasta")
+            if file.endswith(".fasta"):
+                move(genome_dir+"/"+file, genome_dir+"/"+new_name+".fasta")
+        
+        ## renaming the directory
+        if os.path.exists(genome_dir):
+            move(genome_dir, path_to_all_data+new_name)
+    print("done.")      
 
     #-------------------------------------------------------
         # ANNOTATION
@@ -112,33 +176,73 @@ def main() :
         #-------------------------------------------------------
             # USING PROKKA FOR ANNOTATION
         #-------------------------------------------------------
-        os.system('mkdir ' + output_path + 'prokka')
-        for name in files : 
-            os.system("prokka "+path_to_all_data+name+"/* --outdir "+ output_path + 'prokka/' +name+" --prefix "+name+" --compliant --force --cpus 40")
-            os.system("mv -fv " + output_path + 'prokka/' +name+"/*.gbf " + output_path + 'prokka/' +name+"/"+name+".gbk") #transform .gbf to .gbk
-            os.system("rm -v " + output_path + 'prokka/' +name+"/"+name+".ecn " + output_path + 'prokka/' +name+"/"+name+".err " + output_path + 'prokka/'+name+"/"+name+".ffn " + output_path + 'prokka/' +name+"/"+name+".fixed* " + output_path + 'prokka/' +name+"/"+name+".fsa " + output_path + 'prokka/' +name+"/"+name+".gff " + output_path + 'prokka/' +name+"/"+name+".log " + output_path + 'prokka/' +name+"/"+name+".sqn " + output_path + 'prokka/' +name+"/"+name+".tbl " + output_path + 'prokka/' +name+"/"+name+".val")
+        if not os.path.exists(output_path + 'prokka'):
+            mkdir(output_path + 'prokka')
+
+        for new_name in new_names : 
+            command_pro = f"prokka {path_to_all_data}{new_name}/* --outdir {output_path}prokka/{new_name} --prefix {new_name} --compliant --force --cpus {nbThreads}"
+            # bigprint(command_pro)
+            # os.system(command_pro)
+            ## --compliant       Force Genbank/ENA/DDJB compliance
+  
+            prok_file = f"{output_path}prokka/{new_name}/{new_name}"
+            if os.path.exists(prok_file+".gbf"):
+                move(prok_file+".gbf",prok_file+".gbk")     #transform .gbf to .gbk
+            remove([f"{prok_file}.ecn",f"{prok_file}.err",f"{prok_file}.ffn",f"{prok_file}.fixed*",f"{prok_file}.fsa",f"{prok_file}.gff",f"{prok_file}.log",f"{prok_file}.sqn",f"{prok_file}.tbl",f"{prok_file}.val"])
             if options.keep_faa == False :
-                os.system("rm -v " + output_path + 'prokka/' +name+"/"+name+".faa ")
+                remove([prok_file+".faa "])
         
-    elif annotation == 'eggnog' :
+    # elif annotation == 'eggnog' :
+    if annotation == 'eggnog' :
         path_to_egg = options.egg_path
         #-------------------------------------------------------
             # USING EGGNOG-MAPPER FOR ANNOTATION
         #-------------------------------------------------------
-        os.system('mkdir ' + output_path + 'eggnog')
-        for name in files :
-            os.system('mkdir ' + output_path + 'eggnog/' + name)
-            os.system('emapper.py -i ' + path_to_all_data + name + '/' + name +'.fasta -o ' + name + ' --cpu 40 --itype genome --data_dir ' + path_to_egg+ ' --output_dir ' + output_path + 'eggnog/' + name + '/ --dbmem --genepred prodigal --override')
+        if not os.path.exists(output_path + 'eggnog'):
+            mkdir(output_path + 'eggnog')
 
-            genom = path_to_all_data + name + '/' + name + '.fasta'
-            prot = output_path + name + '/' + name + '.emapper.genepred.fasta'
-            gff = output_path + name + '/' + name + '.emapper.genepred.gff'
-            annot = output_path + name + '/' + name + '.emapper.annotations'
-            out_file = output_path + name + '/' + name + '.gbk'
-            os.system('emapper2gbk genomes -fn ' + genom + ' -fp ' + prot + ' -g ' + gff + ' -a ' + annot + ' -o ' + out_file + ' -gt eggnog -c 40')
+        for new_name in new_names :
+            if not os.path.exists(output_path + 'eggnog/' + new_name):
+                mkdir(output_path + 'eggnog/' + new_name)
+            # command_egg = f"emapper.py -i {path_to_all_data}{new_name}/{new_name}.fasta -o {new_name} --cpu {nbThreads} --itype genome --data_dir {path_to_egg} --output_dir {output_path}eggnog/{new_name}/ --dbmem --genepred prodigal --override"
+            # bigprint(command_egg)
+            # os.system(command_egg)
+            
+            ## conversion of eggnog output to gbk
+            genom = path_to_all_data + new_name + '/' + new_name + '.fasta'
+            prot = output_path + 'eggnog/' + new_name + '/' + new_name + '.emapper.genepred.fasta'
+            gff = output_path + 'eggnog/' + new_name + '/' + new_name + '.emapper.genepred.gff'
+            annot = output_path + 'eggnog/' + new_name + '/' + new_name + '.emapper.annotations'
+            out_file = output_path + 'eggnog/' + new_name + '/' + new_name + '.gbk'
+            command_egg2gbk = f'emapper2gbk genomes -fn {genom} -fp {prot} -g {gff} -a {annot} -o {out_file} -gt eggnog -c 40'
+            # bigprint(command_egg2gbk)
+            # os.system(command_egg2gbk)
 
-    else :
-        raise ValueError("The specified annotation tool is not recognized. Please retry with 'eggnog' or 'prokka'. Default is 'prokka'.")
+    elif annotation == 'bakta' :
+        path_to_bak = options.bak_path
+
+        if not os.path.exists(output_path + 'bakta'):
+            mkdir(output_path + 'bakta')
+
+        for new_name in new_names :
+            if not os.path.exists(output_path + 'bakta/' + new_name):
+                mkdir(output_path + 'bakta/' + new_name)
+        
+            command = f"bakta --db {path_to_bak} {path_to_all_data}{new_name}/{new_name}.fasta --output {output_path}/bakta/{new_name} --prefix {new_name} --compliant --force --threads {nbThreads}"
+            ## --compliant      Force Genbank/ENA/DDJB compliance
+            ## --force          Force overwriting existing output folder
+            # bigprint(command)
+            # os.system(command)
+            
+            bak_file = output_path+'bakta/'+new_name+"/"+new_name
+            if os.path.exists(bak_file+".gbf"):
+                move(bak_file+".gbf",bak_file+".gbk")     #transform .gbf to .gbk
+            remove([bak_file+".ecn",bak_file+".err",bak_file+".ffn",bak_file+".fixed*",bak_file+".fsa",bak_file+".gff",bak_file+".log",bak_file+".sqn",bak_file+".tbl",bak_file+".val"])
+            if options.keep_faa == False :
+                remove([bak_file+".faa "]) 
+
+    # # else :
+    #     raise ValueError("The specified annotation tool is not recognized. Please retry with 'eggnog' or 'prokka'. Default is 'prokka'.")
 
     #-------------------------------------------------------
         # CREATE TAXON ID FILE
@@ -147,30 +251,20 @@ def main() :
     with open(all_taxon) as fr :
         to_write = []
         lines = csv.reader(fr,delimiter='\t')
-        bigprint("lines : {}".format(lines))
-        # all_lines = []
-        # for row in lines :
-        #     all_lines.append(row)
-        # bigprint("all_lines : {}".format(all_lines))
-        all_lines = list(lines)
-
+        all_lines = []
+        for row in lines :
+            all_lines.append(row)
         to_write.append(all_lines[0])
-        print(all_lines)
-        for name in files :
+        for new_name in new_names :
             for row in all_lines :
-                print(row)
                 #rowsplit = row.split('\t')
                 new_row = row[:3]
                 if options.rename :
-                    new_row.append(forbiden(rename(row[0])))
+                    new_row.append(new_name)
                 else :
-                    new_row.append(forbiden(row[0]))
-                if name in new_row :
+                    new_row.append(new_name)
+                if new_name in new_row :
                     to_write.append(new_row)
-        bigprint("new_row and to_write below")
-        print(new_row)
-        print(to_write)
-        bigprint("new_row and to_write upper")
 
     ## writing of taxon_id.tsv from reading all_taxons.tsv
     with open(tax_file,'w') as fo :
@@ -180,13 +274,15 @@ def main() :
     #-------------------------------------------------------
         # RUNNING MPWT USING SINGULARITY TO CREATE .dat FILES 
     #-------------------------------------------------------
-    os.system('mkdir ' + output_path + 'mpwt')
-    bigprint("singularity exec -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" mpwt -f " + output_path + annotation + "/ -o " +output_path+ "mpwt/ --cpu 40 --patho --flat --clean --md -v")
-    os.system("singularity exec -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" mpwt -f " + output_path + annotation + "/ -o " +output_path+ "mpwt/ --cpu 40 --patho --flat --clean --md -v")
+    if not os.path.exists(output_path + 'mpwt'):
+        mkdir(output_path + 'mpwt')
+    command_mpwt = f"singularity exec -B {path_to_scratch}:{path_to_scratch} {path_to_scratch}{path_to_singularity} mpwt -f {output_path}{annotation}/ -o {output_path}mpwt/ --cpu {nbThreads} --patho --flat --clean --md -v"
     ## --patho : Launch PathoLogic inference on input folder
     ## --flat : Create BioPAX/attribute-value flat files
     ## --clean : Delete all PGDBs in ptools-local folder or only PGDB from input folder
     ## --md : Move the dat files into the output folder
+    bigprint(command_mpwt)
+    os.system(command_mpwt)
 
 
     #-------------------------------------------------------
@@ -194,22 +290,25 @@ def main() :
     #-------------------------------------------------------
     path_to_padmet_ref= options.path_to_padmet_ref
     files = os.listdir(output_path + 'mpwt/')
-    os.system('mkdir ' + output_path + 'padmet')
+    if not os.path.exists(output_path + 'padmet'):
+        mkdir(output_path + 'padmet')
     for name in files :
-            bigprint("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
-            os.system("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
+        bigprint("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
+        os.system("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
     
     #-------------------------------------------------------
         # COMPARE THE .padmet FILES
     #------------------------------------------------------- 
-    os.system('mkdir ' + output_path + 'tsv_files')
+    if not os.path.exists(output_path + 'tsv_files'):
+        mkdir(output_path + 'tsv_files')
     bigprint('padmet compare_padmet --padmet=' + output_path + 'padmet/ --output=' + output_path + 'tsv_files/ -v')
     os.system('padmet compare_padmet --padmet=' + output_path + 'padmet/ --output=' + output_path + 'tsv_files/ -v')
 
     #-------------------------------------------------------
         # ANALYSE OF THE METABOLIC PATHWAYS
     #-------------------------------------------------------
-    os.system('mkdir ' + output_path + 'result_metabo')
+    if not os.path.exists(output_path + 'result_metabo'):
+        mkdir(output_path + 'result_metabo')
     reactions = output_path + 'tsv_files/reactions.tsv'
     p_files = os.listdir(options.pwy_fold)
     path_dir = options.pwy_fold
@@ -293,7 +392,7 @@ def main() :
 
         # Writing the tables : Souche, Espece and Genre
         fr1 = open(strain_file)
-        os.system('mkdir ' + output_path + 'asko_files')
+        mkdir(output_path + 'asko_files')
         fw1 = open(output_path + 'asko_files/' + 'souche.tsv','w')
         fw2 = open(output_path + 'asko_files/' + 'espece.tsv','w')
         fw3 = open(output_path + 'asko_files/' + 'genre.tsv','w')
