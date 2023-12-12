@@ -67,12 +67,13 @@ def move(source, dest) :
         print("Some rights are missing to move {} to {}".format(source,dest))
 
 def mkdir(path) : 
-    try :
-        os.mkdir(path)
-    except PermissionError:
-        print("Some rights are missing to create {}".format(path))
-    except Exception as e:
-        print(f"An error occurred (mkdir): {e}")
+    if not os.path.exists(path):
+        try :
+            os.mkdir(path)
+        except PermissionError:
+            print("Some rights are missing to create {}".format(path))
+        except Exception as e:
+            print(f"An error occurred (mkdir): {e}")
 
 def remove(list_path) : 
     for path in list_path : 
@@ -99,9 +100,9 @@ def main() :
     parser.add_option("--ptsi",dest="ptsi", help="Name of the singularity image.")
     parser.add_option("--pwy",dest="pwy_fold", help="Path to the folder with the pathways.txt files for all wanted metabolites.")
     parser.add_option("--strain",dest="strain", help="Path to the strains file.")
-    parser.add_option("--annot",dest="annot",help="Annotation tool to use. 'prokka' by default, can choose 'eggnog' or 'bakta'.")
-    parser.add_option("--egg_path",dest="egg_path",help="Path to the eggnog database, mandatory if you want to use eggnog as the annotation tool.")
-    parser.add_option("--bak_path",dest="bak_path",help="Path to the bakta database, mandatory if you want to use bakta as the annotation tool.")
+    parser.add_option("--annot",dest="annot",help="Annotation tool(s) to use between 'prokka' (default), 'eggnog' and 'bakta'. If several annotation tools to use, write them comma-separated.")
+    parser.add_option("--egg_path",dest="egg_path",help="Path to the eggnog database, mandatory if you want to use eggnog as annotation tool.")
+    parser.add_option("--bak_path",dest="bak_path",help="Path to the bakta database, mandatory if you want to use bakta as annotation tool.")
     parser.add_option("-r","--rename",action="store_true",dest="rename", help="Renames of the strains with abreviations.")
     parser.add_option("-a","--asko", action="store_true", dest="asko", help="Launch the creation of the askomics files.")
     parser.add_option("-v","--verbose",action="store_true",dest="verbose", help="Activate verbose.")
@@ -120,7 +121,7 @@ def main() :
     strain_file = options.strain
     nbThreads=options.cpus
     if options.annot :
-        annotation = options.annot
+        annotation = options.annot.split(",")   # annotation becomes a list if different
     else :
         annotation = 'prokka'
 
@@ -172,12 +173,12 @@ def main() :
         # ANNOTATION
     #-------------------------------------------------------
 
-    if annotation == 'prokka' :
+    if 'prokka' in annotation  :
         #-------------------------------------------------------
             # USING PROKKA FOR ANNOTATION
         #-------------------------------------------------------
-        if not os.path.exists(output_path + 'prokka'):
-            mkdir(output_path + 'prokka')
+        print("Prokka annotation launched.")
+        mkdir(output_path + 'prokka')
 
         for new_name in new_names : 
             command_pro = f"prokka {path_to_all_data}{new_name}/* --outdir {output_path}prokka/{new_name} --prefix {new_name} --compliant --force --cpus {nbThreads}"
@@ -192,19 +193,17 @@ def main() :
             if options.keep_faa == False :
                 remove([prok_file+".faa "])
         
-    # elif annotation == 'eggnog' :
-    if annotation == 'eggnog' :
+    if 'eggnog' in annotation :
+        print("Eggnog annotation launched.")
         path_to_egg = options.egg_path
         #-------------------------------------------------------
             # USING EGGNOG-MAPPER FOR ANNOTATION
         #-------------------------------------------------------
-        if not os.path.exists(output_path + 'eggnog'):
-            mkdir(output_path + 'eggnog')
+        mkdir(output_path + 'eggnog')
 
         for new_name in new_names :
-            if not os.path.exists(output_path + 'eggnog/' + new_name):
-                mkdir(output_path + 'eggnog/' + new_name)
-            # command_egg = f"emapper.py -i {path_to_all_data}{new_name}/{new_name}.fasta -o {new_name} --cpu {nbThreads} --itype genome --data_dir {path_to_egg} --output_dir {output_path}eggnog/{new_name}/ --dbmem --genepred prodigal --override"
+            mkdir(output_path + 'eggnog/' + new_name)
+            command_egg = f"emapper.py -i {path_to_all_data}{new_name}/{new_name}.fasta -o {new_name} --cpu {nbThreads} --itype genome --data_dir {path_to_egg} --output_dir {output_path}eggnog/{new_name}/ --dbmem --genepred prodigal --override"
             # bigprint(command_egg)
             # os.system(command_egg)
             
@@ -218,15 +217,14 @@ def main() :
             # bigprint(command_egg2gbk)
             # os.system(command_egg2gbk)
 
-    elif annotation == 'bakta' :
+    if 'bakta' in annotation :
+        print("Bakta annotation launched.")
         path_to_bak = options.bak_path
 
-        if not os.path.exists(output_path + 'bakta'):
-            mkdir(output_path + 'bakta')
+        mkdir(output_path + 'bakta')
 
         for new_name in new_names :
-            if not os.path.exists(output_path + 'bakta/' + new_name):
-                mkdir(output_path + 'bakta/' + new_name)
+            mkdir(output_path + 'bakta/' + new_name)
         
             command = f"bakta --db {path_to_bak} {path_to_all_data}{new_name}/{new_name}.fasta --output {output_path}/bakta/{new_name} --prefix {new_name} --compliant --force --threads {nbThreads}"
             ## --compliant      Force Genbank/ENA/DDJB compliance
@@ -247,110 +245,118 @@ def main() :
     #-------------------------------------------------------
         # CREATE TAXON ID FILE
     #-------------------------------------------------------
-    tax_file = output_path + annotation + '/taxon_id.tsv'
-    with open(all_taxon) as fr :
-        to_write = []
-        lines = csv.reader(fr,delimiter='\t')
-        all_lines = []
-        for row in lines :
-            all_lines.append(row)
-        to_write.append(all_lines[0])
-        for new_name in new_names :
-            for row in all_lines :
-                #rowsplit = row.split('\t')
-                new_row = row[:3]
-                if options.rename :
-                    new_row.append(new_name)
-                else :
-                    new_row.append(new_name)
-                if new_name in new_row :
-                    to_write.append(new_row)
+    df_to_write = pd.DataFrame(columns = ["species", "taxon_id", "corresponding_file"])
+    df_taxons = pd.read_csv(all_taxon, sep='\t')
+    for index, row in df_taxons.iterrows() : 
+        if options.rename :
+            new_name = forbiden(rename(row["corresponding_file"]))    
+        else : 
+            new_name = forbiden(row["corresponding_file"])
+        if new_name in new_names :
+            df_to_write.loc[len(df_to_write)] = [new_name, row["taxon_id"], new_name]
 
-    ## writing of taxon_id.tsv from reading all_taxons.tsv
-    with open(tax_file,'w') as fo :
-        writer = csv.writer(fo,delimiter='\t')
-        writer.writerows(to_write)
+
+    for annotool in annotation : 
+        tax_file = output_path + annotool + '/taxon_id.tsv'
+        df_to_write.to_csv(tax_file, sep="\t", index=False)  
 
     #-------------------------------------------------------
         # RUNNING MPWT USING SINGULARITY TO CREATE .dat FILES 
     #-------------------------------------------------------
-    if not os.path.exists(output_path + 'mpwt'):
-        mkdir(output_path + 'mpwt')
-    command_mpwt = f"singularity exec -B {path_to_scratch}:{path_to_scratch} {path_to_scratch}{path_to_singularity} mpwt -f {output_path}{annotation}/ -o {output_path}mpwt/ --cpu {nbThreads} --patho --flat --clean --md -v"
-    ## --patho : Launch PathoLogic inference on input folder
-    ## --flat : Create BioPAX/attribute-value flat files
-    ## --clean : Delete all PGDBs in ptools-local folder or only PGDB from input folder
-    ## --md : Move the dat files into the output folder
-    bigprint(command_mpwt)
-    os.system(command_mpwt)
-
+    mkdir(output_path + 'mpwt')
+    #for annotool in annotation :
+    for annotool in ["prokka", "bakta"] :
+        mkdir(output_path + 'mpwt/' + annotool)
+        command_mpwt = f"singularity exec -B {path_to_scratch}:{path_to_scratch} {path_to_scratch}{path_to_singularity} mpwt -f {output_path}{annotool}/ -o {output_path}mpwt/{annotool}/ --cpu {nbThreads} --patho --flat --clean --md -v"
+        ## --patho : Launch PathoLogic inference on input folder
+        ## --flat : Create BioPAX/attribute-value flat files
+        ## --clean : Delete all PGDBs in ptools-local folder or only PGDB from input folder
+        ## --md : Move the dat files into the output folder
+        # bigprint(command_mpwt)
+        # os.system(command_mpwt)
 
     #-------------------------------------------------------
         # CONVERT .dat INTO .padmet FILES
     #-------------------------------------------------------
     path_to_padmet_ref= options.path_to_padmet_ref
-    files = os.listdir(output_path + 'mpwt/')
-    if not os.path.exists(output_path + 'padmet'):
-        mkdir(output_path + 'padmet')
-    for name in files :
-        bigprint("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
-        os.system("singularity run -B "+path_to_scratch+":"+path_to_scratch+" "+path_to_scratch+path_to_singularity+" padmet pgdb_to_padmet --pgdb="+output_path+'mpwt/'+name+"/ --output="+output_path+ 'padmet/'+ name+".padmet"+" --extract-gene --no-orphan --padmetRef="+path_to_padmet_ref+" -v")
+    padmet_output = output_path + 'padmet'
+    mkdir(padmet_output)
+    for annotool in annotation :
+        dat_files = os.listdir(f"{output_path}mpwt/{annotool}")
+        for name in dat_files :
+            ## create files in commune directories for annotations of the same genome 
+            mkdir(f"{padmet_output}/{name}")
+            command_pgdb2padmet = f"singularity run -B {path_to_scratch}:{path_to_scratch} {path_to_scratch}{path_to_singularity} padmet pgdb_to_padmet --pgdb={output_path}mpwt/{annotool}/{name}/ --output={padmet_output}/{name}/{name}_{annotool}.padmet --extract-gene --no-orphan --padmetRef={path_to_padmet_ref} -v"
+            # bigprint(command_pgdb2padmet)
+            # os.system(command_pgdb2padmet)
+            
 
-        
+    #-------------------------------------------------------
+        # MERGE .padmet FILES
+    #-------------------------------------------------------            
+    output_merged=output_path + 'merged_padmet/'
+    mkdir(output_merged)
+    for name in new_names :  
+        ## Merge annotation files for each genomes into one
+        command_padmet2padmet = f"singularity run {path_to_scratch}{path_to_singularity} padmet padmet_to_padmet --to_add={padmet_output}/{name}/ --output={output_merged}{name}.padmet -v"
+        # bigprint(command_padmet2padmet)
+        # os.system(command_padmet2padmet)
 
     #-------------------------------------------------------
         # COMPARE THE .padmet FILES
     #------------------------------------------------------- 
-    if not os.path.exists(output_path + 'tsv_files'):
-        mkdir(output_path + 'tsv_files')
-    bigprint('padmet compare_padmet --padmet=' + output_path + 'padmet/ --output=' + output_path + 'tsv_files/ -v')
-    os.system('padmet compare_padmet --padmet=' + output_path + 'padmet/ --output=' + output_path + 'tsv_files/ -v')
+    output_tsv = output_path + 'tsv_files'
+    mkdir(output_tsv)
+    command_compare_padmet = f"singularity run {path_to_scratch}{path_to_singularity} padmet compare_padmet --padmet={output_merged} --output={output_tsv} -v"
+    # bigprint(command_compare_padmet)
+    # os.system(command_compare_padmet)
 
     #-------------------------------------------------------
         # ANALYSE OF THE METABOLIC PATHWAYS
     #-------------------------------------------------------
-    if not os.path.exists(output_path + 'result_metabo'):
-        mkdir(output_path + 'result_metabo')
+    output_metabo = output_path + 'result_metabo'
+    mkdir(output_metabo)
     reactions = output_path + 'tsv_files/reactions.tsv'
     p_files = os.listdir(options.pwy_fold)
     path_dir = options.pwy_fold
     nb_col = len(files) + 1
+    ## for each metabolite, extracts the list of the pathway's reactions 
     for metabo in p_files :
         output_file = output_path + 'result_metabo/' + metabo[:-4] + '.tsv'
-        df = pd.read_csv(reactions, sep='\t', header=0)
+        df = pd.read_csv(reactions, sep='\t', header=0, low_memory=False)
         list_rxn = []
         fp = open(path_dir + metabo)
+
         for line in fp :
             list_rxn.append(line[:-1])
-
+        
+        ## extract reactions from reactions.tsv matching pathway's 
         df = df[df['reaction'].isin(list_rxn)]
         df = df.iloc[:,:nb_col]
 
-        # writing the tab in a .csv file with additionnal information
-        df_t = df.T
-        rownames = df_t.index.values
+        ## writing the tab in a .csv file with additionnal information
+        df_t = df.T                     # transpose df
+        rownames = df_t.index.values    # extract index columns
         rownames = list(rownames)
-        tab = df_t.values
+        tab = df_t.values               # df content into arrays
         column_names = tab[0]
-        rows = np.array([rownames]).T
+        rows = np.array([rownames]).T   # column 1 : lines names
         tab = np.append(rows,tab,axis = 1)
         sort_tab = tab[1:]
         sort_tab = sort_tab[sort_tab[:,0].argsort()]
         row_names = [tab[0,0]] + list(sort_tab[:,0])
-        tab = sort_tab[:,1:]
-
-
+        tab = sort_tab[:,1:]            # reactions presence/absence
         reaction_nb = len(list_rxn)
 
-        # if the reactions are not found
-        not_found = [react for react in list_rxn if react not in column_names]
-        
         # writing the tab in a csv file
         fo = open(output_file,"w")
         fo.write(row_names[0] + '\t')
         for name in column_names :
             fo.write(str(name) + '\t')
-        # adding the names of the not-found-reactions
+        
+        ## get the reactions not found
+        not_found = [react for react in list_rxn if react not in column_names]
+        ## add them to the csv file
         for react in not_found :
             fo.write(react + '\t')
         fo.write('Number of possessed reactions\tTotal number of Reactions\tCompletion percent\n')
@@ -404,20 +410,24 @@ def main() :
         fw3.write('Genre\tNom\n')
 
         dico_genre = {'Ab':'Anaerobutyricum', 'As':'Anaerostipes','B':'Bifidobacterium','Co':'Coprococcus','C':'Clostridium','Fa':'Faecalibacterium','F':'Fructilactobacillus','E':'Enterococcus','Lb':'Lactobacillus','Lco':'Lactococcus','Leu':'Leuconostoc','Pe':'Pediococus','Pr':'Propionobacterium','St':'Streptococcus','W':'Weissella'}
-
         esp_list = []
         genre_list = []
         for line in fr1 :
             line = line.split('\t') 
-            if line[0] != 'souche' :
+            if line[0] != 'Souche' :
                 if options.rename :
                     souche = forbiden(rename(line[0]))
+                    filename = forbiden(rename(line[2][:-1]))
                 else :
                     souche = forbiden(line[0])
-                if souche in dico_metabo :
-                    statut = line[1][:-1]
+                    filename = forbiden(line[2][:-1])
+                
+
+                if filename in dico_metabo.keys() :
+                    statut = line[1]
                     espece = souche.split("_")[1]
                     genre = souche.split("_")[0]
+                    #print (f"{genre} {espece} ")
                     # Distinction of the two different 'lactis' species
                     if espece == 'lactis' and genre in ['Lco','Lactococcus'] :
                         espece = espece + "_lco"
@@ -425,14 +435,13 @@ def main() :
                         espece = espece + '_leu'
                     if genre in dico_genre :
                         genre = dico_genre[genre]
-                    fw1.write(souche + '\t' + souche + '\t' + espece + '\t' + statut + '\t' + str(dico_metabo[souche]) + '\n')
+                    fw1.write(souche + '\t' + filename + '\t' + espece + '\t' + statut + '\t' + str(dico_metabo[filename]) + '\n')
                     if espece not in esp_list :
                         fw2.write(espece + '\t' + espece + '\t' + genre + '\n')
                         esp_list.append(espece)
                     if genre not in genre_list :
                         fw3.write(genre + '\t' + genre + '\n')
                         genre_list.append(genre)
-                
 
         fr1.close()
         fw1.close()
