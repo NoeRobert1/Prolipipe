@@ -236,8 +236,8 @@ def main() :
 
             for new_name in new_names : 
                 command_pro = f"prokka {path_to_all_data}{new_name}/* --outdir {output_path}prokka/{new_name} --prefix {new_name} --compliant --force --cpus {nbThreads}"
-                # bigprint(command_pro)
-                # os.system(command_pro)
+                bigprint(command_pro)
+                os.system(command_pro)
                 ## --compliant       Force Genbank/ENA/DDJB compliance
     
                 prok_file = f"{output_path}prokka/{new_name}/{new_name}"
@@ -258,8 +258,8 @@ def main() :
             for new_name in new_names :
                 mkdir(output_path + 'eggnog/' + new_name)
                 command_egg = f"emapper.py -i {path_to_all_data}{new_name}/{new_name}.fasta -o {new_name} --cpu {nbThreads} --itype genome --data_dir {path_to_egg} --output_dir {output_path}eggnog/{new_name}/ --dbmem --genepred prodigal --override"
-                # bigprint(command_egg)
-                # os.system(command_egg)
+                bigprint(command_egg)
+                os.system(command_egg)
                 
                 ## conversion of eggnog output to gbk
                 genom = path_to_all_data + new_name + '/' + new_name + '.fasta'
@@ -284,8 +284,8 @@ def main() :
                 command = f"bakta --db {path_to_bak} {path_to_all_data}{new_name}/{new_name}.fasta --output {output_path}/bakta/{new_name} --prefix {new_name} --compliant --force --threads {nbThreads}"
                 ## --compliant      Force Genbank/ENA/DDJB compliance
                 ## --force          Force overwriting existing output folder
-                # bigprint(command)
-                # os.system(command)
+                bigprint(command)
+                os.system(command)
 
                 ## removing unused files
                 unused_files=[".embl", ".faa", ".ffn", ".fna", ".gff3", ".hypotheticals.faa", ".hypotheticals.ftsv", ".json", ".log", ".png", ".svg", ".tsv"]     
@@ -347,7 +347,6 @@ def main() :
         ## checking if mpwt ran correctly
         mpwt_path = f"{output_path}mpwt/"
         list_dat_files = [os.listdir(f"{mpwt_path}{annotool}") for annotool in annotation]
-        bigprint(list_dat_files)
         check = checkList(list_dat_files, annotation, mpwt_path)
         if type(check) is tuple: ## if number of files from subdirs of mpwt are not matching :
             bigprint(check[1])
@@ -372,7 +371,7 @@ def main() :
         for name in new_names :  
             if missing_or_empty(os.path.join(output_merged, name, ".padmet")):
                 ## Check if 3 files are present for merging
-                nb_of_padmets=os.listdir(os.path.join(padmet_output, name))
+                nb_of_padmets=len(os.listdir(os.path.join(padmet_output, name)))
                 if nb_of_padmets == len(annotation) :
                     ## Merge annotation files for each genomes into one
                     command_padmet2padmet = f"singularity run {path_to_scratch}{path_to_singularity} padmet padmet_to_padmet --to_add={padmet_output}/{name}/ --output={output_merged}{name}.padmet -v"
@@ -414,111 +413,109 @@ def main() :
         else :
             filename2status[forbidden(line[-1][:-1])] = line[1]
 
-    # ## for each metabolite, extracts the list of the pathway's reactions 
-    # for metabo in sorted(p_files) :
-    #     output_file = output_path + 'metabo_files/' + metabo[:-4] + '.tsv'
-    #     df = pd.read_csv(reactions, sep='\t', header=0, low_memory=False)
+    ## for each metabolite, extracts the list of the pathway's reactions 
+    for metabo in sorted(p_files) :
+        output_file = output_path + 'metabo_files/' + metabo[:-4] + '.tsv'
+        df = pd.read_csv(reactions, sep='\t', header=0, low_memory=False)
         
-    #     ## get reactions list for the current metabolite 
-    #     list_rxn = []
-    #     fp = open(path_dir + metabo)
-    #     for line in fp :
-    #         if line[:-1] != "" : 
-    #             line = line.replace(" ", "").replace("\n", "")
-    #             list_rxn.append(line)
+        ## get reactions list for the current metabolite 
+        list_rxn = []
+        fp = open(path_dir + metabo)
+        for line in fp :
+            if line[:-1] != "" : 
+                line = line.replace(" ", "").replace("\n", "")
+                list_rxn.append(line)
 
-    #     ## extract reactions from reactions.tsv matching pathway's 
-    #     df = df[df['reaction'].isin(list_rxn)]
-    #     df = df.iloc[:,:nb_col]
+        ## extract reactions from reactions.tsv matching pathway's 
+        df = df[df['reaction'].isin(list_rxn)]
+        df = df.iloc[:,:nb_col]
 
-    #     ## writing the tab in a .csv file with additionnal information
-    #     df_t = df.T                     # transpose df
-    #     rownames = df_t.index.values    # extract index columns
-    #     rownames = list(rownames)
-    #     tab = df_t.values               # df content into arrays
-    #     column_names = tab[0]
-    #     rows = np.array([rownames]).T   # column 1 : lines names
+        ## writing the tab in a .csv file with additionnal information
+        df_t = df.T                     # transpose df
+        rownames = df_t.index.values    # extract index columns
+        rownames = list(rownames)
+        tab = df_t.values               # df content into arrays
+        column_names = tab[0]
+        rows = np.array([rownames]).T   # column 1 : lines names
 
-    #     ## shift names
-    #     rows_strain = [['reaction']]
-    #     for row in rows : 
-    #         if "reaction" not in row :  
-    #             rows_strain.append([row[0]])
-    #     rows_strain = np.array(rows_strain)
-    #     # tab = np.append(rows,tab,axis = 1)
-    #     tab = np.append(rows_strain,tab,axis = 1)  
-    #     sort_tab = tab[1:]
-    #     sort_tab = sort_tab[sort_tab[:,0].argsort()]
-    #     row_names = [tab[0,0]] + list(sort_tab[:,0])
-    #     tab = sort_tab[:,1:]            # reactions presence/absence
-    #     reaction_nb = len(list_rxn)
+        ## shift names
+        rows_strain = [['reaction']]
+        for row in rows : 
+            if "reaction" not in row :  
+                rows_strain.append([row[0]])
+        rows_strain = np.array(rows_strain)
+        # tab = np.append(rows,tab,axis = 1)
+        tab = np.append(rows_strain,tab,axis = 1)  
+        sort_tab = tab[1:]
+        sort_tab = sort_tab[sort_tab[:,0].argsort()]
+        row_names = [tab[0,0]] + list(sort_tab[:,0])
+        tab = sort_tab[:,1:]            # reactions presence/absence
+        reaction_nb = len(list_rxn)
 
-    #     # writing the tab in a csv file
-    #     fo = open(output_file,"w")
-    #     fo.write(row_names[0] + '\t')
-    #     for name in column_names :
-    #         fo.write(str(name) + '\t')
+        # writing the tab in a csv file
+        fo = open(output_file,"w")
+        fo.write(row_names[0] + '\t')
+        for name in column_names :
+            fo.write(str(name) + '\t')
         
-    #     ## get the reactions not found
-    #     not_found = [react for react in list_rxn if react not in column_names]
-    #     for react in list_rxn :
-    #         if react not in column_names : 
-    #             all_not_found.append(react)
+        ## get the reactions not found
+        not_found = [react for react in list_rxn if react not in column_names]
+        for react in list_rxn :
+            if react not in column_names : 
+                all_not_found.append(react)
+        real_reaction_nb = len(list_rxn) - len(not_found)
 
-    #     real_reaction_nb = len(list_rxn) - len(not_found)
-    #     ## add them to the csv file
-    #     for react in not_found :
-    #         fo.write(react + '\t')
-    #     fo.write('Number of possessed reactions\tTotal number of Reactions\tCompletion percent\tAdj Compl Pct\n')
+        ## add them to the csv file
+        for react in not_found :
+            fo.write(react + '\t')
+        fo.write('Number of possessed reactions\tTotal number of Reactions\tCompletion percent\tAdj Compl Pct\n')
 
-    #     maxi = 0
-    #     for i in range(1,len(row_names)) :
-    #         react_count = 0
-    #         fo.write(row_names[i] + '\t')
-    #         for react_presence in tab[i-1] :
-    #             react_count += int(react_presence)
-    #             fo.write(str(react_presence) + '\t')
-    #         # filling with zeros the columns of not-found-reactions
-    #         for react in range(len(not_found)) :
-    #             fo.write('0\t')
-    #         # adding percentage of completion
-    #         #print(f"{metabo} : {react_count} / {reaction_nb}")
-    #         percent = round ((react_count / reaction_nb) * 100, 2)
-    #         if real_reaction_nb == 0 : 
-    #             adj_percent = 0
-    #         else :
-    #             adj_percent = round ((react_count / real_reaction_nb) * 100, 2)
-    #         if react_count > maxi : 
-    #             maxi = react_count
-    #         fo.write(str(react_count) + '\t' + str(reaction_nb) + '\t' + str(percent) + "\t" + str(adj_percent) + '\n')
-    #     fo.close()
+        maxi = 0
+        for i in range(1,len(row_names)) :
+            react_count = 0
+            fo.write(row_names[i] + '\t')
+            for react_presence in tab[i-1] :
+                react_count += int(react_presence)
+                fo.write(str(react_presence) + '\t')
+            # filling with zeros the columns of not-found-reactions
+            for react in range(len(not_found)) :
+                fo.write('0\t')
+            # adding percentage of completion
+            #print(f"{metabo} : {react_count} / {reaction_nb}")
+            percent = round ((react_count / reaction_nb) * 100, 2)
+            if real_reaction_nb == 0 : 
+                adj_percent = 0
+            else :
+                adj_percent = round ((react_count / real_reaction_nb) * 100, 2)
+            if react_count > maxi : 
+                maxi = react_count
+            fo.write(str(react_count) + '\t' + str(reaction_nb) + '\t' + str(percent) + "\t" + str(adj_percent) + '\n')
+        fo.close()
 
-    #     ## few informations about reactions repartition
-    #     print(f"{metabo} : max. {maxi}/{reaction_nb} ; {len(not_found)} never found ({', '.join(reaction for reaction in not_found)})")
+        ## few informations about reactions repartition
+        print(f"{metabo} : max. {maxi}/{reaction_nb} ; {len(not_found)} never found ({', '.join(reaction for reaction in not_found)})")
     
-    # print(f"\n{len(set(all_not_found))} reactions not found for this set of pathways : \n{', '.join(e for e in set(all_not_found))}")
+    print(f"\n{len(set(all_not_found))} reactions not found for this set of pathways : \n{', '.join(e for e in set(all_not_found))}")
 
     # count the number of metabolites whose completion percent is higher than 80% for each strain
-        dico_metabo = {}
-        metabo_files = os.listdir(output_path + 'metabo_files/')
-        for name in metabo_files :
-            fr = open(output_path + 'metabo_files/' + name)
-            for line in fr :
-                line = line[:-1].split('\t')
-                if line[0] != 'reaction' :
-                    filename = line[0]
-                    if filename not in dico_metabo :
-                        dico_metabo[filename] = 0
-                    percent = line [-1]
-                    if float(percent) > 80 :
-                        dico_metabo[filename] += 1
-            fr.close()
+    dico_metabo = {}
+    metabo_files = os.listdir(output_path + 'metabo_files/')
+    for name in metabo_files :
+        fr = open(output_path + 'metabo_files/' + name)
+        for line in fr :
+            line = line[:-1].split('\t')
+            if line[0] != 'reaction' :
+                filename = line[0]
+                if filename not in dico_metabo :
+                    dico_metabo[filename] = 0
+                percent = line [-1]
+                if float(percent) > 80 :
+                    dico_metabo[filename] += 1
+        fr.close()
 
     ## completing result files with number of validated pathways and status
     files_created = []
     mkdir(output_path + 'metabo_files_enriched')
-    print(filename2status)
-    print(dico_metabo)
     
     for name in metabo_files :  
                    
